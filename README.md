@@ -2,7 +2,7 @@
 I commit to…
 
 <details>
-<summary> **… publicly document a diversity statement.** </summary>
+<summary> <b>… publicly document a diversity statement.<b> </summary>
 Details: Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds.
 Suggestions: 
 -Make clear what are the institutional rules for maternity and paternity leave
@@ -18,6 +18,6 @@ Example: Our lab fosters a diverse and inclusive environment. We believe that di
 
 
 <details>
-<summary> **… publicly document a list of lab members and alumni.** </summary>
+<summary> <b>… publicly document a list of lab members and alumni.<b> </summary>
 Details:  A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab.
 </details>

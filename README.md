@@ -2,7 +2,7 @@
 <b>I commit to…<b>
 
 <details>
-<summary> <b><i>… publicly document</i>i></b> a diversity statement.</summary>
+<summary> <b><i>… publicly document</i></b> a diversity statement.</summary>
 <b><i>Details: </b> Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds.
 Suggestions: 
 -Make clear what are the institutional rules for maternity and paternity leave

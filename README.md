@@ -1,5 +1,5 @@
 ## Lab management
-I commit to…
+<b>I commit to…<b>
 
 <details>
 <summary> <b>… publicly document a diversity statement.<b> </summary>

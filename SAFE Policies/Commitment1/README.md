@@ -5,14 +5,14 @@ Science is an international endeavour, which brings together people from many cu
 <br/>
 <br/>
 _**Suggestions:**_<br/>
--Make clear what are the institutional rules for maternity and paternity leave.
--Normalize specifying pronouns in email signatures and profiles (e.g. slack).
--Encourage people to share and mark on the lab calendar crucial cultural events/festivities.
--Encourage attendance of EDI training.
--Discuss steps taken to facilitate diversity in applicants.
--During onboarding, discuss cultural needs (e.g. religious holidays, prayer facilities).
--Dedicate some meetings (e.g. journal club) to papers addressing diversity in science.
--Consider diversity of voices when selecting papers in journal clubs.
+-Make clear what are the institutional rules for maternity and paternity leave.<br/>
+-Normalize specifying pronouns in email signatures and profiles (e.g. slack).<br/>
+-Encourage people to share and mark on the lab calendar crucial cultural events/festivities.<br/>
+-Encourage attendance of EDI training.<br/>
+-Discuss steps taken to facilitate diversity in applicants.<br/>
+-During onboarding, discuss cultural needs (e.g. religious holidays, prayer facilities).<br/>
+-Dedicate some meetings (e.g. journal club) to papers addressing diversity in science.<br/>
+-Consider diversity of voices when selecting papers in journal clubs.<br/>
 <br/>
 <br/>
 _**Example:**_<br/> Our lab fosters a diverse and inclusive environment. We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. We encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.

@@ -14,5 +14,4 @@ _**Suggestions:**_<br/>
 -Dedicate some meetings (e.g. journal club) to papers addressing diversity in science.<br/>
 -Consider diversity of voices when selecting papers in journal clubs.<br/>
 <br/>
-<br/>
 _**Example:**_<br/> Our lab fosters a diverse and inclusive environment. We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. We encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.

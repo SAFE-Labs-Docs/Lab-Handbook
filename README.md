@@ -1,31 +1,31 @@
-## SAFE Labs Lab Culture Handbook
+# SAFE Labs Lab Culture Handbook
 This Lab Culture Handbook is an outcome of the 2024 SAFE Labs workshop: a global engagement initiative, bringing together new bioscience group leaders from across Europe to discuss Starting Aware, Fair, and Equitable Labs. This workshop highlighted the need for resource with actionable “commitments” for a group leader to create a more positive and inclusive lab environment. Existing resources provided general advice, but not specific actions that group leaders could take. <br/>
 <br/>
 There is no “correct” way to run a research group: approaches vary across groups, institutions, and countries. Consequently, rather than being prescriptive, we aim to increase transparency and minimise any expectation mismatch between the group leader and lab members to create positive and equitable lab culture. Here, we present commitments that span different topics: Policies, Teams, and Careers. No commitment relies on institutional support to implement, and all commitments are actionable, and can be verifiably implemented. This is because:
 1)	Implementable commitments are the most helpful to group leaders and lab members.
 2)	Verifiable commitments allow for accountability and specific feedback.
+
 For example, “I commit to supporting a healthy work-life balance for my lab members” will not be in this handbook because the commitment cannot be verified.<br/>
+<br/>
 This handbook does not represent an optimal or exhaustive list: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. The handbook will improve through community feedback and further dedicated workshops. Labs that implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website, and should register for the SAFE Labs mailing list. <br/>
-<br/>
+
 ### Sections for each commitment:
-_**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).
+_**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).<br/>
 <br/>
-_**Suggestions:**_ We may include suggestions of aspects that should be considered when fulfilling the commitment. These may contain multiple alternatives and are not requirements.
+_**Suggestions:**_ We may include suggestions of aspects that should be considered when fulfilling the commitment. These may contain multiple alternatives and are not requirements.<br/>
 <br/>
-_**Example:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. 
+_**Example:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. <br/>
 ### Key terminology:
-_**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!
+_**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
 <br/>
-_**Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   
+_**Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   <br/>
 <br/>
-_**Establish:**_ This requires implementing a new (if not already established) policy/process/event. Not as immediately achievable as documenting something, but does not require institutional support.
+_**Establish:**_ This requires implementing a new (if not already established) policy/process/event. Not as immediately achievable as documenting something, but does not require institutional support.<br/>
 
+# Commitments
+## SAFE Policies
 
-
-
-
-<b>I commit to…</b>
-
+**I commit to _publicly document_ …**
 <details>
 <summary> <b><i>… publicly document</i></b> a diversity statement.</summary>
 <br/>

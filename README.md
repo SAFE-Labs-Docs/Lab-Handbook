@@ -9,13 +9,13 @@ For example, “I commit to supporting a healthy work-life balance for my lab me
 <br/>
 This handbook does not represent an optimal or exhaustive list: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. The handbook will improve through community feedback and further dedicated workshops. Labs that implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website, and should register for the SAFE Labs mailing list. <br/>
 
-### Sections for each commitment:
+## Sections for each commitment:
 _**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).<br/>
 <br/>
 _**Suggestions:**_ We may include suggestions of aspects that should be considered when fulfilling the commitment. These may contain multiple alternatives and are not requirements.<br/>
 <br/>
 _**Example:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. <br/>
-### Key terminology:
+## Key terminology:
 _**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
 <br/>
 _**Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   <br/>

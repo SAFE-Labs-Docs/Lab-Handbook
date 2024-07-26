@@ -26,9 +26,7 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 ## SAFE Policies
 **I commit to _publicly document_ …**
 <details>
-<summary> 
-  
-#### ... a diversity statement.
+<summary> <b> ... a diversity statement. <br/>
 </summary>
 <br/>
 <i><b>Details: </b> Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds. <br/>
@@ -47,9 +45,7 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 </details>
 
 <details>
-<summary> 
-
-#### ... a list of lab members and alumni.
+<summary> <b> ... a list of lab members and alumni. <br/>
 </summary>
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
 </details>

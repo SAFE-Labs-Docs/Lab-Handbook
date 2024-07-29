@@ -26,7 +26,7 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 ## SAFE Policies
 **I commit to _publicly document_ …**
 <details>
-<summary> <b> ... a diversity statement. <br/>
+<summary> <b> ... a diversity statement. </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds. <br/>
@@ -41,17 +41,35 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 -Dedicate some meetings (e.g. journal club) to papers addressing diversity in science. <br/>
 -Consider diversity of voices when selecting papers in journal clubs. <br/>
   <br/>
-<b>Example: </b> Our lab fosters a diverse and inclusive environment. We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. We encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.</i>
+<b>Example: </b> <br/>
+Our lab fosters a diverse and inclusive environment. We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. We encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.</i>
 </details>
 
 <details>
-<summary> <b> ... a list of lab members and alumni. <br/>
+<summary> <b> ... the lab code of conduct: emphasise welfare, equity and integrity. . </b>  <br/>
 </summary>
+<br/>
+<i><b>Details: </b> A prominent code of conduct should help to establish the lab atmosphere, foster synergy and collaboration, and make lab members feel valued and respected. It will set boundaries and shared practices, and establish a common framework to reduce and resolve conflict.<br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Set out expectations for professional behaviour. <br/>
+-Include timekeeping for meetings, work requests, and assignments. <br/>
+-Require engagement with presentations, opinions, and requests from other members. <br/>
+-Avoid exclusive communication channels (e.g. cc everyone when applicable). <br/>
+<br/>
+<b>Example: </b> <br/>
+All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other’s points of views and contributions to discussions, being timely for meetings, and actively engaging in each other’s presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment.</i>
+</details>
+
+<details>
+<summary> <b> ... a list of lab members and alumni. </b> <br/>
+</summary>
+<br/>
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
 </details>
 
 <details>
-<summary> <b> ... COMMITMENT HERE. <br/>
+<summary> <b> ... COMMITMENT HERE. </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> DETAILS HERE <br/>
@@ -60,12 +78,13 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 -SUGGESTION 1 <br/>
 -SUGGESTION 2 <br/>
   <br/>
-<b>Example: </b> EXAMPLE HERE</i>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
 </details>
 
 **I commit to _document_ …**
 <details>
-<summary> <b> ... COMMITMENT HERE. <br/>
+<summary> <b> ... COMMITMENT HERE. </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> DETAILS HERE <br/>

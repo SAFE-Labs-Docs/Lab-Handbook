@@ -1,4 +1,4 @@
-# SAFE Labs Lab Culture Handbook
+# SAFE Labs Handbook
 This Lab Culture Handbook is an outcome of the 2024 SAFE Labs workshop: a global engagement initiative, bringing together new bioscience group leaders from across Europe to discuss Starting Aware, Fair, and Equitable Labs. This workshop highlighted the need for resource with actionable “commitments” for a group leader to create a more positive and inclusive lab environment. Existing resources provided general advice, but not specific actions that group leaders could take. <br/>
 <br/>
 There is no “correct” way to run a research group: approaches vary across groups, institutions, and countries. Consequently, rather than being prescriptive, we aim to increase transparency and minimise any expectation mismatch between the group leader and lab members to create positive and equitable lab culture. Here, we present commitments that span different topics: Policies, Teams, and Careers. No commitment relies on institutional support to implement, and all commitments are actionable, and can be verifiably implemented. This is because:
@@ -50,9 +50,29 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
 </details>
 
+<details>
+<summary> <b> ... COMMITMENT HERE. <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> EXAMPLE HERE</i>
+</details>
 
-# Commitments
-## SAFE Policies
-**I commit to _publicly document_ …**
-### [... a diversity statement](https://github.com/SAFE-Labs-Docs/Lab-Culture-Handbook/tree/main/SAFE%20Policies/Commitment1).
-### [... a list of lab members and alumni](https://github.com/SAFE-Labs-Docs/Lab-Culture-Handbook/tree/main/SAFE%20Policies/Commitment2).
+**I commit to _document_ …**
+<details>
+<summary> <b> ... COMMITMENT HERE. <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> EXAMPLE HERE</i>
+</details>

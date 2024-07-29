@@ -22,11 +22,13 @@ _**Document:**_ A written record that is visible to lab members, but not necessa
 <br/>
 _**Establish:**_ This requires implementing a new (if not already established) policy/process/event. Not as immediately achievable as documenting something, but does not require institutional support.<br/>
 
+
+
 # Commitments
 ## SAFE Policies
 **I commit to _publicly document_ …**
 <details>
-<summary> <b> ... a diversity statement. </b>  <br/>
+<summary> <b> <code>... a diversity statement.</code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds. <br/>
@@ -46,7 +48,7 @@ Our lab fosters a diverse and inclusive environment. We believe that diversity i
 </details>
 
 <details>
-<summary> <b> ... the lab code of conduct: emphasise welfare, equity and integrity. . </b>  <br/>
+<summary> <b> <code>... the lab code of conduct: emphasise welfare, equity and integrity.</code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> A prominent code of conduct should help to establish the lab atmosphere, foster synergy and collaboration, and make lab members feel valued and respected. It will set boundaries and shared practices, and establish a common framework to reduce and resolve conflict.<br/>
@@ -62,14 +64,15 @@ All lab members are expected to maintain a professional attitude of integrity, a
 </details>
 
 <details>
-<summary> <b> ... a list of lab members and alumni. </b> <br/>
+<summary> <b> <code>... a list of lab members and alumni. </code> </b> <br/>
 </summary>
 <br/>
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
 </details>
 
+**I commit to _document_ …**
 <details>
-<summary> <b> ... COMMITMENT HERE. </b>  <br/>
+<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> DETAILS HERE <br/>
@@ -80,18 +83,4 @@ All lab members are expected to maintain a professional attitude of integrity, a
   <br/>
 <b>Example: </b> <br/>
   EXAMPLE HERE</i>
-</details>
-
-**I commit to _document_ …**
-<details>
-<summary> <b> ... COMMITMENT HERE. </b>  <br/>
-</summary>
-<br/>
-<i><b>Details: </b> DETAILS HERE <br/>
-<br/>
-<b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
-  <br/>
-<b>Example: </b> EXAMPLE HERE</i>
 </details>

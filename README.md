@@ -121,9 +121,141 @@ The institutional language at the Italian Institute of Technology is English; no
  <br/>
 </details>
 
-
-
 **I commit to _document_ …**
+<details>
+<summary> <b> <code> ... the procedure for reporting bullying and/or harassment. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Bullying and harassment are serious allegations and entirely unacceptable in any work environment. By explicitly highlighting the procedure for reporting these issues, group leaders not only demonstrate their commitment to eradicating these behaviours, but also increase the chance that violations witnessed by lab members will be reported. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Specify how bullying and harassment is defined by the institution. <br/>
+-Document institutional procedures for reporting and any supporting body/resources available. <br/>
+-Disseminate and value training events offered by the institution. <br/>
+  <br/>
+<b>Example: </b> <br/>
+Students and trainees who feel they have experienced or witnessed bullying harassment or sexual misconduct by another student may make a formal report to XXXX by email. This process may also be initiated through Human resources, the lab manager, or group leader.  <br/>
+<br/>
+Members of staff who feel they have experienced or witnessed bullying, harassment or sexual misconduct may make a formal complaint against a staff member by using the Staff Grievance Policy or they may make a formal complaint against a student by contacting XXXX by email. <br/>
+<br/>
+Students or members of staff who feel they have experienced or witnessed bullying, harassment or sexual misconduct by a third party, or a member of the public, should discuss this with their line manager, supervisor or personal tutor in the first instance. This may involve notifying third parties and using their complaints procedure or notifying Security and/or the police when involving members of the public.  <br/>
+<br/>
+<ins>Outcome of a complaint/ disciplinary case</ins><br/>
+The Reporting Party will be told whether their complaint has been upheld or not; and whether the Reported Party has been dismissed or expelled. If the complaint is not upheld or the Reported Party is not dismissed or expelled, information will be shared with the Reporting Party to minimise any adverse effects in accessing their work or study environment, where possible, but there may be limits to the information about the consequences to the Reported Party that can be shared with the Reporting Party.  <br/>
+<br/>
+Where the Reporting Party is told the outcome they will be asked to respect confidentiality with regards to the outcome. Links to institute guidelines and contact information of the person in charge for each group are provided as hyperlinks above.  <br/>
+</i>
+</details>
+
+<details>
+<summary> <b> <code> ... available resources to support mental health. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Thankfully, awareness and support for mental health issues within work environments is at an all-time high. It is likely that these issues will arise within any research group at some time, and it is equally likely that the group leader is not qualified to offer advice or guidance—particularly given the potential for a conflict-of-interest. It is therefore critical that lab members are made aware of the resources available to them at both an institutional and national level. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Should lab members approach you with work-related and/or non-work-related issues? <br/>
+-Educate lab members on mental health, and how to prevent and recognise arising issues. <br/>
+-Document institutional resources for psychological support. <br/>
+-Highlight the institutional policy on mental health and sick leave. <br/>
+-Promote good practices to safe-guard mental health (e.g. work-life balance).  <br/>
+  <br/>
+<b>Example: </b> <br/>
+Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia (https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed working regular work hours. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support, I encourage you to consider the following resources:<br/>
+<br/>
+Counseling Services: Our institution offers free counseling services [link] and free 1-on-1 coaching [link] for all students and employees. Please also consult the institute’s resources on a healthy work-life balance [link].<br/>
+<br/>
+Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [link].<br/>
+<br/>
+Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].
+</i>
+</details>
+
+<details>
+<summary> <b> <code> ... the procedure for raising lab or inter-personal issues. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> One prominent reason that lab and inter-personal issues are not raised in a timely and constructive fashion is the lack of a documented procedure for this process. Having a clear and transparent procedure encourages feedback from lab members, makes them more comfortable initiating feedback as the expectation is clear, and increases the likelihood that issues can be addressed before they deteriorate. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Specify that issues raised in 1-on-1 meetings won’t be acted on without discussion.  <br/>
+-Specify a reporting procedure that circumvents you if necessary. <br/>
+-Provide an avenue for lab members to raise concerns with you anonymously. <br/>
+  <br/>
+<b>Example: </b> <br/>
+1.	If comfortable doing so, request a meeting to raise the issue with the group leader. <br/>
+2.	If not, please raise the issue anonymously by using this form. <br/>
+3.	If external involvement would be beneficial, contact our dedicated external advisor. <br/>
+4.	If none of the above steps fare appropriate, raise the issue with HR here. <br/>
+</i>
+</details>
+
+**I commit to _establish_ …**
+<details>
+<summary> <b> <code> ... a shared lab calendar for members to indicate if they are away, at conferences etc. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b>  This not only makes it clear when regular meetings should be cancelled, or when a lab member should not be expected to respond to emails, but also normalizes the lab policy (whatever that may be) regarding conferences, remote working, vacation etc. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Clear instructions for reporting different statuses (e.g. vacation vs conference attendance).<br/>
+-What specific details should be reported? (e.g. half-day vs full day).<br/>
+  <br/>
+</details>
+
+## SAFE Policies
+**I commit to _publicly document_ …**
+<details>
+<summary> <b> <code> ... a list of lab members and alumni. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, <b> contact details for each person should be included.</b> Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. <br/>
+<br/>
+</details>
+
+<details>
+<summary> <b> <code> ... an overview of the regular meetings in the lab, and my expectations for participation. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Labs often have a variety of regular meetings, including 1-on-1 meetings, lab meetings and journal clubs. However, the expectations for the contents of these meetings are rarely documented, leading to misunderstandings and uncertainty. Clear documentation not only reveals useful information about lab life, but also ensures that meetings are more effective and fruitful. <b> As a minimum, this should include the frequency, duration, and the agenda for each type of meeting. </b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Discuss 1-on-1 meeting frequency at onboarding, and review in annual appraisals. <br/>
+-Create a shared space where past presentations can be accessed.<br/>
+-Encourage participation and involvement from all lab members, for example:
+  1. Round table feedback
+  2. Lab members write down their thoughts, then all of them are read.
+  3. Allocate time in meetings for problem solving and a brainstorming session.
+  4. Have a meeting facilitator and/or note taker; rotate among lab members.
+-Conduct regular team-building activities (e.g. lab retreat, dinners, celebrations).<br/>
+  <br/>
+<b>Example: </b> <br/>
+Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings: <br/>
+ <br/>
+Lab Meetings: Each lab member will host our weekly lab meeting on a rotating schedule, presenting an informal progress report. These reports, lasting 20-30 minutes, should succinctly introduce your project, highlight the main research questions, and focus on recent achievements and challenges. This allows for productive group discussions to advance your project. Lab meetings are typically held once per week within core working hours, lasting 60 to 90 minutes. Progress report presentations are accessible via our lab’s shared resources. <br/>
+ <br/>
+Journal Club: On a rotating schedule, each lab member will present the core hypotheses, methods, results, and conclusions of a recent original research paper relevant to our lab’s research in our monthly journal club. All members are expected to read the paper and actively participate in discussing its strengths, weaknesses, and key takeaways. The journal club is typically held once per week within core working hours and lasts about 60 minutes. <br/>
+ <br/>
+1-on-1 Meetings: I schedule bi-weekly 1-on-1 in-person meetings which each lab member, typically lasting around 1 hour, during core work hours [details below]. These meetings are designed to support you in successfully implementing your research project. I am also available for additional meetings upon request. <br/>
+ <br/>
+Yearly Appraisals: I will review your project's long-term progress and provide tailored feedback on your work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab, and under my supervision.
+</i>
+</details>
+
+<details>
+<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
+
 <details>
 <summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
 </summary>
@@ -140,9 +272,23 @@ The institutional language at the Italian Institute of Technology is English; no
 
 
 
+
+
+
+
+
+
+**I commit to _document_ …**
 <details>
-<summary> <b> <code>... a list of lab members and alumni. </code> </b> <br/>
+<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
 </details>

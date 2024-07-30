@@ -118,7 +118,7 @@ The institutional language at the Italian Institute of Technology is English; no
 &nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
 &nbsp;&nbsp;&nbsp; 3.	Link to the Lab Culture Handbook for accountability and feedback from lab members.<br/>
  <br/>
-</details>
+</i></details>
 
 **I commit to _document_ ...**
 <details>
@@ -326,7 +326,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -New group leaders could combine lab retreats/lab meetings to improve feedback.  <br/>
 -Communicate feedback decisions and if suggestions are not implemented, explain why.  <br/>
 -Follow up on feedback implementation. 
-  <br/>
+  <br/> </i>
 </details>
 
 
@@ -347,6 +347,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -Acknowledge the element of luck in all scientific endeavours.<br/>
 -Avoid the phrase ‘negative results’: all results are discoveries; hypotheses can be falsified.<br/>
   <br/>
+</i>
 </details>
 
 
@@ -361,6 +362,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -Institute a prize for best failure, elected by general vote.<br/>
 - Celebrate experiments and efforts even when no new finding is produced.<br/>
   <br/>
+</i>
 </details>
 
 <details>
@@ -379,6 +381,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -Lab members should take notes during the meeting.<br/>
 -Group leader should read the document after/before meetings (to catch misunderstandings).<br/>
 -Other solutions include allowing the lab member to record meetings (e.g. via zoom).<br/>
+</i>
 </details>
 
 <details>
@@ -396,6 +399,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -Prioritise publications based on agreed plan rather than impact. <br/>
 -Document the feedback process to report any perceived inequalities. <br/>
   <br/>
+</i>
 </details>
 
 <details>
@@ -413,6 +417,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 &nbsp;&nbsp;&nbsp; 2. Project presentation by the PhD student.<br/>
 &nbsp;&nbsp;&nbsp; 3. Discussion with student in absence of supervisor.<br/>
   <br/>
+</i>
 </details>
 
 ## SAFE Careers
@@ -587,6 +592,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 -Books and resources for self-education. <br/>
 -Group leader should discuss spending, grants and outlook for the future.<br/>
   <br/>
+</i>
 </details>
 
 <details>
@@ -600,6 +606,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 -Sent out a regular update with the most recent lab developments information.<br/>
 -Discuss spending, grant applications, and outlook for the future.<br/>
 -Solicit feedback on grant applications and funding considerations.<br/>
+  </i>
 </details>
 
 <details>
@@ -622,10 +629,9 @@ I understand that people decide to leave the lab for different reasons, and may 
 &nbsp;&nbsp;&nbsp; 5. Invite remaining candidates to present and talk to the lab.<br/>
 &nbsp;&nbsp;&nbsp; 6. Formalise the offer.<br/>
 &nbsp;&nbsp;&nbsp; 7. Send timely feedback to unsuccessful candidates.<br/>
-
   <br/>
 <b>Example interview questions: </b> <br/>
-<ins>Skills/motivation: </ins><br/>
+<ins>Skills & motivation: </ins><br/>
 -Among your skills, which is most important to this project?<br/>
 -You are applying to work on project X, where do you think this project could take us?<br/>
 -You have mentioned experience with technique Y, can you briefly explain how it works?<br/>
@@ -635,8 +641,8 @@ I understand that people decide to leave the lab for different reasons, and may 
 -What is your career plan for the next 10 years?<br/>
 -What motivates you to work in science?<br/>
 -Which specific training are you hoping to gain by joining our lab? <br/>
- 
-<ins>Core skills/communication:</ins><br/>
+  <br/>
+<ins>Core skills & communication: </ins><br/>
 -Can you briefly explain your latest discovery to someone without a scientific background?<br/>
 -What strategies do you use to keep yourself organised?<br/>
 -Give an example of a creative solution you used to to solve a problem (at or outside work)?<br/>
@@ -644,7 +650,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 -You need to learn a new method (to the lab), how do you approach the problem?<br/>
 -Can you give an example of a situation when you had to act like a leader?<br/>
 -Could you provide an example of a situation that would highlight your organisational skills?<br/>
- 
+ <br/>
 <ins>Lab attitude (precision, thoroughness, ethics, attention to SAFE):</ins><br/>
 -What strategies do you use to ensure reproducibility in your results?<br/>
 -What strategy do you use to store/archive data?<br/>

@@ -351,8 +351,6 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -Acknowledge the element of luck in all scientific endeavours.<br/>
 -Avoid the phrase ‘negative results’: all results are discoveries; hypotheses can be falsified.<br/>
   <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
 </details>
 
 
@@ -360,62 +358,66 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 <summary> <b> <code> ... annual lab-wide meetings to normalise failures. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Most failures are “good” failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. Implementing an annual meeting where all lab members, including the group leader, recount their most successful failure will help normalise these events as learning and growth opportunities. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Each lab member could discuss a failed experiment, application, or endeavour.<br/>
+-Institute a prize for best failure, elected by general vote.<br/>
+- Celebrate experiments and efforts even when no new finding is produced.<br/>
   <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
 </details>
 
 <details>
 <summary> <b> <code> ... a mechanism to record key outcomes from each 1-on-1 meeting. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> Commonly reported frustrations of the 1-on-1 meeting process in labs are:<br/>
+&nbsp;&nbsp;&nbsp; 1. Lab members feel that their group leader forgets the content of their previous meeting and so appears disengaged, or time is wasted rehashing the previous meeting.<br/>
+&nbsp;&nbsp;&nbsp; 2. Group leaders feel that a previously agreed course of action has not been followed (or even attempted) and the lab member has instead pursued an unrelated tangent.<br/>
+  <br/>
+Recording the key outcomes of each 1-on-1 meeting immediately after it takes place has been reported to robustly improve these issues. It allows any miscommunication to be readily identified, and provides a way for all participants to refresh their memory before the next meeting—saving time and confusion. This does not mean lab members should never diverge from the proposed plan, but if they do, they should be ready to justify that decision in future meetings. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
-  <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
+-Require lab members to summarize each meeting in a shared document.<br/>
+-Include agreed-upon action points to prioritize before the next meeting. <br/>
+-Lab members should take notes during the meeting.<br/>
+-Group leader should read the document after/before meetings (to catch misunderstandings).<br/>
+-Other solutions include allowing the lab member to record meetings (e.g. via zoom).<br/>
 </details>
 
 <details>
 <summary> <b> <code> ... equal access to lab resources for lab members in the same role.  </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> Most lab members will quickly recognise any disparities of time and resource investment in different projects or people. These may arise for valid strategic reasons: funding priorities, timeliness of publication, contractual needs. Having clear and transparent policies for access to lab resources avoids biases from the group leader, inter-personal conflict, and fosters cooperativity between projects. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Implement a shared lab calendar and booking system for communal instruments.<br/>
+-Monitor and enforce respectful and fair booking schedules.<br/>
+-Discuss project investment at onboarding.<br/>
+-Keep a record of expenditure for different projects.<br/>
+-Implement a task request system for shared lab technicians (e.g. apps in Teams). <br/>
+-Prioritise publications based on agreed plan rather than impact. <br/>
+-Document the feedback process to report any perceived inequalities. <br/>
   <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
 </details>
 
 <details>
 <summary> <b> <code> ... a “PhD Committee” to annually monitor progress and mediate feedback. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> It is important that PhD students receive support and feedback from beyond their direct supervisor. An annual presentation to a PhD Committee provides an impartial perspective on their project (e.g. timeline adjustments, training required). This meeting can identify potential conflicts and issues in the working environment of the PhD student. It also provides an opportunity for the supervisor to raise issues with the committee and request an external opinion. Some institutions already implement this process, others have committees that meet irregularly, and some only form a committee for the final viva. However, <b> all SAFE Labs are required to implement this process—the committee does not need to have any official role in awarding the PhD. </b> <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Have the initial meeting within 6 months of starting the PhD. <br/>
+-Encourage PhD students to contact the committee members as needed. <br/>
+-3 members: external expert, within-institute group leader, and a senior PhD student/postdoc. <br/>
+-Each meeting consists in 3 phases:<br/>
+&nbsp;&nbsp;&nbsp; 1. Discussion with supervisor in absence of student.<br/>
+&nbsp;&nbsp;&nbsp; 2. Project presentation by the PhD student.<br/>
+&nbsp;&nbsp;&nbsp; 3. Discussion with student in absence of supervisor.<br/>
   <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
 </details>
-
-
-
-
-
 
 
 **I commit to _document_ …**

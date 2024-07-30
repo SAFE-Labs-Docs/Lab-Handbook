@@ -419,6 +419,30 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
   <br/>
 </details>
 
+## SAFE Careers
+
+**I commit to _publicly document_ …**
+<details>
+<summary> <b> <code> ... which contributions constitute authorship on a scientific paper. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> The line between “acknowledgement” and “authorship” is not always clear. An authorship statement will never solve this problem, but it should act as a starting point for discussions when lab members are prospectively, or retrospectively, considering their role in a project. It should be publicly documented so that prospective lab members are aware of the authorship policy before applying to join a lab. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Acknowledge that authorship can be difficult to define. <br/>
+-At what stage will authorship be discussed? <br/>
+-How will contributions be included in a paper? <br/>
+  <br/>
+<b>Example: </b> <br/>
+  Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by <a href="https://credit.niso.org/">CRediT Taxonomy</a>. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.</i>
+</details>
+
+
+
+
+
+
+
 
 **I commit to _document_ …**
 <details>

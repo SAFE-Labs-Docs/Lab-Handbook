@@ -436,18 +436,24 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
   Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by <a href="https://credit.niso.org/">CRediT Taxonomy</a>. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.</i>
 </details>
 
-
 <details>
-<summary> <b> <code> ... the visa-support available to overseas applicants. </code> </b>  <br/>
+<summary> <b> <code> ... my ambitions for the duration and publication outputs for each lab role. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> Visa costs are a significant factor when applying for any job. Documenting the approximate cost, timeline, and financial support allows prospective lab members to make informed decisions, and potentially saves time for both parties. Financial support for visa costs can vary between positions, but this should be indicated prominently in any job description. <br/>
+<i><b>Details: </b> Science is impossible to predict, and no one can guarantee the outcome of a given PhD or postdoctoral research position. However, group leaders vary in their expectations for what a typical PhD/postdoctoral research project should involve. Making the ambitions (despite the variability inherent to science) for each role clear should reduce expectation mismatch between new lab members and group leaders. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--Acknowledge that costs will likely be unique to everyone. <br/>
+-Include any institutional/country-based requirements for PhDs (e.g. max length, publications). <br/>
+-Provide statistics on how long lab members typically stay in the lab. <br/>
+-Document and discuss ambitions for application to fellowships and additional funding. <br/>
   <br/>
 <b>Example: </b> <br/>
-  Visa costs when joining the lab from outside the UK vary by the applicant’s citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.</i>
+Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:<br/>
+<br/>
+<b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
+<br/>
+<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding). 
+</i>
 </details>
 
 <details>
@@ -477,6 +483,23 @@ Master’s students, undergraduates, and lab technicians are also encouraged to 
 </i>
 </details>
 
+
+<details>
+<summary> <b> <code> ... guidelines for completing previous work after joining the lab. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> We are all familiar with the experience of joining a new lab whilst still having outstanding academic work from a previous position. It is important to discuss this process with all new lab members to ensure that they progress to new projects in a timeframe that works for everyone. <b>Discussing this policy is a required component of the onboarding process for postdoctoral researchers.</b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Arrange for lab members to start later if they have significant work ongoing. <br/>
+-Acknowledge that it is difficult to predict this timeline.<br/>
+-What proportion of time is reasonable to allocate to past work?<br/>
+-A similar approach can be applied to independent or personal projects or commitments.<br/>
+  <br/>
+<b>Example: </b> <br/>
+I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.</i>
+</details>
+
 <details>
 <summary> <b> <code> ... the process for funding postdoctoral researchers. </code> </b>  <br/>
 </summary>
@@ -499,39 +522,16 @@ I will be transparent with postdoctoral researchers about the available funding 
 </details>
 
 <details>
-<summary> <b> <code> ... my ambitions for the duration and publication outputs for each lab role. </code> </b>  <br/>
+<summary> <b> <code> ... the visa-support available to overseas applicants. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> Science is impossible to predict, and no one can guarantee the outcome of a given PhD or postdoctoral research position. However, group leaders vary in their expectations for what a typical PhD/postdoctoral research project should involve. Making the ambitions (despite the variability inherent to science) for each role clear should reduce expectation mismatch between new lab members and group leaders. <br/>
+<i><b>Details: </b> Visa costs are a significant factor when applying for any job. Documenting the approximate cost, timeline, and financial support allows prospective lab members to make informed decisions, and potentially saves time for both parties. Financial support for visa costs can vary between positions, but this should be indicated prominently in any job description. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--Include any institutional/country-based requirements for PhDs (e.g. max length, publications). <br/>
--Provide statistics on how long lab members typically stay in the lab. <br/>
--Document and discuss ambitions for application to fellowships and additional funding. <br/>
+-Acknowledge that costs will likely be unique to everyone. <br/>
   <br/>
 <b>Example: </b> <br/>
-Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:<br/>
-<br/>
-<b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
-<br/>
-<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding). 
-</i>
-</details>
-
-<details>
-<summary> <b> <code> ... guidelines for completing previous work after joining the lab. </code> </b>  <br/>
-</summary>
-<br/>
-<i><b>Details: </b> We are all familiar with the experience of joining a new lab whilst still having outstanding academic work from a previous position. It is important to discuss this process with all new lab members to ensure that they progress to new projects in a timeframe that works for everyone. <b>Discussing this policy is a required component of the onboarding process for postdoctoral researchers.</b> <br/>
-<br/>
-<b>Suggestions:</b> <br/>
--Arrange for lab members to start later if they have significant work ongoing. <br/>
--Acknowledge that it is difficult to predict this timeline.<br/>
--What proportion of time is reasonable to allocate to past work?<br/>
--A similar approach can be applied to independent or personal projects or commitments.<br/>
-  <br/>
-<b>Example: </b> <br/>
-I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.</i>
+  Visa costs when joining the lab from outside the UK vary by the applicant’s citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.</i>
 </details>
 
 

@@ -22,8 +22,6 @@ _**Document:**_ A written record that is visible to lab members, but not necessa
 <br/>
 _**Establish:**_ This requires implementing a new (if not already established) policy/process/event. Not as immediately achievable as documenting something, but does not require institutional support.<br/>
 
-
-
 # Commitments
 ## SAFE Policies
 **I commit to _publicly document_ …**
@@ -64,11 +62,66 @@ All lab members are expected to maintain a professional attitude of integrity, a
 </details>
 
 <details>
-<summary> <b> <code>... a list of lab members and alumni. </code> </b> <br/>
+<summary> <b> <code> ... green initiatives in the lab and any explicit rules related to sustainability. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
+<i><b>Details: </b> Laboratories consume a lot of energy and produce a lot of waste. Group leaders are able to promote measures that reduce the environmental impact of scientific research, and prospective lab members may use environmental awareness as a factor when choosing labs. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Require sustainable transport options when travel time is < 8 hours.  <br/>
+-Recycle non-hazardous waste. <br/>
+-Place orders in bulk to reduce shipments.  <br/> 
+-Have a list of instruments you are happy to share with your internal collaborators.  <br/>
+-Donate unused equipment within/outside the institutions.  <br/>
+-Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes).  <br/>
+  <br/>
+<b>Example: </b> <br/>
+The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment. <br/>
+<br/>
+Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, I will cover the most sustainable travel option (up to double the price of the cheapest alternative). I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work related) trips. I incentivize sustainable options for daily commute: PhD students enrolled at University of Trento benefit from free public transportation across the Trentino region; all the lab members can participate in an annual contest where commuting milage is logged and scored according to sustainability of the means of transport, the person who accrues the most points wins.<br/>
+<br/>
+Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local <br/>regulations. 
+<br/>
+Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.<br/>
+</i>
 </details>
+
+
+<details>
+<summary> <b> <code> ... the common lab language and any institutional language requirements. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> English is the international language of science in the 21st century: proficiency in English is a crucial skill to nurture for every scientist. However, lab members are often not native English speakers, and in some cases the Institutional language may not be English. It is therefore important to document the lab and institutional language policy (even in “obvious” cases). To help non-native English speakers—or non-native speakers of the local language—it is also valuable to highlight any institutional support for language acquisition. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Identify English as the lab language, and document language code of conduct. <br/>
+-Lead by example and adopt the most inclusive communication format. <br/>
+-Clearly indicate language requirements in job posts. <br/>
+-Document available training in English, particularly scientific writing and presentation. <br/>
+-Document available training in the Institutional and/or local language.  <br/>
+-Document lab policy about using LLMs (i.e. ChatGPT) to improve written output. <br/>
+-Address language barriers in meetings, adopting formats of Q/A that facilitate feedback. <br/>
+  <br/>
+<b>Example: </b> <br/>
+The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone present to participate. <br/>
+<br/>
+The institutional language at the Italian Institute of Technology is English; nonetheless, many administrative exchanges and Italian bureaucracy are still in Italian. Proficiency in Italian is therefore useful within the institute, as well as when traveling throughout the country. Please refer to the lab Wiki to access learning resources. <br/>
+</i>
+</details>
+
+
+<details>
+<summary> <b> <code> ... my support for, and implementation of, the Lab Culture Handbook. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> This consists of three <b>required</b> steps: <br/>
+  1.	Feature the SAFE Labs logo on your website.<br/>
+  2.	Join the SAFE Labs mailing list.<br/>
+  3.	Link to the Lab Culture Handbook for accountability and feedback from lab members.<br/>
+ <br/>
+</details>
+
+
 
 **I commit to _document_ …**
 <details>
@@ -83,4 +136,13 @@ All lab members are expected to maintain a professional attitude of integrity, a
   <br/>
 <b>Example: </b> <br/>
   EXAMPLE HERE</i>
+</details>
+
+
+
+<details>
+<summary> <b> <code>... a list of lab members and alumni. </code> </b> <br/>
+</summary>
+<br/>
+<i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. </i>
 </details>

@@ -227,7 +227,10 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -What times are appropriate times for scheduling meetings? <br/>
   <br/>
 <b>Example: </b> <br/>
-  EXAMPLE HERE</i>
+I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX’s prescribed 41 days of annual leave. “Minimum” because if experiments necessitate working on a weekend, or you attend a conference that’s scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL’s “core” work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
+
+All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to “three”) once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.
+</i>
 </details>
 
 

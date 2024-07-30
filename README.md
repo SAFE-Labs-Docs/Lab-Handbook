@@ -499,11 +499,147 @@ I will be transparent with postdoctoral researchers about the available funding 
 </i>
 </details>
 
+<details>
+<summary> <b> <code> ... my ambitions for the duration and publication outputs for each lab role. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Science is impossible to predict, and no one can guarantee the outcome of a given PhD or postdoctoral research position. However, group leaders vary in their expectations for what a typical PhD/postdoctoral research project should involve. Making the ambitions (despite the variability inherent to science) for each role clear should reduce expectation mismatch between new lab members and group leaders. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Include any institutional/country-based requirements for PhDs (e.g. max length, publications). <br/>
+-Provide statistics on how long lab members typically stay in the lab. <br/>
+-Document and discuss ambitions for application to fellowships and additional funding. <br/>
+  <br/>
+<b>Example: </b> <br/>
+Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:<br/>
+<br/>
+<b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
+<br/>
+<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding). 
+</i>
+</details>
 
-
+<details>
+<summary> <b> <code> ... guidelines for completing previous work after joining the lab. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> We are all familiar with the experience of joining a new lab whilst still having outstanding academic work from a previous position. It is important to discuss this process with all new lab members to ensure that they progress to new projects in a timeframe that works for everyone. <b>Discussing this policy is a required component of the onboarding process for postdoctoral researchers.</b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Arrange for lab members to start later if they have significant work ongoing. <br/>
+-Acknowledge that it is difficult to predict this timeline.<br/>
+-What proportion of time is reasonable to allocate to past work?<br/>
+-A similar approach can be applied to independent or personal projects or commitments.<br/>
+  <br/>
+<b>Example: </b> <br/>
+I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.</i>
+</details>
 
 
 **I commit to _document_ …**
+<details>
+<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
+
+<details>
+<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
+
+
+
+
+**I commit to _establish_ …**
+<details>
+<summary> <b> <code> ... an objective and equitable interview process. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> The decision to recruit an applicant should depend on clear selection criteria to help avoid personal biases and to treat all applicants fairly. Some of the suggestions below may be impractical or impossible given institutional constraints, but group leaders should implement as many as possible. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Conduct blind CV screenings.<br/>
+-Post public job advert.<br/>
+-Recruit a diverse interview panel to conduct the interviews.<br/>
+-Get second opinions (e.g. feedback from other lab members and collaborators). <br/>
+-Ask a set of defined questions for all applicants for a given position. <br/>
+-Consider the following selection process:<br/>
+&nbsp;&nbsp;&nbsp; 1. File and advertise an open call.<br/>
+&nbsp;&nbsp;&nbsp; 2. Offer an informal chat if individuals have questions.<br/>
+&nbsp;&nbsp;&nbsp; 3. Shortlist qualified candidates.<br/>
+&nbsp;&nbsp;&nbsp; 4. Invite shortlisted candidates for a formal interview.<br/>
+&nbsp;&nbsp;&nbsp; 5. Invite remaining candidates to present and talk to the lab.<br/>
+&nbsp;&nbsp;&nbsp; 6. Formalise the offer.<br/>
+&nbsp;&nbsp;&nbsp; 7. Send timely feedback to unsuccessful candidates.<br/>
+
+  <br/>
+<b>Example interview questions: </b> <br/>
+Skills/motivation:
+-Among your skills, which is most important to this project?
+-You are applying to work on project X, where do you think this project could take us?
+-You have mentioned experience with technique Y, can you briefly explain how it works?
+-Can you tell us about a time when you had to solve a problem on your own?
+-This project is focused on question X, what do you know about the current state of the field?
+-Are you aware of any other lab working on similar/related topics?
+-What is your career plan for the next 10 years?
+-What motivates you to work in science?
+-Which specific training are you hoping to gain by joining our lab? 
+ 
+Core skills/communication:
+-Can you briefly explain your latest discovery to someone without a scientific background?
+-What strategies do you use to keep yourself organised?
+-Give an example of a creative solution you used to to solve a problem (at or outside work)?
+-How would you set priorities if you spread too thin and struggling to meet deadlines?
+-You need to learn a new method (to the lab), how do you approach the problem?
+- Can you give an example of a situation when you had to act like a leader?
+- Could you provide an example of a situation that would highlight your organisational skills?
+ 
+Lab attitude (precision, thoroughness, ethics, attention to SAFE):
+-What strategies do you use to ensure reproducibility in your results?
+-What strategy do you use to store/archive data?
+-How do you keep your code organised?
+-If you realised you made an error at your work, how would you handle it?
+-You suspect you’ve made an error in a procedure, how do confirm/refute this suspicion?
+-Are you familiar with the concept of 3R's? Can you briefly explain them?
+-Your believe your project overlaps with another lab member, how do you deal with this?
+-What would you do if you realised a colleague was mis-conducting their research?
+</i>
+</details>
+
+
+<details>
+<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
+
+
 <details>
 <summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
 </summary>

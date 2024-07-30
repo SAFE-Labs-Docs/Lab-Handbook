@@ -203,7 +203,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
   <br/>
 </details>
 
-## SAFE Policies
+## SAFE Teams
 **I commit to _publicly document_ …**
 <details>
 <summary> <b> <code> ... a list of lab members and alumni. </code> </b>  <br/>

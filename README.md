@@ -572,7 +572,7 @@ I aim to provide lab members with mentorship and support to secure the next care
 <br/>
 I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearse interview talks. However, academia is one of many available career paths.  For career paths outside academia, the institute, and external organisations (e.g. Nature Jobs fair), offer events and workshops. I support lab members making use of these resources. <br/>
 <br/>
-<br/> I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience. 
+I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience. 
 </i>
 </details>
 
@@ -644,9 +644,7 @@ I am best equipped to help with academic career trajectories: I offer mentorship
 -Sent out a regular update with the most recent lab developments information.<br/>
 -Discuss spending, grant applications, and outlook for the future.<br/>
 -Solicit feedback on grant applications and funding considerations.<br/>
-  <br/>
 </details>
-
 
 <details>
 <summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for “core skills”. </code> </b>  <br/>

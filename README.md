@@ -438,7 +438,66 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 </details>
 
 
+<details>
+<summary> <b> <code> ... the visa-support available to overseas applicants. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Visa costs are a significant factor when applying for any job. Documenting the approximate cost, timeline, and financial support allows prospective lab members to make informed decisions, and potentially saves time for both parties. Financial support for visa costs can vary between positions, but this should be indicated prominently in any job description. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Acknowledge that costs will likely be unique to everyone. <br/>
+  <br/>
+<b>Example: </b> <br/>
+  Visa costs when joining the lab from outside the UK vary by the applicant’s citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.</i>
+</details>
 
+<details>
+<summary> <b> <code> ... expectations and funding for conference/summer school attendance. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Conferences, workshops, and other training opportunities (e.g. summer schools) are valuable resources for dissemination, acquiring new expertise, networking, and career development. Therefore, prospective lab members need to understand the lab policy with respect to attending these opportunities so they can make informed decisions and avoid subsequent expectation mismatch. <b> At a minimum, state the typical lab resources available for attending these opportunities, both with respect to financial support and time, and all lab members in the same role should have equal access to these lab resources. </b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Are the limitations on which conferences etc. lab members can attend? <br/>
+-Are there any limitations on how lab members can use their own funds if available? <br/>
+-Are there requirements to attend, and is there financial support? <br/>
+-Do expectations change with roles (e.g. can lab technicians attend conferences)? <br/>
+-How is it decided when a project is ready to present at conference? <br/>
+-Keep a transparent record of attendance. <br/>
+-Mark major conferences and related deadlines in the lab calendar. <br/>
+-Discuss opportunities in the upcoming year at annual appraisals. <br/>
+  <br/>
+<b>Example: </b> <br/>
+I encourage all lab members to seek and apply for training opportunities to develop new expertise, and the lab values initiative to disseminate the lab research at conferences. <br/>
+<br/>
+Each postdoctoral researcher and PhD student has a budget of £1000 per year to attend conferences. This can be accumulated across years if that is the preference, and can be used for one expensive conference or multiple inexpensive conferences. Lab members do not need to present anything when attending their first conference after joining the lab, but should present at any future conferences, or organize a workshop/symposium, if they are planning to attend. If lab members have additional funds through grants or their PhD programme, these can be used in addition to the £1000 annual budget. I am happy to make an exception to this rule and provide extra funds if allowed by current grants, and an excellent opportunity arises (e.g. a unique conference, an invitation to give a prestigious talk) that would exceed this budget, but lab members should discuss with me before making any commitments. <br/>
+<br/>
+Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project interest or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs.<br/>
+<br/>
+Master’s students, undergraduates, and lab technicians are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with me. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.
+</i>
+</details>
+
+<details>
+<summary> <b> <code> ... the process for funding postdoctoral researchers. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Establishing clear policies on salary and grant applications, is crucial for maintaining transparency and ensuring that postdocs join, or apply to, the lab with accurate expectations. It also fosters a supportive and equitable work environment. <b> If researchers do not all start on the same salary, specify why this may be the case. </b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Include the starting salary for postdoctoral researchers. <br/>
+-Encourage postdocs to apply for their own grants (specify if required). <br/>
+  <br/>
+<b>Example: </b> <br/>
+At XXX, salaries for postdoctoral researchers are determined by a national grading system [link]. All postdoctoral researchers in the lab start on grade XXXX, unless they have significant prior postdoctoral experience (e.g. have already completed a post doc in a lab other than their PhD lab). At the end of each year, salaries increase by one point on this grading system. <br/>
+<br/>
+All postdoctoral researchers are required to apply for followships, both to benefit their own career and to improve lab finances. However, being awarded a fellowship is not a requirement. In cases when a researcher acquires their own funding through a competitive fellowship [Link], this often comes with an increased salary. It may also come with dedicated funding for a lab technician to be managed by the researcher.<br/>
+<br/>
+It is possible for postdoctoral fellows to be promoted to a senior-researcher level through an established institutional process. This is often most successful after acquiring their own grant or publishing a paper. I encourage all researchers to apply for promotion and will review the possibility during annual appraisals.<br/>
+<br/>
+I will be transparent with postdoctoral researchers about the available funding for their position when they join the lab, and will discuss any.
+</i>
+</details>
 
 
 

@@ -115,9 +115,9 @@ The institutional language at the Italian Institute of Technology is English; no
 </summary>
 <br/>
 <i><b>Details: </b> This consists of three <b>required</b> steps: <br/>
-  1.	Feature the SAFE Labs logo on your website.<br/>
-  2.	Join the SAFE Labs mailing list.<br/>
-  3.	Link to the Lab Culture Handbook for accountability and feedback from lab members.<br/>
+&nbsp;&nbsp;&nbsp; 1.	Feature the SAFE Labs logo on your website.<br/>
+&nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
+&nbsp;&nbsp;&nbsp; 3.	Link to the Lab Culture Handbook for accountability and feedback from lab members.<br/>
  <br/>
 </details>
 
@@ -183,10 +183,10 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -Provide an avenue for lab members to raise concerns with you anonymously. <br/>
   <br/>
 <b>Example: </b> <br/>
-1.	If comfortable doing so, request a meeting to raise the issue with the group leader. <br/>
-2.	If not, please raise the issue anonymously by using this form. <br/>
-3.	If external involvement would be beneficial, contact our dedicated external advisor. <br/>
-4.	If none of the above steps fare appropriate, raise the issue with HR here. <br/>
+&nbsp;&nbsp;&nbsp; 1.	If comfortable doing so, request a meeting to raise the issue with the group leader. <br/>
+&nbsp;&nbsp;&nbsp; 2.	If not, please raise the issue anonymously by using this form. <br/>
+&nbsp;&nbsp;&nbsp; 3.	If external involvement would be beneficial, contact our dedicated external advisor. <br/>
+&nbsp;&nbsp;&nbsp; 4.	If none of the above steps fare appropriate, raise the issue with HR here. <br/>
 </i>
 </details>
 
@@ -213,6 +213,25 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 <br/>
 </details>
 
+
+<details>
+<summary> <b> <code> ... my expectations for working hours, remote working, and vacation. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Lab rules for working hours should be clear to avoid any conflict or misunderstanding inside the lab. Having clear expectations for working hours can also increase equity between lab members. Moreover, group leaders need to ensure that lab members feel safe to correctly balance their work in the lab with their life. <b>The lab policy regarding work hours, remote working, and vacation should be explicitly included.</b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Should notice of holidays be given and how? <br/>
+-Are there core-working hours (typically less than the full working hours)? <br/>
+-Should lab members schedule messages if sent outside of working hours? <br/>
+-What times are appropriate times for scheduling meetings? <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
+
+
+
 <details>
 <summary> <b> <code> ... an overview of the regular meetings in the lab, and my expectations for participation. </code> </b>  <br/>
 </summary>
@@ -222,11 +241,11 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 <b>Suggestions:</b> <br/>
 -Discuss 1-on-1 meeting frequency at onboarding, and review in annual appraisals. <br/>
 -Create a shared space where past presentations can be accessed.<br/>
--Encourage participation and involvement from all lab members, for example:
-  1. Round table feedback
-  2. Lab members write down their thoughts, then all of them are read.
-  3. Allocate time in meetings for problem solving and a brainstorming session.
-  4. Have a meeting facilitator and/or note taker; rotate among lab members.
+-Encourage participation and involvement from all lab members, for example:<br/>
+&nbsp;&nbsp;&nbsp; 1. Round table feedback<br/>
+&nbsp;&nbsp;&nbsp; 2. Lab members write down their thoughts, then all of them are read.<br/>
+&nbsp;&nbsp;&nbsp; 3. Allocate time in meetings for problem solving and a brainstorming session.<br/>
+&nbsp;&nbsp;&nbsp; 4. Have a meeting facilitator and/or note taker; rotate among lab members.<br/>
 -Conduct regular team-building activities (e.g. lab retreat, dinners, celebrations).<br/>
   <br/>
 <b>Example: </b> <br/>
@@ -243,7 +262,102 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 </details>
 
 <details>
-<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+<summary> <b> <code> ... the responsibilities of each lab role and the training provided. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Each group leader has their own expectations for lab roles (PhD students, postdoctoral researchers, lab technicians etc.). By explicitly stating the responsibilities associated to different positions, group leaders can pre-empt expectation mismatch for prospective lab members before and after they join the lab. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-What is the training/experience/independence expected for each role?<br/>
+-Does the role involve a research project?<br/>
+-Does the role involve applying for funding?<br/>
+-Does the role involve supervising other lab members?<br/>
+-Will the role be supervised by another lab member?<br/>
+-Does the role involve house-keeping tasks?<br/>
+-What level of supervision/training will be offered?<br/>
+  <br/>
+<b>Example: </b> <br/>
+Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.</i>
+</details>
+
+
+
+
+
+
+**I commit to _document_ …**
+<details>
+<summary> <b> <code> ... the onboarding procedure for new lab members. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> A clear onboarding process should not only ensure that lab members complete essential administrative processes, but also that each lab member starts with the same level of pastoral support and lab-integration. <b>This process must include the sharing and discussion of this Lab Culture Handbook.</b> <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Send general email to introduce new lab members. <br/>
+-Signing a contract/being added to payroll. <br/>
+-Getting an ID & institutional email address. <br/>
+-Fire/safety inductions. <br/>
+-Lab access. <br/>
+-Joining lab calendar/wiki/slack etc.<br/>
+-Assigning a workstation.<br/>
+-Schedule 1-on-1 meetings with the group leader, and discuss their frequency.<br/>
+-Mandatory institutional courses.<br/>
+-Pairing with a “lab buddy” to act as a point of contact etc.<br/>
+  <br/>
+<b>Example: </b> <br/>
+  Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing. 
+
+Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.
+</i>
+</details>
+
+
+
+
+
+
+
+**I commit to _establish_ …**
+<details>
+<summary> <b> <code> ... annual lab-wide feedback sessions. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Implementing guidelines for giving and receiving is good practice to enhance communication and foster a positive work environment. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-In a large lab, could be an anonymous survey.  <br/>
+-In a small lab, could involve explicitly soliciting non-anonymous feedback.  <br/>
+-New group leaders could combine lab retreats/lab meetings to improve feedback.  <br/>
+-Communicate feedback decisions and if suggestions are not implemented, explain why.  <br/>
+-Follow up on feedback implementation. 
+  <br/>
+</details>
+
+
+<details>
+<summary> <b> <code> ... annual feedback and appraisal sessions for each lab member. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Having (at least) an annual 1-on-1 meeting with each lab member dedicated to discussing feedback and career development. This is required by some, but not all, institutions. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Discuss career development and courses for both scientific and non-scientific skills.<br/>
+-Review the frequency of 1-on-1 meetings for the upcoming year.<br/>
+-Discuss grant-writing opportunities and plan application strategy. <br/>
+-Consider quarterly meetings to discuss career goals.<br/>
+-Solicit feedback on improving your mentorship and the lab support.<br/>
+-Evaluate project progression based on milestones, rather than just specific results.<br/>
+-Celebrate all publications equally regardless of journal. <br/>
+-Acknowledge the element of luck in all scientific endeavours.<br/>
+-Avoid the phrase ‘negative results’: all results are discoveries; hypotheses can be falsified.<br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
+
+
+<details>
+<summary> <b> <code> ... annual lab-wide meetings to normalise failures. </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> DETAILS HERE <br/>
@@ -257,7 +371,7 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 </details>
 
 <details>
-<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+<summary> <b> <code> ... a mechanism to record key outcomes from each 1-on-1 meeting. </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> DETAILS HERE <br/>
@@ -270,7 +384,33 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
   EXAMPLE HERE</i>
 </details>
 
+<details>
+<summary> <b> <code> ... equal access to lab resources for lab members in the same role.  </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
 
+<details>
+<summary> <b> <code> ... a “PhD Committee” to annually monitor progress and mediate feedback. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> DETAILS HERE <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-SUGGESTION 1 <br/>
+-SUGGESTION 2 <br/>
+  <br/>
+<b>Example: </b> <br/>
+  EXAMPLE HERE</i>
+</details>
 
 
 

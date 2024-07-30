@@ -24,7 +24,7 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 
 # Commitments
 ## SAFE Policies
-**I commit to _publicly document_ …**
+**I commit to _publicly document_ ...**
 <details>
 <summary> <b> <code>... a diversity statement.</code> </b>  <br/>
 </summary>
@@ -68,12 +68,12 @@ All lab members are expected to maintain a professional attitude of integrity, a
 <i><b>Details: </b> Laboratories consume a lot of energy and produce a lot of waste. Group leaders are able to promote measures that reduce the environmental impact of scientific research, and prospective lab members may use environmental awareness as a factor when choosing labs. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--Require sustainable transport options when travel time is < 8 hours.  <br/>
+-Require sustainable transport options when travel time is less than 8 hours.  <br/> 
 -Recycle non-hazardous waste. <br/>
 -Place orders in bulk to reduce shipments.  <br/> 
 -Have a list of instruments you are happy to share with your internal collaborators.  <br/>
 -Donate unused equipment within/outside the institutions.  <br/>
--Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes).  <br/>
+-Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes). <br/>
   <br/>
 <b>Example: </b> <br/>
 The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment. <br/>
@@ -82,8 +82,7 @@ Travel: I encourage sustainable transport options both for long-haul travel and 
 <br/>
 Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local <br/>regulations. 
 <br/>
-Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.<br/>
-</i>
+Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted. </i>
 </details>
 
 
@@ -121,7 +120,7 @@ The institutional language at the Italian Institute of Technology is English; no
  <br/>
 </details>
 
-**I commit to _document_ …**
+**I commit to _document_ ...**
 <details>
 <summary> <b> <code> ... the procedure for reporting bullying and/or harassment. </code> </b>  <br/>
 </summary>
@@ -201,16 +200,18 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -Clear instructions for reporting different statuses (e.g. vacation vs conference attendance).<br/>
 -What specific details should be reported? (e.g. half-day vs full day).<br/>
   <br/>
+  </i>
 </details>
 
 ## SAFE Teams
-**I commit to _publicly document_ …**
+**I commit to _publicly document_ ...**
 <details>
 <summary> <b> <code> ... a list of lab members and alumni. </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, <b> contact details for each person should be included.</b> Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. <br/>
 <br/>
+  </i>
 </details>
 
 
@@ -219,7 +220,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 </summary>
 <br/>
 <i><b>Details: </b> Lab rules for working hours should be clear to avoid any conflict or misunderstanding inside the lab. Having clear expectations for working hours can also increase equity between lab members. Moreover, group leaders need to ensure that lab members feel safe to correctly balance their work in the lab with their life. <b>The lab policy regarding work hours, remote working, and vacation should be explicitly included.</b> <br/>
-<br/>
+<br/> 
 <b>Suggestions:</b> <br/>
 -Should notice of holidays be given and how? <br/>
 -Are there core-working hours (typically less than the full working hours)? <br/>
@@ -227,12 +228,11 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -What times are appropriate times for scheduling meetings? <br/>
   <br/>
 <b>Example: </b> <br/>
-I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX’s prescribed 41 days of annual leave. “Minimum” because if experiments necessitate working on a weekend, or you attend a conference that’s scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL’s “core” work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
-
-All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to “three”) once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.
+I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX’s prescribed 41 days of annual leave. “Minimum” because if experiments necessitate working on a weekend, or you attend a conference that’s scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL’s “core” work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.<br/>
+  <br/>
+  All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to “three”)  once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.
 </i>
 </details>
-
 
 
 <details>
@@ -285,10 +285,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 
 
 
-
-
-
-**I commit to _document_ …**
+**I commit to _document_ ...**
 <details>
 <summary> <b> <code> ... the onboarding procedure for new lab members. </code> </b>  <br/>
 </summary>
@@ -316,7 +313,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 
 
 
-**I commit to _establish_ …**
+**I commit to _establish_ ...**
 <details>
 <summary> <b> <code> ... annual lab-wide feedback sessions. </code> </b>  <br/>
 </summary>
@@ -420,7 +417,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 ## SAFE Careers
 
-**I commit to _publicly document_ …**
+**I commit to _publicly document_ ...**
 <details>
 <summary> <b> <code> ... which contributions constitute authorship on a scientific paper. </code> </b>  <br/>
 </summary>
@@ -535,7 +532,7 @@ I will be transparent with postdoctoral researchers about the available funding 
 </details>
 
 
-**I commit to _document_ …**
+**I commit to _document_ ...**
 <details>
 <summary> <b> <code> ... the procedure for requesting reference letters. </code> </b>  <br/>
 </summary>
@@ -576,7 +573,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 </details>
 
 
-**I commit to _establish_ …**
+**I commit to _establish_ ...**
 <details>
 <summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for “core skills”. </code> </b>  <br/>
 </summary>

@@ -538,34 +538,43 @@ I understand that postdoctoral researchers joining the lab may have ongoing work
 
 **I commit to _document_ …**
 <details>
-<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+<summary> <b> <code> ... the procedure for requesting reference letters. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b>  Career progression, grants, and competitive applications often require reference letters from mentors and supervisors. However, it is not uncommon to reuse the same letter with minimal changes, or even ask lab members to draft their own letters. These practices undermine the purpose of the reference system. <b> SAFE Labs group leaders are required to personally write and sign all recommendation letters they agree to provide—possibly in collaboration with a co-supervisor (but never the subject of the letter). </b><br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Specify a generous notification period for requests. <br/>
+-Be transparent about your references if performance was not satisfactory. <br/>
+-Collaborate and include lab members as signatories for their supervisees. <br/>
   <br/>
 <b>Example: </b> <br/>
-  EXAMPLE HERE</i>
+  Reference letters will be provided to lab members at request, but these requests should be made at least 2 weeks in advance of the deadline for the first reference letter, and at least 1 week in advance for subsequent letters. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.</i>
 </details>
 
 <details>
-<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+<summary> <b> <code> ... the procedure for leaving the lab, including an exit interview. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> Staff and students can choose to leave a lab for a variety reasons. If the expectations for the person leaving are clearly stated in advance (e.g. typical timeline, procedure, and support provided), it will help to make the process as smooth and amicable as possible. <b> Exit interviews are a requisite part of this process in SAFE Labs. </b> They are invaluable for identifying aspects of the lab that work well, and which could be improved. However, exit interviews are often not implemented in academia. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Encourage lab members to come to you freely if they are thinking of leaving.  <br/>
+-Can lab members write grants for independence during regular work hours?  <br/>
+-Will you read grant applications, and how much notice will you need?  <br/>
+-How much notice should be given by lab members before leaving?  <br/>
+-What are the handover steps? (e.g. knowledge transfer, labelling reagents, data storage).  <br/>
+-The exit interview could be conducted by someone external to the lab to improve feedback.  <br/>
+-Exit interviews should have standard questions and identify the reason for leaving the lab. <br/>
   <br/>
 <b>Example: </b> <br/>
-  EXAMPLE HERE</i>
+I aim to provide lab members with mentorship and support to secure the next career step in their career. Job and/or grant applications, and preparing for subsequent interviews, takes time. Typically, after discussions during 1-on-1 meetings, I support dedicating up to 25% of research time to this endeavour. <br/>
+<br/>
+I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearse interview talks. However, academia is one of many available career paths.  For career paths outside academia, the institute, and external organisations (e.g. Nature Jobs fair), offer events and workshops. I support lab members making use of these resources. <br/>
+<br/>
+<br/> I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience. 
+</i>
 </details>
-
-
 
 
 **I commit to _establish_ …**
@@ -592,64 +601,64 @@ I understand that postdoctoral researchers joining the lab may have ongoing work
 
   <br/>
 <b>Example interview questions: </b> <br/>
-Skills/motivation:
--Among your skills, which is most important to this project?
--You are applying to work on project X, where do you think this project could take us?
--You have mentioned experience with technique Y, can you briefly explain how it works?
--Can you tell us about a time when you had to solve a problem on your own?
--This project is focused on question X, what do you know about the current state of the field?
--Are you aware of any other lab working on similar/related topics?
--What is your career plan for the next 10 years?
--What motivates you to work in science?
--Which specific training are you hoping to gain by joining our lab? 
+<ins>Skills/motivation: </ins><br/>
+-Among your skills, which is most important to this project?<br/>
+-You are applying to work on project X, where do you think this project could take us?<br/>
+-You have mentioned experience with technique Y, can you briefly explain how it works?<br/>
+-Can you tell us about a time when you had to solve a problem on your own?<br/>
+-This project is focused on question X, what do you know about the current state of the field?<br/>
+-Are you aware of any other lab working on similar/related topics?<br/>
+-What is your career plan for the next 10 years?<br/>
+-What motivates you to work in science?<br/>
+-Which specific training are you hoping to gain by joining our lab? <br/>
  
-Core skills/communication:
--Can you briefly explain your latest discovery to someone without a scientific background?
--What strategies do you use to keep yourself organised?
--Give an example of a creative solution you used to to solve a problem (at or outside work)?
--How would you set priorities if you spread too thin and struggling to meet deadlines?
--You need to learn a new method (to the lab), how do you approach the problem?
-- Can you give an example of a situation when you had to act like a leader?
-- Could you provide an example of a situation that would highlight your organisational skills?
+<ins>Core skills/communication:</ins><br/>
+-Can you briefly explain your latest discovery to someone without a scientific background?<br/>
+-What strategies do you use to keep yourself organised?<br/>
+-Give an example of a creative solution you used to to solve a problem (at or outside work)?<br/>
+-How would you set priorities if you spread too thin and struggling to meet deadlines?<br/>
+-You need to learn a new method (to the lab), how do you approach the problem?<br/>
+-Can you give an example of a situation when you had to act like a leader?<br/>
+-Could you provide an example of a situation that would highlight your organisational skills?<br/>
  
-Lab attitude (precision, thoroughness, ethics, attention to SAFE):
--What strategies do you use to ensure reproducibility in your results?
--What strategy do you use to store/archive data?
--How do you keep your code organised?
--If you realised you made an error at your work, how would you handle it?
--You suspect you’ve made an error in a procedure, how do confirm/refute this suspicion?
--Are you familiar with the concept of 3R's? Can you briefly explain them?
--Your believe your project overlaps with another lab member, how do you deal with this?
--What would you do if you realised a colleague was mis-conducting their research?
+<ins>Lab attitude (precision, thoroughness, ethics, attention to SAFE):</ins><br/>
+-What strategies do you use to ensure reproducibility in your results?<br/>
+-What strategy do you use to store/archive data?<br/>
+-How do you keep your code organised?<br/>
+-If you realised you made an error at your work, how would you handle it?<br/>
+-You suspect you’ve made an error in a procedure, how do confirm/refute this suspicion? <br/>
+-Are you familiar with the concept of 3R's? Can you briefly explain them?<br/>
+-Your believe your project overlaps with another lab member, how do you deal with this?<br/>
+-What would you do if you realised a colleague was mis-conducting their research?<br/>
 </i>
 </details>
 
-
 <details>
-<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+<summary> <b> <code> ... a mechanism for sharing lab management updates. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> Lab members are often considering academia as a potential career. It informs that decision to understand how the group leader runs the lab, the responsibilities they have, and the process of funding a research team. However, lab members are typically shielded from this information. To improve transparency, and give lab members a greater insight into academic careers, group leaders should regularly communicate details of lab management. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Give an annual, or bi-annual, lab meeting on the topic of lab management.<br/>
+-Sent out a regular update with the most recent lab developments information.<br/>
+-Discuss spending, grant applications, and outlook for the future.<br/>
+-Solicit feedback on grant applications and funding considerations.<br/>
   <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
 </details>
 
 
 <details>
-<summary> <b> <code> ... COMMITMENT HERE. </code> </b>  <br/>
+<summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for “core skills”. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> DETAILS HERE <br/>
+<i><b>Details: </b> Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process, but also alerts other lab members to potential opportunities. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--SUGGESTION 1 <br/>
--SUGGESTION 2 <br/>
+-Each lab member discusses training they have undertaken and shares a learning outcome. <br/> 
+-Survey the need for focused training: e.g. review papers, poster presentation, paper writing. <br/>
+-In the leadup to the meeting, draw attention to the resources available. <br/>
+-Books and resources for self-education. <br/>
+-Group leader should discuss spending, grants and outlook for the future.<br/>
   <br/>
-<b>Example: </b> <br/>
-  EXAMPLE HERE</i>
 </details>

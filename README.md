@@ -313,10 +313,6 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 
 
 
-
-
-
-
 **I commit to _establish_ …**
 <details>
 <summary> <b> <code> ... annual lab-wide feedback sessions. </code> </b>  <br/>
@@ -579,6 +575,34 @@ I understand that people decide to leave the lab for different reasons, and may 
 
 **I commit to _establish_ …**
 <details>
+<summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for “core skills”. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process, but also alerts other lab members to potential opportunities. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Each lab member discusses training they have undertaken and shares a learning outcome. <br/> 
+-Survey the need for focused training: e.g. review papers, poster presentation, paper writing. <br/>
+-In the leadup to the meeting, draw attention to the resources available. <br/>
+-Books and resources for self-education. <br/>
+-Group leader should discuss spending, grants and outlook for the future.<br/>
+  <br/>
+</details>
+
+<details>
+<summary> <b> <code> ... a mechanism for sharing lab management updates. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Lab members are often considering academia as a potential career. It informs that decision to understand how the group leader runs the lab, the responsibilities they have, and the process of funding a research team. However, lab members are typically shielded from this information. To improve transparency, and give lab members a greater insight into academic careers, group leaders should regularly communicate details of lab management. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Give an annual, or bi-annual, lab meeting on the topic of lab management.<br/>
+-Sent out a regular update with the most recent lab developments information.<br/>
+-Discuss spending, grant applications, and outlook for the future.<br/>
+-Solicit feedback on grant applications and funding considerations.<br/>
+</details>
+
+<details>
 <summary> <b> <code> ... an objective and equitable interview process. </code> </b>  <br/>
 </summary>
 <br/>
@@ -631,32 +655,4 @@ I understand that people decide to leave the lab for different reasons, and may 
 -Your believe your project overlaps with another lab member, how do you deal with this?<br/>
 -What would you do if you realised a colleague was mis-conducting their research?<br/>
 </i>
-</details>
-
-<details>
-<summary> <b> <code> ... a mechanism for sharing lab management updates. </code> </b>  <br/>
-</summary>
-<br/>
-<i><b>Details: </b> Lab members are often considering academia as a potential career. It informs that decision to understand how the group leader runs the lab, the responsibilities they have, and the process of funding a research team. However, lab members are typically shielded from this information. To improve transparency, and give lab members a greater insight into academic careers, group leaders should regularly communicate details of lab management. <br/>
-<br/>
-<b>Suggestions:</b> <br/>
--Give an annual, or bi-annual, lab meeting on the topic of lab management.<br/>
--Sent out a regular update with the most recent lab developments information.<br/>
--Discuss spending, grant applications, and outlook for the future.<br/>
--Solicit feedback on grant applications and funding considerations.<br/>
-</details>
-
-<details>
-<summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for “core skills”. </code> </b>  <br/>
-</summary>
-<br/>
-<i><b>Details: </b> Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process, but also alerts other lab members to potential opportunities. <br/>
-<br/>
-<b>Suggestions:</b> <br/>
--Each lab member discusses training they have undertaken and shares a learning outcome. <br/> 
--Survey the need for focused training: e.g. review papers, poster presentation, paper writing. <br/>
--In the leadup to the meeting, draw attention to the resources available. <br/>
--Books and resources for self-education. <br/>
--Group leader should discuss spending, grants and outlook for the future.<br/>
-  <br/>
 </details>

@@ -282,27 +282,27 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 <b>Example: </b> <br/>
 Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.</i>
 
-|   |***Postdoc***|***PhD***|***Undergrad***|***Assistant/Engineer***|
+|   |**Postdoc**|**PhD**|**Undergrad**|**Assistant/Engineer**|
 |--:|:-------:|:---:|:---------:|:-------------------:|
 |${\color{green}Supervision}$|--------------|------------|-----------|--------------------|
 |*Supervised by*|PI|PI & Postdoc|-PI/Postdoc|PI|
 |*Supervising*|PhD, Undergrad|Undergrad|N|N|
 |${\color{green}Research}$|--------------|------------|-----------|--------------------|
-|Independent Project|Y|Y|N|N|
-|Experimental work|Y|Y|Y|Y|
-|Analysis|Y|Y|Y|N|
-|Paper Writing|Y|Y|N|N|
-|Conference presentation|Y|Y|N|N|
+|*Independent Project*|Y|Y|N|N|
+|*Experimental work*|Y|Y|Y|Y|
+|*Analysis*|Y|Y|Y|N|
+|*Paper Writing*|Y|Y|N|N|
+|*Conference presentation*|Y|Y|N|N|
 |${\color{green}Funding}$|--------------|------------|-----------|--------------------|
-|Applications|Y|N|N|N|
-|Help PI grants|Y|Y|N|N|
+|*Applications*|Y|N|N|N|
+|*Help PI grants*|Y|Y|N|N|
 |${\color{green}Lab \space citizenship}$|--------------|------------|-----------|--------------------|
-|Data Club|Y|Y|Y|N|
-|Journal Club|Y|Y|Y|N|
-|Paper review|Y|Y|N|N|
+|*Data Club*|Y|Y|Y|N|
+|Journal Club*|Y|Y|Y|N|
+|*Paper review*|Y|Y|N|N|
 |${\color{green}Housekeeping}$|--------------|------------|-----------|--------------------|
-|Orders|Y|Y|N|Y|
-|Animal colony|Y|Y|N|Y|
+|*Orders*|Y|Y|N|Y|
+|*Animal colony*|Y|Y|N|Y|
 
 </details>
 

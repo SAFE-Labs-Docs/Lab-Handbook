@@ -68,9 +68,9 @@ All lab members are expected to maintain a professional attitude of integrity, a
 <i><b>Details: </b> Laboratories consume a lot of energy and produce a lot of waste. Group leaders are able to promote measures that reduce the environmental impact of scientific research, and prospective lab members may use environmental awareness as a factor when choosing labs. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--Require sustainable transport options when travel time is less than 8 hours.  <br/> 
+-Require sustainable transport options when travel time is less than 8 hours.  <br/>
 -Recycle non-hazardous waste. <br/>
--Place orders in bulk to reduce shipments.  <br/> 
+-Place orders in bulk to reduce shipments.  <br/>
 -Have a list of instruments you are happy to share with your internal collaborators.  <br/>
 -Donate unused equipment within/outside the institutions.  <br/>
 -Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes). <br/>
@@ -80,7 +80,7 @@ The lab strives to minimise energy consumption and waste production. We identifi
 <br/>
 Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, I will cover the most sustainable travel option (up to double the price of the cheapest alternative). I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work related) trips. I incentivize sustainable options for daily commute: PhD students enrolled at University of Trento benefit from free public transportation across the Trentino region; all the lab members can participate in an annual contest where commuting milage is logged and scored according to sustainability of the means of transport, the person who accrues the most points wins.<br/>
 <br/>
-Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local <br/>regulations. 
+Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local <br/>regulations.
 <br/>
 Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted. </i>
 </details>
@@ -220,7 +220,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 </summary>
 <br/>
 <i><b>Details: </b> Lab rules for working hours should be clear to avoid any conflict or misunderstanding inside the lab. Having clear expectations for working hours can also increase equity between lab members. Moreover, group leaders need to ensure that lab members feel safe to correctly balance their work in the lab with their life. <b>The lab policy regarding work hours, remote working, and vacation should be explicitly included.</b> <br/>
-<br/> 
+<br/>
 <b>Suggestions:</b> <br/>
 -Should notice of holidays be given and how? <br/>
 -Are there core-working hours (typically less than the full working hours)? <br/>
@@ -281,6 +281,29 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
   <br/>
 <b>Example: </b> <br/>
 Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.</i>
+
+|   |**Postdoc**|***PhD**|**Undergrad**|**Assistant/Engineer**|
+|--:|:-------:|:---:|:---------:|:-------------------:|
+|${\color{green}Supervision}$|--------------|------------|-----------|--------------------|
+|*Supervised by*|PI|PI & Postdoc|-PI/Postdoc|PI|
+|*Supervising*|PhD, Undergrad|Undergrad|N|N|
+|${\color{green}Research}$|--------------|------------|-----------|--------------------|
+|Independent Project|Y|Y|N|N|
+|Experimental work|Y|Y|Y|Y|
+|Analysis|Y|Y|Y|N|
+|Paper Writing|Y|Y|N|N|
+|Conference presentation|Y|Y|N|N|
+|${\color{green}Funding}$|--------------|------------|-----------|--------------------|
+|Applications|Y|N|N|N|
+|Help PI grants|Y|Y|N|N|
+|${\color{green}Lab citizenship}$|--------------|------------|-----------|--------------------|
+|Data Club|Y|Y|Y|N|
+|Journal Club|Y|Y|Y|N|
+|Paper review|Y|Y|N|N|
+|${\color{green}Housekeeping}$|--------------|------------|-----------|--------------------|
+|Orders|Y|Y|N|Y|
+|Animal colony|Y|Y|N|Y|
+
 </details>
 
 
@@ -305,7 +328,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 -Pairing with a “lab buddy” to act as a point of contact etc.<br/>
   <br/>
 <b>Example: </b> <br/>
-  Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing. 
+  Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
 
 Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.
 </i>
@@ -325,7 +348,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -In a small lab, could involve explicitly soliciting non-anonymous feedback.  <br/>
 -New group leaders could combine lab retreats/lab meetings to improve feedback.  <br/>
 -Communicate feedback decisions and if suggestions are not implemented, explain why.  <br/>
--Follow up on feedback implementation. 
+-Follow up on feedback implementation.
   <br/> </i>
 </details>
 
@@ -454,7 +477,7 @@ Every PhD and postdoctoral researcher position in the lab inevitably has its own
 <br/>
 <b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
 <br/>
-<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding). 
+<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).
 </i>
 </details>
 
@@ -573,7 +596,7 @@ I aim to provide lab members with mentorship and support to secure the next care
 <br/>
 I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearse interview talks. However, academia is one of many available career paths.  For career paths outside academia, the institute, and external organisations (e.g. Nature Jobs fair), offer events and workshops. I support lab members making use of these resources. <br/>
 <br/>
-I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience. 
+I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience.
 </i>
 </details>
 
@@ -586,7 +609,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 <i><b>Details: </b> Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process, but also alerts other lab members to potential opportunities. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
--Each lab member discusses training they have undertaken and shares a learning outcome. <br/> 
+-Each lab member discusses training they have undertaken and shares a learning outcome. <br/>
 -Survey the need for focused training: e.g. review papers, poster presentation, paper writing. <br/>
 -In the leadup to the meeting, draw attention to the resources available. <br/>
 -Books and resources for self-education. <br/>

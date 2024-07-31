@@ -296,7 +296,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 |${\color{green}Funding}$|--------------|------------|-----------|--------------------|
 |Applications|Y|N|N|N|
 |Help PI grants|Y|Y|N|N|
-|${\color{green}Lab citizenship}$|--------------|------------|-----------|--------------------|
+|${\color{green}Lab \space citizenship}$|--------------|------------|-----------|--------------------|
 |Data Club|Y|Y|Y|N|
 |Journal Club|Y|Y|Y|N|
 |Paper review|Y|Y|N|N|

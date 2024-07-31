@@ -282,7 +282,7 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 <b>Example: </b> <br/>
 Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.</i>
 
-|   |**Postdoc**|***PhD**|**Undergrad**|**Assistant/Engineer**|
+|   |***Postdoc***|***PhD***|***Undergrad***|***Assistant/Engineer***|
 |--:|:-------:|:---:|:---------:|:-------------------:|
 |${\color{green}Supervision}$|--------------|------------|-----------|--------------------|
 |*Supervised by*|PI|PI & Postdoc|-PI/Postdoc|PI|

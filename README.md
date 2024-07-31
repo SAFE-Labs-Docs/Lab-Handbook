@@ -284,7 +284,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 
 |   |**Postdoc**|**PhD**|**Undergrad**|**Assistant/Engineer**|
 |--:|:-------:|:---:|:---------:|:-------------------:|
-|<span style="font-family: Source Code Pro; padding: 20px; background-color: #000000; color: #fff;">Supervision</span> |--------------|------------|-----------|--------------------|
+|${\color{green}Supervision}$|--------------|------------|-----------|--------------------|
 |*Supervised by*|PI|PI & Postdoc|-PI/Postdoc|PI|
 |*Supervising*|PhD, Undergrad|Undergrad|N|N|
 |${\color{green}Research}$|--------------|------------|-----------|--------------------|

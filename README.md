@@ -375,10 +375,10 @@ The above policies pertain to communal lab resources. Individuals with their own
 
 
 <details>
-<summary> <b> <code> ... annual feedback and appraisal sessions for each lab member. </code> </b>  <br/>
+<summary> <b> <code> ... annual bilateral feedback and appraisal sessions for each lab member. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> Having (at least) an annual 1-on-1 meeting with each lab member dedicated to discussing feedback and career development. This is required by some, but not all, institutions. <br/>
+<i><b>Details: </b> Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exchanging bilateral feedback and giving advice on career development. This is required by some, but not all, institutions. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
 -Discuss career development and courses for both scientific and non-scientific skills.<br/>

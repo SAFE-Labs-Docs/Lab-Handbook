@@ -350,9 +350,9 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -Document the feedback process to report any perceived inequalities. <br/>
   <br/>
 <b>Example: </b> <br/>
-I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Link].
-  
-Individuals with grants which, for example, allow them to hire a technician or travel to conference will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
+I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Link].  <br/>
+<br/>
+The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
 </i>
 </details>
 

@@ -334,6 +334,27 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 </i>
 </details>
 
+<details>
+<summary> <b> <code> ... how equal access to lab resources across lab members is maintained.  </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Most lab members will quickly recognise any disparities of time and resource investment in different projects or people. These may arise for valid strategic reasons: funding priorities, timeliness of publication, contractual needs. Having clear and transparent policies for access to lab resources avoids biases from the group leader, inter-personal conflict, and fosters cooperativity between projects. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Implement a shared lab calendar and booking system for communal instruments.<br/>
+-Monitor and enforce respectful and fair booking schedules.<br/>
+-Discuss project investment at onboarding.<br/>
+-Keep a record of expenditure for different projects.<br/>
+-Implement a task request system for shared lab technicians (e.g. apps in Teams). <br/>
+-Prioritise publications based on agreed plan rather than impact. <br/>
+-Document the feedback process to report any perceived inequalities. <br/>
+  <br/>
+<b>Example: </b> <br/>
+I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Link].
+  
+Individuals with grants which, for example, allow them to hire a technician or travel to conference will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
+</i>
+</details>
 
 
 **I commit to _establish_ ...**
@@ -404,24 +425,6 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -Lab members should take notes during the meeting.<br/>
 -Group leader should read the document after/before meetings (to catch misunderstandings).<br/>
 -Other solutions include allowing the lab member to record meetings (e.g. via zoom).<br/>
-</i>
-</details>
-
-<details>
-<summary> <b> <code> ... equal access to lab resources for lab members in the same role.  </code> </b>  <br/>
-</summary>
-<br/>
-<i><b>Details: </b> Most lab members will quickly recognise any disparities of time and resource investment in different projects or people. These may arise for valid strategic reasons: funding priorities, timeliness of publication, contractual needs. Having clear and transparent policies for access to lab resources avoids biases from the group leader, inter-personal conflict, and fosters cooperativity between projects. <br/>
-<br/>
-<b>Suggestions:</b> <br/>
--Implement a shared lab calendar and booking system for communal instruments.<br/>
--Monitor and enforce respectful and fair booking schedules.<br/>
--Discuss project investment at onboarding.<br/>
--Keep a record of expenditure for different projects.<br/>
--Implement a task request system for shared lab technicians (e.g. apps in Teams). <br/>
--Prioritise publications based on agreed plan rather than impact. <br/>
--Document the feedback process to report any perceived inequalities. <br/>
-  <br/>
 </i>
 </details>
 

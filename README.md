@@ -7,7 +7,7 @@ There is no “correct” way to run a research group: approaches vary across gr
 
 For example, “I commit to supporting a healthy work-life balance for my lab members” will not be in this handbook because the commitment cannot be verified.<br/>
 <br/>
-This handbook does not represent an optimal or exhaustive list: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. The handbook will improve through community feedback and further dedicated workshops. Labs that implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website, and should register for the SAFE Labs mailing list. <br/>
+This handbook does not represent an optimal or exhaustive list: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. Although this handbook will not solve every problem, we hope it takes a significant step toward addressing key challenges faced in daily lab life. The handbook will improve through community feedback and further dedicated workshops. Labs that implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website, and should register for the SAFE Labs mailing list. <br/>
 
 ## Sections for each commitment:
 _**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).<br/>

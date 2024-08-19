@@ -162,9 +162,9 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 <b>Example: </b> <br/>
 Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia (https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed working regular work hours. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support, I encourage you to consider the following resources:<br/>
 <br/>
-Counseling Services: Our institution offers free counseling services [link] and free 1-on-1 coaching [link] for all students and employees. Please also consult the institute’s resources on a healthy work-life balance [link].<br/>
+Counseling Services: Our institution offers free counseling services [Insert Link] and free 1-on-1 coaching [Insert Link] for all students and employees. Please also consult the institute’s resources on a healthy work-life balance [Insert Link].<br/>
 <br/>
-Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [link].<br/>
+Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [Insert Link].<br/>
 <br/>
 Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].
 </i>
@@ -328,7 +328,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 -Pairing with a “lab buddy” to act as a point of contact etc.<br/>
   <br/>
 <b>Example: </b> <br/>
-  Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
+  Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Insert Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
 
 Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.
 </i>
@@ -350,7 +350,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -Document the feedback process to report any perceived inequalities. <br/>
   <br/>
 <b>Example: </b> <br/>
-I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Link].  <br/>
+I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Insert Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Insert Link].  <br/>
 <br/>
 The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
 </i>
@@ -539,9 +539,9 @@ I understand that postdoctoral researchers joining the lab may have ongoing work
 -Encourage postdocs to apply for their own grants (specify if required). <br/>
   <br/>
 <b>Example: </b> <br/>
-At XXX, salaries for postdoctoral researchers are determined by a national grading system [link]. All postdoctoral researchers in the lab start on grade XXXX, unless they have significant prior postdoctoral experience (e.g. have already completed a post doc in a lab other than their PhD lab). At the end of each year, salaries increase by one point on this grading system. <br/>
+At XXX, salaries for postdoctoral researchers are determined by a national grading system [Insert Link]. All postdoctoral researchers in the lab start on grade XXXX, unless they have significant prior postdoctoral experience (e.g. have already completed a post doc in a lab other than their PhD lab). At the end of each year, salaries increase by one point on this grading system. <br/>
 <br/>
-All postdoctoral researchers are required to apply for followships, both to benefit their own career and to improve lab finances. However, being awarded a fellowship is not a requirement. In cases when a researcher acquires their own funding through a competitive fellowship [Link], this often comes with an increased salary. It may also come with dedicated funding for a lab technician to be managed by the researcher.<br/>
+All postdoctoral researchers are required to apply for followships, both to benefit their own career and to improve lab finances. However, being awarded a fellowship is not a requirement. In cases when a researcher acquires their own funding through a competitive fellowship [Insert Link], this often comes with an increased salary. It may also come with dedicated funding for a lab technician to be managed by the researcher.<br/>
 <br/>
 It is possible for postdoctoral fellows to be promoted to a senior-researcher level through an established institutional process. This is often most successful after acquiring their own grant or publishing a paper. I encourage all researchers to apply for promotion and will review the possibility during annual appraisals.<br/>
 <br/>

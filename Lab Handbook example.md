@@ -43,7 +43,7 @@ The institutional language at the Italian Institute of Technology is English; no
 <summary> <b> <code> SAFE Labs endorsement </code> </b>  <br/>
 </summary>
 <br/>
-<i><b> <a href="https://github.com/SAFE-Labs-Docs/Lab-Culture-Handbook/blob/main/Lab%20Handbook%20example.md">CRediT Taxonomy</a> <br/>
+<i><b> <a href="https://github.com/SAFE-Labs-Docs/Lab-Culture-Handbook/blob/main/Lab%20Handbook%20example.md"> SAFE Lab-Culture-Handbook </a> <br/>
  <br/>
 </i></details>
 

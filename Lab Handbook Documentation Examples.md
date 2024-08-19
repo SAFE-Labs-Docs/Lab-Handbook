@@ -91,15 +91,6 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 </i>
 </details>
 
-<details>
-<summary> <b> <code> Lab Calendar </code> </b>  <br/>
-</summary>
-<br/>
-<i> Detailed Instructions goes here<br/>
-  <br/>
-  </i>
-</details>
-
 ## SAFE Teams
 
 <details>

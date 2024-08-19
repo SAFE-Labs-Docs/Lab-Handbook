@@ -49,7 +49,7 @@ The institutional language at the Italian Institute of Technology is English; no
 
 
 <details>
-<summary> <b> <code> Reporting bullying and/or harassment. </code> </b>  <br/>
+<summary> <b> <code> Reporting bullying and/or harassment </code> </b>  <br/>
 </summary>
 <br/>
 <i>
@@ -81,7 +81,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 </details>
 
 <details>
-<summary> <b> <code> Raising lab or inter-personal issues. </code> </b>  <br/>
+<summary> <b> <code> Raising lab or inter-personal issues </code> </b>  <br/>
 </summary>
 <br/>
 <i> &nbsp;&nbsp;&nbsp; 1.	If comfortable doing so, request a meeting to raise the issue with the group leader. <br/>
@@ -94,7 +94,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 ## SAFE Teams
 
 <details>
-<summary> <b> <code> Lab members and alumni. </code> </b>  <br/>
+<summary> <b> <code> Lab members and alumni </code> </b>  <br/>
 </summary>
 <br/>
 <i> A list of current and past lab members can be found here: link <br/>
@@ -104,7 +104,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 
 
 <details>
-<summary> <b> <code> Working hours, remote working, and vacation. </code> </b>  <br/>
+<summary> <b> <code> Working hours, remote working, and vacation </code> </b>  <br/>
 </summary>
 <br/>
 <i>I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX’s prescribed 41 days of annual leave. “Minimum” because if experiments necessitate working on a weekend, or you attend a conference that’s scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL’s “core” work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.<br/>
@@ -162,7 +162,7 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 
 
 <details>
-<summary> <b> <code> Onboarding of new lab members. </code> </b>  <br/>
+<summary> <b> <code> Onboarding of new lab members </code> </b>  <br/>
 </summary>
 <br/>
 <i>  Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
@@ -191,7 +191,7 @@ The above policies pertain to communal lab resources. Individuals with their own
 </details>
 
 <details>
-<summary> <b> <code> Expectations from lab members. </code> </b>  <br/>
+<summary> <b> <code> Expectations from lab members </code> </b>  <br/>
 </summary>
 <br/>
 <i> Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:<br/>
@@ -203,7 +203,7 @@ The above policies pertain to communal lab resources. Individuals with their own
 </details>
 
 <details>
-<summary> <b> <code> Conference/summer school attendance. </code> </b>  <br/>
+<summary> <b> <code> Conference/summer school attendance </code> </b>  <br/>
 </summary>
 <br/>
 <i> I encourage all lab members to seek and apply for training opportunities to develop new expertise, and the lab values initiative to disseminate the lab research at conferences. <br/>
@@ -218,14 +218,14 @@ Master’s students, undergraduates, and lab technicians are also encouraged to 
 
 
 <details>
-<summary> <b> <code> Completing previous work after joining the lab. </code> </b>  <br/>
+<summary> <b> <code> Completing previous work after joining the lab </code> </b>  <br/>
 </summary>
 <br/>
 <i> I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.</i>
 </details>
 
 <details>
-<summary> <b> <code> Funding for postdoctoral researchers. </code> </b>  <br/>
+<summary> <b> <code> Funding for postdoctoral researchers </code> </b>  <br/>
 </summary>
 <br/>
 <i> At XXX, salaries for postdoctoral researchers are determined by a national grading system [link]. All postdoctoral researchers in the lab start on grade XXXX, unless they have significant prior postdoctoral experience (e.g. have already completed a post doc in a lab other than their PhD lab). At the end of each year, salaries increase by one point on this grading system. <br/>
@@ -239,14 +239,14 @@ I will be transparent with postdoctoral researchers about the available funding 
 </details>
 
 <details>
-<summary> <b> <code> VISA support. </code> </b>  <br/>
+<summary> <b> <code> VISA support </code> </b>  <br/>
 </summary>
 <br/>
 <i>  Visa costs when joining the lab from outside the UK vary by the applicant’s citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.</i>
 </details>
 
 <details>
-<summary> <b> <code> Reference letters. </code> </b>  <br/>
+<summary> <b> <code> Reference letters </code> </b>  <br/>
 </summary>
 <br/>
 <i>  Reference letters will be provided to lab members at request, but these requests should be made at least 2 weeks in advance of the deadline for the first reference letter, and at least 1 week in advance for subsequent letters. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.</i>

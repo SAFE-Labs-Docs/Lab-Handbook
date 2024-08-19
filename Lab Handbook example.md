@@ -1,7 +1,6 @@
-# SAFE Labs Handbook
+# Lab Handbook
 Example of Lab Culture Handbook
 
-# Commitments
 ## SAFE Policies
 <details>
 <summary> <b> <code>Diversity statement </code> </b>  <br/>

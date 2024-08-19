@@ -6,7 +6,7 @@ Example of Lab Culture Handbook
 <summary> <b> <code>Diversity statement </code> </b>  <br/>
 </summary>
 <br/>
-<i>Our lab fosters a diverse and inclusive environment. We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. We encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.</i>
+<i> We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus,  To fosters a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices.  We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join. </i>
 </details>
 
 <details>

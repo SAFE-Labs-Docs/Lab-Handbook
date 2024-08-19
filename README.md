@@ -429,10 +429,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 </details>
 
 <details>
-<summary> <b> <code> ... a “PhD Committee” to annually monitor progress and mediate feedback. </code> </b>  <br/>
+<summary> <b> <code> ... a “PhD steering committee” to annually monitor progress and mediate feedback. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> It is important that PhD students receive support and feedback from beyond their direct supervisor. An annual presentation to a PhD Committee provides an impartial perspective on their project (e.g. timeline adjustments, training required). This meeting can identify potential conflicts and issues in the working environment of the PhD student. It also provides an opportunity for the supervisor to raise issues with the committee and request an external opinion. Some institutions already implement this process, others have committees that meet irregularly, and some only form a committee for the final viva. However, <b> all SAFE Labs are required to implement this process—the committee does not need to have any official role in awarding the PhD. </b> <br/>
+<i><b>Details: </b> NOTE: Some institutions already implement this process (e.g. "PhD Committee"), others have committees that meet irregularly, and some only form a committee for the final viva. However, <b> all SAFE Labs are required to implement this process—the steering committee does not need to have any official role in awarding the PhD. </b> It is important that PhD students receive support and feedback from beyond their direct supervisor. An annual presentation to a steering committee provides an impartial perspective on their project (e.g. timeline adjustments, training required). This meeting can identify potential conflicts and issues in the working environment of the PhD student. It also provides an opportunity for the supervisor to raise issues with the committee and request an external opinion. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
 -Have the initial meeting within 6 months of starting the PhD. <br/>

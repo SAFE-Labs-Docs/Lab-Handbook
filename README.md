@@ -10,7 +10,7 @@ For example, “I commit to supporting a healthy work-life balance for my lab me
 <br/>
 This handbook does not represent an optimal or exhaustive template: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. Although this handbook will not solve every problem, we hope it takes a significant step toward addressing key challenges faced in daily lab life. The handbook will improve through community feedback and further dedicated workshops.
 
-HELP US! Please fill out our [survey](https://forms.office.com/e/XYxs1anhdg) to improve and evaluate the handbook!<br/>
+HELP US! Please fill out our [survey](https://forms.office.com/e/XYxs1anhdg) to improve and evaluate the handbook!
 <br/>
 
 We hope that many labs will engage with the SAFE Labs Handbook: who implements—or intends to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list. The core commitments can be adopted as presented, or tailored to each lab research strategy, institution and country. We encourage suggestions for new policies and invite discussion for new ideas via the mailing list.

@@ -2,8 +2,6 @@
 This Handbook is an outcome of the 2024 SAFE Labs workshop: an international engagement initiative, bringing together new bioscience group leaders from across Europe to discuss Starting Aware, Fair, and Equitable Labs. This workshop highlighted the need for a code of practice with actionable “commitments” guiding group leaders to create a more positive and inclusive lab environment. Existing resources provided general advice, but not specific actions that group leaders could take. <br/>
 <br/>
 
-Please fill out our [survey](https://forms.office.com/e/XYxs1anhdg) to help us improve and evaluate the handbook!<br/>
-<br/>
 There are many viable strategies to run a research group; moreover, challenges and constraints vary across groups, institutions, and countries. Consequently, rather than being prescriptive, we aim to increase transparency and minimise any expectation mismatch between the group leader and lab members to create positive and equitable lab culture. Here, we present core commitments that span different topics: Policies, Teams, and Careers. No commitment relies on institutional support to implement, and all commitments are actionable, and can be verifiably implemented. This is because:
 1)	Implementable commitments are the most helpful to group leaders and lab members.
 2)	Verifiable commitments allow for accountability and specific feedback.
@@ -11,6 +9,8 @@ There are many viable strategies to run a research group; moreover, challenges a
 For example, “I commit to supporting a healthy work-life balance for my lab members” will not be in this handbook because the commitment cannot be verified.<br/>
 <br/>
 This handbook does not represent an optimal or exhaustive template: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. Although this handbook will not solve every problem, we hope it takes a significant step toward addressing key challenges faced in daily lab life. The handbook will improve through community feedback and further dedicated workshops.
+
+HELP US! Please fill out our [survey](https://forms.office.com/e/XYxs1anhdg) to improve and evaluate the handbook!<br/>
 <br/>
 
 We hope that many labs will engage with the SAFE Labs Handbook: who implements—or intends to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list. The core commitments can be adopted as presented, or tailored to each lab research strategy, institution and country. We encourage suggestions for new policies and invite discussion for new ideas via the mailing list.

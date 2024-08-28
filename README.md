@@ -13,7 +13,7 @@ This handbook does not represent an optimal or exhaustive template: it is the pr
 HELP US! Please fill out our [survey](https://forms.office.com/e/XYxs1anhdg) to improve and evaluate the handbook!
 <br/>
 
-We hope that many labs will engage with the SAFE Labs Handbook: who implements—or intends to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list. The core commitments can be adopted as presented, or tailored to each lab research strategy, institution and country. We encourage suggestions for new policies and invite discussion for new ideas via the mailing list.
+We hope many labs will engage with the SAFE Labs Handbook: those who implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list. The core commitments can be adopted as presented, or tailored to each lab research strategy, institution and country. We encourage suggestions for new policies and invite discussion for new ideas via the mailing list.
 <br/>
 
 ## Sections for each commitment:

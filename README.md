@@ -24,7 +24,8 @@ This handbook does not represent an optimal or exhaustive template: it is the pr
 HELP US! Please fill out our survey to improve and evaluate the handbook!
 <br/>
 
-We hope many labs will engage with the SAFE Labs Handbook: those who implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list.
+We hope many labs will engage with the SAFE Labs Handbook: those who implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list.<br/>
+
 In the longer term, we imagine the SAFE Labs Handbook as a versatile tool in academia. For example, institutions can use their “proportion of SAFE Labs” to monitor, and improve, their research culture (e.g. as a KPI). Funders could recognise (or even require) SAFE Labs compliance as an desired indicator of aware, fair, and equitable labs. We also envision an institutional handbook: actionable commitments for institutions to improve lab culture. <br/>
 
 

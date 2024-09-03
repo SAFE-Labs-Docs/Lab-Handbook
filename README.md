@@ -4,7 +4,7 @@ The importance of a positive work culture for wellbeing and productivity has bec
 Here, we focus on two key barriers that we decided we could immediately address: <br/>
 
 - Although many group leaders are passionate about improving lab culture, there isn’t an established resource with actionable advice. Instead, existing training and resources typically provide general advice. 
-- Moreover, the subsequent policies implemented by group leaders are not documented (neither publicly nor within the lab), making it difficult for lab members to influence their environment or hold the group leader accountable. This may also create expectation mismatch between prospective group members and the group leader. <br/>
+- Policies implemented by group leaders are not documented (neither publicly nor within the lab), making it difficult for lab members to influence their environment or hold the group leader accountable. This may also create expectation mismatch between prospective group members and the group leader. <br/>
 
 In response to this need, the 13 attendees of SAFE Labs co-authored this handbook. It presents core commitments that span different topics: Policies, Teams, and Careers. No commitment relies on institutional support to implement, and all commitments are actionable, and can be verifiably implemented. This is because:
 1.	Implementable commitments are the most helpful to group leaders and lab members.

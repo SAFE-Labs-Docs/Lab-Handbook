@@ -1,5 +1,5 @@
 # SAFE Labs Handbook
-The importance of a positive work culture for wellbeing and productivity has become increasingly evident in recent years, but academic science still has a negative reputation in this area. To address this issue, we launched a dedicated, international workshop called “SAFE Labs” in 2024, focused on understanding the key barriers to Starting Aware, Fair, and Equitable Labs. <br/>
+The importance of a positive work culture for wellbeing and productivity has become increasingly evident in recent years, but academic science still has a negative reputation in this area. To address this issue, we launched a dedicated, international workshop called ⁠“[SAFE Labs](https://coen-lab.com/safe-labs/)” in 2024, focused on understanding the key barriers to Starting Aware, Fair, and Equitable Labs. <br/>
 
 Here, we focus on two key barriers that we decided we could immediately address: <br/>
 

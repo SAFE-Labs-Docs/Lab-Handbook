@@ -37,7 +37,7 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide meetings targeted at normalizing failures. If this format is deemed useful by the lab members, it’ll be implemented in the future. Normalizing failures is part of daily interactions and during the weekly lab meetings, including reports of past/present failures of the PI.
 
->_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti): At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
+>_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

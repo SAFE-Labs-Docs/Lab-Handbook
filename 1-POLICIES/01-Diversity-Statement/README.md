@@ -41,6 +41,9 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 
 >_[RossiLab 2025](https://rossilab.iit.it/home):_ I believe that diversity is a resource to harness; thus, I strive to create a psychologically safe environment where disruptive points of view are valued. To foster a diverse and inclusive environment, I review the institutional rules for maternity and paternity leave when negotiating a contract; I discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, I promote diversity in science by selecting journal club papers from a diversity of voices. Through these policies, I aim to create a welcoming environment for individuals from different cultural, socioeconomic, gender, and geographical backgrounds.
 
+>_[MariottiLab 2025]([https://rossilab.iit.it/home](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)):_ 
+>In our lab, we are deeply committed to creating an inclusive and diverse scientific environment. I firmly believe that meaningful scientific progress is fuelled by the exchange of ideas that come from individuals with varied backgrounds, experiences, and perspectives. I actively encourage and support participation from researchers of all cultural, socioeconomic, gender, and geographic identities. My aim is to nurture a lab culture where everyone feels respected, supported, and inspired to share their unique contributions, knowing their voices matter and their perspectives drive our collective success.
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

@@ -43,6 +43,17 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >More details can be found in the internal Lab Handbook.
 
+>_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ 
+>We have three types of regular meetings:
+>Lab Meetings (Tuesdays, 9:30 – 11:30):
+>These meetings are mandatory and must be attended in person unless otherwise arranged with the PI. Meetings typically last up to two hours. >The format alternates weekly: every two weeks we hold a data/journal club with a designated main presenter, and on alternate weeks we >conduct general lab meetings and data clubs. To ensure broad participation, scientific feedback, and collaboration, the lab meeting is organized joint with another research groups working on related topics.
+>
+>1-on-1 Meetings:
+>The PI holds regular one-on-one meetings with each lab member. PhD students, postdocs, and research assistants typically meet weekly (or as >needed, depending on project progress). Master's students and interns generally meet biweekly, with the frequency adjusted based on the >level of supervision provided by PhD students or postdocs.
+>
+>Topic Meetings (Fridays, 10:00 – 11:00):
+>Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

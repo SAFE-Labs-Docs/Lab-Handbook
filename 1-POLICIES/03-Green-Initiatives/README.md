@@ -57,6 +57,13 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
+>_[MariottiLab](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>Travel: I actively promote the use of sustainable transport options, both for long-haul travel and daily commuting. For long-distance trips, I prioritize covering the most environmentally friendly travel options whenever funding permits.
+>
+>Waste Management: All team members receive clear instructions on the proper disposal of hazardous waste and are encouraged to consult safety information before discarding unfamiliar materials. Recycling bins for paper and plastic are available throughout the labs and surrounding areas, and everyone is urged to use them for non-hazardous waste.
+
+>Procurement: When fundings policy allows,  we prioritize sourcing equipment from local suppliers to reduce environmental impact and support the local economy whenever the cost difference is minimal.
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

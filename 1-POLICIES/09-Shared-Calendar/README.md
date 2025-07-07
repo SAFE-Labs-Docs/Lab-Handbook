@@ -58,6 +58,19 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >  
 > SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by maintaining dedicated calendars. As the lab grows, to facilitate experiment planning across users, please plan your experiments and book them in advance.
 
+>_[Mariotti Lab]_(http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_: CNR workflows are based on Microsoft Office 365. However not all the lab members have access to this tool. Therefore, we use the Google Calendar to coordinate activities in the lab as follow:
+> ABSENCES: Every lab member (PI, post-doc, PhD student, trainee) must write their absences in the lab calendar. There are 3 kinds of absences:
+> •	On annual leave
+> •	Smart working (working remotely)
+> •	Sick absence/medical visit
+> MEETINGS
+> •	MEETINGS: The following entries should be included in the lab Calendar:
+> •	Conference attendance (name of the conference)
+> •	Common Events: Lab meetings, Journal Clubs etc.
+> •	Other Events: Talks, deadlines, meetings etc.
+> SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by maintaining dedicated calendars.
+
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

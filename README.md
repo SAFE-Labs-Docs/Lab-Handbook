@@ -279,6 +279,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX's prescribed 41 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL's "core" work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.<br/>
   <br/>
   All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to "three")  once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.<br/>
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/02-Work-Life-Balance">Click here for more examples from the community</a></i>
@@ -311,6 +312,7 @@ Journal Club: On a rotating schedule, each lab member will present the core hypo
 1-on-1 Meetings: I schedule bi-weekly 1-on-1 in-person meetings which each lab member, typically lasting around 1 hour, during core work hours [details below]. These meetings are designed to support you in successfully implementing your research project. I am also available for additional meetings upon request. <br/>
  <br/>
 Yearly Appraisals: I will review your project's long-term progress and provide tailored feedback on your work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab, and under my supervision.<br/>
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/03-Meeting-Schedule">Click here for more examples from the community</a><br/>
@@ -334,6 +336,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
   <br/>
 <b>Template: </b> <br/>
 Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/04-Responsibilities">Click here for more examples from the community</a><br/>
@@ -669,6 +672,7 @@ Every PhD and postdoctoral researcher position in the lab inevitably has its own
 <b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
 <br/>
 <b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract's timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).<br/>
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/02-Ambitions-For-Roles">Click here for more examples from the community</a></i>
@@ -698,6 +702,7 @@ Each postdoctoral researcher and PhD student has a budget of £1000 per year to 
 Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project interest or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs.<br/>
 <br/>
 Master's students, undergraduates, and lab technicians are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with me. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.<br/>
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/03-Conferences">Click here for more examples from the community</a></i>
@@ -718,6 +723,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
   <br/>
 <b>Template: </b> <br/>
 I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.<br/>
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/04-Prior-Work">Click here for more examples from the community</a></i>
@@ -741,6 +747,7 @@ All postdoctoral researchers are required to apply for followships, both to bene
 It is possible for postdoctoral fellows to be promoted to a senior-researcher level through an established institutional process. This is often most successful after acquiring their own grant or publishing a paper. I encourage all researchers to apply for promotion and will review the possibility during annual appraisals.<br/>
 <br/>
 I will be transparent with postdoctoral researchers about the available funding for their position when they join the lab, and will discuss any.<br/>
+  
 <b>Note: </b> <br/> 
 While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/05-Postdoc-Funding">Click here for more examples from the community</a></i>

@@ -768,8 +768,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/06-Visa-Support">Click here for more examples from the community</a></i>
 </details>
 
-## SAFE Careers
-
 **I commit to _document_ ...**
 
 <details>

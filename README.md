@@ -768,6 +768,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/06-Visa-Support">Click here for more examples from the community</a></i>
 </details>
 
+## SAFE Careers
+
+**I commit to _document_ ...**
 
 <details>
 <summary> <b> <code> ... the procedure for requesting reference letters. </code> </b>  <br/>
@@ -809,6 +812,8 @@ I understand that people decide to leave the lab for different reasons, and may 
 <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab">Click here for more examples from the community</a></i>
 </details>
+
+**I commit to _establish_ ...**
 
 <details>
 <summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for "core skills". </code> </b>  <br/>

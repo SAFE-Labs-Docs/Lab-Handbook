@@ -786,7 +786,8 @@ I am best equipped to help with academic career trajectories: I offer mentorship
 <br/>
 I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience.<br/>
 <br/>
-Note: while we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
+<b>Note: </b> <br/> 
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab">Click here for more examples from the community</a></i>
 </details>
 

@@ -26,11 +26,11 @@ While the handbook was designed to guide new PIs, it can benefit leaders at any 
 
 ### Why implement the SAFE Labs Handbook?
 
-✅ You care about fostering a healthier, more equitable research environment
+You care about fostering a healthier, more equitable research environment
 
-✅ It builds trust with your team and signals integrity to external stakeholders
+It builds trust with your team and signals integrity to external stakeholders
 
-✅ It minimizes confusion, mismatched expectations, and avoidable conflict
+It minimizes confusion, mismatched expectations, and avoidable conflict
 
 ---
 

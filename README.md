@@ -47,7 +47,7 @@ Looking ahead, we envision the SAFE Labs Handbook becoming:
 * A **standard for funders** to identify and support healthy lab environments
 * A foundation for an **institutional-level handbook**, to drive systemic change
 
-Let’s build a culture in science that supports people as well as progress. 🌱
+Let’s build a culture in science that supports people as well as progress.
 
 ## Sections for each commitment:
 _**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).<br/>

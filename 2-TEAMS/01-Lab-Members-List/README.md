@@ -35,6 +35,8 @@ A clear and current list of lab members allows prospective applicants to gauge t
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ A list and contact information of all current lab members as well as a list of lab alumni can be found on the [lab website] (https://www.reinhardlab.org/team).
 
+>_[RossiLab 2025](https://rossilab.iit.it/home):_ Information about current lab members and alumni can be found at _[Lab Members page](https://rossilab.iit.it/people)_
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

@@ -39,7 +39,7 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Attendance at conferences is a crucial part of science to build networks, to learn about new fields, the obtain the latest updates, to disseminate results and to find new positions. Lab members are encouraged to attend conferences – conference attendance time is work time! As a rule of thumb, lab members should present at least a poster if they want to attend a conference, but exceptions can be discussed. PhD candidates and postdocs are also requested to plan ahead far enough so that there is time to apply for travel grants. Details can be found as well in section “Equal access to resources”.
 
 
->_[RossiLab 2025](https://rossilab.iit.it)_: I encourage all lab members to seek and apply for training opportunities to learn new expertise, and  values initiative to disseminate the lab research at conferences.
+>_[RossiLab_2025](https://rossilab.iit.it)_: I encourage all lab members to seek and apply for training opportunities to learn new expertise, and  values initiative to disseminate the lab research at conferences.
 >
 >TRAINING/SCHOOLS: I support both PhD students and postdoctoral researchers to apply and attend at least one competitive training school during their tenure in the lab. I will sponsor applications (e.g. with recommendation letters) to these initiatives when they align with a project interest or planned career development. Expression of interested must be communicated in time to apply for travel grants/fees waivers, and in any case 1 month in advance. When funds are available, and application to fees waivers are not successful, the lab will cover the costs.
 >

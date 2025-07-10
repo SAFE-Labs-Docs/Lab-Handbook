@@ -44,6 +44,8 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >_[MariottiLab 2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ 
 >In our lab, we are deeply committed to creating an inclusive and diverse scientific environment. I firmly believe that meaningful scientific progress is fuelled by the exchange of ideas that come from individuals with varied backgrounds, experiences, and perspectives. I actively encourage and support participation from researchers of all cultural, socioeconomic, gender, and geographic identities. My aim is to nurture a lab culture where everyone feels respected, supported, and inspired to share their unique contributions, knowing their voices matter and their perspectives drive our collective success.
 
+>_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook):_ I believe that diversity in science fosters creativity by enabling the exchange of ideas shaped by different cultural backgrounds, life experiences, and perspectives across gender, socioeconomic status, and more. With the aim of creating a welcoming space for everyone, we take practical steps to support inclusion and well-being. These include discussing equity, inclusion, and any cultural needs during onboarding; encouraging lab members to share important cultural events and festivities; and providing flexibility around work hours, parental leave, and financial or cultural considerations. Since many institutional documents are in Italian, particular attention is given to ensuring that all essential information is translated into English, which is maintained as the official language of the lab.
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

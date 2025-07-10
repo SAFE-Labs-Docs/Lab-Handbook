@@ -48,6 +48,13 @@ All lab members are expected to maintain a professional attitude of integrity, a
 
 >_[MariottiLab 2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_: All lab members are expected to uphold integrity, accountability, and mutual respect in all interactions and activities. Members are responsible for maintaining high standards of scientific rigor, collaboration, and collegiality. This includes actively listening to and valuing diverse perspectives, being punctual for meetings, and engaging fully in discussions and presentations. The lab is committed to fostering an inclusive, supportive environment characterized by compassion and free from offensive, discriminatory, or harmful behavior particularly regarding diversity and minorities. Lab members are encouraged to openly share their ideas, preferences, and concerns without fear of negative consequences, ensuring a psychologically safe and respectful space for everyone.
 
+>_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: All lab members are expected to uphold the following core principles:
+
+- **Honesty**: Scientific integrity is non-negotiable. Be transparent in your work and never compromise on ethical standards. Seek help when needed—asking questions or admitting uncertainty is a strength, not a weakness.  
+  Lab members can refer to the [CNR institutional page on research integrity](https://www.cnr.it/it/ethics) for official policies and guidance.
+- **Respect**: Every lab member’s opinion matters. While critical thinking is encouraged, feedback should always be constructive and aimed at fostering meaningful dialogue and personal development. Disagreement is welcome, as long as it’s expressed respectfully.
+- **Engagement**: Curiosity, initiative, and commitment are essential. Strive for excellence in your research, and take an active role in lab activities—this includes lab meetings, seminars, and collaborative discussions. The success of the lab depends on the enthusiasm and contributions of its members. 
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

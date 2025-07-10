@@ -52,6 +52,8 @@ The lab language is English. Any professional conversation, oral and written, du
 >
 > To solve these problems, as well as to streamline coding and other processes, I incentivise the use of LLMs and other AI tools. For our scientific production instead, I encourage the use LLMs to proofread and refine original written material, but I won't accept fully AI generated material.
 
+>_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: English is the working language of the lab. To ensure an inclusive environment for all members—regardless of their native language—all scientific activities, including meetings, presentations, written communication, and lab notebooks, are expected to be conducted in English. While many institutional documents and communications are in Italian, we make a dedicated effort to translate all essential information. We also encourage non-Italian-speaking lab members to seek help from colleagues if automatic translations do not suffice to fully understand important communications.
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

@@ -64,6 +64,11 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >
 > Procurement: When fundings policy allows,  we prioritize sourcing equipment from local suppliers to reduce environmental impact and support the local economy whenever the cost difference is minimal.
 
+>_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: Research inevitably consumes energy and generates waste, but we can—and should—strive to minimize our environmental footprint. All lab members are expected to act responsibly and adopt sustainable practices whenever possible.
+- **Waste Management**: Ensure proper disposal of hazardous materials. If you’re unsure about how to discard a substance, consult safety data sheets or ask for guidance. Always recycle when appropriate.
+- **Energy Use**: Be mindful of electricity consumption. Turn off lights, equipment, and appliances when they are not in use.
+- **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.
+
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
 

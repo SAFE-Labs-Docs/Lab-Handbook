@@ -38,7 +38,7 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[RossiLab 2025](https://rossilab.iit.it/home):_ Information about current lab members and alumni can be found at _[Lab Members page](https://rossilab.iit.it/people)_
 
 ### Netherlands
-[To be filled with specific examples from Dutch institutions]
+>_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ An up to date list of the current and past lab members of the Comorbidity and Causality research group can be found on the research group page: https://psychiatryamsterdam.nl/groups/comorbidity-and-causality/
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com//):_ [Lab members page](https://coen-lab.com//)

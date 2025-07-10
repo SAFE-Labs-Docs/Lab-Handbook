@@ -48,7 +48,13 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > Research assitants, master's students and undergraduates are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with Federico. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.
 
 ### Netherlands
-[To be filled with specific examples from Dutch institutions]
+> _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full document is still under construction, but as an example some snippets are provided here:
+> 
+> For PhD students, relevant courses can be followed through the Amsterdam UMC Doctoral school but there are also other (inter)national options. We will decide together with you which courses are the most useful (and there needs to be sufficient budget available). Some possible options are the summer the [International Statistical Genetics Workshop in Boulder](https://www.colorado.edu/ibg/workshop), or [short courses in Population Health Sciences at Bristol Medical School](https://www.bristol.ac.uk/medical-school/study/short-courses/).
+> 
+> Scientific conferences that we often attend and may be interesting for you to present your research at are the annual conference of the [Behavior Genetics Association (BGA)](https://bga.org/future-meetings/) (the BGA will be in Amsterdam in 2026), the annual meeting of the [World Congress of Psychiatric Genetics](https://ispg.net/annual-world-congress/), and the [Mendelian randomization conference in Bristol](https://www.mendelianrandomization.org.uk/). Other than that, there may be many different possible conferences more focused on your topic of research that could be interesting. Please feel free to share with the group when you come across potentially interesting conferences.
+> 
+> We encourage everyone to apply for grant opportunities that allow you to fund your own trip, for instance [this one for PhD students at Amsterdam UMC](https://www.amsterdamumc.org/en/phd-student/trajectory/amsterdam-umc-young-talent-fund.htm). This will increase (y)our budget to attend workshops and it is great practice to try and obtain some small grants early on in your career!
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ 

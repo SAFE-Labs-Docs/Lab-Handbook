@@ -51,7 +51,13 @@ A clear onboarding process should not only ensure that lab members complete esse
 >Postdocs / technicians: The [Mobility office of SISSA](https://www.sissa.it/research/research-funding-and-international-relations-office) is responsible to help new researchers and technicians, especially if they come from abroad. 
 
 ### Netherlands
-[To be filled with specific examples from Dutch institutions]
+> _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full onboarding document is still under construction, but as an example some snippets are provided here:
+> 
+> As a PhD student, you will first be enrolled in the Amsterdam UMC doctoral school. You can find further information about the doctoral school, which also provides many interesting courses that you can follow [here](https://www.amsterdamumc.org/en/phd-student.htm). At the beginning of your PhD you need to contact the doctoral school to register and complete a form about the content of your PhD and your supervision team (co-promotor(s) and promotor(s)).
+> 
+> Within Amsterdam UMC there are eight so-called [Research Institutes](https://www.amsterdamumc.org/en/research/institutes.htm). You can be affiliated with a maximum of two Research institutes. Being affiliated with a research institute is useful because they organize symposia, networking events, workshops and it allows you to stay up to day with what others in your field are doing. The most relevant ones for our group are: Amsterdam Neuroscience, Amsterdam Public Health, Amsterdam Cardiovascular Sciences. Within the Research institutes, there are specific subgroups that you can join (again a maximum of 2).
+> 
+> Besides the official Research Institutes, members of our group recently initiated the Genetics Network Amsterdam (GENE Amsterdam) which is a network of researchers working in the broader field of genetics across Amsterdam. An official [website](https://www.geneticsnetworkamsterdam.org/) was launched in November 2022. We recommend you to get your own personal page added to the website and to publish any relevant news item or blogs about your research on the website (contact x for anything related to the website). GENE Amsterdam also has regular research meetings which are very useful to attend, please e-mail x to get added to the GENE Amsterdam mailing list. There is also an annual research meeting of GENE Amsterdam.
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ These are some initial admin steps that *should* happen (some even before you arrive at UCL). If you've been in the lab for a week and any of these haven't been covered, ask someone!

@@ -16,16 +16,18 @@ A clear and current list of lab members allows prospective applicants to gauge t
 ## Examples
 
 ### France
->_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ The list of current and past lab members can be found on our lab webpage: https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel
+>_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ The list of current and past lab members can be found [here](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel).
+
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ The list of current and past lab members is available [here](https://cnidevolab.com/people/). The PIs email addresses are available [here](https://cnidevolab.com/contact/), while all lab members can be contacted through the institutional address composed as follows: name.surname[@ ]obs.banyuls.fr
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ A list and contact information of all current lab members as well as a list of lab alumni can be found on the [lab website] (https://www.reinhardlab.org/team).
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ A list and contact information of all current lab members as well as a list of lab alumni can be found [here](https://www.reinhardlab.org/team).
 
->_[RossiLab_2025](https://rossilab.iit.it/home):_ Information about current lab members and alumni can be found at _[Lab Members page](https://rossilab.iit.it/people)_
+>_[RossiLab_2025](https://rossilab.iit.it/home):_ Information about current lab members and alumni can be found [here](https://rossilab.iit.it/people).
 
 ### Netherlands
->_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ An up to date list of the current and past lab members of the Comorbidity and Causality research group can be found on the research group page: https://psychiatryamsterdam.nl/groups/comorbidity-and-causality/
+>_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ An up to date list of the current and past lab members of the Comorbidity and Causality research group can be found [here](https://psychiatryamsterdam.nl/groups/comorbidity-and-causality/).
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com//):_ [Lab members page](https://coen-lab.com//)
+>_[CoenLab_2025](https://coen-lab.com//):_ Lab members page available [here](https://coen-lab.com//).
 

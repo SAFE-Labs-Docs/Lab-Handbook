@@ -20,6 +20,9 @@ For international lab members, visa costs and processes can be a significant bar
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ We provide guidance to lab members in their visa application process. No language test is required, and typically people will be under a scheme dedicated to skilled applicants ("Passeport Talent"). Timeframe might vary according to nationalities and other unpredictable parameters. More information can be found [here](https://www.enseignementsup-recherche.gouv.fr/fr/accueil-en-france-des-scientifiques-etrangers-46403).
+
 ### Germany
  Visa availability and support is a complex topic since this depends on the type of position and country of origin. Please consult these information (https://hic.hu-berlin.de/en/berlin-perspectives/practical_information) and the institue’s international office here (https://www.international.hu-berlin.de/en). It might be possible to cover visa cost, which can be discussed during interviewing, hiring, and onboarding.
 

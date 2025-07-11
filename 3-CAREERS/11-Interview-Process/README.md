@@ -22,6 +22,17 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ We keep the process as fair as possible. We always welcome direct inquiries from applicants, even if no open position is officially available yet.
+>
+>For open job offers, applications need to be sent through the CNRS portal – we strongly encourage applicants to also directly contact the PIs for more information. The CNRS recruitment system does not allow for blind screening, however all CVs are read with the same interest and dedication, usually by at least two people. 
+>
+>For selections, we will evaluate both the applicant CV and the motivation letter. For this reason, we strongly encourage perspective applicants, at any stage, to avoid submitting "generic" letters, and even more letters that have been clearly written with the preponderant help of artificial intelligence tools.
+>
+>After selecting candidates, we will proceed with the interview process, which is carried by a small committee. During the interview, we will generally ask the candidate to prepare a short presentation describing previous experiences. All applicants through the CNRS portal will receive an answer: in case of a negative outcome, depending on the number of applicants for a given position, this might be an automatic one. 
+>
+>For perspective PhD students, please keep in mind that a slightly different system is in place. Most students join the lab through a fellowship granted by the PhD School Complexity of Life, which runs an annual competition, usually in July. Each PI will select only one candidate to present to the competition, and usually a project pre-proposal is posted on the dedicate portal ([adum.fr](https://adum.fr)) in February/March. Candidates are strongly encouraged to directly contact the PI, as no automatic emails are sent from the portal. The PI will make the selection, and directly discuss with the applicant in order to better define the proposed project. The chosen candidate will then submit the official candidature through the [adum.fr](https://adum.fr) portal, usually by the end of May. Candidates that are allowed to proceed to the competition, which features an interview with scientists affiliated to Sorbonne University, will be notified in June. The interview includes a presentation of usually 15 minutes describing past research and proposed project, followed by questions for about 10 minutes.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Hiring should not depend on personal biases, applicant names or other similar aspects. On one hand, the Italian recruitment system restricts to some degree the possibility for e.g. blind screening; on the other hand, academic work is based on often long hours in very close collaboration and hence, to some degree, personality and “fit” are important criteria to make sure that the new team member is happy but also that the existing team dynamics aren’t interrupted. In summary, to hire fairly and equitably is not easy. Given those considerations, the steps that are taken by the PI to make hiring as fair as possible are the following:
 >- All CVs are read and evaluated with the same interest and dedication, independently of applicants’ names or affiliations.

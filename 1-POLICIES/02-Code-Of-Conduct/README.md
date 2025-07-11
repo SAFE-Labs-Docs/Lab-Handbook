@@ -13,6 +13,20 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ As a research team, we are committed to maintaining a professional, inclusive, and supportive working environment where all members can succeed and contribute meaningfully to science.
+>All lab members are expected to act with integrity, accountability, and mutual respect in all scientific and interpersonal interactions, while upholding high standards of rigor, collaboration, and ethical conduct.
+>We foster a lab culture based on the following principles:
+>- **Honesty**: Be transparent about your work, including insights gained, difficulties encountered, and any mistakes—errors are part of learning and development.
+>- **Respect**: Treat all individuals—colleagues, staff, and visitors—with the same courtesy and dignity. 
+>- **Communication**: Share progress, ask questions, raise concerns, and don't hesitate to ask for help or offer it when needed.
+>- **Participation**: Actively engage in lab meetings, seminars, scientific and other lab activities. Your presence and insights enrich the group. 
+>- **Acknowledgement**: Recognize others' contributions, whether technical help, advice, or feedback. 
+>- **Accountability**: We ask you to do your best for being on time for scheduled team activities, to document carefully your work and share it with the team.
+>- **Dedication**: We expect all members to do the best research they can - to strive for excellence in their experimental work, analysis, writing and science communication. However, balancing work and the rest of your life is important: make time for personal things and take care of your health.
+>
+>We are committed to fostering a psychologically safe space where everyone feels free to express ideas, ask questions, and voice concerns. Discriminatory or belittling behaviour is not tolerated.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, being timely for meetings, and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment. 
 
@@ -28,7 +42,7 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >
 >More details and what lab members can expect from me are found on our website.
 
->_[RossiLab_2025](https://rossilab.iit.it/home)_: All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, arriving on time for meetings (remind Federico of this!), and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding diversity and minorities. Lab members should feel free and safe to voice their ideas, wishes, or concerns without risking negative consequences ensuring a suportive environment and diverse viewpoints.
+>_[RossiLab_2025](https://rossilab.iit.it/home)_: All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, arriving on time for meetings (remind Federico of this!), and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding diversity and minorities. Lab members should feel free and safe to voice their ideas, wishes, or concerns without risking negative consequences ensuring a supportive environment and diverse viewpoints.
 
 >_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_: All lab members are expected to uphold integrity, accountability, and mutual respect in all interactions and activities. Members are responsible for maintaining high standards of scientific rigor, collaboration, and collegiality. This includes actively listening to and valuing diverse perspectives, being punctual for meetings, and engaging fully in discussions and presentations. The lab is committed to fostering an inclusive, supportive environment characterized by compassion and free from offensive, discriminatory, or harmful behavior particularly regarding diversity and minorities. Lab members are encouraged to openly share their ideas, preferences, and concerns without fear of negative consequences, ensuring a psychologically safe and respectful space for everyone.
 

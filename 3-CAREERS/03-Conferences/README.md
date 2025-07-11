@@ -17,6 +17,13 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ We encourage all lab members to seek and apply for training opportunities to develop new expertise and networking, and we values initiatives to disseminate the lab research at conferences or outreach events. Depending on funding availability and specific circumstances, we aim at providing one opportunity per year to each lab members – this of course remains as a rule of thumb and strategies will be discussed case by case.
+>
+>We expect lab members to discuss their intentions prior to applying to any event, in order to define priorities, agree on the budget and the eventual work that will be disseminated. We consider conferences and courses as an enriching opportunity, and we expect any lab member attending such an event to make the best use of it. Also for this reason, in general we encourage lab members to present their scientific results, even if of course several factors need to be considered, such as the stage of the project.
+>
+>Individual fellowships might include an additional budget for conferences and courses, but in general we provide equal travelling opportunities to lab all members. We encourage lab members to seek for additional funding in order to cover the costs, and to behave responsibly with regard to travel expenses.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Attendance at conferences is a crucial part of science to build networks, to learn about new fields, the obtain the latest updates, to disseminate results and to find new positions. Lab members are encouraged to attend conferences – conference attendance time is work time! As a rule of thumb, lab members should present at least a poster if they want to attend a conference, but exceptions can be discussed. PhD candidates and postdocs are also requested to plan ahead far enough so that there is time to apply for travel grants. Details can be found as well in section “Equal access to resources”.
 

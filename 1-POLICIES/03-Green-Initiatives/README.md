@@ -15,6 +15,11 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ We follow the guidelines of CNRS and Observatoire Océanologique de Banyuls-sur-Mer for sustainability. 
+>
+>We favour, where possible, travel by train or other lower impact means. Lab waste is recycled according to instructions. We aim to minimize plastic consumables, for example by using smaller containers when possible.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.

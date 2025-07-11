@@ -17,6 +17,9 @@ Career progression, grants, and competitive applications often require reference
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ Reference letters will be provided to lab members at request. We disapprove of "recycling" of letters, and provide tailored letters upon request.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Reference letters are important for job applications and for some summer school and travel grant applications. Lab members will receive a reference letter from the PI, unless the PI feels that it isn’t possible to write a positive letter (this will be openly communicated). Especially the first letter for a new lab member requires a lot of time to write. Hence, these are the general rules for requesting reference letters:
 >At least 4 weeks in advance for first letter, at least 2 weeks in advance for any subsequent letters.

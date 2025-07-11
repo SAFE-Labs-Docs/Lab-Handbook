@@ -24,6 +24,8 @@ We are all familiar with the experience of joining a new lab whilst still having
 >
 > Deadline Exceptions: We understand that deadlines for paper resubmissions or conferences require intensive focus. During these critical periods, you may dedicate more time as needed. Please communicate with me in advance so we can plan accordingly.
 
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ Team members joining the lab may have ongoing work from their previous position and we understand that they might need time to complete this work. Every new team member who needs to complete previous work needs to discuss the details with the PI and come to an agreement.
+
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is common that one leaves a previous position before the final acceptance of a manuscript. Every new team member who needs to contribute to the completion of previous work needs to discuss the details with the PI and come to an agreement of the percentage of time and the duration of these contributions.

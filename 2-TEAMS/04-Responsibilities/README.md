@@ -16,6 +16,11 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ Our team is composed by researchers with different roles and backgrounds. We expect everybody to contribute to scientific progress according to their skills; we encourage all members to supervise and mentor less experienced teammates. Depending on the length of stay with us and on the experience level, everybody is generally expected to contribute to the lab organisation and general interest activities, such as ordering and specific animal care. All team members receive regular supervision from the PIs. We encourage members to seek further training if necessary (several options are provided by CNRS, for example).
+>
+>As a general guideline, postdocs are expected to be more autonomous in their research, to conduct and analyse their experimental work, and to write scientific publications.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Our team is composed of postdocs, PhD candidates, undergraduates and technicians. Each role comes with different responsibilities and training opportunities. These are outlined in a table accessible both in the public and internal [Lab Handbook](https://drive.google.com/file/d/1FVUqOQC4R48ENKyJsKzS7PNwspzAZaDL/view).
 

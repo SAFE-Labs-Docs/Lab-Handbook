@@ -17,6 +17,11 @@ Researchers often focus on scientific progress and neglect the development of co
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ Core skills such as team/time management, feedback, writing, and presentations are crucial to a scientific career. Many of these are addressed during daily interactions. For instance, the PIs provide feedback on writing tasks, giving presentations is practiced during team-wide meetings, and lab members can attend courses on management, writing and communication.
+>
+>We currently do not have a specific annual meeting in place, as we find more profitable a personalised mentoring (this might change in the future if deemed useful).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Core skills such as team/time management, feedback, writing, and presentations are crucial to a scientific career. Many of these are addressed during daily interactions. For instance, the PI commits to giving extensive and comprehensive feedback on writing tasks, giving presentations is practiced during regular lab meetings and specifically when a public presentation is coming up, and lab members are encouraged to attend courses on management, writing and communication. 
 >We currently do not have an annual meeting that focuses on these skills in place. If this format is deemed useful by the lab members, it’ll be implemented in the future.

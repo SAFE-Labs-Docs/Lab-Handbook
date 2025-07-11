@@ -22,6 +22,9 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 
 ## Examples
 
+### France
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ In the normal life of a lab, people will leave, either because they have finished their project, or because they've found a new opportunity or for personal reasons. Lab members are encouraged to discuss their plans with the PIs as early as possible, in order to ensure a smooth process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is normal that people will leave the lab, either because they have finished their project, or because they’ve found a new opportunity or for personal reasons. Lab members are encouraged to talk to the PI as soon as they consider leaving the lab. It will not be held against anyone if they want to leave, instead, the PI is dedicated to providing support in planning the next steps or to finding solutions in case the leave is due to health/personal reasons. Once someone has decided to leave, the following steps need to be taken:
 >

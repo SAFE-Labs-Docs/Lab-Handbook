@@ -27,6 +27,8 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >- Remote working : Lab members are expected to be physically present in the lab at least 4 days a week, to ensure interactions between lab members. For some specific periods/situations, remote work can be allowed (i.e. thesis writing). 
 >- Vacation: All lab members are expected to take all their allowed annual leave which is determined by their employer.
 
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ According to the type of contract or agreement, rules for working hours, remote working and vacations are set either by CNRS or Sorbonne University. We do not apply a strict working hour policy, but we encourage everybody to be present in the lab in overlapping hours, so to maximize exchanges, interactions and problem solving.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Experimental science rarely fits into a 9-5 schedule. Experiments might take longer, trouble shooting may cause delays, or urgent deadlines require longer working hours. 
 >- Work hours: While individual working days may not follow a standard schedule, the average work week should be 40h and everyone is entitled to 20 days of vacation (if on a fellowship) or to the time and days detailed in their contract (if on a work contract). In practice, this means that there might be days or even weeks where lab members work more than 8h/day or 40h/week, but this should be compensated by lighter schedules in subsequent weeks, days off or longer vacations to ensure well-being. Conference attendance etc. counts as working hours!

@@ -1,6 +1,6 @@
 # I commit to publicly document the responsibilities of each lab role and the training provided
 
-We encourage the community to contribute to this policy by submitting pull requests with suggestions and improvements.
+This page collects real-world examples of lab role responsibilities from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective role definitions!
 
 ## Details
 Each group leader has their own expectations for lab roles (PhD students, postdoctoral researchers, lab technicians etc.). By explicitly stating the responsibilities associated to different positions, group leaders can pre-empt expectation mismatch for prospective lab members before and after they join the lab.

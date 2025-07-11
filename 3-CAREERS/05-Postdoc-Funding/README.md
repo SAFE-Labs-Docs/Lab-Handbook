@@ -1,4 +1,4 @@
-# I commit to public>_[CNIDevoLab_2025](https://cnidevolab.com/):_ At CNRS, salaries are determined by a [national grading system](https://carrieres.cnrs.fr/en/compensation-for-contractual-employees/), particular cases might apply to specific funding sources (e.g Marie Curie postdoctoral fellowships). In France, taxes and contributions to pension schemes (etc) are deducted directly from the gross salary, in case of doubts do not hesitate to ask further information. As a general information, health care is provided by the French...y document the salary and funding expectations for postdoctoral researchers
+# I commit to publicly document the salary and funding expectations for postdoctoral researchers
 
 This page collects real-world examples of postdoctoral funding policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective postdoctoral funding policies!
 
@@ -18,7 +18,7 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 ## Examples
 
 ### France
->_[SinigagliaLab_2025](https://cnidevolab.com/):_ At CNRS, salaries are determined by a [national grading system](https://carrieres.cnrs.fr/en/compensation-for-contractual-employees/), particular cases might apply to specific funding sources (e.g Marie Curie postdoctoral fellowships). In France, taxes and contributions to pension schemes (etc) are deducted directly from the gross salary, in case of doubts do not hesitate to ask further information. As a general information, health care is provided by the French state.
+>_[CNIDevoLab_2025](https://cnidevolab.com/):_ At CNRS, salaries are determined by a [national grading system](https://carrieres.cnrs.fr/en/compensation-for-contractual-employees/), particular cases might apply to specific funding sources (e.g Marie Curie postdoctoral fellowships). In France, taxes and contributions to pension schemes (etc) are deducted directly from the gross salary, in case of doubts do not hesitate to ask further information. As a general information, health care is provided by the French state.
 >
 >Contrary to some other countries, no unpaid work is allowed, this concerns also master or bachelor students who will receive a "compensation" if staying longer than 2 months.
 >

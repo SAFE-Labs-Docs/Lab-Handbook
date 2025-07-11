@@ -1,7 +1,3 @@
-# Incident-Reporting
-
-This folder contains documentation and examples for the SAFE Labs Handbook commitment regarding Incident-Reporting.
-
 # I commit to internally document the procedure for reporting bullying and/or harassment
 
 This page collects real-world examples of incident reporting procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective incident reporting procedures!

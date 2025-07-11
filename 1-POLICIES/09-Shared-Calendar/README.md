@@ -1,7 +1,3 @@
-# Shared-Calendar
-
-This folder contains documentation and examples for the SAFE Labs Handbook commitment regarding Shared-Calendar.
-
 # I commit to establish a shared lab calendar for members to indicate if they are away, at conferences etc.
 
 This page collects real-world examples of shared calendar implementations from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective calendar systems!

@@ -1,6 +1,6 @@
 # I commit to internally document available resources to support mental health
 
-We encourage the community to contribute to this policy by submitting pull requests with suggestions and improvements.
+This page collects real-world examples of mental health support resources from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective mental health support policies!
 
 ## Details
 Thankfully, awareness and support for mental health issues within work environments is at an all-time high. It is likely that these issues will arise within any research group at some time, and it is equally likely that the group leader is not qualified to offer advice or guidance—particularly given the potential for a conflict-of-interest. It is therefore critical that lab members are made aware of the resources available to them at both an institutional and national level.

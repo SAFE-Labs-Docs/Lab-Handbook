@@ -1,10 +1,6 @@
-# Resource-Access
-
-This folder contains documentation and examples for the SAFE Labs Handbook commitment regarding Resource-Access.
-
 # I commit to publicly document how equal access to lab resources across lab members is maintained
 
-We encourage the community to contribute to this policy by submitting pull requests with suggestions and improvements.
+This page collects real-world examples of resource access policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective resource access policies!
 
 ## Details
 Most lab members will quickly recognize any disparities of time and resource investment in different projects or people. These may arise for valid strategic reasons: funding priorities, timeliness of publication, contractual needs. Having clear and transparent policies for access to lab resources avoids biases from the group leader, inter-personal conflict, and fosters cooperativity between projects.

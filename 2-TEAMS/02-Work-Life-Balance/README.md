@@ -1,7 +1,3 @@
-# Work-Life-Balance
-
-This folder contains documentation and examples for the SAFE Labs Handbook commitment regarding Work-Life-Balance.
-
 # I commit to publicly document my expectations for working hours, remote working, and vacation
 
 This page collects real-world examples of work-life balance policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
@@ -10,7 +6,7 @@ This page collects real-world examples of work-life balance policies from labs a
 Lab rules for working hours should be clear to avoid any conflict or misunderstanding inside the lab. Having clear expectations for working hours can also increase equity between lab members. Moreover, group leaders need to ensure that lab members feel safe to correctly balance their work in the lab with their life. The lab policy regarding work hours, remote working, and vacation should be explicitly included.
 
 ## Suggestions
-- Should notice of holidays be given and how?
+- Should notice of holidays be given, and how?
 - Are there core-working hours (typically less than the full working hours)?
 - Should lab members schedule messages if sent outside of working hours?
 - What times are appropriate times for scheduling meetings?
@@ -35,25 +31,25 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >- Core work hours: To enable flexibility, we have short core work hours. Team members are expected to be present or available online from 11am to 3pm every workday as well as during scheduled meetings such as lab meetings. This ensures at least a minimal possibility for interactions between lab members. You can expect that, with as few exceptions as possible, seminars and mandatory meetings will be scheduled between 9am and 4pm. 
 >- Working from home: During experimental phases, team members are expected to be at the institute 4 days per week. Changes to this, e.g. during data analysis and writing times, are possible but should be discussed with the PI. Lab meetings are to be attended in person. Exceptions will be granted only for specific situations.
 
->_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: Maintaining a healthy work–life balance is essential for long-term well-being, productivity, and creativity. The lab aims to foster a flexible and respectful environment that supports both professional growth and personal needs.
+>_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook):_ Maintaining a healthy work–life balance is essential for long-term well-being, productivity, and creativity. The lab aims to foster a flexible and respectful environment that supports both professional growth and personal needs.
 >
->** 🕒 Working Hours **
+>**🕒 Working Hours**
 >
 >Working hours follow institutional policy and are generally flexible. However, lab members are expected to be present during core hours: 10:00–12:00 and 14:00–17:00
 >
 >These hours ensure overlap for collaboration, meetings, and shared activities.  
->We recognize that parental responsibilities and other personal needs may require additional flexibility. Exceptions and adjustments to working hours should be discussed in advance with the **PI** to accommodate these circumstances.
+>We recognize that parental responsibilities and other personal needs may require additional flexibility. Exceptions and adjustments to working hours should be discussed in advance with the PI to accommodate these circumstances.
 >
-> 💻 Remote Work
+>**💻 Remote Work**
 >Lab members are generally expected to be physically present in the lab **at least 4 days per week** to maintain an active, interactive research environment.  
 >Remote work may be permitted under specific circumstances (e.g., thesis writing, short-term personal needs) and should be agreed upon with the PI.
 >
-> 🌴 Vacation and Time Off
+>**🌴 Vacation and Time Off**
 All lab members are **encouraged to take their full annual leave**, as defined by their employment contract. Taking regular breaks is vital for maintaining mental and physical health.
 >
 >Vacation plans should be communicated in advance to avoid disruptions to ongoing lab activities.
 >
-> 🕌 Cultural and Religious Observances
+>**🕌 Cultural and Religious Observances**
 >While the lab follows the **national holiday calendar**, members are welcome to adapt their time off to accommodate **cultural or religious festivities** specific to their background.  
 >Such flexibility should be managed in coordination with the PI to ensure proper planning and fairness across the team.
 
@@ -69,6 +65,6 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 > **Communication**: We don't encourage working outside of your normal working hours (in the evenings and weekends). At the same time, we realize that everyone's schedule looks different and that sometimes (e.g. a very important deadline coming up) or for some people (e.g. (unexpected) childcare responsibilities during the day) this is inevitable. We don't have any specific rules around sending e-mails or messages (through slack) outside of working hours. If one of the team members does send an e-mail or message outside of normal working hours, there is no expectation whatsoever that the other person needs to answer that message (until their next working day).
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic research should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX's prescribed 41 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL's "core" work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
+>_[CoenLab_2025](https://coen-lab.com/):_ I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic research should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of UCL's prescribed 41 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL's "core" work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
 >
 >All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to "three") once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.

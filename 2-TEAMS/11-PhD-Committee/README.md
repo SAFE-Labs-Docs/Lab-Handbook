@@ -1,10 +1,6 @@
-# PhD-Committee
-
-This folder contains documentation and examples for the SAFE Labs Handbook commitment regarding PhD-Committee.
-
 # I commit to establish a "PhD steering committee" to annually monitor progress and mediate feedback
 
-This page collects real-world examples of PhD steering committee approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of PhD steering committee approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective PhD steering committee policies!
 
 ## Details
 A PhD steering committee provides independent oversight of PhD student progress and can mediate any feedback between student and supervisor. This reduces the power imbalance in the student-supervisor relationship and provides additional mentorship opportunities. The committee should meet at least annually to review progress and provide career guidance.

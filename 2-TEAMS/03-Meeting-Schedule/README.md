@@ -17,24 +17,6 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We have three types of regular meetings:
 >- Lab Meetings: Tuesdays 13:30 – 15:30. These meetings are mandatory and to be attended in-person unless otherwise agreed on with the PI. Meetings may last less than 2h. Lab meetings have the following format: Every 2 weeks data/journal club with a main presenter, and every other 2 weeks general lab meetings. In the "general lab meetings" everyone, including the PI, presents for max. 10-15min. Everyone should focus on 1-2 things they achieved in the past 2 weeks (important: an achievement can be a first pilot experiment, having fixed an issue with a setup, having identified an issue, having written 1 paragraph…) and 1-2 things they plan to do in the next two weeks. These presentations should have a very short introduction (max. 1 slide, a few sentences) to the project or technique and the description of the achievements; future plans should be short and concise so that there’s time within 10-15min for feedback/help/ideas. The purpose of these meetings is NOT to compare productivity or judge each other, but to keep everyone updated on what’s going on in the lab and to provide space to discuss “minor” achievements or issues without having to wait weeks for the next data club. 
@@ -55,12 +37,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Topic Meetings (Fridays, 10:00 – 11:00):
 >Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing >on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
 
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
-
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ At the time of writing, the lab meets as a group twice per week, on Tuesdays and Thursdays at 10am–pastries are provided! These are typically Journal Clubs (presentation of a paper) on Tuesdays and Data Clubs (update on a project) on Thursdays. However, meetings are sometimes focused on other lab business, including training, external speakers, feedback sessions, or mini-hackathons.
 >
 >The expectations for regular meetings are laid out in detail on our lab wiki, but most meetings have a presenter, responsible for leading the meeting, and someone taking notes on the content. All group meetings are in-person events, although we record meetings online for posterity, and to allow participation from those who can’t attend in person.
 >
 >Individually, I meet with every lab member at least once per week, unless one of us is out of town, to discuss their project and any other issues. After each meeting, lab members write a brief summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
+

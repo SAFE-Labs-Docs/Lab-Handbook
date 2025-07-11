@@ -17,24 +17,6 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Attendance at conferences is a crucial part of science to build networks, to learn about new fields, the obtain the latest updates, to disseminate results and to find new positions. Lab members are encouraged to attend conferences – conference attendance time is work time! As a rule of thumb, lab members should present at least a poster if they want to attend a conference, but exceptions can be discussed. PhD candidates and postdocs are also requested to plan ahead far enough so that there is time to apply for travel grants. Details can be found as well in section “Equal access to resources”.
 
@@ -65,3 +47,4 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >**Summer schools and courses:**
 >Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs for at least one such opportunity. Some courses that can help to develop the experimental and computational skills we use in the lab include:
+

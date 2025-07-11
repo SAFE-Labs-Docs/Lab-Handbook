@@ -20,24 +20,6 @@ Most lab members will quickly recognize any disparities of time and resource inv
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is important to us that all team members have access to the lab resources they need. Essential courses (animal licenses) and essential equipment (e.g. a powerful data processing computer) are guaranteed and paid for by the school/lab. Fair does not always mean equal since team members might have different contracts, personal resources, responsibilities and work-related needs. Lab and school resources (equipment, consumables) are accessible to everyone and will be allocated based on project needs without favoritism. Expenses, including for conferences and courses, are documented and visible to all lab members. We do not strive to guarantee the same amount of money to every member since certain events are much more costly than others, but to guarantee equal access to opportunities that are relevant to each member. Members with external funding (travel grants, bench fees from personal grants) may be able to attend more events, have more independence in their decision of which events to attend and/or might have exclusive access to equipment they bought with their grants. If a lab member feels unfairly treated, please raise the issue promptly as described in the section “Lab and inter-personal issues”. As a rule of thumb, the following applies:
 >
@@ -59,9 +41,6 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >
 >Personal laptop: Same rules as for postdocs apply. 
 
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
-
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_In our lab “resources” comprise two main areas: financial resources (e.g. ordering the equipment you need for your project) and access resources (e.g. access to experimental rigs). If you feel that either of these are not being distributed fairly, please raise the issue in your 1-on-1 meeting with Pip, or use the button below.
 >
@@ -77,3 +56,4 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >#### Shared-Rig Access
 >
 >We share communal surgical and histology equipment with other labs in our immediate vicinity (at the time of writing, the O'Keefe, Barry, Linden, Wills, and Burgess Labs). These resources have their own dedicated calendar booking system. With two full surgical suites, there should be sufficient equipment to comfortably support everyone's needs. However, if you believe a group is unfairly monopolizing equipment or facilities, please raise the issue with Pip, who will discuss it with the head of the respective group. Please also do this if someone is not treating the equipment or facilities appropriately and it is impacting your work.
+

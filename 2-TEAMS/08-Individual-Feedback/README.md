@@ -16,29 +16,8 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ All lab members have 1o1 meetings with the PI as illustrated in the section "Regular meetings". In addition, at the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ All lab members have 1-on-1 meetings with Pip every week. In **January**, one of these meetings will be dedicated to bilateral feedback. A form will be provided, with sections to be completed before, during, and after, the meeting.
@@ -48,3 +27,4 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >Before these sessions, it is most helpful you not only think about areas for potential improvement, but also *how* you would like those improvements to be achieved.
 >
 >Pip will not necessarily be able, or willing, to implement all suggested changes. However, when something will not be implemented—or partially so—he will discuss the reasoning behind these decisions with you. If he fails to do this, please tell him and assume incompetence rather than malice!
+

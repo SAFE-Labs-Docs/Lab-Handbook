@@ -17,30 +17,9 @@ Researchers often focus on scientific progress and neglect the development of co
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Core skills such as team/time management, feedback, writing, and presentations are crucial to a scientific career. Many of these are addressed during daily interactions. For instance, the PI commits to giving extensive and comprehensive feedback on writing tasks, giving presentations is practiced during regular lab meetings and specifically when a public presentation is coming up, and lab members are encouraged to attend courses on management, writing and communication. 
 >We currently do not have an annual meeting that focuses on these skills in place. If this format is deemed useful by the lab members, it’ll be implemented in the future.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ People Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations, etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process but also alerts other lab members to potential opportunities.

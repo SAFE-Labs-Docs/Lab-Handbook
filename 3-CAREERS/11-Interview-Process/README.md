@@ -22,32 +22,11 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Hiring should not depend on personal biases, applicant names or other similar aspects. On one hand, the Italian recruitment system restricts to some degree the possibility for e.g. blind screening; on the other hand, academic work is based on often long hours in very close collaboration and hence, to some degree, personality and “fit” are important criteria to make sure that the new team member is happy but also that the existing team dynamics aren’t interrupted. In summary, to hire fairly and equitably is not easy. Given those considerations, the steps that are taken by the PI to make hiring as fair as possible are the following:
 >- All CVs are read and evaluated with the same interest and dedication, independently of applicants’ names or affiliations.
 >- Reasons for or against candidates are documented (although not publicly).
 >- Postdoc candidates are informed about the types of questions that will be asked during the interview.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ People As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised., and in accordance with guidelines from UCL.

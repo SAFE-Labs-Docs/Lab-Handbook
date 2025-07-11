@@ -17,12 +17,6 @@ We are all familiar with the experience of joining a new lab whilst still having
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ We encourage lab members to complete and publish research from their previous positions. To balance this with current project responsibilities, please follow these guidelines:
 >
@@ -31,22 +25,10 @@ We are all familiar with the experience of joining a new lab whilst still having
 > Deadline Exceptions: We understand that deadlines for paper resubmissions or conferences require intensive focus. During these critical periods, you may dedicate more time as needed. Please communicate with me in advance so we can plan accordingly.
 
 
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is common that one leaves a previous position before the final acceptance of a manuscript. Every new team member who needs to contribute to the completion of previous work needs to discuss the details with the PI and come to an agreement of the percentage of time and the duration of these contributions.
 
 >_[RossiLab_2025](https://rossilab.iit.it/)_: New lab recruits may have ongoing work from their previous position: I support committing time to complete this work, but the details of their contribution and time committment to external projects must be discussed and agreed with me. While the duration of these committments is understandably hard to predict, ideally it will not last longer than 6 months. If finishing previous work is expected to last longer than 6 months, researchers should delay the start of their position in the lab whenever possible. Finally, in no case time spent on previous work should exceed ~25%.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ It is completely normal for researchers, particularly postdoctoral researchers, to join the lab while still having outstanding work from their previous position, and I support lab members taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last more than 6 months. If finishing previous work is expected to last longer than this, it may be more sensible to delay the start of their position in the lab if possible. In general, time spent on previous work should not exceed 25% (although this will naturally vary over time).

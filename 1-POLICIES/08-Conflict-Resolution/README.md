@@ -21,29 +21,8 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is important to raise and solve inter-personal issues within the lab early. We all spend many hours of our days working together and a safe and open environment is crucial to being able to perform well and happily. If possible, issues should be raised to the PI during 1o1 meetings or during a separately scheduled meeting. The PI will advise on possible solutions and actions, invite the other parties to voice their point of view, and organize group discussions if adequate. If you don’t feel comfortable raising the issue with the PI, contact the [ombuds person](http://students.sissa.it/issues/ombudsperson.html) or raise the issue with HR. 
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ No lab is perfect, and individuals may have concerns about lab operations or another member's behaviour. Issues can arise for many reasons, and addressing them promptly almost always leads to better outcomes for everyone involved. The procedure for raising these issues is:
@@ -52,3 +31,4 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >2. Alternatively, please raise the issue anonymously by using this form (anonymous comment form).    
 >3.  If external involvement would be beneficial, contact your mentor (if a post doc) or your secondary advisor (if a PhD student).
 >4. If none of the above steps feel appropriate, raise the issue with [UCL Report & Support](https://report-support.ucl.ac.uk/).
+

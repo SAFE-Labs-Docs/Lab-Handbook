@@ -22,24 +22,6 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is normal that people will leave the lab, either because they have finished their project, or because they’ve found a new opportunity or for personal reasons. Lab members are encouraged to talk to the PI as soon as they consider leaving the lab. It will not be held against anyone if they want to leave, instead, the PI is dedicated to providing support in planning the next steps or to finding solutions in case the leave is due to health/personal reasons. Once someone has decided to leave, the following steps need to be taken:
 >
@@ -54,9 +36,6 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >In the last week:
 >- 1o1 meeting with the PI to go together through the update documentation, discuss and give mutual feedback on the lab member’s time in the lab, and to discuss next steps concerning ongoing projects if adequate.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member). While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!

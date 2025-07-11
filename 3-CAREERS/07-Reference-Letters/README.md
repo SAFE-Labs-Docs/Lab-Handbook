@@ -17,24 +17,6 @@ Career progression, grants, and competitive applications often require reference
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Reference letters are important for job applications and for some summer school and travel grant applications. Lab members will receive a reference letter from the PI, unless the PI feels that it isn’t possible to write a positive letter (this will be openly communicated). Especially the first letter for a new lab member requires a lot of time to write. Hence, these are the general rules for requesting reference letters:
 >At least 4 weeks in advance for first letter, at least 2 weeks in advance for any subsequent letters.
@@ -42,9 +24,6 @@ Career progression, grants, and competitive applications often require reference
 >Send a reminder 4-6 days before the deadline.
 >A short notice from the PI can be expected when the letter has been submitted. If such a confirmation has not been received by the day before the deadline, it is the lab member’s duty to check in with the PI.
 
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ To guarantee that Pip provides your letter, **you must give at least 2 weeks notice**. 

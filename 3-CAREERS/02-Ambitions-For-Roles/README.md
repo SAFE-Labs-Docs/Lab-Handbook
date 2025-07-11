@@ -15,33 +15,12 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Researchers in different roles will spend different amounts of time in the lab. Furthermore, technical challenges and other unknown or unforeseen aspects may delay projects. It is hence difficult to predict how many papers each team member will publish. As a rule of thumb, the following applies:
 >- PhD students: PhD candidates need to finish their PhD within 4 years. Projects are selected and adjusted so that it should be possible to have at least a paper draft by the end of these 4 years. While this is the minimum, the aim is to have a first-author manuscript on biorxiv and likely submitted by the end of the PhD. Due to the collaborative nature of our work, students can expect to be contributing author on at least a second paper.
 >- Postdocs: While postdoc contracts will usually be for 12 months, the PI clearly communicates funding availability and expected total duration of the postdoc (generally to be anticipated to be at least 3 years). The aim is to have at least one first-author paper in that time-frame and to likely contribute to multiple projects in the lab. Changes to funding or anticipated duration and publications will be communicated openly and timely. Conversely, postdocs may decide to move on to new positions and challenges before a publication has been achieved. 
 >- Master students / interns: Master theses last for at least 9, ideally 12 months. The main purpose of a thesis is for the student to learn one or more practical techniques, to understand all steps of a scientific project, to get insights into analysis of data, and to practice scientific writing and figure making, as well as scientific communication. The actual content and output are less important. However, if a student contributes a relevant data set which is included in a publication, they will certainly be granted authorship as detailed in the CRediT Taxonomy guidelines. 
 >- Technicians: Technicians’ contracts may be more variable and depend on needs and agreements. If technicians’ contributions fulfill the CRediT Taxonomy guidelines, they will be authors on papers.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:

@@ -15,26 +15,11 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
 ### Germany
-The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
-Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.
-Recycling: To minimize the environmental impact of lab waste, we avoid mixing lab waste and regular waste. We recycle regular waste according to local regulations.
-Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment and lighting.
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
+>_[OttLab_2025](https://torbenottlab.org/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+>Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.
+>Recycling: To minimize the environmental impact of lab waste, we avoid mixing lab waste and regular waste. We recycle regular waste according to local regulations.
+>Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment and lighting.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided
@@ -69,9 +54,6 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 - **Energy Use**: Be mindful of electricity consumption. Turn off lights, equipment, and appliances when they are not in use.
 - **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.
 
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
-
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >
@@ -80,3 +62,4 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We recycle waste whenever possible, and order equipment from local companies when the difference in cost is minimal.
 >
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
+

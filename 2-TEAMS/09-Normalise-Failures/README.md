@@ -16,31 +16,10 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide meetings targeted at normalizing failures. If this format is deemed useful by the lab members, it’ll be implemented in the future. Normalizing failures is part of daily interactions and during the weekly lab meetings, including reports of past/present failures of the PI.
 
 >_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Many failures are "good" failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. 
@@ -48,3 +27,4 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >**Some failure just suck**—and the only “lesson” is that academia (and life) sucks sometimes.
 >
 >Each year (in January) we will dedicate one meeting to this topic: everyone will talk about (at least) one professional failure from the past year—it could be anything from an experimental issue to a rejected application. The exact format will evolve with time, so for more specifics of the agenda and process, please look at the corresponding entry in the Lab Meetings database.
+

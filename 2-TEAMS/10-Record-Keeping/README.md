@@ -18,31 +18,11 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ All lab members are requested to send a short summary email to the PI after each 1o1 meeting. These can be bullet-point style but should contain concrete plans/agreements/outcomes. This format ensures that there’s a paper trail of what has been discussed and agreed on, but also that the PI and the lab member have the same understanding of the discussed matter.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Every lab member has a 1-on-1 meeting with their supervisor once per week. For post docs and PhD students, this will be Pip, but for Masters students and undergraduates, this may be another lab member. There is a dedicted (private) page for each lab member's 1-on-1 meeting.
 >
 >The supervisor, and lab member, both have responsibilities during this meeting. In brief: both parties should add discussion points to the meeting page throughout the week, and then during the meeting, they should go over these discussion points and update the to-do list. After the meeting, the lab member should write a summary of the meeting (100-200 words).
+

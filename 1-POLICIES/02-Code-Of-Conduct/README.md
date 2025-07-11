@@ -13,23 +13,8 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
 ### Germany
-All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, being timely for meetings, and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment. 
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
+>_[OttLab_2025](https://torbenottlab.org/):_ All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, being timely for meetings, and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment. 
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ What I expect from my lab members: 
@@ -53,9 +38,6 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >  Lab members can refer to the [CNR institutional page on research integrity](https://www.cnr.it/it/ethics) for official policies and guidance.
 >- **Respect**: Every lab member's opinion matters. While critical thinking is encouraged, feedback should always be constructive and aimed at fostering meaningful dialogue and personal development. Disagreement is welcome, as long as it's expressed respectfully.
 >- **Engagement**: Curiosity, initiative, and commitment are essential. Strive for excellence in your research, and take an active role in lab activities—this includes lab meetings, seminars, and collaborative discussions. The success of the lab depends on the enthusiasm and contributions of its members.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Lab members must maintain professional integrity, accountability, and mutual respect in all interactions while upholding high scientific standards and fostering collaboration. This includes respecting others' viewpoints during discussions, arriving on time for meetings, and engaging actively with presentations. Everyone must contribute to an inclusive environment characterized by compassionate behaviour and free from any discriminatory conduct—especially regarding gender, race, sexuality, or disability. Lab members should feel safe to express their ideas, wishes, or concerns without fear of negative consequences, ensuring a supportive environment.

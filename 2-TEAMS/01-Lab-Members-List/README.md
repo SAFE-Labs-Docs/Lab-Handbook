@@ -15,23 +15,8 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ The list of current and past lab members can be found on our lab webpage: https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ A list and contact information of all current lab members as well as a list of lab alumni can be found on the [lab website] (https://www.reinhardlab.org/team).
@@ -43,3 +28,4 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com//):_ [Lab members page](https://coen-lab.com//)
+

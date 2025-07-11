@@ -19,31 +19,14 @@ This consists of three required steps:
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
 ### Germany
-https://torbenottlab.org/safe-labs/: Our lab is committed to foster a positive, inclusive lab culture. Torben contributed to SAFE Labs, an initiative to start Safe and Equitable Labs by commiting to 30 action items distilled into a Lab Handbook. We have implemented these guidelines in our lab. You can find the public part of the Lab Handbook here.
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
+>_[OttLab_2025](https://torbenottlab.org/):_ Our lab is committed to foster a positive, inclusive lab culture. Torben contributed to SAFE Labs, an initiative to start Safe and Equitable Labs by commiting to 30 action items distilled into a Lab Handbook. We have implemented these guidelines in our lab. You can find the public part of the Lab Handbook [here](https://torbenottlab.org/safe-labs/).
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ The importance of a positive work culture for wellbeing and productivity has become increasingly evident in recent years, but academic science still has a negative reputation in this area. [Here you can find our Lab Handbook](https://drive.google.com/file/d/1FVUqOQC4R48ENKyJsKzS7PNwspzAZaDL/view?usp=sharing) that contains detailed expectations and commitments by Katja, the PI of the lab. It is the basis for safe, fair, equitable, and informed interactions within the lab. A more detailed version is shared among current lab members.
 >
 >This handbook is the result of a dedicated, international workshop called [⁠“SAFE Labs”](https://coen-lab.com/safe-labs/) in 2024, focused on understanding the key barriers to Starting Aware, Fair, and Equitable Labs. The attendees of the first edition of this workshop came up with [guidelines to create Lab Handbooks](https://github.com/SAFE-Labs-Docs/Lab-Handbook). Both the guidelines as well our lab's version of the Handbook will be reviewed and updated.
 
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
-
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ The SAFE Labs handbook is a document co-authored by Pip and other group leaders across Europe in 2024 (and is continually updated). You can read more details of the handbook here. Many of the commitments involve publicly documenting important material. Here, I provide links to the location of all that material (if a link is missing, the information has yet to be documented).
+

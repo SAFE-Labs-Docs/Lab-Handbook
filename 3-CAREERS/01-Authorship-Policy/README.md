@@ -16,23 +16,8 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
 ### Germany
-Authorship vs acknowledgement is not always obvious in advance, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy (https://credit.niso.org/). For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the PI, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
+>_[OttLab_2025](https://torbenottlab.org/):_ Authorship vs acknowledgement is not always obvious in advance, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy (https://credit.niso.org/). For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the PI, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is impossible to do modern neuroscience alone. Techniques are too difficult, algorithms too complicated for one person to be able to do everything. In our lab, PhDs and postdocs will have their main project, but everyone will be involved in at least one additional project by contributing specific expertise. Hence, papers with only 2 authors (First + PI) will be impossible or at least extremely rare. We also don’t believe in authorship gatekeeping or that papers are worth less if there are more authors. The following steps are taken for transparent authorships:
@@ -40,9 +25,6 @@ Authorship vs acknowledgement is not always obvious in advance, but typically al
 >We generally follow the [CRediT Taxonomy](https://credit.niso.org/) guidelines of what authorship constitutes. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship.
 >
 >Authorship will be discussed with all involved researchers whenever a person starts contributing to a new project or a new collaboration is established.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.

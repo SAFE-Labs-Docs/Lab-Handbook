@@ -16,23 +16,11 @@ English is the international language of science in the 21st century: proficienc
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ English is the official language of the lab. All scientific activities, including meetings, presentations, and written communication, are to be conducted in English. This policy is upheld to ensure an inclusive environment for all members, regardless of their native language. An exception is made for undergraduate students, who may present their work in French in accordance with the university's primary language of instruction. Furthermore, while the lab operates in English, daily interactions within the broader institute often occur in French. We encourage non-French speaking members to learn French to aid in their integration. Aix-Marseille Université offers language courses to support this.
 
 ### Germany
-The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonthless, some administrative exchanges are in German and the institute offers assistance in learning the German language.
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
+>_[OttLab_2025](https://torbenottlab.org/):_ The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonthless, some administrative exchanges are in German and the institute offers assistance in learning the German language.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ The official language of the institute and the lab is English. Speaking a commonly used language is a sign of inclusivity but is also a crucial skill for science communication. By speaking Italian or other languages that are not English with other people present or entering the room, you are actively excluding your colleagues from the conversation. This is not acceptable at the workplace. For example, if you meet with someone in the cafeteria for a private conversation it’s ok to speak e.g. Italian. But if go for lunch with other Italian lab members and speak Italian, then a non-Italian member joins the table, it is NOT ok to continue in Italian.
@@ -53,9 +41,6 @@ The lab language is English. Any professional conversation, oral and written, du
 > To solve these problems, as well as to streamline coding and other processes, I incentivise the use of LLMs and other AI tools. For our scientific production instead, I encourage the use LLMs to proofread and refine original written material, but I won't accept fully AI generated material.
 
 >_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: English is the working language of the lab. To ensure an inclusive environment for all members—regardless of their native language—all scientific activities, including meetings, presentations, written communication, and lab notebooks, are expected to be conducted in English. While many institutional documents and communications are in Italian, we make a dedicated effort to translate all essential information. We also encourage non-Italian-speaking lab members to seek help from colleagues if automatic translations do not suffice to fully understand important communications.
-
-### Netherlands
-[To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allows everyone present to participate.

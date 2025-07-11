@@ -16,24 +16,6 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ## Examples
 
-### Austria
-[To be filled with specific examples from Austrian institutions]
-
-### Belgium
-[To be filled with specific examples from Belgian institutions]
-
-### France
-[To be filled with specific examples from French institutions]
-
-### Germany
-[To be filled with specific examples from German institutions]
-
-### Hong Kong
-[To be filled with specific examples from Hong Kong institutions]
-
-### Ireland
-[To be filled with specific examples from Irish institutions]
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Our team is composed of postdocs, PhD candidates, undergraduates and technicians. Each role comes with different responsibilities and training opportunities. These are outlined in a table accessible both in the public and internal [Lab Handbook](https://drive.google.com/file/d/1FVUqOQC4R48ENKyJsKzS7PNwspzAZaDL/view).
 

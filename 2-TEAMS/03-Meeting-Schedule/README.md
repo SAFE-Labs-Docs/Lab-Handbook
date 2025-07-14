@@ -43,7 +43,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 > - Literature Review Clubs
 > - Tutorial Clubs
 > - Wiki clubs
->The expectations for regular meetings are laid out in detail on our lab wiki. All group meetings are in-person events, although we stream them on Teams to allow participation from those who can’t attend in person. Presentations and notes are saved on the lab server for posterity and future references.
+> The expectations for regular meetings are laid out in detail on our lab wiki. All group meetings are in-person events, although we stream them on Teams to allow participation from those who can’t attend in person. Presentations and notes are saved on the lab server for posterity and future references.
 >
 >**1-on-1 Meetings**: Federico meets every lab member once per week, typically for around 1 hour, during core work hours, to discuss their project and any other issues. Ahead of the meeting, lab members prepare a presentation summarising the week goals and achievements and plans for the week to come. After each meeting, lab members write a summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
 >

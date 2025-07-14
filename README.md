@@ -57,7 +57,7 @@ _**Suggestions:**_ We may include suggestions of aspects that should be consider
 _**Template:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. <br/><br/>
 _**Community examples:**_ A collection of real-world examples of committments from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own committments/statements here. <br/>
 ## Key terminology:
-_**To document:**_ Provide a written record of a policy or commitment. Documenting could involve linking an institutional policy and stating that it reflects your expectations for lab members. A commitment would be satisfied by stating that no general lab policy exists.<br/>
+_**To document:**_ Provide a written record of a policy or commitment. Documenting could involve linking an institutional policy and stating that it reflects your expectations for lab members; or by stating that no general lab policy exists.<br/>
 <br/>
 _**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
 <br/>

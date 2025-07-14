@@ -37,13 +37,19 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Topic Meetings (Fridays, 10:00 – 11:00):
 >Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing >on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
 
->_[RossiLab_2025](https://rossilab.iit.it/home):_ I encourage all lab members to seek and apply for training opportunities to learn new expertise, and values initiative to disseminate the lab research at conferences.
+>_[RossiLab_2025](https://rossilab.iit.it/home):_ **Lab meetings**: The lab meets as a group once per week, on Friday morning from 9 to 11 – breakfast is on the house! We are experimenting with 4 types of meetings:
+>  Data Clubs
+>  Journal Clubs
+>  Literature Review Clubs
+>  Tutorial Clubs
+>  Wiki clubs
+>The expectations for regular meetings are laid out in detail on our lab wiki. All group meetings are in-person events, although we stream them on Teams to allow participation from those who can’t attend in person. Presentations and notes are saved on the lab server for posterity and future references.
 >
->**TRAINING/SCHOOLS**: I support both PhD students and postdoctoral researchers to apply and attend at least one competitive training school during their tenure in the lab. I will sponsor applications (e.g. with recommendation letters) to these initiatives when they align with a project interest or planned career development. Expression of interested must be communicated in time to apply for travel grants/fees waivers, and in any case 1 month in advance. When funds are available, and application to fees waivers are not successful, the lab will cover the costs.
+>**1-on-1 Meetings**: Federico meets every lab member once per week, typically for around 1 hour, during core work hours, to discuss their project and any other issues. Ahead of the meeting, lab members prepare a presentation summarising the week goals and achievements and plans for the week to come. After each meeting, lab members write a summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
 >
->**CONFERENCES**: I encourage PhD students and postdoctoral researchers to attend at least 1 conference per year to disseminate our work, learn the state of the art in the field, and expand our networks. To sponsor and finance conference attendances, I require lab members to submit an abstract and present at least a poster. Exceptions to this rule can be allowed on the first year of tenure in the lab, but must be discussed on a case by case basis. Each postdoctoral researcher and PhD student has a budget of £1000 per year to attend conferences/workshops/symposia. This can be accumulated across years if that is the preference, and can be used for one expensive conference or multiple inexpensive conferences. If lab members have additional funds through grants or their PhD programme, these can be used in addition to the £1000 annual budget. Federico is happy to make an exception to this rule and provide extra funds if allowed by current grants, and an excellent opportunity arises (e.g. a unique conference, an invitation to give a prestigious talk) that would exceed this budget, but lab members should discuss with Federico before making any commitments.
->
->Research assitants, master's students and undergraduates are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with Federico. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.
+>**Semestral Appraisals**: We review the post/project's long-term progress and provide tailored feedback on work performance during semestral appraisals. This is also an opportunity to give Federico feedback about the experience of working in the lab, and discuss how to improve his support and supervision.
+
+
 
 ### United Kingdom
 

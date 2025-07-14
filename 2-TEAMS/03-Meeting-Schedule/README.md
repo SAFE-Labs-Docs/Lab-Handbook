@@ -38,11 +38,11 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing >on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
 
 >_[RossiLab_2025](https://rossilab.iit.it/home):_ **Lab meetings**: The lab meets as a group once per week, on Friday morning from 9 to 11 – breakfast is on the house! We are experimenting with 4 types of meetings:
->  Data Clubs
->  Journal Clubs
->  Literature Review Clubs
->  Tutorial Clubs
->  Wiki clubs
+> - Data Clubs
+> - Journal Clubs
+> - Literature Review Clubs
+> - Tutorial Clubs
+> - Wiki clubs
 >The expectations for regular meetings are laid out in detail on our lab wiki. All group meetings are in-person events, although we stream them on Teams to allow participation from those who can’t attend in person. Presentations and notes are saved on the lab server for posterity and future references.
 >
 >**1-on-1 Meetings**: Federico meets every lab member once per week, typically for around 1 hour, during core work hours, to discuss their project and any other issues. Ahead of the meeting, lab members prepare a presentation summarising the week goals and achievements and plans for the week to come. After each meeting, lab members write a summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.

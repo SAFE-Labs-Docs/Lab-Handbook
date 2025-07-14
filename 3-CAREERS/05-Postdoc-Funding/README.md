@@ -37,6 +37,14 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >For comparisons, salaries of personnel and faculty at different stages are public and can be found [here](https://www.sissa.it/servizi-informazioni-personale/salary-tables).
 
+>_[RossiLab_2025](https://rossilab.iit.it/home)_: Postdoctoral positions can be funded in 3 ways: on a lab grant, on IIT core funds to the lab, on an external fellowship (e.g. MSCA, EMBO etc..). Salaries and type of contract depends on the funding source.
+>    1,2) Postdocs are hired via Co.Co.Co (‘collaboration’) contracts, with a yearly gross salary (R.A.L) ranging from 30-55K depending on experience and funds available: these salaries are typically higher than the average in Italy. The collaboration contract is not constrained by working hours, remote work and annual leave limits, which can be flexibly managed in agreement with Federico depending on the project milestones. Additional benefits include an optional health insurance, which paid by IIT top of the salary, which can be extended to any family member: while the insurance cost adds to the taxable income, its value is paid by IIT. At the end of the contract, a researcher may be rewarded with a one off bonus (compenso aggiuntivo di fine incarico, CAFI).
+>
+>    3) Please refer to the guidelines of the specific fellowship, which may warrant different contracts/salaries than what outlined in 1,2.
+> 
+> Even when an advertised postdoctoral position is fully funded via the lab funds, Federico will require all postdocs to apply for funding and fellowships when accepting a position, if eligible. This is for three reasons: it helps to crystalise their project approach and hypotheses; its demonstrates independence in a researcher’s CV; it can provide additional funding for professional activities (e.g. travel).
+
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Any advertised postdoctoral position is fully funded for the duration specified on the job advertisement. However, all postdocs are required to apply for funding and fellowships when accepting a position in the lab. This is for three reasons:
 >1. It helps to crystalise their project approach and hypotheses

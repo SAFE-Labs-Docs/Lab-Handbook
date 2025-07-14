@@ -23,6 +23,8 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Our team is composed of postdocs, PhD candidates, undergraduates and technicians. Each role comes with different responsibilities and training opportunities. These are outlined in a table accessible both in the public and internal [Lab Handbook](https://drive.google.com/file/d/1FVUqOQC4R48ENKyJsKzS7PNwspzAZaDL/view).
+>
+>>_[RossiLab_2025](https://rossilab.iit.it/home):_Our team is composed by researchers with different roles: postdocs, PhD students, Research Assistants undergraduate students. Expectations for each role, and what they can expect from other lab members, is detailed in the table at this [link](https://rossilab.iit.it/lab-culture). The table is meant as a guide, not a limitation: exceptions will happen (e.g. sometimes a principle project can be collaborative, rather than independent; a productive research assistant or an undergraduate may contribute to writing a paper), but this guide will be accurate in most cases: please discuss with Federico if you have any questions of concerns about it.
 
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).

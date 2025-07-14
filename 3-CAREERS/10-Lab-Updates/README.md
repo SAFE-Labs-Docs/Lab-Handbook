@@ -26,6 +26,9 @@ Lab members are often considering academia as a potential career. It informs tha
 >The PI participates often in informal lunches, coffee breaks or other opportunities to ask and discuss about lab management topics.
 
 ### United Kingdom
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Yearly state of the lab meeting: at the end of the year, I will give a lab management update to go over our spending, funding applications, achievements over the past year and the vision for the next one.
+
 >_[CoenLab_2025](https://coen-lab.com/):_ Every ~6 weeks, we have a Lab Update meeting where we discuss and improve lab management and operations, and address any concerns or questions. During these meetings, Pip will also provide updates on future lab funding, events, and other matters.
 >
 >Using the page dedicated to a specific lab update meeting, please add items to the agenda that you would like to discuss in this weeks meeting. This can be any aspect of general lab business, from how we store and manage data, to which snacks to get for lab meetings.

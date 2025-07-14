@@ -34,4 +34,13 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 > **For post-doctoral researchers and Assistant Professors**, responsibilities depend on their specific project and where funding comes from. In general, we encourage increasing independence and setting up of independent research lines, particularly for Assistant Professors. We require and stimulate all post-doctoral researchers to actively seek and apply for funding opportunities. We also require and stimulate (co-)supervision of the PhD students in the group.
 
 ### United Kingdom
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.
+>
+>We have several general lab support duties distributed among all the group members. The up-to-date responsibility list can be found here: link not public. It is important that you let the responsible person know about something running low or equipment broken well in advance.
+>
+>In addition, we have a weekly rota for cleaning the lab and restocking and a monthly rota for hood cleaning. These rotas are sent via Outlook Calendar.
+>
+>You will be required to occasionally supervise summer or MRes students or help new lab members with their integration process. The allocation of supervision is made by volunteering or according to the most suitable project.
+
 >_[CoenLab_2025](https://coen-lab.com/):_ Our team is composed by researchers with different roles. Expectations for each role, and what they can expect from other lab members, is detailed in the table below. Please contact Pip if you have any questions or concerns about this table. This is a guide and not a limitation. Exceptions will happen (e.g. sometimes a principle project can be collaborative, rather than independent, or an undergrad may contribute to a paper), but this guide is accurate for most cases. The corresponding table of responsibilites can be found _[here](https://coen-lab.com/lab-life/#Role-Expectations)._

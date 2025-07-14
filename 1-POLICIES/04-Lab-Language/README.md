@@ -45,5 +45,13 @@ English is the international language of science in the 21st century: proficienc
 >_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: English is the working language of the lab. To ensure an inclusive environment for all members—regardless of their native language—all scientific activities, including meetings, presentations, written communication, and lab notebooks, are expected to be conducted in English. While many institutional documents and communications are in Italian, we make a dedicated effort to translate all essential information. We also encourage non-Italian-speaking lab members to seek help from colleagues if automatic translations do not suffice to fully understand important communications.
 
 ### United Kingdom
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ The primary language of the lab is English. All professional conversations, both oral and written, during work activities must be conducted in English. This includes presentations, discussions at lab meetings, scientific outputs, and email communications. 
+>
+>Outside of professional meetings, the lab promotes inclusive communication. Verbal exchanges should use language that enables everyone present to participate. This means you may communicate in other languages within the lab, as long as this does not exclude anyone. These rules apply to communications within the lab, and you are welcome to interact with colleagues at the institute in the language you prefer.
+>
+>You are encouraged to use language models to proofread and refine written text; however, fully AI-generated text is not acceptable.
+
+
 >_[CoenLab_2025](https://coen-lab.com/):_ The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allows everyone present to participate.
 

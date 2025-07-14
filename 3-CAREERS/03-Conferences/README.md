@@ -46,6 +46,14 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > We encourage everyone to apply for grant opportunities that allow you to fund your own trip, for instance [this one for PhD students at Amsterdam UMC](https://www.amsterdamumc.org/en/phd-student/trajectory/amsterdam-umc-young-talent-fund.htm). This will increase (y)our budget to attend workshops and it is great practice to try and obtain some small grants early on in your career!
 
 ### United Kingdom
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I encourage all lab members to participate in conferences and courses. If you find a conference or course that interests you, please feel free to discuss the possibility of attending with me. 
+> 
+>However, our travel budget is quite limited, as is typical for junior labs. Attending a national conference on a yearly basis is usually feasible, but large international conferences tend to be more expensive. Therefore, you should expect to attend an international conference approximately once every three years. If you'd like to attend more frequently, you can seek additional funding through ICR student, postdoc, and SO associations, or professional societies such as Genetics or Biochemistry.
+> 
+>We will decide if presenting at conferences is appropriate based on the status of your project.
+>
+>If you travel abroad for business purposes, contact HR in advance to obtain travel insurance information. 
+
 >_[CoenLab_2025](https://coen-lab.com/):_ 
 >
 >**Conference attendance** Each postdoctoral researcher and PhD student has an annual budget of £1000 to attend conferences. This can be accumulated across years if that is the preference, and can be used for one expensive conference or multiple inexpensive conferences. Lab members should discuss their conference plans with me before committing to attend a particular meeting. Lab members do not need to present anything when attending their first conference after joining the lab, but should present at any future conferences, or organize a workshop/symposium, if they are planning to attend. If lab members have additional funds through grants or their PhD programme, these can be used in addition to the £1000 annual budget. I am happy to make an exception to this rule and provide extra funds if allowed by current grants, and an excellent opportunity arises that would exceed this budget (e.g. a unique conference, an invitation to give a prestigious talk). Lab members are encouraged to supplement this funding with applications to grants, either from the conference itself (e.g. fee waivers for new attendees), or from external sources.

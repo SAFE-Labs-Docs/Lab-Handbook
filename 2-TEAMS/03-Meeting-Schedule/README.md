@@ -38,6 +38,23 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing >on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
 
 ### United Kingdom
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Discussing scientific progress is essential for academic success. I expect all the lab members to participate in our scheduled meetings. I will schedule all meetings during the ICR's working hours, from 9 am to 5 pm.
+>
+>**1. Radzisheuskaya lab meetings:** every 3 weeks, 2 speakers on a rotating schedule present an informal progress report. There will be time allocated for discussion of general lab issues. The meetings typically last 90-120 min. The schedule is sent via Outlook Calendar. 
+>
+>Each speaker will have around 45 minutes. To make this meeting productive and to facilitate discussion, do not prepare long introduction or long presentation on the old data (>6 months old). Use the bulk of your allocated time on the latest results, current struggles, immediate plans or new ideas for the project. You can also use your time to discuss a recent paper that is directly relevant to your project.
+>
+>**2. Joint Helin-Radzisheuskaya lab meetings:** weekly, 1 speaker on a rotating schedule presents a progress report for the past 3-5 months. The schedule can be accessed here: link not public.
+>
+>**3. Joint Helin-Radzisheuskaya journal club meetings:** bi-weekly, 2 speakers on a rotating schedule present a paper of their choice. Paper suggestions and schedule can be found here: link not public.
+>
+>**4. 1-on-1 meetings:** These are 30- to 60-minute weekly meetings to review progress and plans. The agenda is prepared in an individual Word document and updated during or after the discussion. I have an open-door policy should additional discussion points arise between these meetings. The schedule is sent via Outlook Calendar.
+>
+>Since these are weekly meetings, it is understandable that you will not always have new results to discuss. Still, I prefer these meetings to occur irrespective of whether you have finished experiments or questions, as this allows us to reflect on the project and brainstorm together. If you feel that bi-weekly individual meetings would work better for you, I will support that and rearrange the timetable accordingly.
+>
+>If you want my help or advice on specific experiments, please come with raw data for me to look at. Describing your observations verbally will not help me troubleshoot your problems.
+
 >_[CoenLab_2025](https://coen-lab.com/):_ At the time of writing, the lab meets as a group twice per week, on Tuesdays and Thursdays at 10am–pastries are provided! These are typically Journal Clubs (presentation of a paper) on Tuesdays and Data Clubs (update on a project) on Thursdays. However, meetings are sometimes focused on other lab business, including training, external speakers, feedback sessions, or mini-hackathons.
 >
 >The expectations for regular meetings are laid out in detail on our lab wiki, but most meetings have a presenter, responsible for leading the meeting, and someone taking notes on the content. All group meetings are in-person events, although we record meetings online for posterity, and to allow participation from those who can’t attend in person.

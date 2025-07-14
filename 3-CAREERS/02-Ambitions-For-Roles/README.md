@@ -32,6 +32,12 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >- Technicians: Technicians’ contracts may be more variable and depend on needs and agreements. If technicians’ contributions fulfill the CRediT Taxonomy guidelines, they will be authors on papers.
 
 ### United Kingdom
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions. 
+> 
+>My goal for researchers in Postdoc, PhD, or HSO positions is to help each individual publish at least one first or co-first-authored paper within the span of their initial 3-4-year contracts. While advancing your own project is important, I also expect you to contribute to other projects in the lab, where you will be recognised as a co-author. It is unrealistic for one person to manage all aspects of a project or possess all the necessary expertise; therefore, supporting one another is essential for the success of everyone in the lab. 
+> 
+>I and the first author(s) of the manuscript will discuss the journal to which the manuscript will be submitted.
+
 >_[CoenLab_2025](https://coen-lab.com/):_ Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:
 >
 >PhD students in the UK typically graduate ~3-4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it may be possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.

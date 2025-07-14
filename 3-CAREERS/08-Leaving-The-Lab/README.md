@@ -37,6 +37,14 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- 1o1 meeting with the PI to go together through the update documentation, discuss and give mutual feedback on the lab member’s time in the lab, and to discuss next steps concerning ongoing projects if adequate.
 
 ### United Kingdom
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I will be transparent with the employees about the available funding for their positions when they join the lab. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab or a plan for securing the next position. 
+> 
+>I aim to provide lab members with mentorship and support to secure the next career step. Job and/or grant applications and preparing for subsequent interviews take time. Typically, after discussions during one-on-one meetings, I support dedicating up to 25% of research time to this endeavour.  
+>
+>I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearsing interview talks. However, academia is one of many available career paths. For career paths outside academia, the ICR has extensive resources: LINK NOT PUBLIC 
+> 
+>I understand that people decide to leave the lab for different reasons and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the handover of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step before departure, I will organise an exit interview, during which the departing lab members will be able to discuss their reasons for leaving and provide constructive feedback based on their experience. If needed, another member of the ICR faculty will be invited to participate in the interview.
+
 >_[CoenLab_2025](https://coen-lab.com/):_ People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member). While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!
 >
 >#### Offboarding Checklist

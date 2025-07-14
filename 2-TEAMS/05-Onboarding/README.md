@@ -42,6 +42,10 @@ A clear onboarding process should not only ensure that lab members complete esse
 > Besides the official Research Institutes, members of our group recently initiated the Genetics Network Amsterdam (GENE Amsterdam) which is a network of researchers working in the broader field of genetics across Amsterdam. An official [website](https://www.geneticsnetworkamsterdam.org/) was launched in November 2022. We recommend you to get your own personal page added to the website and to publish any relevant news item or blogs about your research on the website (contact x for anything related to the website). GENE Amsterdam also has regular research meetings which are very useful to attend, please e-mail x to get added to the GENE Amsterdam mailing list. There is also an annual research meeting of GENE Amsterdam.
 
 ### United Kingdom
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We follow the standard ICR onboarding process, which can be found here:  LINK NOT PUBLIC. In addition, every new lab member will be paired with a “lab buddy” who will arrange for you an introduction to all the lab resources. 
+
+
 >_[CoenLab_2025](https://coen-lab.com/):_ These are some initial admin steps that *should* happen (some even before you arrive at UCL). If you've been in the lab for a week and any of these haven't been covered, ask someone!
 >
 >- Sign a contract/enroll

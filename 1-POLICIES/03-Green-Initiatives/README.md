@@ -60,6 +60,11 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 - **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.
 
 ### United Kingdom
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We have a Silver Award from the LEAF lab sustainability initiative, and we follow a set of defined rules to maintain the Award. All the followed procedures can be found in the Sustainability section of our group's Team channel.
+>
+>Since everyone in the lab shares responsibility for ordering reagents, I expect you to regularly look for the most budget-friendly options and ask sales reps for discounts—especially when it comes to high-cost items. The same mindset applies to doing experiments: always be mindful of conserving resources. That means reducing waste, optimising how you use reagents, keeping reaction volumes low when possible, and avoiding unnecessary samples. Being smart about spending day to day helps us save up for bigger, more expensive—and very exciting—experiments down the line.
+
 >_[CoenLab_2025](https://coen-lab.com/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >
 >Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-haul trips, when funding allows, I will cover the most sustainable travel option. I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work-related) trips. Lab members are also encouraged to combine their work trips with other activities to reduce future emissions, like visiting related labs or institutes in the local area, or simply taking a holiday. I incentivize sustainable options for daily commute: PhD students benefit from reduced costs on public transportation across, and all staff can participate in UCL’s cycle scheme to purchase a bike through salary sacrifice (meaning that the effective cost is reduced and spread over time).

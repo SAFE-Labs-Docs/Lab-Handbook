@@ -52,6 +52,14 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >**🕌 Cultural and Religious Observances**
 >While the lab follows the **national holiday calendar**, members are welcome to adapt their time off to accommodate **cultural or religious festivities** specific to their background.  
 >Such flexibility should be managed in coordination with the PI to ensure proper planning and fairness across the team.
+>
+>_[RossiLab_2025](https://rossilab.iit.it/home):_ I am committed to creating a healthy work environment for all lab members that prioritizes mental health and wellbeing together with productivity. Neuroscience research should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. Let aside the requirement of different contracts, everyone has a different daily schedule, times when they are more productive, and approaches to scientific work. Not all of them will be suited to our lab. With the goal of minimising expectation mismatch, and to increase collegiality and cooperativity within lab member, I try to outline clear policies for working hours, remote working and vacation below.
+>
+>**Working hours**: IIT contracts are very flexible in terms of allocation of working hours, and many of them are milestone based, rather than hour based. Despite this, I prefer the lab members to be onsite during the following core hours: 10am to 4pm. This in-person time ensures regular interaction and allows us to benefit from the expertise and community that comes with working in a research group. Everyone should be mindful of these ours when scheduling meetings and training sessions, or emailing urgent requests. While this isn’t always possible - experimental work and life commitments aren’t always flexible—it should be the standard practice.
+>
+>**Remote working**: I believe that some regular onsite presence is important to maintain the lab community. Thus, I expect all full-time lab members should aim to work onsite at least four days a week. However, I am happy to support intermittent periods of remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant. Different arrangements can be negotiated depending on position, project requirement (e.g. experiments vs data analysis) or personal circumstances.
+>
+>**Vacation**: I anticipate all lab members taking a minimum of 30 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this.
 
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_

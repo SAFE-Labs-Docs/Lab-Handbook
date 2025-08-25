@@ -17,6 +17,9 @@ Lab members are often considering academia as a potential career. It informs tha
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_ At the annual retreat, I update the lab about the state of the lab, management challanges, grant and financial situations, and equipment. We also discuss how I or the team can address management challenges. 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Several mechanisms are in place to update all team members on lab management issues (responsibilities of lab managers, funding situation, costs etc.):
 >Biweekly lab meetings: The PI presents at the biweekly lab meetings. Often, these presentations will be about lab management related aspects.

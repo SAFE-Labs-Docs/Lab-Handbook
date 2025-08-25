@@ -16,6 +16,9 @@ A PhD steering committee provides independent oversight of PhD student progress 
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_  Every PhD student is supervised by a PhD committee comprising the direct supervisor (usually myself) and at least two additional committee members. The PhD committee meets annually to provide feedback on the student's progress. Please find specific rules and regulations regarding composition, meeting frequency, and documentation requirements on the respective PhD program's website, for example, for the [BCCN Berlin's PhD program](https://www.bccn-berlin.de/doctoral-program-structure.html). 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Two types of feedback and steering measures are in place:
 >- Annual progress reports: Every PhD student presents their research and answers questions during a public presentation that includes at least all Neurobiology faculty. These progress report meetings are annual at the end of the 1st, 2nd and 3rd year. They are followed by a discussion among the faculty (without the student) and by an official written report that will be shared with the student. A discussion between the student and the committee, but without the supervisor, is not part of this format. However, PhD students have yearly meetings with the PhD coordinator to raise general issues and can request a meeting with the coordinator at any point during their PhD to discuss issues with their supervisor.

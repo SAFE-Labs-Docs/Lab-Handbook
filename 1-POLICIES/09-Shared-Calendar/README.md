@@ -18,6 +18,14 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_ We use Google calendars to organize scheduling of lab meetings, events, animal care, equipment use, vacation days, home office, and other. Mandatory entries include:
+>
+>- Shared equipment use (see specific calendars)
+>- Any (full) day not on-site due to work travel, home office, sick leave, or other (please specify)
+>- Stay up-to-date regarding lab meetings and talks 
+>- Stay up-to-date regarding animal care 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Science is collaborative and it’s important to know when people are present. Every lab member is hence requested to add to the Lab Calendar when they’re on vacation or at a conference. Short absences, e.g. to go to the bank, do not need to be communicated unless they happen during scheduled meetings such as the weekly lab meeting. Absences of full days and more need to be added. The main purpose of this is to organize the work with your colleagues and so we don’t panic when we don’t see our colleagues for a few days. The lab calendar also contains information about deadlines for conference applications, lab meetings and institutional seminars. Further calendars to book setups, for lecture schedules and to see when Katja is available are shared in more detail in the lab internal Handbook.
 

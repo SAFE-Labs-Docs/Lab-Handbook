@@ -18,6 +18,15 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_ Lab members are encouraged to report any bullying, harassment or discriminatory behavior without fear of retaliation to the PI, to [confidential parties](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text) for conflict mediation and consultation, or contact the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html). For academic misconduct allegations, report to your PI or contact [HU’s Ombudspersonen](https://gremien.hu-berlin.de/de/en/gremien/commissions/fehlverhalten/index.html).
+>   
+>Steps for raising lab or inter-personal issues
+>  
+>1. If comfortable doing so, request a meeting to raise the issue with the PI. The PI commits to treat such meetings confidential and without personal consequences for the person raising any issue. 
+>2. If this is not possible, please raise the issue by consulting HGS Conflict Consultation [here](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text).
+>3. If none of the above steps fare appropriate, raise the issue with the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Under no circumstances do we support any form of bullying or harassment, whether verbal or physical. SISSA has multiple measures in place to report bullying and harassment, and to receive psychological support as well as help with possible actions and consequences. The following four routes can be taken if someone experiences bullying and harassment:
 >- Talk to the PI and/or the PhD coordinator: For less severe cases or if one wants to first have an informal chat about incidences, the PI as well as the PhD coordinator can be contacted. 

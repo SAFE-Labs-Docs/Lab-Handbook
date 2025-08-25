@@ -15,6 +15,9 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_ Please find a list of past and current lab members here: https://torbenottlab.org/people/
+
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ The list of current and past lab members can be found [here](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel).
 

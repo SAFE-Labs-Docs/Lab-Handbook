@@ -17,6 +17,16 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_ The PI expects active participation at regular meetings including
+>1. Bi-weekly [Data Club](https://www.notion.so/Decision-Circuits-Data-Club-54e4c1ad1b564dddb630723516d0b8a4?pvs=21) with rotating progress reports
+>2. Bi-weekly [Journal Club](https://www.notion.so/Decision-Circuits-Journal-Club-a5c3fecbff3e411884d4458faf77f057?pvs=21) with rotating paper discussions
+>3. Bi-weekly 1-on-1 [meetings with the PI](https://www.notion.so/Meetings-with-Torben-258f11d17af942beb2c0123d88e2481e?pvs=21)
+>4. Yearly appraisals
+>5. Monthly BCCN talks
+>
+>The PI expects every 1-on-1 meeting is prepared with an agenda and summarized afterwards, highlighting action points (see Notion). 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We have three types of regular meetings:
 >- Lab Meetings: Tuesdays 13:30 – 15:30. These meetings are mandatory and to be attended in-person unless otherwise agreed on with the PI. Meetings may last less than 2h. Lab meetings have the following format: Every 2 weeks data/journal club with a main presenter, and every other 2 weeks general lab meetings. In the "general lab meetings" everyone, including the PI, presents for max. 10-15min. Everyone should focus on 1-2 things they achieved in the past 2 weeks (important: an achievement can be a first pilot experiment, having fixed an issue with a setup, having identified an issue, having written 1 paragraph…) and 1-2 things they plan to do in the next two weeks. These presentations should have a very short introduction (max. 1 slide, a few sentences) to the project or technique and the description of the achievements; future plans should be short and concise so that there’s time within 10-15min for feedback/help/ideas. The purpose of these meetings is NOT to compare productivity or judge each other, but to keep everyone updated on what’s going on in the lab and to provide space to discuss “minor” achievements or issues without having to wait weeks for the next data club. 

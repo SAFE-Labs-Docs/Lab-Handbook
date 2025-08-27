@@ -14,6 +14,9 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_  We conduct annual lab-wide feedback at our retreat. We discuss what is working well and what needs improvement and set up working groups to address challenges we can improve in the lab. 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide feedback sessions. Lab members will be regularly asked if this format is deemed useful. If yes, it’ll be implemented in the future.
 

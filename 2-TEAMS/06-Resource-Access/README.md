@@ -16,6 +16,9 @@ Most lab members will quickly recognize any disparities of time and resource inv
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_  We use our shared Google calendar to schedule shared equipment. Challenges with using and sharing our equipment are regularly discussed at lab meeting and re-organizing equipment is a regular item at our annual retreat. In addition, feel free to bring up any issues regarding equipment use and scheduling with your PI. Remember that you are responsible to leave equipment clean and functional after use. Immediately bring up equipment issues with the team. 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is important to us that all team members have access to the lab resources they need. Essential courses (animal licenses) and essential equipment (e.g. a powerful data processing computer) are guaranteed and paid for by the school/lab. Fair does not always mean equal since team members might have different contracts, personal resources, responsibilities and work-related needs. Lab and school resources (equipment, consumables) are accessible to everyone and will be allocated based on project needs without favoritism. Expenses, including for conferences and courses, are documented and visible to all lab members. We do not strive to guarantee the same amount of money to every member since certain events are much more costly than others, but to guarantee equal access to opportunities that are relevant to each member. Members with external funding (travel grants, bench fees from personal grants) may be able to attend more events, have more independence in their decision of which events to attend and/or might have exclusive access to equipment they bought with their grants. If a lab member feels unfairly treated, please raise the issue promptly as described in the section “Lab and inter-personal issues”. As a rule of thumb, the following applies:
 >

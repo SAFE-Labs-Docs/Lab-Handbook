@@ -16,6 +16,9 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_  The PI and team members commit to providing open and fair feedback on each other’s performance at least once per year. Feedback is encouraged throughout the year and is never understood as personal criticism but as a constructive way to promote personal and scientific growth and foster a healthier work environment. 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ All lab members have 1o1 meetings with the PI as illustrated in the section "Regular meetings". In addition, at the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
 

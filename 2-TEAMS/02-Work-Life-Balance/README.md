@@ -17,6 +17,14 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_ 
+>- **Healthy Practices:** High commitment and productivity don’t equate to overwork. Lab members manage their productivity responsibly and are not expected to exceed 39.5 work hours per week regularly.
+>- **Project Requirements:** Occasionally, projects require longer work hours such as for completing an experiment. Lab members commit to accommodate these work hours to successfully implement their projects.
+>- **Flexibility:** Science’s inherent flexibility allows for personal scheduling outside core work hours (Mon-Fri 10am-4pm). The PI respects work preferences and encourages the full use of vacation days.
+>- **Meetings and events:** Meetings will typically be during coure hours only. The PI avoids communication outside these hours unless urgent, respecting personal time. Lab members are not expected to be responsive outside core hours, in particular when using asynchronous media such as slack or email. Participation at social or networking events is encouraged but not mandatory.
+>- **Additional Support Structures:** Lab members are referred to  [HGS mentoring](https://www.humboldt-graduate-school.de/en/services-en/Career-Development), the institute’s [mental health resources](https://www.humboldt-graduate-school.de/de/services/mental_health/mental_health), and [information](https://www.familienbuero.hu-berlin.de/de/en/familienbuero/information-for-families/phd-and-family/phd-and-family) on [supporting families](https://www.humboldt-graduate-school.de/en/services-en/doctorate-and-family-life).
+
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_
 >- Working hours: they are set in agreement with our institute policy (~38hours / week, from Monday to Friday). There is no strict rule for work schedule, but lab members are expected to be present during 'core hours': 10-12am and 2-5pm. 

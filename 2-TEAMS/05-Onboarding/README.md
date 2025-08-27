@@ -19,6 +19,9 @@ A clear onboarding process should not only ensure that lab members complete esse
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_  The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
 >

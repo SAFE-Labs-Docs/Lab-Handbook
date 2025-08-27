@@ -18,6 +18,9 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 ## Examples
 
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/):_  Prepare a written agenda for each 1-on-1 meeting with the PI. Document and summarize meetings afterwards on Notion (see Notion for details), highlighting short- and medium turm action items. 
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ All lab members are requested to send a short summary email to the PI after each 1o1 meeting. These can be bullet-point style but should contain concrete plans/agreements/outcomes. This format ensures that there’s a paper trail of what has been discussed and agreed on, but also that the PI and the lab member have the same understanding of the discussed matter.
 

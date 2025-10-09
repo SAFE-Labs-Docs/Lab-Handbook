@@ -20,6 +20,13 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 >
 >We favour, where possible, travel by train or other lower impact means. Lab waste is recycled according to instructions. We aim to minimize plastic consumables, for example by using smaller containers when possible.
 
+>_[GalupaLab_2025](https://www.galupalab.org/):_ This aspect should deserve more of our attention in a near future, as a lab/team. At the institute level, some measures for energy-saving have been implemented (e.g., reduced lights outside of working hours, freezers at -70°C instead of -80°C) and we have an active working group dedicated to green initiatives, called "CBI 1.5", based on the initiative ["Labos 1.5"](https://labos1point5.org/le-gdr). We should strive to minimise energy consumption and waste production; any ideas are welcome.
+>- When traveling for work, we prioritise more sustainable options (e.g. train over plane) when possible, especially when traveling time remains below 8 hours
+>- We recycle as much as possible, in the office and in the lab
+>- We place orders in bulk to reduce shipments
+>- We share equipment across teams and departments
+>- We turn off unused equipment when prolonged downtime is forecasted, if possible and not detrimental to the instruments
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.

@@ -26,6 +26,8 @@ We are all familiar with the experience of joining a new lab whilst still having
 
 >_[CNIDevoLab_2025](https://cnidevolab.com/):_ Team members joining the lab may have ongoing work from their previous position and we understand that they might need time to complete this work. Every new team member who needs to complete previous work needs to discuss the details with the PI and come to an agreement.
 
+>_[GalupaLab_2025](https://www.galupalab.org/):_ This will apply mostly to postdoc researchers joining the lab. I do understand this situation – I had to finish my PhD manuscripts during the first year of my postdoc. I support postdocs taking time to complete their previous work, which should not exceed ~25% of their schedule. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than one year; the first year is also the best time to do this, while the postdoctoral project is taking shape and taking off. If finishing previous work is expected to last longer than one year, postdoctoral researchers should delay the start of their position in the lab whenever possible.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ The PI and new lab members discuss during onboarding timelines and work hours allocated to finish previous work. 
 

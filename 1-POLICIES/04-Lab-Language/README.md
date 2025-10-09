@@ -21,6 +21,13 @@ English is the international language of science in the 21st century: proficienc
 
 >_[CNIDevoLab_2025](https://cnidevolab.com/):_ The common lab language is English, and as such we encourage everyone to communicate orally and in written form - while in shared settings – in that language. The lab belongs to a French institution, therefore administrative exchanges, general communication and bureaucracy will be most likely in French; we take care of providing translations when necessary. Proficiency in French remains useful within the institute, as well as when traveling throughout the country. Learning opportunities are available with CNRS or other resources such as [France Université Numérique](https://www.fun-mooc.fr).
 
+>_[GalupaLab_2025](https://www.galupalab.org/):_ 
+>- Operating language in the team is English
+>- Operating language in the unit is English
+>- Operating, written language in the institute is increasingly bilingual, in both French and English; it can still happen to receive institutional emails in French only, and we are actively trying to change this. Some institutional documents might also exist in French only – while translations into English should be a priority, please never hesitate in asking a colleague (including myself) to translate for you
+>- Operating, spoken language in some services and platforms is mostly French (e.g., with some administrative personnel, in the mouse animal house); when needed, colleagues (including myself) can accompany you to help with translations. Do not hesitate to ask, we will be happy to help.
+>- French language courses are available via the CNRS or the University; do not hesitate to ask HR or colleagues about this.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonetheless, some administrative exchanges are in German and the institute offers assistance in learning the German language.
 

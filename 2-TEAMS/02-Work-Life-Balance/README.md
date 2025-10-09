@@ -33,6 +33,14 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 
 >_[CNIDevoLab_2025](https://cnidevolab.com/):_ According to the type of contract or agreement, rules for working hours, remote working and vacations are set either by CNRS or Sorbonne University. We do not apply a strict working hour policy, but we encourage everybody to be present in the lab in overlapping hours, so to maximize exchanges, interactions and problem solving.
 
+>_[GalupaLab_2025](https://www.galupalab.org/):_ A full list of expectations is listed in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing)
+>- The number of working hours is defined in our contracts – this does not mean we cannot be flexible (and sometimes we do have to be flexible, due to experiments). In order to encourage interactions within the lab, please try to be in the lab most weekdays between 10am and 4pm or so
+>- Our type of work and experiments will sometimes involve working late or in the weekends; in such cases, feel free to take the corresponding time off during the week
+>- Let me know when you are planning not to come to the lab – whether on holidays, or working from home, or because you have "external" appointments (in most of these cases, you will have to make an official request)
+>- Remote working is possible, in accordance with CNRS and CBI's internal rules
+>- We have a number of holidays defined in our contracts and I expect everyone to enjoy all their holidays
+>- I might send emails outside of working hours (though teaching myself to avoid this); never feel obliged to reply to my emails outside of your working hours
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Experimental science rarely fits into a 9-5 schedule. Experiments might take longer, trouble shooting may cause delays, or urgent deadlines require longer working hours. 
 >- Work hours: While individual working days may not follow a standard schedule, the average work week should be 40h and everyone is entitled to 20 days of vacation (if on a fellowship) or to the time and days detailed in their contract (if on a work contract). In practice, this means that there might be days or even weeks where lab members work more than 8h/day or 40h/week, but this should be compensated by lighter schedules in subsequent weeks, days off or longer vacations to ensure well-being. Conference attendance etc. counts as working hours!

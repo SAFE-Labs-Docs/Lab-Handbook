@@ -47,8 +47,12 @@ Looking ahead, we envision the SAFE Labs Handbook becoming:
 * A **standard for funders** to identify and support healthy lab environments
 * A foundation for an **institutional-level handbook**, to drive systemic change
 
-Let’s build a culture in science that supports people as well as progress.<br/>
+Let's build a culture in science that supports people as well as progress.<br/>
 If you have questions and/or suggestions for the handbook, please start a thread in the [SAFE Labs Disccusions](https://github.com/SAFE-Labs-Docs/Lab-Handbook/discussions).<br/>
+
+**Update (2025-12-12):** Two new commitments added following the 2025 SAFE Labs workshop review: AI-use expectations (publicly documented) and record-keeping expectations (internally documented).
+
+---
 
 ## Sections for each commitment:
 _**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).<br/>
@@ -89,6 +93,8 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 </i>
 <br/>
 </details>
+
+
 <details>
 <summary> <b> <code>... the lab code of conduct: emphasise welfare, equity and integrity.</code> </b>  <br/>
 </summary>
@@ -104,6 +110,26 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 <b>Template: </b> <br/>
 All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other’s points of views and contributions to discussions, being timely for meetings, and actively engaging in each other’s presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/02-Code-Of-Conduct">Click here for more examples from the community</a><br/>
+</i>
+</details>
+
+<details>
+<summary> <b> <code> ... expectations for the use of AI tools in research and writing. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> The use of AI tools (e.g., large language models, code-generation tools, image generators) is growing across research workflows. Public guidance ensures transparency, academic integrity, and consistent practices—covering acceptable use, disclosure, verification, and privacy. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-Define which tools are allowed and for which tasks (drafting, coding, figures, analysis). <br/>
+-Clarify acceptable use and credit: how AI text/code may be used, edited, cited. <br/>
+-Set disclosure rules: when/how AI use must be reported internally and in publications. <br/>
+-Require verification of all AI outputs (facts, citations, code, logic). <br/>
+-Address privacy/confidentiality: do not input sensitive data; review each tool’s data policy. <br/>
+-Promote training and discussion on risks and best practices. <br/>
+  <br/>
+<b>Template: </b> <br/>
+AI language models may be used for grammar, spelling, and style checks; for writing and debugging code; and for literature searches. Copy‑pasting complete AI‑generated paragraphs is not allowed—AI output should be treated as a draft and edited for accuracy and voice. AI‑generated code can be used to analyse or plot data provided it is thoroughly reviewed and tested. All literature information retrieved via AI must be fact‑checked against primary sources, as AI tools can hallucinate or be biased. Before using any AI tools, ensure compliance with our institute’s data privacy and confidentiality policies. We will revisit and refine these guidelines during yearly research‑integrity meetings. <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/03-AI-Use">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -129,7 +155,7 @@ Travel: I encourage sustainable transport options both for long-haul travel and 
 Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local <br/>regulations.
 <br/>
 Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.<br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/03-Green-Initiatives">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/04-Green-Initiatives">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -153,7 +179,7 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone present to participate. <br/>
 <br/>
 The institutional language at the Italian Institute of Technology is English; nonetheless, many administrative exchanges and Italian bureaucracy are still in Italian. Proficiency in Italian is therefore useful within the institute, as well as when traveling throughout the country. Please refer to the lab Wiki to access learning resources.<br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/04-Lab-Language">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/05-Lab-Language">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -166,7 +192,7 @@ The institutional language at the Italian Institute of Technology is English; no
 &nbsp;&nbsp;&nbsp; 1.	Feature the SAFE Labs logo on your website.<br/>
 &nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
 &nbsp;&nbsp;&nbsp;   3.	Link to the SAFE Labs Handbook for accountability and feedback from lab members.
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/05-SAFE-Labs-Handbook">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/06-SAFE-Labs-Handbook">Click here for more examples from the community</a><br/>
 </i></details>
 
 **I commit to _internally document_ ...**
@@ -192,7 +218,7 @@ Students or members of staff who feel they have experienced or witnessed bullyin
 The Reporting Party will be told whether their complaint has been upheld or not; and whether the Reported Party has been dismissed or expelled. If the complaint is not upheld or the Reported Party is not dismissed or expelled, information will be shared with the Reporting Party to minimise any adverse effects in accessing their work or study environment, where possible, but there may be limits to the information about the consequences to the Reported Party that can be shared with the Reporting Party.  <br/>
 <br/>
 Where the Reporting Party is told the outcome they will be asked to respect confidentiality with regards to the outcome. Links to institute guidelines and contact information of the person in charge for each group are provided as hyperlinks above.  <br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/06-Incident-Reporting">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/08-Incident-Reporting">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -217,7 +243,7 @@ Counseling Services: Our institution offers free counseling services [Insert Lin
 Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [Insert Link].<br/>
 <br/>
 Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)]. <br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/07-Mental-Health">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/09-Mental-Health">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -237,9 +263,33 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 &nbsp;&nbsp;&nbsp; 2.	If not, please raise the issue anonymously by using this form. <br/>
 &nbsp;&nbsp;&nbsp; 3.	If external involvement would be beneficial, contact our dedicated external advisor. <br/>
 &nbsp;&nbsp;&nbsp; 4.	If none of the above steps fare appropriate, raise the issue with HR here. <br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/08-Conflict-Resolution">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/10-Conflict-Resolution">Click here for more examples from the community</a><br/>
 </i>
 </details>
+
+<details>
+<summary> <b> <code> ... expectations for record-keeping. </code> </b>  <br/>
+</summary>
+<br/>
+<i><b>Details: </b> Accurate, consistent, and accessible records are essential for reproducibility, accountability, and continuity. Written expectations reduce ambiguity about what to record, where to store it, and how to review it. <br/>
+<br/>
+<b>Suggestions:</b> <br/>
+-List required record types (e.g. lab notebooks, raw data, scripts, protocols, inventories, meeting notes). <br/>
+-Define storage locations and responsibilities (shared drives/notebooks; individual vs group). <br/>
+-Set documentation standards (dates, authors, versions, protocol deviations, metadata, naming). <br/>
+-Outline backup/version-control expectations and review points (milestones, exits). <br/>
+-Clarify access/sharing rules and data retention on departure. <br/>
+  <br/>
+<b>Template: </b> <br/>
+We keep a single, shared <b>electronic</b> lab notebook [e.g., Benchling] so that every experiment is findable and transparent. Everyone can see each other’s entries; the PI is the only person who adds or removes access. Before you leave, export a PDF of your notebook—access to the shared account ends unless you stay involved on that project. We review notebooks once a year, usually ahead of appraisals. <br/>
+<br/>
+To prevent data loss, back up all data <u>monthly</u> to the designated server; parking a lone copy on an external drive is not acceptable. All data should be retained until the person’s employment concludes, after which a review will be held with the group leader to determine what should be archived and what should be deleted. <br/>
+<br/>
+Shared resources—presentations, protocols, plasmid DB, reagents, freezers/LN2, ordering logs—live on the lab drive; links are kept in the internal wiki. <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/07-Record-Keeping">Click here for more examples from the community</a><br/>
+</i>
+</details>
+
 
 **I commit to _establish_ …**
 <details>
@@ -250,7 +300,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 <b>Suggestions:</b> <br/>
 -Clear instructions for reporting different statuses (e.g. vacation vs conference attendance).<br/>
 -What specific details should be reported? (e.g. half-day vs full day).<br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/09-Shared-Calendar">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/11-Shared-Calendar">Click here for more examples from the community</a><br/>
   </i>
 </details>
 
@@ -617,7 +667,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -Lab members should take notes during the meeting.<br/>
 -Group leader should read the document after/before meetings (to catch misunderstandings).<br/>
 -Other solutions include allowing the lab member to record meetings (e.g. via zoom).<br/>
-<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/10-Record-Keeping">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/10-Meeting-Records">Click here for more examples from the community</a><br/>
 </i>
 </details>
 

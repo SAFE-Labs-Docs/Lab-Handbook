@@ -37,3 +37,6 @@ Career progression, grants, and competitive applications often require reference
 >Mistakes do happen, and if you do not give 2 weeks notice, Pip will of course try to accommodate your needs. However, this cannot be guaranteed—particularly if it is the first letter you are asking for—and it is your responsibility to monitor deadlines and notify Pip in advance.
 >
 >For his part, Pip will write, and personalize all reference letters. When appropriate (e.g. for a Masters project where the student works closely with a postdoc) Pip may write the letter in collaboration with a lab member, and co-sign the letter with them.
+
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Please inform me as far in advance as possible of deadlines for reference letters. I need two week’s notice if I’m writing a new or significantly revised reference letter or one week’s notice for a reference letter I’ve already drafted. Please send me your updated CV, any application materials you have drafted, and a list of any items you’d like to me highlight when requesting the letter.

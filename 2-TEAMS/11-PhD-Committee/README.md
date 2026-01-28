@@ -28,3 +28,6 @@ A PhD steering committee provides independent oversight of PhD student progress 
 >_[CoenLab_2025](https://coen-lab.com/):_ There are a number of different PhD programmes that the lab is part of (e.g. SWC, LiDO, RES, ROS, MRC-Birkbeck etc.) Each programme has its own system, and Pip may not be familiar with all of them (please be patient with him!) If you are part of a program within CDB (e.g. RES, ROS, or direct application to a position Pip Advertised), your PhD committee will meet at least once per year throughout the course of your time in the lab, and you “upgrade” after approximately 12-18 months. Annual PhD committee meets are now fairly common across programmes, and this can an extremely valuable process for both Pip and the PhD student. 
 >
 >Therefore, If your program does *not* have a PhD committee with (at least) annual meetings, please let Pip know and he will arrange for an informal “steering committee” to fulfil this role
+
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Thesis committee policies are set by the graduate programs.

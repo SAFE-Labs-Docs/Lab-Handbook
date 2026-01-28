@@ -73,3 +73,6 @@ A clear onboarding process should not only ensure that lab members complete esse
 >- Set up a health test with occupational-health-services (required for access to BSU)
 >- Get an account on the Lab Server and make sure you can login.
 >- Complete all online mandatory courses
+
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: A complete and frequently updated onboarding checklist is on the lab wiki.

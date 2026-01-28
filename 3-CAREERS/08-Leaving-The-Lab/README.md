@@ -74,3 +74,11 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >Of course, the Coen Lab, and my style of supervision, is not the right fit for every scientist: the purpose of rotations and probations is to (hopefully) figure that out before committing to a long-term project together. That is to be expected and is an important part of the process.
 >
 >However, if someone is leaving the lab because they have been made to feel uncomfortable or unwelcome, *that is not to be expected and is not okay*. If you experienced something like this during your time in the lab, please raise it during your exit interview so Pip can take steps to prevent it happening again. Naturally, Pip hopes lab members feel able to raise these concerns as soon as they arise so he can take immediate action: you can submit concerns at any time in regular meetings, or anonymously [here]).
+
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
+>	- Teaching any skills unique to you to other lab members
+>	- Leaving your records and data organized
+>	- Storing, transferring, or discarding your remaining samples, supplies, and desk items
+>	- Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
+>- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.

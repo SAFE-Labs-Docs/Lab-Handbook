@@ -35,3 +35,6 @@ Lab members are often considering academia as a potential career. It informs tha
 >_[CoenLab_2025](https://coen-lab.com/):_ Every ~6 weeks, we have a Lab Update meeting where we discuss and improve lab management and operations, and address any concerns or questions. During these meetings, Pip will also provide updates on future lab funding, events, and other matters.
 >
 >Using the page dedicated to a specific lab update meeting, please add items to the agenda that you would like to discuss in this weeks meeting. This can be any aspect of general lab business, from how we store and manage data, to which snacks to get for lab meetings.
+
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.

@@ -33,5 +33,5 @@ This consists of three required steps:
 >_[CoenLab_2025](https://coen-lab.com/):_ The SAFE Labs handbook is a document co-authored by Pip and other group leaders across Europe in 2024 (and is continually updated). You can read more details of the handbook here. Many of the commitments involve publicly documenting important material. Here, I provide links to the location of all that material (if a link is missing, the information has yet to be documented).
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Our lab manual implements the 30 guidelines outlined in the [SAFE Labs Handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook).
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Our lab manual implements the 30 guidelines outlined in the [SAFE Labs Handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook).
 

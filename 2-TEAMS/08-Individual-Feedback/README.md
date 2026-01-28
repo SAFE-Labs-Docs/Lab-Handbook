@@ -35,4 +35,4 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >Pip will not necessarily be able, or willing, to implement all suggested changes. However, when something will not be implemented—or partially so—he will discuss the reasoning behind these decisions with you. If he fails to do this, please tell him and assume incompetence rather than malice!
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: During our annual meetings, we will plan your goals, align them with your career path, and discuss what you can realistically achieve during the next year. 
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: During our annual meetings, we will plan your goals, align them with your career path, and discuss what you can realistically achieve during the next year. 

@@ -81,7 +81,7 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_:
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >-**Transit**: I encourage you to take public transportation or share taxis between airports and conference venues whenever possible.
 >-**Electricity**: Turn off room lights when not in use and shut down computers between experiments.
 >-**Composting**: Put coffee grounds, tea bags, and other compostable food scraps into the lab compost bin on the coffee cart.

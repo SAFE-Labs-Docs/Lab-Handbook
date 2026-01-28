@@ -35,4 +35,4 @@ Thankfully, awareness and support for mental health issues within work environme
 
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: To share any concerns confidentially, postdocs and staff can talk to [EAP](https://www.umaryland.edu/hr/benefits-and-well-being/well-being/employee-assistance-program/) or [Employee Health Services](https://www.medschool.umaryland.edu/familymedicine/student--employee-health/employee-health-at-campus-health/) and students can talk to [Student Counseling](https://www.umaryland.edu/counseling/) or [Student Health Services](https://www.umaryland.edu/studenthealth/).
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: To share any concerns confidentially, postdocs and staff can talk to [EAP](https://www.umaryland.edu/hr/benefits-and-well-being/well-being/employee-assistance-program/) or [Employee Health Services](https://www.medschool.umaryland.edu/familymedicine/student--employee-health/employee-health-at-campus-health/) and students can talk to [Student Counseling](https://www.umaryland.edu/counseling/) or [Student Health Services](https://www.umaryland.edu/studenthealth/).

@@ -75,4 +75,4 @@ A clear onboarding process should not only ensure that lab members complete esse
 >- Complete all online mandatory courses
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: A complete and frequently updated onboarding checklist is on the lab wiki.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: A complete and frequently updated onboarding checklist is on the lab wiki.

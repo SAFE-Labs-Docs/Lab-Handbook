@@ -66,7 +66,7 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >    - Notified they were not suitable for the role
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Candidates are solicited from public job postings. After screening CVs, I invite a subset to 1-on-1 Zoom interviews, then speak over Zoom with references of a further subset. I use the same set of Zoom interview questions for all candidates and share them with the candidate in advance. For technicians, we have a final round of interviews with select current lab members before making an offer. For postdocs, we invite them to a full-day onsite interview including a seminar, meeting 1-on-1 with lab members and other relevant people, and a meal with lab members before making an offer.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Candidates are solicited from public job postings. After screening CVs, I invite a subset to 1-on-1 Zoom interviews, then speak over Zoom with references of a further subset. I use the same set of Zoom interview questions for all candidates and share them with the candidate in advance. For technicians, we have a final round of interviews with select current lab members before making an offer. For postdocs, we invite them to a full-day onsite interview including a seminar, meeting 1-on-1 with lab members and other relevant people, and a meal with lab members before making an offer.
 >
 >I decide to invite candidates to join the lab based on the following criteria:
 >	- Do I have sufficient funding for them and their project?

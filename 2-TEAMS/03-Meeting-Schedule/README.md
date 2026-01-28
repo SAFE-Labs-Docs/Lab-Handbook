@@ -87,7 +87,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Individually, I meet with every lab member at least once per week, unless one of us is out of town, to discuss their project and any other issues. After each meeting, lab members write a brief summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: 
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 
 >**Lab meetings & open meetings**
 >- **When:** Lab meetings are Mondays 9:30am-11am in the conference room. Everyone is expected to attend and be on time. If you must miss a lab meeting, let the presenter and Emily know, and talk to the presenter afterwards to learn about what you missed.
 >- **Format:** Slides recommended, but not required. If you’re presenting a project update, plan to present background slides establishing the scientific premise for your project. Share with the lab what types of feedback you’re seeking (e.g. overall project direction, new experiments, figure nit-picking). If you’re presenting a journal club, please send a link to or pdf of the paper to the lab via the #journal_club channel at least a week in advance, so everyone has time to read it.

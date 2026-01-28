@@ -57,7 +57,7 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >We share communal surgical and histology equipment with other labs in our immediate vicinity (at the time of writing, the O'Keefe, Barry, Linden, Wills, and Burgess Labs). These resources have their own dedicated calendar booking system. With two full surgical suites, there should be sufficient equipment to comfortably support everyone's needs. However, if you believe a group is unfairly monopolizing equipment or facilities, please raise the issue with Pip, who will discuss it with the head of the respective group. Please also do this if someone is not treating the equipment or facilities appropriately and it is impacting your work.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Everyone contributes equally to keeping the lab running.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Everyone contributes equally to keeping the lab running.
 >- All tools, equipment, consumables, and lab spaces are shared, except for desks. Sign up for shared rooms and equipment in timely manner on the “rooms and equipment” calendar. Reset the space when you’re done or label as a work in progress.
 >- We collectively keep the inventory up-to-date to prevent duplicates. Order replacement inventory at least before we reach 2 week’s supply, to allow for shipping time.
 >- We have an annual lab clean-up in December that everyone is expected to participate in. We use this time to reorganize shared inventory, toss or rehome items no longer in use, and agree on where things should live.

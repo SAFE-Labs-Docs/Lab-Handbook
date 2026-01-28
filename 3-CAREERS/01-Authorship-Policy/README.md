@@ -34,4 +34,4 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: We follow [ICMJE authorship guidelines](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two). Authorship is granted when the paper could not have happened without their contribution. This could be a substantial intellectual, data collection, analysis, or data sharing contribution. All authors are expected to contribute to manuscript writing, editing, and journal revisions.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: We follow [ICMJE authorship guidelines](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two). Authorship is granted when the paper could not have happened without their contribution. This could be a substantial intellectual, data collection, analysis, or data sharing contribution. All authors are expected to contribute to manuscript writing, editing, and journal revisions.

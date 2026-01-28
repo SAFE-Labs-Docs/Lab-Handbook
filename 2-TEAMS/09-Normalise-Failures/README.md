@@ -32,6 +32,6 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >Each year (in January) we will dedicate one meeting to this topic: everyone will talk about (at least) one professional failure from the past year—it could be anything from an experimental issue to a rejected application. The exact format will evolve with time, so for more specifics of the agenda and process, please look at the corresponding entry in the Lab Meetings database.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: 
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 
 >- Failure is a part of science, and mistakes are a part of learning. Being transparent about both helps us move our research and ourselves forward. Keeping them buried leads at best to missed learning opportunities and at worse to scientific misconduct. I want to hear about your obstacles, failures, and mistakes frequently so we can correct course together.
 >- Every year in April, we have a “Mishap Recap” meeting to recount our failures and mistakes together. Bring your experimental flops, rejected grant applications, coding bugs, and your own personal missteps in your work. We’ll share strategies for overcoming setbacks, document lessons learned, and celebrate honesty and accountability.

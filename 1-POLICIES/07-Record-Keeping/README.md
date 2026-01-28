@@ -14,7 +14,7 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 
 ## Examples
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_:
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 **General principles:**
 
 >- All data (raw and preprocessed), metadata, records (e.g. lab notebook), code, analysis, and writing must be backed up to cloud storage (e.g. OneDrive) or stored on a system with regular backups (the server). You can keep working copies of any data on the server in a second location as well. We must keep all these for several years after each paper is published, so it’s important that they are durably stored and easy to locate.

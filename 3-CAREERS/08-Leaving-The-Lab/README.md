@@ -76,7 +76,7 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >However, if someone is leaving the lab because they have been made to feel uncomfortable or unwelcome, *that is not to be expected and is not okay*. If you experienced something like this during your time in the lab, please raise it during your exit interview so Pip can take steps to prevent it happening again. Naturally, Pip hopes lab members feel able to raise these concerns as soon as they arise so he can take immediate action: you can submit concerns at any time in regular meetings, or anonymously [here]).
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
 >	- Teaching any skills unique to you to other lab members
 >	- Leaving your records and data organized
 >	- Storing, transferring, or discarding your remaining samples, supplies, and desk items

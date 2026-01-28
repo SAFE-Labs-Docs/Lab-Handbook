@@ -15,7 +15,7 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 
 ## Examples
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_:
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >- AI tools may be used for some tasks in our lab with caution and all outputs must be verified.
 >- **Code:** AI can be used to assist in writing code (e.g. Github Copilot) if the outputs are thoroughly tested, as you would for any manually generated code. AI cannot be used to write large amounts of code independently (”vibe coding”), as it will likely contain critical errors. All code must be well formatted and documented.
 >- **Transcription:** AI may be used for live transcription of meetings if necessary for accessibility and may be used to generate meeting summaries by tools that immediately delete recordings (e.g. Fireflies). Everyone in the meeting must consent first.

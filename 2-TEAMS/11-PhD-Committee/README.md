@@ -30,4 +30,4 @@ A PhD steering committee provides independent oversight of PhD student progress 
 >Therefore, If your program does *not* have a PhD committee with (at least) annual meetings, please let Pip know and he will arrange for an informal “steering committee” to fulfil this role
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Thesis committee policies are set by the graduate programs.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Thesis committee policies are set by the graduate programs.

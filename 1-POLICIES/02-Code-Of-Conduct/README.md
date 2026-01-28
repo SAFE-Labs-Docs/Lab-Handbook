@@ -64,7 +64,7 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 
 ### United States
 
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_:
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >- Everyone is an equally valuable member of our team. We respect and support each other’s science and wellbeing. We carry each other through challenges and celebrate each other’s accomplishments. We are curious and enthusiastic about each other’s work. We are all here to learn from one another.
 >- Transparency is the key to building trust. We share our expectations, our priorities, our work and communication styles, and our goals. We are honest about our challenges and our data, especially when it doesn’t match our hypotheses. We ask for help proactively.
 >- We assume the best in everyone. We are patient, thoughtful, and understanding. We do our best to work within everyone’s personal work and communication styles. We respect each other’s goals, values, and priorities. We actively listen.

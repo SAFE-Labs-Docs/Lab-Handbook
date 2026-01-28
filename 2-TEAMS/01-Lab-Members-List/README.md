@@ -35,4 +35,4 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[CoenLab_2025](https://coen-lab.com//):_ Lab members page available [here](https://coen-lab.com//).
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Lab members listed [here](https://aeryjoneslab.github.io/team/).
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Lab members listed [here](https://aeryjoneslab.github.io/team/).

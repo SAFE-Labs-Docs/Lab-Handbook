@@ -25,3 +25,7 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >
 >These records can be found below:
 
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: 
+>- Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
+>- Every December, we assess the state of the lab through an anonymous culture survey to be completed by every lab member. This is an opportunity for you to give me feedback and to shape the lab culture. I present the results, solicit ideas for improvement next year, and follow-up on what suggestions are implemented and by whom.

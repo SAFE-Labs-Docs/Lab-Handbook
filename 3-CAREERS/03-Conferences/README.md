@@ -66,3 +66,7 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >**Summer schools and courses:**
 >Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs for at least one such opportunity. Some courses that can help to develop the experimental and computational skills we use in the lab include:
 
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: 
+* Every lab member can travel to present at one conference per year. If you want attend more than one conference in a single year or travel to a conference without presenting something, discuss with me so we can determine how we can fund your travel in a way that’s fair to other lab members. These trips are fully funded; I only support travel if I can reimburse 100% of transportation, meals, and hotels.
+* Each lab member can attend 1 major external workshop during their time in lab (e.g. Neuromatch) with a tuition budget of about $1000 per person. Tuition for additional courses will be considered on a case-by-case basis.

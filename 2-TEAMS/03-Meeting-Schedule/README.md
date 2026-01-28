@@ -86,3 +86,18 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Individually, I meet with every lab member at least once per week, unless one of us is out of town, to discuss their project and any other issues. After each meeting, lab members write a brief summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
 
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: 
+>**Lab meetings & open meetings**
+>- **When:** Lab meetings are Mondays 9:30am-11am in the conference room. Everyone is expected to attend and be on time. If you must miss a lab meeting, let the presenter and Emily know, and talk to the presenter afterwards to learn about what you missed.
+>- **Format:** Slides recommended, but not required. If you’re presenting a project update, plan to present background slides establishing the scientific premise for your project. Share with the lab what types of feedback you’re seeking (e.g. overall project direction, new experiments, figure nit-picking). If you’re presenting a journal club, please send a link to or pdf of the paper to the lab via the #journal_club channel at least a week in advance, so everyone has time to read it.
+>- **Topics:**
+>    - 1st meeting of the month is journal club
+>    - 3rd meeting of the month is a workshop (pick whatever topic and teach us)
+>    - Whenever someone attends a meeting, take the next available lab meeting to share what you learned.
+>    - Each lab member gives a formal progress update every 3 months
+>
+>**One-on-one meetings**
+>- **Frequency:** 1-on-1 meetings with me start at weekly frequency and can slow to less frequent (but at least once a month) when you’re particularly busy (e.g. during data collection or a full-time workshop) or as you gain independence.
+>- **Topics:** These meetings are a good time to share personal and professional status updates; lay out future plans for the following week, month or year; share results; get verbal feedback on writing or figures you’ve shared with me in advance; or anything you want to bring up. Anything personal you share with me in our 1-on-1s is kept confidential.
+>- **Prep:** Think about how I can be most helpful in your goals. Do you want feedback on a plan? Guidance on where to start? Advice on a professional development topic? Anything you can share with me in advance can help me prepare, from a simple 1-sentence idea of what we’re discussing to a whole folder full of figures.

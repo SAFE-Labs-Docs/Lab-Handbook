@@ -28,3 +28,6 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >_[CoenLab_2025](https://coen-lab.com/):_ Every lab member has a 1-on-1 meeting with their supervisor once per week. For post docs and PhD students, this will be Pip, but for Masters students and undergraduates, this may be another lab member. There is a dedicted (private) page for each lab member's 1-on-1 meeting.
 >
 >The supervisor, and lab member, both have responsibilities during this meeting. In brief: both parties should add discussion points to the meeting page throughout the week, and then during the meeting, they should go over these discussion points and update the to-do list. After the meeting, the lab member should write a summary of the meeting (100-200 words).
+
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.

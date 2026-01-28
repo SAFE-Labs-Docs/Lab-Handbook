@@ -54,3 +54,5 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >2. Fellowships are valuable additions to a researcher’s CV
 >3. It can provide additional funding for professional activities (e.g. travel)
 
+### United States
+>_[AeryJonesLab_2026](https://aeryjones.github.io/philosophy)_: All positions are fully funded.

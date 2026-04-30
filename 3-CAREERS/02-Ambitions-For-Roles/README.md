@@ -45,6 +45,8 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: **PhD student:** Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
+
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions. 
 > 

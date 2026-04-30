@@ -25,6 +25,8 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: This is embedded in policy at Tilburg University: every year there is a Performance and Talent Development meeting, which allows for bilateral feedback.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: The university encourages a yearly 'functioneringsgesprek' (see [this form](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/po/suggestielijst-rogesprek-mei-2019-eng.pdf)). I will draft a _mentoring agreement_ with each lab member, and I aim to have a big-picture 'review meeting' with postdocs and PhD students twice a year.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We will review your long-term progress and work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab and under my supervision. During these meetings, we will also discuss the training you have undertaken and plan the training for the next year. The schedule is sent via Outlook Calendar.

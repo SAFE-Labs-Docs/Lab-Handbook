@@ -37,29 +37,27 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 Contact details can be found in our extended version of the Lab Handbook.
 
 >_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: Maintaining a safe, respectful, and inclusive work environment is a shared responsibility.  
-All forms of **harassment**, **bullying**, **discrimination**, and **mobbing** are strictly prohibited.
-
-### 3. 📣 Report the Incident to the Appropriate Authority
-
-You may report the incident through one or more of the following official channels:
-
-#### a) Direct Supervisor or Group Leader
-- Inform your **PI or direct supervisor**, unless they are directly involved in the situation.
-- They are responsible for ensuring respectful workplace behavior and escalating the issue if needed.
-
-#### b) CNR’s Comitato Unico di Garanzia (CUG)
-- The **CUG** handles issues of workplace discrimination, bullying (mobbing), and harassment.
-- You can submit a report via their website: [https://cug.cnr.it](https://cug.cnr.it)
-- Reports can be anonymous or named, and are treated confidentially.
-
-#### c) Commissione per l’Etica e l’Integrità nella Ricerca
-- For cases affecting **research conduct** or involving scientific collaborators.
-- Contact: 📧 **cnr.ethics@cnr.it**
-- Review the *“Linee guida per l’integrità nella ricerca”* for guidance on ethical violations.
+>All forms of **harassment**, **bullying**, **discrimination**, and **mobbing** are strictly prohibited.
+>
+>Report the Incident to the Appropriate Authority. You may report the incident through one or more of the following official channels:
+>
+>a) Direct Supervisor or Group Leader — Inform your **PI or direct supervisor**, unless they are directly involved in the situation. They are responsible for ensuring respectful workplace behavior and escalating the issue if needed.
+>
+>b) CNR’s Comitato Unico di Garanzia (CUG) — The **CUG** handles issues of workplace discrimination, bullying (mobbing), and harassment. You can submit a report via their website: [https://cug.cnr.it](https://cug.cnr.it). Reports can be anonymous or named, and are treated confidentially.
+>
+>c) Commissione per l’Etica e l’Integrità nella Ricerca — For cases affecting **research conduct** or involving scientific collaborators. Contact: **cnr.ethics@cnr.it**. Review the *”Linee guida per l’integrità nella ricerca”* for guidance on ethical violations.
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: If you experience or witness unacceptable behaviour, including bullying or harassment, or have any other concerns, please report it as indicated below. All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident. All reports will be handled with discretion.
 >
 >You can report a suspected code of conduct violation through this anonymous form: https://forms.gle/vmq54mF9AS1YsE6A8
+
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: Bullying, harassment and misconduct are [unacceptable](https://www.staff.universiteitleiden.nl/vr/social-and-behavioural-sciences/teacher-platform-fsw/teaching--supporting-the-learning-process/diversity-and-inclusion/fsw-code-of-conduct?cf=social-and-behavioural-sciences&cd=psychology). If you witness or are subjected to anything that may fit their description, then tell [someone who can do something](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology).
+>
+>The following four routes can be taken if someone experiences bullying and harassment:
+>1. Talk to your PI and/or lab members: for less severe cases or if one wants to first have an informal chat about incidences, please bring up issues and questions with the lab. Often, an open and honest conversation early on can clarify much more than waiting until things get worse.
+>2. If you'd rather talk with someone outside the lab, contact the Unit chair (Guido Band) or the unit's PhD/postdoc representative.
+>3. For PhD students, the [FSW graduate school](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences) has mentors and people you can connect with.
+>4. At the level of the faculty and university, there are many [resources](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology): confidential counselors, ombuds officers, and formal procedures.
 
 ### United Kingdom
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Bullying and harassment are entirely unacceptable behavior in any work environment. Please be familiar with the University of Liverpool [Bullying and Harassment Policy](https://www.liverpool.ac.uk/media/intranet/humanresources/content/headers/policies/Bullying,and,Harassment,Policy,(2022),v1.docx), including steps staff and students can take if they wish to formally or informally report, or receive confidential advice about, any concerning behavior that they have witnessed or been subjected to.

@@ -44,6 +44,10 @@ Science is an international endeavour, which brings together people from many cu
 >
 >Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, neurodiversity, national origin, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: We believe that promoting diversity in those who do science (e.g., race, gender, class, sexuality, ability) is a necessary step towards achieving the [rigorous and creative science](https://www.pnas.org/content/117/17/9284) that we want. We specifically encourage applications from groups that are currently underrepresented in the lab (as of 2025, this includes men).
+>
+>To foster diversity and inclusion, I encourage discussing equity, inclusion, and any cultural needs during onboarding and review meetings; encouraging lab members to share important cultural events and festivities; and providing flexibility around work hours, parental leave, and financial or cultural considerations.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ I believe diversity is a valuable resource, and I strive to create a psychologically safe environment where different points of view are welcomed. To foster diversity and inclusion, I hire in accordance with UCL’s Fair Recruitment policy, discuss cultural needs during onboarding, and encourage lab members to mark important cultural events on the lab calendar. I promote diversity in science by selecting journal club papers from varied voices and institutions. Through these policies, I aim to welcome individuals from diverse cultural, socioeconomic, gender, and geographical backgrounds to our group.
 

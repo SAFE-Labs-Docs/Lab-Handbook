@@ -32,6 +32,8 @@ This consists of three required steps:
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: INSIGHT Lab subscribes to the SAFE Labs Handbook commitments.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: Several sections of this wiki have been inspired by the [SAFE labs handbook](https://safelabs.info/home/safe-labs-handbook/).
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ The SAFE Labs handbook is a document co-authored by Pip and other group leaders across Europe in 2024 (and is continually updated). You can read more details of the handbook here. Many of the commitments involve publicly documenting important material. Here, I provide links to the location of all that material (if a link is missing, the information has yet to be documented).
 

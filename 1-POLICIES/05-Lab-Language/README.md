@@ -54,6 +54,8 @@ English is the international language of science in the 21st century: proficienc
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: English is the lab language in the presence of any colleagues who do not speak Dutch. Dutch is the lab language among exclusively Dutch-speaking colleagues. The University requires all new employees to complete a free test of English proficiency.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. The institutional language at Leiden University and in the Cognitive Psychology Unit is English; nonetheless, many administrative exchanges and Dutch bureaucracy are still in Dutch.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ The primary language of the lab is English. All professional conversations, both oral and written, during work activities must be conducted in English. This includes presentations, discussions at lab meetings, scientific outputs, and email communications. 

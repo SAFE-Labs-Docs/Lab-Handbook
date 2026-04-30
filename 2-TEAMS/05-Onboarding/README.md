@@ -52,6 +52,8 @@ A clear onboarding process should not only ensure that lab members complete esse
 >- Install software described in Section 9
 >- Subscribe to platforms mentioned in Section 9.2, or an open source alternative
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: When your contract starts, you will get a LU account (email address, card for printing/library etc). Anne will add you to the Google lab calendar (where you can see lab events, talks etc). Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms. We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We follow the standard ICR onboarding process, which can be found here:  LINK NOT PUBLIC. In addition, every new lab member will be paired with a “lab buddy” who will arrange for you an introduction to all the lab resources. 

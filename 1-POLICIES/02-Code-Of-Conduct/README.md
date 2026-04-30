@@ -60,6 +60,10 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >
 >We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: As colleagues and members of academic communities (in our research field, university and department), everyone deserves to be treated fairly and respectfully. Unfortunately, science is not immune to [sexism](https://anneurai.net/2018/12/09/gender-diversity-in-academia/), [racism](https://anneurai.net/2020/06/11/shutdownstem-fighting-racism-in-academia/), harassment and general bigotry.
+>
+>We strive a welcoming and inclusive atmosphere and encourage open and honest intellectual debate, which allows everyone in our local and international communities to do their best work and be respected.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Our lab culture is founded on mutual respect, accountability, and a commitment to ethical and collaborative science. We expect everyone to contribute to an environment where people feel heard, valued, and supported. This means showing up prepared, engaging thoughtfully with others' work, and being open to different viewpoints. We do not tolerate discrimination or harmful behaviour of any kind, especially those related to race, gender, disability, or sexuality. Every lab member has a role in shaping a space where it's safe to speak up, ask questions, and offer feedback. Psychological safety isn't optional - it's essential, and we protect it together.

@@ -50,6 +50,12 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Each lab member has a conference budget of at least XXX/year. It is expected that lab members attend at least one conference per year. To attend a conference, the lab member must present at the conference.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: I encourage all lab members to seek and apply for training opportunities to develop new expertise. This is often at conferences, but can also be through research visits (e.g. with collaborators) or by giving invited talks.
+>
+>Each postdoc and PhD student has a standard budget (see CogPsy wiki) per year to travel and attend conferences; individual funding and grant situations may change this somewhat. Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. Make sure to discuss your plans, and ask Anne for information on travel cost reimbursements.
+>
+>Master's or BSc students are also encouraged to attend conferences if they have work to present - please discuss plans with me in advance.
+
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I encourage all lab members to participate in conferences and courses. If you find a conference or course that interests you, please feel free to discuss the possibility of attending with me. 
 > 

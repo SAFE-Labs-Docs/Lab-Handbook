@@ -92,6 +92,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >Lab members are expected to work on location at least 2 days a week. The most important reason to do so is to nurture connections within the department and university. Therefore, try to prioritize days on which departmental social events (other lab meetings, guest lectures, MTO drinks) take place and attend the lunch meeting if possible.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: I am committed to creating a healthy work environment for all lab members. I encourage all lab members taking a minimum of [Leiden University's prescribed days of vacation](https://www.staff.universiteitleiden.nl/human-resources/conditions-of-employment-salary-and-allowance/leave/annual-leave/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology), whether or not you are officially employed by the university.
+>
+>I aim to schedule all meetings within regular work hours, and will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
+>
+>I expect all lab members to be in the office at least 3 days a week (often Mon/Tues/Thurs), during regular office hours (~10:00-17:00). If you are away or working remotely, please inform me and note this in the lab calendar. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant - please discuss with me, and make sure we document expectations (e.g. in a mentoring agreement).
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ All lab members are required to follow the ICR's annual leave and sickness policy (LINK NOT PUBLIC) and to document any leave taken in the ICR's dedicated leave and absence system (LINK NOT PUBLIC). I also encourage you to indicate your annual leave in the shared Outlook calendar so that other lab members know about your holidays. For short leave, I do not require very advanced notice; however, if you will not be coming to the lab for the day, please inform me in the morning. If possible, please notify me several weeks in advance for leaves longer than one week.

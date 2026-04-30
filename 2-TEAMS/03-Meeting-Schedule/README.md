@@ -65,6 +65,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The lab meets monthly for a round table, to discuss ongoing research, present project proposals, and read relevant literature. Lab members are expected to be present in person for events organized by other lab members, including the lab meetings.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:
+>1. On Monday or Tuesday (see Gcal for the lab), our own CoCoSys lab meeting
+>2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and _CO-squared_ joint lab meeting.
+>
+>Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Discussing scientific progress is essential for academic success. I expect all the lab members to participate in our scheduled meetings. I will schedule all meetings during the ICR's working hours, from 9 am to 5 pm.

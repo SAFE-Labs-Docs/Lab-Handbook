@@ -32,6 +32,12 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Be comprehensive and generous in crediting contributions. Nothing is lost by giving people fair credit. For published work, report each author's contribution according to the CRediT taxonomy. When planning the work, fill out a CRediT taxonomy to define intended roles at the start. If project roles and levels of contribution change, update the CRediT taxonomy accordingly. Before publishing a version of the manuscript, check that all authors recognize the CRediT taxonomy as accurate representation of the work done.
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: Scientific autorship is a tricky business. I aim to discuss authorship early on, clarify expectations, and give regular updates when a project changes. If you are unsure about authorship, please let me know asap.
+>
+>I aim to have an honest authorship discussion at the moment a project looks like it might become a paper. Early on, we will try to settle on an initial authorship order that everybody is happy with, and clarify the expectations of everyone in the group. When the work changes, new people come on board or someone leaves, we should discuss again. Ideally, we discuss authorship expectations at every 6-month review meeting.
+>
+>Whatever authorship scheme we settle on, I encourage using the [Credit scheme](https://credit.niso.org/) with additional detail to keep track of everybody's contributions.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
 

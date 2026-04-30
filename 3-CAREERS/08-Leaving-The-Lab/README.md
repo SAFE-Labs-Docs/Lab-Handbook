@@ -42,6 +42,15 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Please archive all your ongoing work as described in Section 13. We will schedule an exit interview on your last day (or before, if necessary).
 
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: People leave the lab for all kinds of reasons, whether after several PhD years, or after a summer project. Hopefully, they are leaving for exciting new opportunities. Regardless of the reason for leaving, please give Anne as much notice as possible so that this transition can take place as smoothly.
+>
+>Offboarding checklist:
+>- Inform the CogPsy secretariat of formal end to your contract, and indicate if your account should be extended as a guest
+>- Go over personal folders for data/code: cleanup, comment, and commit. Share with Anne all remaining data/code that has not yet been published.
+>- Document workflows, protocols, or specific responsibilities.
+>- Return any physical keys to CogPsy secretariat.
+>- Schedule [exit interview](https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab) to review time in the lab, give mutual feedback, and discuss future plans.
+
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I will be transparent with the employees about the available funding for their positions when they join the lab. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab or a plan for securing the next position. 
 > 

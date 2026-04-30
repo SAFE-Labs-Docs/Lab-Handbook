@@ -62,6 +62,9 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The lab meets monthly for a round table, to discuss ongoing research, present project proposals, and read relevant literature. Lab members are expected to be present in person for events organized by other lab members, including the lab meetings.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Discussing scientific progress is essential for academic success. I expect all the lab members to participate in our scheduled meetings. I will schedule all meetings during the ICR's working hours, from 9 am to 5 pm.
@@ -85,6 +88,16 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >The expectations for regular meetings are laid out in detail on our lab wiki, but most meetings have a presenter, responsible for leading the meeting, and someone taking notes on the content. All group meetings are in-person events, although we record meetings online for posterity, and to allow participation from those who can’t attend in person.
 >
 >Individually, I meet with every lab member at least once per week, unless one of us is out of town, to discuss their project and any other issues. After each meeting, lab members write a brief summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Discussing scientific progress is essential for academic success. I expect all lab members to actively participate in our scheduled lab meetings. These meetings serve as a platform to present work-in-progress, to engage in discussions about research, and to explore general topics around research practice. It is also a useful way for lab members to stay informed about, and learn from, each others' work, and to share achievements and challenges together.
+>
+>Lab meetings are held weekly, currently on Wednesdays from 13:00-14:30 UK. If I am your primary supervisor, you are required to attend these meetings in person. If you must attend virtually or are unable to attend a meeting, let Reshanne know as soon as possible.
+>
+>One-to-one supervision meetings are held weekly (for full-time PhD students) or bi-weekly (for part-time PhD students).
+>
+>Full supervisory meetings (including secondary supervisors) are held monthly (for full-time students) or bi-monthly (for part-time students).
+>
+>For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 

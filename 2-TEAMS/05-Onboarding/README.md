@@ -44,10 +44,29 @@ A clear onboarding process should not only ensure that lab members complete esse
 > 
 > Besides the official Research Institutes, members of our group recently initiated the Genetics Network Amsterdam (GENE Amsterdam) which is a network of researchers working in the broader field of genetics across Amsterdam. An official [website](https://www.geneticsnetworkamsterdam.org/) was launched in November 2022. We recommend you to get your own personal page added to the website and to publish any relevant news item or blogs about your research on the website (contact x for anything related to the website). GENE Amsterdam also has regular research meetings which are very useful to attend, please e-mail x to get added to the GENE Amsterdam mailing list. There is also an annual research meeting of GENE Amsterdam.
 
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: When joining the lab:
+>- Read this Lab Manual
+>- Read the Code of Conduct
+>- Talk to the MTO Secretariat (Anne-Marie van der Heijden) about your room, your IT equipment, your IT account
+>- Request a key card from the Library
+>- Install software described in Section 9
+>- Subscribe to platforms mentioned in Section 9.2, or an open source alternative
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We follow the standard ICR onboarding process, which can be found here:  LINK NOT PUBLIC. In addition, every new lab member will be paired with a “lab buddy” who will arrange for you an introduction to all the lab resources. 
 
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Be comfortable making and admitting mistakes. It is all part of the learning process! But if you hide mistakes, I cannot help you.
+>
+>There is no “one right answer”. Your PhD is about discovery, and your goal is to become the ultimate expert of your project. This means that for the most part, you must discover the answer as you go and there will be a high amount of uncertainty about whether it is right or not. Embrace the uncertainty!
+>
+>Work from a university-licensed cloud app (UOL's is OneDrive) to write and store all your documents. Download the [OneDrive app](https://www.microsoft.com/en-gb/microsoft-365/onedrive/download) on your PC if it is not already there, then create or copy folders straight onto the app. When you open a new or in-progress document, make sure Autosave is turned on. This will ensure your files are automatically and immediately available on the cloud, with no fear of losing files due to hard drive corruption, stolen laptop, etc.
+>
+>Immerse yourself in the literature. Set up [Google Scholar alerts](https://scholar.google.com/intl/en/scholar/help.html#alerts) for the latest preprints and publications in your research area. You are expected to be reading literature on your topic daily.
+>
+>Automate as much as you can! Especially things like data entry/reference management. I use [Python](https://www.python.org/) to automate data entry/analysis pipelines. I use [Zotero](https://www.zotero.org/) for reference management.
+>
+>You should transition to independence (in your ideas, networking, writing, designing experiments, coding, creating presentations, etc.) before the end of your PhD, but you are not expected to know how to do all of these things from the beginning! Expect a lot of help in the first 1-2 years, and less help with these things as you progress.
 
 >_[CoenLab_2025](https://coen-lab.com/):_ These are some initial admin steps that *should* happen (some even before you arrive at UCL). If you've been in the lab for a week and any of these haven't been covered, ask someone!
 >

@@ -55,6 +55,12 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 > 
 > **For post-doctoral researchers and Assistant Professors**, responsibilities depend on their specific project and where funding comes from. In general, we encourage increasing independence and setting up of independent research lines, particularly for Assistant Professors. We require and stimulate all post-doctoral researchers to actively seek and apply for funding opportunities. We also require and stimulate (co-)supervision of the PhD students in the group.
 
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: **PI:** Acquiring funding; Establishing research lines; Supervising lab members; Establishing collaborations; Giving feedback; Evaluating performance; Participating in scholarly communities.
+>
+>**PhD student:** Reading and synthesizing relevant literature; Conducting independent research under supervision and with feedback; Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project; Following agreed upon postgraduate education; Networking with likeminded scholars, and exploring potential collaborations and future employment.
+>
+>**Research Assistant:** Performing well-defined research tasks; Reading assigned/agreed upon papers; Optionally contributing to papers as co-author.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.
@@ -66,6 +72,27 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >You will be required to occasionally supervise summer or MRes students or help new lab members with their integration process. The allocation of supervision is made by volunteering or according to the most suitable project.
 
 >_[CoenLab_2025](https://coen-lab.com/):_ Our team is composed by researchers with different roles. Expectations for each role, and what they can expect from other lab members, is detailed in the table below. Please contact Pip if you have any questions or concerns about this table. This is a guide and not a limitation. Exceptions will happen (e.g. sometimes a principle project can be collaborative, rather than independent, or an undergrad may contribute to a paper), but this guide is accurate for most cases. The corresponding table of responsibilites can be found _[here](https://coen-lab.com/lab-life/#Role-Expectations)._
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Reshanne promises to…
+>- Support you scientifically
+>- Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grant proposals
+>- Be available in person and via email / Teams on a regular basis, including regular meetings to discuss your research
+>- Give her perspective on where the lab is going, where the field is going, and tips about surviving and thriving in academia
+>- Support your career development by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit
+>- Help you prepare for the next step of your career, whether it's a postdoc, a faculty job, or a job outside of academia
+>
+>As a PhD student, you are expected to…
+>- Develop your PhD thesis research. Your dissertation should have at least 3 substantial research projects that answer a big-picture question that you have
+>- Know the literature related to your topic inside out by the end of your PhD
+>- Enjoy challenging yourself continuously - and keep learning (Python, data analysis, writing and presentation skills, …)
+>- It is likely that much of your work will be collaborative, so you need to be able to take feedback from collaborators on board. You need to be able to do this in a professional way: e.g., respond to it, do not ignore or forget about feedback, explain if you disagree but do so in a respectful manner
+>- If you are stuck on a problem or don't know the answer to something, I expect you to try to find solutions before we meet about it. When/if we meet about it, you should be able to explain how you have already tried to solve your problem
+>- Keep a record of our meetings (what we discussed and decided on) where we can both access them (Teams)
+>- Co-supervise BSc students who work on your projects
+>- Present your work at lab meetings, departmental events, at other labs (if invited), and at conferences
+>- Think about what you want for your career (academia – research or teaching, industry, science writing, something else), and talk to Reshanne about it to make sure you're getting the training you need for that career
+>- Make sure you meet all departmental deadlines (e.g., for your progression and thesis) -- and make sure Reshanne is aware of them
+>- Prioritize time for research. Side projects and teaching are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 

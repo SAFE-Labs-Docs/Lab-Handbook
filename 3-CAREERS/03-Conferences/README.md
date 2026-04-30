@@ -48,6 +48,8 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > 
 > We encourage everyone to apply for grant opportunities that allow you to fund your own trip, for instance [this one for PhD students at Amsterdam UMC](https://www.amsterdamumc.org/en/phd-student/trajectory/amsterdam-umc-young-talent-fund.htm). This will increase (y)our budget to attend workshops and it is great practice to try and obtain some small grants early on in your career!
 
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Each lab member has a conference budget of at least XXX/year. It is expected that lab members attend at least one conference per year. To attend a conference, the lab member must present at the conference.
+
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I encourage all lab members to participate in conferences and courses. If you find a conference or course that interests you, please feel free to discuss the possibility of attending with me. 
 > 
@@ -65,6 +67,14 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >**Summer schools and courses:**
 >Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs for at least one such opportunity. Some courses that can help to develop the experimental and computational skills we use in the lab include:
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Conferences, workshops, and other training opportunities (e.g. summer schools) are valuable resources for dissemination, acquiring new expertise, networking, and career development. Lab members are encouraged to attend at least one regional or international conference per year.
+>
+>Lab members are encouraged to apply for additional funding (e.g. travel grants) to attend conferences and/or courses.
+>
+>If you find a conference, symposium, or course that you feel will greatly benefit your project or career, feel free to discuss it with Reshanne.
+>
+>As a general rule, conference attendance requires submission of an abstract. All abstracts should be reviewed and approved by Reshanne before submission.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 

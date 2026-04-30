@@ -53,6 +53,13 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- **Respect**: Every lab member's opinion matters. While critical thinking is encouraged, feedback should always be constructive and aimed at fostering meaningful dialogue and personal development. Disagreement is welcome, as long as it's expressed respectfully.
 >- **Engagement**: Curiosity, initiative, and commitment are essential. Strive for excellence in your research, and take an active role in lab activities—this includes lab meetings, seminars, and collaborative discussions. The success of the lab depends on the enthusiasm and contributions of its members.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: As a community we welcome everyone, and encourage a friendly and positive environment. This code of conduct outlines our expectations for participants, members, contributors, and leaders within the community, as well as steps to reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored.
+>
+>We pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, social and economic status, nationality, personal appearance, race, religion, neurodiversity, or sexual identity and orientation.
+>
+>We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Our lab culture is founded on mutual respect, accountability, and a commitment to ethical and collaborative science. We expect everyone to contribute to an environment where people feel heard, valued, and supported. This means showing up prepared, engaging thoughtfully with others' work, and being open to different viewpoints. We do not tolerate discrimination or harmful behaviour of any kind, especially those related to race, gender, disability, or sexuality. Every lab member has a role in shaping a space where it's safe to speak up, ask questions, and offer feedback. Psychological safety isn't optional - it's essential, and we protect it together.
@@ -60,6 +67,10 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >When it comes to how I run the lab, I really try to build a team that runs on self-motivation, curiosity, and a shared drive to do great science. I want people to feel excited about what they are working on and comfortable taking initiative. My general motto is: work hard, work smart, work together. I am here to support, guide, and help clear the path when needed—but I also trust everyone to take ownership of their work and grow into their strengths.
 
 >_[CoenLab_2025](https://coen-lab.com/):_ Lab members must maintain professional integrity, accountability, and mutual respect in all interactions while upholding high scientific standards and fostering collaboration. This includes respecting others' viewpoints during discussions, arriving on time for meetings, and engaging actively with presentations. Everyone must contribute to an inclusive environment characterized by compassionate behaviour and free from any discriminatory conduct—especially regarding gender, race, sexuality, or disability. Lab members should feel safe to express their ideas, wishes, or concerns without fear of negative consequences, ensuring a supportive environment.
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Everyone in the lab is expected to show integrity, accountability, and respect in all interactions and projects while upholding strong standards of scientific rigor and collaboration. This means things like listening to and valuing each other's perspectives, being on time for meetings, and staying engaged during presentations. We are all responsible for creating an inclusive, supportive environment—one that is free from discrimination or harmful behavior, especially related to gender, race, sexuality, or disability. Lab members should feel comfortable sharing their ideas, concerns, or feedback without fear of negative consequences. Psychological safety is a shared priority.
+>
+>We are trying to build a team that runs on self-motivation, curiosity, and a shared drive to do great science. I want people to feel excited about what they are working on and comfortable taking initiative. I am here to support, guide, and help clear the path when needed—but I also trust everyone to take ownership of their work and grow into their strengths.
 
 
 ### United States

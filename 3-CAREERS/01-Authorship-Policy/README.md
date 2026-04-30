@@ -29,8 +29,25 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Authorship will be discussed with all involved researchers whenever a person starts contributing to a new project or a new collaboration is established.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Be comprehensive and generous in crediting contributions. Nothing is lost by giving people fair credit. For published work, report each author's contribution according to the CRediT taxonomy. When planning the work, fill out a CRediT taxonomy to define intended roles at the start. If project roles and levels of contribution change, update the CRediT taxonomy accordingly. Before publishing a version of the manuscript, check that all authors recognize the CRediT taxonomy as accurate representation of the work done.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: According to the criteria recommended by the International Committee of Medical Journal Editors (ICMJE), to qualify for authorship, individuals must meet all the following conditions:
+>- Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data;
+>- Drafting the work or revising it critically for important intellectual content;
+>- Final approval of the version to be published; and
+>- Agreement to be accountable for all aspects of the work and to ensure that questions related to the accuracy or integrity of any part are appropriately investigated and resolved.
+>
+>The order of authors should reflect the relative contributions of each individual to the work. The order should be agreed upon before manuscript writing, but it is subject to change (slightly) as peer review progresses.
+>
+>The first author is typically the person who contributed the most to the project and writing. In cases of equal contribution, the default is co-first authorship.
+>
+>The last author is usually the lead supervisor who secured funding and oversaw the research. Exceptions can be discussed and agreed upon.
+>
+>The Superlab is committed to mentoring and recognizing the contributions of students and trainees. When students make substantial contributions to a project, they will be offered authorship and mentorship on writing and publishing.
 
 
 ### United States

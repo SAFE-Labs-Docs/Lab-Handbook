@@ -56,7 +56,16 @@ You may report the incident through one or more of the following official channe
 - For cases affecting **research conduct** or involving scientific collaborators.
 - Contact: 📧 **cnr.ethics@cnr.it**
 - Review the *“Linee guida per l’integrità nella ricerca”* for guidance on ethical violations.
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: If you experience or witness unacceptable behaviour, including bullying or harassment, or have any other concerns, please report it as indicated below. All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident. All reports will be handled with discretion.
+>
+>You can report a suspected code of conduct violation through this anonymous form: https://forms.gle/vmq54mF9AS1YsE6A8
+
 ### United Kingdom
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Bullying and harassment are entirely unacceptable behavior in any work environment. Please be familiar with the University of Liverpool [Bullying and Harassment Policy](https://www.liverpool.ac.uk/media/intranet/humanresources/content/headers/policies/Bullying,and,Harassment,Policy,(2022),v1.docx), including steps staff and students can take if they wish to formally or informally report, or receive confidential advice about, any concerning behavior that they have witnessed or been subjected to.
+>
+>For both UoL staff and students, the [Report & Support online form](https://reportandsupport.liverpool.ac.uk/) can be used as a first port of call, to raise an issue and access support.
+
 > _[CoenLab_2025](https://coen-lab.com/):_ Harassment is unwanted behaviour which you find offensive or which makes you feel intimidated or humiliated on the basis of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
 > 
 > Bullying and harassment are unacceptable. If you witness or are subjected to anything that may fit their description, then tell someone who can do something.

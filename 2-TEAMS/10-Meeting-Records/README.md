@@ -29,5 +29,9 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >The supervisor, and lab member, both have responsibilities during this meeting. In brief: both parties should add discussion points to the meeting page throughout the week, and then during the meeting, they should go over these discussion points and update the to-do list. After the meeting, the lab member should write a summary of the meeting (100-200 words).
 
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Keep a record of our meetings (what we discussed and decided on) where we can both access them (Teams).
+>
+>For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.

@@ -14,6 +14,25 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 - Promote training and discussion on risks and best practices
 
 ## Examples
+
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: When such tools are used to support research activities, their role must be transparent, appropriate to the task, and aligned with open science and reproducibility standards. Clear distinctions between studying algorithms, applying algorithms, and using generative tools are essential to maintaining conceptual clarity and methodological integrity.
+>
+>While there is no blanket ban on the use of AI tools in our lab, consider the following:
+>- Is it clear and transparent how the tool works? In order to justify using the tool for scientific work, we must know _how_ it operates.
+>- What is the goal of the work you're doing? In many cases, the goal is not to get the work done - the goal is learning how to do the work. For example, a PhD is expected to graduate with an academic level of competence in writing, coding, data analysis, and research skills. Outsourcing these tasks to an algorithm does not serve the purpose of learning those skills.
+>- Is the AI tool ethically trained? Just like we would not resort to sweat shop labor or copyright infringement to obtain research data, we should not use tools that use these methods to train an algorithm.
+>- Is the tool validated for the task you wish to assign it? Every tool that is used in scientific work must be validated; this includes measurement instruments, statistical methods, and of course, "AI tools".
+>
+>Generative AI may never be used for original writing, including papers, presentations, applications, and peer review. Generative AI may be used to suggest minor edits, like reducing word counts or simplifying language. The results should be thoroughly proof-read and edited.
+
+### United Kingdom
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: You are discouraged from using large language models (LLMs) such as ChatGPT in your writing, including proofreading and refining language, summarizing research in literature reviews, and generating reference lists. LLMs "hallucinate" (fabricate) information and there are [embarrassing precedents](https://bsky.app/profile/sampendu.bsky.social/post/3lq4qzvxbwk25) that we must not emulate in our own publications.
+>
+>There is empirical evidence that using generative AI [reduces your frontal cortex function](https://arxiv.org/abs/2506.08872).
+>
+>Reshanne will not be a co-author on any work that uses generative AI in any way.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >- AI tools may be used for some tasks in our lab with caution and all outputs must be verified.

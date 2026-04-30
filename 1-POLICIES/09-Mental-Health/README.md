@@ -23,6 +23,9 @@ Thankfully, awareness and support for mental health issues within work environme
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Mental health is an important topic – we want our colleagues to be happy and healthy. Making use of mental health infrastructure is strongly encouraged and the PI is always open to discussing necessary adjustments or breaks to improve the well-being of the team members and to ensure that they can successfully and healthily complete their PhD or projects. Lab members are encouraged to bring up any possible issues that are related to the work environment (hours, relationships with colleagues, uncertainty about professional future etc.) with the PI as early as possible. For personal issues that are not related to your work, the PI will usually not be the best person to contact as they are likely not qualified or might have conflicts of interest; for these cases, lab members should get in touch with the school psychologist. 
 >The CUG (Comitato Unico di Garanzia – Committee for equal opportunities) is responsible for describing, implementing and monitoring wellbeing actions. General information about the different services including ombuds persons, school psychologists, support for parents etc. can be found on the [CUG website](https://www.sissa.it/welfare/cug). Further actions such as discounts for cultural events etc. can be found [here](https://www.sissa.it/welfare/interventi-al-personale). Finally, the [SISSA Club]( https://club.sissa.it/) organized many activities related to sports, languages, games etc.  
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: In principle, mental health support should procede through the health care system. The general practitioner is the first (free) port of call. The university describes procedures for mental health support for students. Some of these are relevant for employees too. Use the My Employee Portal to report that you are sick, if you are suffering from mental health problems.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia. High productivity doesn't equate to overwork and burnout. Lab members are encouraged to manage their productivity responsibly. We expect everyone to contribute to an environment where people feel heard, valued, and supported. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support, I encourage you to consider a dedicated Assistance Counselling Program specialising in academia-related work stress challenges. Please find more information here: LINK NOT PUBLIC
@@ -32,6 +35,12 @@ Thankfully, awareness and support for mental health issues within work environme
 >- [Support within UCL](https://www.ucl.ac.uk/human-resources/health-wellbeing/find-support)
 >- [Free external support services](https://www.ucl.ac.uk/human-resources/health-wellbeing/external-resources#f2f-suicidal)
 >- [How to support others](https://www.ucl.ac.uk/human-resources/health-wellbeing/healthy-mind/supporting-colleagues#guidance-support-others)
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia ([https://doi.org/10.1038/nbt.4089](https://doi.org/10.1038/nbt.4089)). High productivity doesn't equate to overwork and burnout. Lab members are encouraged to manage their productivity responsibly. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support:
+>
+>[Counselling Service](https://www.liverpool.ac.uk/studentsupport/mental-wellbeing/counselling-service/)
+>
+>[Mental Health Advisory Service](https://www.liverpool.ac.uk/studentsupport/mental-wellbeing/mental-health-advisory-service/)
 
 
 ### United States

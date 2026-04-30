@@ -42,6 +42,9 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >- Master students / interns: Master theses last for at least 9, ideally 12 months. The main purpose of a thesis is for the student to learn one or more practical techniques, to understand all steps of a scientific project, to get insights into analysis of data, and to practice scientific writing and figure making, as well as scientific communication. The actual content and output are less important. However, if a student contributes a relevant data set which is included in a publication, they will certainly be granted authorship as detailed in the CRediT Taxonomy guidelines. 
 >- Technicians: Technicians’ contracts may be more variable and depend on needs and agreements. If technicians’ contributions fulfill the CRediT Taxonomy guidelines, they will be authors on papers.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: **PhD student:** Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project.
+
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions. 
 > 
@@ -54,6 +57,12 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >PhD students in the UK typically graduate ~3-4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it may be possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.
 >
 >Postdoctoral researchers typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a twelve-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions.
+>
+>That said, my goal for PhD researchers for whom I am the primary supervisor is to help each individual submit three first or co-first-authored papers for publication, with one of those published within the span of the initial 3-4-year contract.
+>
+>While advancing your own project is important, I also expect you to contribute to other projects in the lab, where you will be recognized as a co-author. It is unrealistic for one person to manage all aspects of a project or possess all the necessary expertise; therefore, supporting one another is essential for the success of everyone in the lab.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: I expect technicians to be our lab for 2 years, PhD students 4-5 years, and postdocs 4-6 years. Students and postdocs should at a minimum submit their first author paper and post it to bioRxiv before leaving the lab. If you can complete your publication in less than 4 years, you’re welcome to leave the lab then if you wish. All lab members will remain funded beyond these time ranges, provided they are still maintaining adequate progress. Establish your goals during the annual IDP meeting and keep track of your progress. I will provide feedback on your progress as needed. I expect you to keep on top of deadlines for your graduate program, conferences, fellowships, and trainings.

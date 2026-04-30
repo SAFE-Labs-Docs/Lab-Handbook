@@ -42,6 +42,11 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >- Reasons for or against candidates are documented (although not publicly).
 >- Postdoc candidates are informed about the types of questions that will be asked during the interview.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The INSIGHT lab has conducted the first pilot of blind selection at Tilburg University. While this approach was positively reviewed, it places an undue burden on HR due to the lack of suitable automated systems. We will continue to push for more equitable recruitment at University strategy meetings. Meanwhile - we ask applicants to avoid mentioning information in their applications that could lead to biased evaluation, including demographic and cultural background, and photographs. Only mention information that is relevant to the job at hand.
+>
+>Selection panels typically consist of: The hiring PI/promotor; Other collaborators in the project/supervision team; One junior lab member. The members of interview panels are announced in the job vacancy.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ People As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised., and in accordance with guidelines from UCL.
 >

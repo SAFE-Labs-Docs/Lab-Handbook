@@ -24,6 +24,9 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 
 >_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The last lab meeting of the academic year devotes time to discussing successes and failures.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Many failures are "good" failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. 
 >

@@ -20,6 +20,9 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide feedback sessions. Lab members will be regularly asked if this format is deemed useful. If yes, it’ll be implemented in the future.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The first lab meeting of the academic year devotes time to lab-wide feedback sessions.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Annual lab-wide feedback takes place at the Lab Retreat. As the size of the lab changes, and we learn from experience at past retreats, the exact method of collecting feedback and reporting the result will evolve with time. However, in each case, there will we a post-feedback summary recorded for posterity so that any repeating themes or recurring issues can be transparently highlighted. Pip will also record any changes that he intends to implement, along with any suggestions that he will not (or only partially) implement, along with the reasoning behind these decisions.
 >

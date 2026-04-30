@@ -31,6 +31,9 @@ Career progression, grants, and competitive applications often require reference
 >A short notice from the PI can be expected when the letter has been submitted. If such a confirmation has not been received by the day before the deadline, it is the lab member’s duty to check in with the PI.
 
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Lab members may request reference letters from their supervisor/line manager/PI at least 2 weeks in advance of the deadline. In principle, supervisors should comply with such requests - time permitting. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ To guarantee that Pip provides your letter, **you must give at least 2 weeks notice**. 
 >

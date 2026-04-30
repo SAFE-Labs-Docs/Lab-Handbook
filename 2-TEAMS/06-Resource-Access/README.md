@@ -40,6 +40,9 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >
 >Personal laptop: Same rules as for postdocs apply. 
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: At present, there are no lab resources other than the standard laptop employees receive.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_In our lab “resources” comprise two main areas: financial resources (e.g. ordering the equipment you need for your project) and access resources (e.g. access to experimental rigs). If you feel that either of these are not being distributed fairly, please raise the issue in your 1-on-1 meeting with Pip, or use the button below.
 >

@@ -22,6 +22,9 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ All lab members have 1o1 meetings with the PI as illustrated in the section "Regular meetings". In addition, at the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: This is embedded in policy at Tilburg University: every year there is a Performance and Talent Development meeting, which allows for bilateral feedback.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We will review your long-term progress and work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab and under my supervision. During these meetings, we will also discuss the training you have undertaken and plan the training for the next year. The schedule is sent via Outlook Calendar.

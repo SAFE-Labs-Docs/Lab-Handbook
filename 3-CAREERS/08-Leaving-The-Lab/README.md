@@ -39,6 +39,9 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >In the last week:
 >- 1o1 meeting with the PI to go together through the update documentation, discuss and give mutual feedback on the lab member’s time in the lab, and to discuss next steps concerning ongoing projects if adequate.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Please archive all your ongoing work as described in Section 13. We will schedule an exit interview on your last day (or before, if necessary).
+
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I will be transparent with the employees about the available funding for their positions when they join the lab. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab or a plan for securing the next position. 
 > 

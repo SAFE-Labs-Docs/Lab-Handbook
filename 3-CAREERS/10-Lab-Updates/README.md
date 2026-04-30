@@ -28,6 +28,9 @@ Lab members are often considering academia as a potential career. It informs tha
 >Postdocs who aim to leave soon will have dedicated meetings with the PI to discuss relevant aspects to lab management.
 >The PI participates often in informal lunches, coffee breaks or other opportunities to ask and discuss about lab management topics.
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Lab members will be kept informed about lab developments information via email. Relevant information includes spending, grant applications, and outlook for the future. Lab members will be involved to provide feedback on grant applications and funding considerations that affect the future of the lab.
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Yearly state of the lab meeting: at the end of the year, I will give a lab management update to go over our spending, funding applications, achievements over the past year and the vision for the next one.

@@ -29,6 +29,9 @@ This consists of three required steps:
 
 >_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ Letizia is a co-founder of SAFE Labs, an initiative dedicated to fostering more aware, fair, and equitable research environments. The lab is actively working to implement all the commitments outlined in SAFE Labs Handbook. Here you can find the current version of the [Mariotti Lab handbook](https://docs.google.com/document/d/1SW8EP0g70l-s7cfb1ll1G6hz1gf7LFesX6gzfgxeRFI/edit?usp=sharing).
 
+### Netherlands
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: INSIGHT Lab subscribes to the SAFE Labs Handbook commitments.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ The SAFE Labs handbook is a document co-authored by Pip and other group leaders across Europe in 2024 (and is continually updated). You can read more details of the handbook here. Many of the commitments involve publicly documenting important material. Here, I provide links to the location of all that material (if a link is missing, the information has yet to be documented).
 

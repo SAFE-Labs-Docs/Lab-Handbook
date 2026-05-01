@@ -72,13 +72,13 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_: Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
 >The most important goal of all lab members is to develop as scientists (except for the PI and any long-term research scientist, see below). The ways in which this scientific and career development happens differ by role:
 
-- *PhD students:* PhD students aim to gain enough expertise in a field to be able to teach themselves and others about new knowledge they contribute to it.
-- *Masters students:* Masters students aim to gain enough expertise in a field to use its tools and knowledge with mastery.
-- *Undergraduate students:* Undergraduate students aim to learn about a field enough to decide whether and how they'd like to pursue it.
-- *Postdoctoral researchers:* Postdoctoral researchers aim to develop a body of work in the field to allow them to pursue their next career step, sometimes by learning new techniques or pivoting fields of research.
-- *Research technicians:* Short-term technicians aim to learn about a field with the same goal as an undergraduate and perhaps begin developing work in the field to allow for a next career step.
-- *Research scientists:* Long-term research scientists aim to carry out research projects and training of other lab members.
-- *Principal Investigator:* The Principal Investigator (PI, Pablo) aims to help other lab members achieve their goals while advancing a coherent research vision (in MsEE Lab's case, building the field of research of evolutionary engineering).
+>- *PhD students:* PhD students aim to gain enough expertise in a field to be able to teach themselves and others about new knowledge they contribute to it.
+>- *Masters students:* Masters students aim to gain enough expertise in a field to use its tools and knowledge with mastery.
+>- *Undergraduate students:* Undergraduate students aim to learn about a field enough to decide whether and how they'd like to pursue it.
+>- *Postdoctoral researchers:* Postdoctoral researchers aim to develop a body of work in the field to allow them to pursue their next career step, sometimes by learning new techniques or pivoting fields of research.
+>- *Research technicians:* Short-term technicians aim to learn about a field with the same goal as an undergraduate and perhaps begin developing work in the field to allow for a next career step.
+>- *Research scientists:* Long-term research scientists aim to carry out research projects and training of other lab members.
+>- *Principal Investigator:* The Principal Investigator (PI, Pablo) aims to help other lab members achieve their goals while advancing a coherent research vision (in MsEE Lab's case, building the field of research of evolutionary engineering).
 
 >Scientific and career goals are should be examined and discussed in detail and often by all lab members. Using the above goals as templates, backwards design allows us to set milestones that help us achieve these goals and action items necessary to complete those milestones.
 
@@ -92,9 +92,9 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 
 >The challenges and experiences of a PhD break down into three chapters, each characterized by positive and negative feelings that stem from the central struggles of each stage. They include:
 
-1. **The Jump** (years ~1–2): excitement and anxiety when evaluating possible paths
-2. **The Slog** (years ~3–4): freedom and disorientation in self-directed research
-3. **The Push** (years ~5–6): mastery and overextension while concluding work and eyeing next steps
+>1. **The Jump** (years ~1–2): excitement and anxiety when evaluating possible paths
+>2. **The Slog** (years ~3–4): freedom and disorientation in self-directed research
+>3. **The Push** (years ~5–6): mastery and overextension while concluding work and eyeing next steps
 
 >There are [many strategies that we build in at each stage](https://mseelab.substack.com/p/what-does-a-phd-look-like) to maximize the positive feelings and minimize the negative ones. [More details on Substack: _"What does a PhD look like?"_](https://mseelab.substack.com/p/what-does-a-phd-look-like)
 

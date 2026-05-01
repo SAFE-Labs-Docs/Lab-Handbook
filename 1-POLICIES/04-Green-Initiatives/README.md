@@ -92,3 +92,5 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >-**Transit**: I encourage you to take public transportation or share taxis between airports and conference venues whenever possible.
 >-**Electricity**: Turn off room lights when not in use and shut down computers between experiments.
 >-**Composting**: Put coffee grounds, tea bags, and other compostable food scraps into the lab compost bin on the coffee cart.
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: Many other organizations have catalogued best practices for lab sustainability. Wherever possible, we follow practices for research labs outlined by [My Green Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) and the [Brophy Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) ([Leak *et al.*, 2023](https://doi.org/10.1016/j.tibs.2022.09.001)), such as [routine cleaning of freezers and setting ultracold storage to –70 ºC](https://freezerchallenge.mygreenlab.org/landing/?showResource=best-practices).

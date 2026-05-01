@@ -41,3 +41,5 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: During our annual meetings, we will plan your goals, align them with your career path, and discuss what you can realistically achieve during the next year. 
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: At the start of every academic term, a one-on-one meeting with every lab member will be dedicated specifically to evaluating the state of the mentorship relationship. Both participants will discuss answers on [the last online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog)  and reevaluate the worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder, making whatever adjustments may be necessary.

@@ -39,3 +39,5 @@ Researchers moving Italy are entitled to a refund for accommodation of the first
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: The visa process in the US is outrageously complicated, cumbersome, and expensive. Work with me and the UMB Office of International Services to ensure your visa paperwork and fees are submitted in a timely manner. Expect the process to take several months at least. Whenever possible, the lab funds all visa application fees. Note that most visas come with expiration dates and are tied to a specific employer. Work with me well in advance of the visa expiration or before moving on to your next job so we can work together to transition your visa.
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: The [Cornell Office of Global Learning](https://international.globallearning.cornell.edu/) provides services for international members of the Cornell community (such as Pablo). Support for the appropriate visa paperwork filing may be obtained through them.

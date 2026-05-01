@@ -34,3 +34,5 @@ A PhD steering committee provides independent oversight of PhD student progress 
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Thesis committee policies are set by the graduate programs.
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: PhD students should schedule yearly Thesis Committee meetings as outlined by their Graduate Field's Graduate Student Handbook. For more information on expectations, check your Field's handbook ([e.g., the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) and [MsEE Lab's mentorship philosophy statement](https://mseelab.org/mentorship.html).

@@ -36,3 +36,5 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Lab members listed [here](https://aeryjoneslab.github.io/team/).
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: Current and former lab members are [listed publicly on the lab website](https://mseelab.org/members.html).

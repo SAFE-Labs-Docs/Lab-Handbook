@@ -35,3 +35,5 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: All meetings start with a brief overview of the meeting agenda. Pablo will take notes of meetings and share them with participants through Google Docs. Other participants are encouraged to take notes of their own and/or complement the Google Doc to clear any misunderstandings. If a participant would like to record the meeting or use a note-taking app, they may do so with the consent of all other participants. Meetings (and notes) include agreed-upon action items to prioritize before the next meeting. These action items are set by participants through backwards design by reviewing the goals of the participants or group present and setting a course of action towards them.

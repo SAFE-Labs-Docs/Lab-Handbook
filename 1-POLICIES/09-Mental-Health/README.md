@@ -51,3 +51,18 @@ Thankfully, awareness and support for mental health issues within work environme
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: To share any concerns confidentially, postdocs and staff can talk to [EAP](https://www.umaryland.edu/hr/benefits-and-well-being/well-being/employee-assistance-program/) or [Employee Health Services](https://www.medschool.umaryland.edu/familymedicine/student--employee-health/employee-health-at-campus-health/) and students can talk to [Student Counseling](https://www.umaryland.edu/counseling/) or [Student Health Services](https://www.umaryland.edu/studenthealth/).
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: Mental well-being is crucial for personal and professional success, especially given the [prevalence of mental health challenges in academia](https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed regular work hours. If you feel comfortable, Pablo encourages you to discuss any personal challenges that may affect your work during one-on-one meetings. If you need additional support, we encourage you to consider the following resources:  
+>
+- [Free coaching for both students and staff members](https://health.cornell.edu/initiatives/campus-initiatives/well-being-coaching)
+- [Different types of counselling](https://health.cornell.edu/services/mental-health-care) available through Cornell Health
+- [Financial](https://finaid.cornell.edu/special-circumstances/emergency-funds) and [food access](https://scl.cornell.edu/residential-life/dining/about-dining/food-security/cornell-food-pantry) support ([more resources available](https://mentalhealth.cornell.edu/get-support/ithaca))
+> 
+>Many more available resources for both [students](https://mentalhealth.cornell.edu/get-support/ithaca) and [staff members](https://mentalhealth.cornell.edu/get-support/staff-faculty) are displayed on the Cornell Health website, organized by the level of distress and the nature of issues affecting you. Mechanisms may differ depending on whether you are a student or staff member, but they are available. Pablo is happy to help connect you with the help you need. 
+>
+>If you are (or someone else is) experiencing an immediate threat of harm to self or others, get connected to emergency services by calling for help. When connecting with emergency services, please describe as clearly as possible the location and nature of the emergency. 
+>
+- If you are **on campus**, call 607-255-1111 to be connected to [Cornell Public Safety Communications](https://publicsafety.cornell.edu/public-safety-communications/) Center. Students calling 911 from campus will be routed to the [CUPD](https://www.cupolice.cornell.edu/) based on location.
+- If you are **off campus**, call 911
+>
+>Even if your phone is out of service, 911 operators can still be reached.

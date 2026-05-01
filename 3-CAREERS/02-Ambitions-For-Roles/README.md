@@ -68,3 +68,34 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: I expect technicians to be our lab for 2 years, PhD students 4-5 years, and postdocs 4-6 years. Students and postdocs should at a minimum submit their first author paper and post it to bioRxiv before leaving the lab. If you can complete your publication in less than 4 years, you’re welcome to leave the lab then if you wish. All lab members will remain funded beyond these time ranges, provided they are still maintaining adequate progress. Establish your goals during the annual IDP meeting and keep track of your progress. I will provide feedback on your progress as needed. I expect you to keep on top of deadlines for your graduate program, conferences, fellowships, and trainings.
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_: Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
+>The most important goal of all lab members is to develop as scientists (except for the PI and any long-term research scientist, see below). The ways in which this scientific and career development happens differ by role:
+
+- *PhD students:* PhD students aim to gain enough expertise in a field to be able to teach themselves and others about new knowledge they contribute to it.
+- *Masters students:* Masters students aim to gain enough expertise in a field to use its tools and knowledge with mastery.
+- *Undergraduate students:* Undergraduate students aim to learn about a field enough to decide whether and how they'd like to pursue it.
+- *Postdoctoral researchers:* Postdoctoral researchers aim to develop a body of work in the field to allow them to pursue their next career step, sometimes by learning new techniques or pivoting fields of research.
+- *Research technicians:* Short-term technicians aim to learn about a field with the same goal as an undergraduate and perhaps begin developing work in the field to allow for a next career step.
+- *Research scientists:* Long-term research scientists aim to carry out research projects and training of other lab members.
+- *Principal Investigator:* The Principal Investigator (PI, Pablo) aims to help other lab members achieve their goals while advancing a coherent research vision (in MsEE Lab's case, building the field of research of evolutionary engineering).
+
+>Scientific and career goals are should be examined and discussed in detail and often by all lab members. Using the above goals as templates, backwards design allows us to set milestones that help us achieve these goals and action items necessary to complete those milestones.
+
+>**What does a PhD mean?**: [A PhD stands for "philosophiae doctor", literally "teacher".](https://mseelab.substack.com/p/what-is-a-phd) It signals that its bearer knows a field well enough to be able to teach about it. Teaching is a ubiquitous skill: every type of job involves training others in the skills required and/or explaining the job's importance to others. Because of this, a PhD is valuable across any number of jobs beyond "just" teaching positions (though perhaps not necessary for most of them).
+
+>The way that a PhD guarantees someone is able to teach is by expecting PhDs to make a new contribution to a field of knowledge. Since you must be sure that the new knowledge is actually new, you must know the field of knowledge in depth. Since nobody can teach you knowledge that doesn't yet exist, it means you taught it to yourself, so you must be able to teach (at least to yourself—most PhD programs can do a better job of teaching how to teach, though).
+
+>If you've decided you want to know a field of knowledge well enough to teach it and help expand it, then a PhD can be for you! A PhD is not the only way of achieving this, but it does offer a reliable opportunity to be able to do this with stability for a number of years. [More thoughts on Substack: _"What is a PhD?"_](https://mseelab.substack.com/p/what-is-a-phd)
+
+>**What does a PhD look like?**: 
+
+>The challenges and experiences of a PhD break down into three chapters, each characterized by positive and negative feelings that stem from the central struggles of each stage. They include:
+
+1. **The Jump** (years ~1–2): excitement and anxiety when evaluating possible paths
+2. **The Slog** (years ~3–4): freedom and disorientation in self-directed research
+3. **The Push** (years ~5–6): mastery and overextension while concluding work and eyeing next steps
+
+>There are [many strategies that we build in at each stage](https://mseelab.substack.com/p/what-does-a-phd-look-like) to maximize the positive feelings and minimize the negative ones. [More details on Substack: _"What does a PhD look like?"_](https://mseelab.substack.com/p/what-does-a-phd-look-like)
+
+>Cornell PhD students in the Graduate Field (program) of Chemical and Biomolecular Engineering typically graduate after completing five years in the PhD program, and although students at MsEE Lab may come from a variety of different Graduate Fields, we hold the same expectations for graduate students regardless of the Field they belong to. Students are advised to consult their Graduate Field Student Handbook ([e.g. the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) to make sure they fulfill any Field-specific requirements. Regardless of Field, it is our aim for each student to contribute to at least three projects during their time in the lab ([explained in more detail here](https://mseelab.substack.com/p/what-is-a-phd)), with the expectation that one of them leads to a first (or co-first) authored publication. PhD projects are selected in discussion with the student with this aim in mind. We aim to at least have this publication published as a preprint by the time the student leaves the lab.

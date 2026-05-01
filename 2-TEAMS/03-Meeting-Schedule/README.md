@@ -17,7 +17,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ## Examples
 
-### Germany
+**Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ The PI expects active participation at regular meetings including
 >1. Bi-weekly [Data Club](https://www.notion.so/Decision-Circuits-Data-Club-54e4c1ad1b564dddb630723516d0b8a4?pvs=21) with rotating progress reports
 >2. Bi-weekly [Journal Club](https://www.notion.so/Decision-Circuits-Journal-Club-a5c3fecbff3e411884d4458faf77f057?pvs=21) with rotating paper discussions
@@ -27,7 +27,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >The PI expects every 1-on-1 meeting is prepared with an agenda and summarized afterwards, highlighting action points (see Notion). 
 
-### Italy
+**Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We have three types of regular meetings:
 >- Lab Meetings: Tuesdays 13:30 – 15:30. These meetings are mandatory and to be attended in-person unless otherwise agreed on with the PI. Meetings may last less than 2h. Lab meetings have the following format: Every 2 weeks data/journal club with a main presenter, and every other 2 weeks general lab meetings. In the "general lab meetings" everyone, including the PI, presents for max. 10-15min. Everyone should focus on 1-2 things they achieved in the past 2 weeks (important: an achievement can be a first pilot experiment, having fixed an issue with a setup, having identified an issue, having written 1 paragraph…) and 1-2 things they plan to do in the next two weeks. These presentations should have a very short introduction (max. 1 slide, a few sentences) to the project or technique and the description of the achievements; future plans should be short and concise so that there’s time within 10-15min for feedback/help/ideas. The purpose of these meetings is NOT to compare productivity or judge each other, but to keep everyone updated on what’s going on in the lab and to provide space to discuss “minor” achievements or issues without having to wait weeks for the next data club. 
 >- 1o1 meetings: The PI meets regularly 1o1 with every lab member. PhD candidates can choose between a weekly or biweekly format; postdocs and technicians agree with the PI on a format that works best (regular, when necessary depending on the project status). Master students and interns may have biweekly or monthly meetings with the PI, depending on the degree of supervision by the PhDs/postdocs in the lab. All lab members are requested to send a short summary email to the PI after each 1o1 meeting. These can be bullet-point style but should contain concrete plans/agreements/outcomes. This format ensures that there’s a paper trail of what has been discussed and agreed on, but also that the PI and the lab member have the same understanding of the discussed matter.
@@ -62,7 +62,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 
 
-### Netherlands
+**Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The lab meets monthly for a round table, to discuss ongoing research, present project proposals, and read relevant literature. Lab members are expected to be present in person for events organized by other lab members, including the lab meetings.
 
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:
@@ -71,7 +71,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
 
-### United Kingdom
+**United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Discussing scientific progress is essential for academic success. I expect all the lab members to participate in our scheduled meetings. I will schedule all meetings during the ICR's working hours, from 9 am to 5 pm.
 >
@@ -105,7 +105,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
 
-### United States
+**United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 
 >**Lab meetings & open meetings**
 >- **When:** Lab meetings are Mondays 9:30am-11am in the conference room. Everyone is expected to attend and be on time. If you must miss a lab meeting, let the presenter and Emily know, and talk to the presenter afterwards to learn about what you missed.
@@ -120,3 +120,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- **Frequency:** 1-on-1 meetings with me start at weekly frequency and can slow to less frequent (but at least once a month) when you’re particularly busy (e.g. during data collection or a full-time workshop) or as you gain independence.
 >- **Topics:** These meetings are a good time to share personal and professional status updates; lay out future plans for the following week, month or year; share results; get verbal feedback on writing or figures you’ve shared with me in advance; or anything you want to bring up. Anything personal you share with me in our 1-on-1s is kept confidential.
 >- **Prep:** Think about how I can be most helpful in your goals. Do you want feedback on a plan? Guidance on where to start? Advice on a professional development topic? Anything you can share with me in advance can help me prepare, from a simple 1-sentence idea of what we’re discussing to a whole folder full of figures.
+
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+
+>**Weekly general lab meetings**: Lab meetings will occur weekly at a time voted on by all lab members at the start of each academic term. A meal will be provided to all in-person participants. Lab meetings will be carried out jointly with [the Harimoto Lab](https://www.harimotolab.com/) for the time being. The following proposed format is subject to change pending discussion with Prof. Harimoto.
+1. Lab meetings will begin with a discussion of announcements and news (~5 minutes). 
+2. Next, any topics requiring lab discussion will be addressed (~10 minutes). If the topic requires more than 10 minutes of discussion, a separate meeting with those involved will be scheduled to address the issue. 
+3. The bulk of the lab meeting (45–60 minutes) consists of a lab member presenting an informal progress report on their research on a rotating schedule. These reports should succinctly introduce your project, highlight the main research questions, and focus on recent achievements and challenges. This allows for productive group discussions to advance your project. Progress report presentations are accessible via our lab’s shared resources.  Presenters should expect frequent questions and interaction.
+
+>**One-on-one meetings**: Pablo runs weekly one-on-one meetings with each lab member, typically lasting 45 minutes. These meetings are designed to support lab members in achieving their goals in scientific and career development, including the successful implementation of research projects. The structure of these meetings involves setting and reviewing goals for research projects and the lab member's career at MsEE Lab. Pablo will also ask for feedback on mentorship strategy. Pablo is also available for additional (or fewer) meetings upon request.

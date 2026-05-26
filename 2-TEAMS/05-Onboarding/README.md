@@ -1,4 +1,4 @@
-# I commit to publicly document the onboarding procedure for new lab members
+# I commit to document the onboarding procedure for new lab members
 
 This page collects real-world examples of onboarding procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
 

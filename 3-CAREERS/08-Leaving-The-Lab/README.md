@@ -1,4 +1,4 @@
-# I commit to publicly document policies for lab members leaving the group
+# I commit to document the procedure for leaving the lab, including an exit interview
 
 This page collects real-world examples of lab departure policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective departure policies!
 

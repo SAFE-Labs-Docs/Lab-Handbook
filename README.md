@@ -50,7 +50,7 @@ Looking ahead, we envision the SAFE Labs Handbook becoming:
 Let's build a culture in science that supports people as well as progress.<br/>
 If you have questions and/or suggestions for the handbook, please start a thread in the [SAFE Labs Disccusions](https://github.com/SAFE-Labs-Docs/Lab-Handbook/discussions).<br/>
 
-**Update (2025-12-12):** Two new commitments added following the 2025 SAFE Labs workshop review: AI-use expectations (publicly documented) and record-keeping expectations (internally documented).
+**Update (2025-12-12):** Two new commitments added following the 2025 SAFE Labs workshop review: AI-use expectations (publicly documented) and record-keeping expectations (documented).
 
 ---
 
@@ -66,7 +66,7 @@ _**To document:**_ Provide a written record of a policy or commitment. Documenti
 <br/>
 _**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
 <br/>
-_**Internally Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   <br/>
+_**Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   <br/>
 <br/>
 _**Establish:**_ This requires implementing a new (if not already established) policy/process/event. Not as immediately achievable as documenting something, but does not require institutional support.<br/>
 
@@ -195,7 +195,7 @@ The institutional language at the Italian Institute of Technology is English; no
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/06-SAFE-Labs-Handbook">Click here for more examples from the community</a><br/>
 </i></details>
 
-**I commit to _internally document_ ...**
+**I commit to _document_ ...**
 <details>
 <summary> <b> <code> ... the procedure for reporting bullying and/or harassment. </code> </b>  <br/>
 </summary>
@@ -546,7 +546,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 
 
-**I commit to _internally document_ ...**
+**I commit to _document_ ...**
 <details>
 <summary> <b> <code> ... the onboarding procedure for new lab members. </code> </b>  <br/>
 </summary>

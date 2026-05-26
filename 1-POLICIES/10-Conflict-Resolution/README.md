@@ -1,4 +1,4 @@
-# I commit to internally document the procedure for raising lab or inter-personal issues
+# I commit to document the procedure for raising lab or inter-personal issues
 
 This page collects real-world examples of conflict resolution procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective conflict resolution procedures!
 

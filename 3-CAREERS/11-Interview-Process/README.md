@@ -1,4 +1,4 @@
-# I commit to publicly document an objective and equitable interview process
+# I commit to establish an objective and equitable interview process
 
 This page collects real-world examples of interview processes from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective interview processes!
 

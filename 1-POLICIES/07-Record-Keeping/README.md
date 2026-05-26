@@ -1,4 +1,4 @@
-# I commit to internally document the lab's expectations for record keeping
+# I commit to document expectations for record-keeping
 
 This page collects real-world examples of lab record-keeping policies from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own record-keeping expectations here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective record-keeping policies!
 

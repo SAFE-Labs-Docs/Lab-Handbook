@@ -1,4 +1,4 @@
-# I commit to publicly document how equal access to lab resources across lab members is maintained
+# I commit to document how equal access to lab resources across lab members is maintained
 
 This page collects real-world examples of resource access policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective resource access policies!
 

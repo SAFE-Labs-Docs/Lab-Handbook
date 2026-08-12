@@ -1,6 +1,6 @@
 # SAFE Labs Handbook
 
-For the most readable version of this handbook, visit the [SAFE Labs Website](https://safelabs.info/home/safe-labs-handbook/).<br/>
+For the most readable version of this handbook, visit the [SAFE Labs Website](https://safelabs.info/handbook/).<br/>
 
 ---
 

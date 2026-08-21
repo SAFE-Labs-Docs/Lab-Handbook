@@ -17,6 +17,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 ## Examples
 
 ### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: Authorships : The lab member(s) taking on the lead role in a project is expected to be first author on future publications related to that project (talk to me if you are unsure). I will typically be the last author, although specific cases can be discussed. Other lab members and collaborators helping during the course of the project will be added to the author list, and their placement will be discussed with all parties involved in the paper. As revisions can be intense at times and we are a small lab, we tend to involve all lab members in experiments to be performed during revisions. All roles will be defined and clearly stated in publications using the CRediT taxonomy (see : https://credit.niso.org/).
+>
+>Open science policies : Along with submission to a scientific journal, our manuscripts will be submitted to biorXiV, the open repository for manuscripts in the life sciences. We will always choose to publish open-access (i.e published papers are distributed online, free of access charges or other barriers), unless the costs for such become prohibitive, as unfortunately is already happening. If we do not publish open-access, we will find other ways to make our publications free of access charges.
+
 >_[GalupaLab_2025](https://www.galupalab.org/):_ Please find important information about publishing (including authorships, open science policies, choice of journals) in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing).
 
 ### Germany

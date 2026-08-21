@@ -14,6 +14,8 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 ## Examples
 
 ### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: Integrity is at the heart of our work, we expect honesty, transparency and accountability in all research practices and collaborations. All lab members must maintain mutual respect in all interactions. This includes open communication, engaging actively with presentations, fostering collaborations between lab members, respecting other’s viewpoints during discussions. Lab members should feel safe to express their ideas or concerns without fear of negative consequences. We recognize that scientific excellence thrives in a culture of trust and care. In the lab we are all equal regardless of our nationality, gender, race, religion, orientation, potential disabilities. We are all equals regardless of our status, and all lab members are expected to participate in common lab organization tasks.
+
 >_[CNIDevoLab_2025](https://cnidevolab.com/):_ As a research team, we are committed to maintaining a professional, inclusive, and supportive working environment where all members can succeed and contribute meaningfully to science.
 >All lab members are expected to act with integrity, accountability, and mutual respect in all scientific and interpersonal interactions, while upholding high standards of rigor, collaboration, and ethical conduct.
 >We foster a lab culture based on the following principles:

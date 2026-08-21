@@ -18,6 +18,11 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 
 ## Examples
 
+### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: These one-on-one meetings are organized in a proactive way : you will find open slots for one-on-one meetings every week on the lab common calendar that you can book. This allows for flexibility both in the frequency of meetings and time of the meeting in the week.
+>
+>I also encourage you to indicate your annual leave in the share calendar so that other lab members know about your holidays.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ We use Google calendars to organize scheduling of lab meetings, events, animal care, equipment use, vacation days, home office, and other. Mandatory entries include:
 >

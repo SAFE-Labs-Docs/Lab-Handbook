@@ -19,6 +19,11 @@ This consists of three required steps:
 
 ## Examples
 
+### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: I came accross the SAFE (Starting Aware Fair & Equitable Labs) labs initiative by visiting the lab website of Dr Raphaël Galupa, a starting group leader who implemented it in his lab and immediately knew I wanted to implement it in my own research group too. The goal of establishing a positive work culture, promoting wellbeing for all lab members, equity and fairness immediately fully aligned with my vision as a starting group leader.
+>
+>The SAFE principles are materializing as SAFE Labs Handbook which I support and seek to fully implement. Here I have adopted and adapted the Handbook to our group. Our SAFE guide includes all commitments that are meant to be publicly documented.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ Our lab is committed to foster a positive, inclusive lab culture. Torben contributed to SAFE Labs, an initiative to start Safe and Equitable Labs by commiting to 30 action items distilled into a Lab Handbook. We have implemented these guidelines in our lab. You can find the public part of the Lab Handbook [here](https://torbenottlab.org/safe-labs/).
 

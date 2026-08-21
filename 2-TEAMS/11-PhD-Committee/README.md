@@ -16,6 +16,9 @@ A PhD steering committee provides independent oversight of PhD student progress 
 
 ## Examples
 
+### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: PhD students also have annual meetings with their external advisory committee, as set in the CBS2 doctoral school rule.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_  Every PhD student is supervised by a PhD committee comprising the direct supervisor (usually myself) and at least two additional committee members. The PhD committee meets annually to provide feedback on the student's progress. Please find specific rules and regulations regarding composition, meeting frequency, and documentation requirements on the respective PhD program's website, for example, for the [BCCN Berlin's PhD program](https://www.bccn-berlin.de/doctoral-program-structure.html). 
 

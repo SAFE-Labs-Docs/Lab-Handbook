@@ -16,6 +16,9 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 
 ## Examples
 
+### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: General lab annual meetings : Although we have not done this yet, I recently encountered the idea of lab-wide meetings aimed at normalizing « failures » and this is something I aim to implement in the lab.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_  Science is hard; apparent failure is commonplace and everyone makes mistakes. Good failure (not caused by inappropriate behavior) is celebrated and rewarded as much as successes. Keep in mind that no one is perfect, we’re all human, and in case of mistakes or failures the most important part is being honest, taking accountability, learning from your behavior, and moving forward. We share good failures at our annual retreat. 
 

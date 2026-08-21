@@ -19,6 +19,8 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[OttLab_2025](https://torbenottlab.org/):_ Please find a list of past and current lab members here: https://torbenottlab.org/people/
 
 ### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: The list of lab members and alumni is available on our lab’s website :https://igh.cnrs.fr/research-teams/team-charlene-boumendil/, without contact information. For current lab members their email addresses are usually {fist-name}.{last-name}@igh.cnrs.fr . If you do not manage to find contact information for a lab member or alumni member, do not hesitate to get in touch with me.
+
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ The list of current and past lab members can be found [here](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel).
 
 >_[CNIDevoLab_2025](https://cnidevolab.com/):_ The list of current and past lab members is available [here](https://cnidevolab.com/people/). The PIs email addresses are available [here](https://cnidevolab.com/contact/), while all lab members can be contacted through the institutional address composed as follows: name.surname[@ ]obs.banyuls.fr

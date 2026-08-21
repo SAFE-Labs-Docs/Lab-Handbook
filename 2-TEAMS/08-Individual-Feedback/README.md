@@ -16,6 +16,9 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 ## Examples
 
+### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: Annual appraisal meetings : I am aiming to set annual meetings for every lab member. This has not been formalized yet in the lab but I am working towards implementing it. I aim to provide specific forms to prepare in advance by the labmember and the PI to prepare these meetings (construction of the forms currently ongoing, co-constructed with lab members). This will be the opportunity for two-way feedback on project advancement, experience of working in the lab, discussion of how to improve performance, support by the PI, supervision and/or any other relevant topic.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_  The PI and team members commit to providing open and fair feedback on each other’s performance at least once per year. Feedback is encouraged throughout the year and is never understood as personal criticism but as a constructive way to promote personal and scientific growth and foster a healthier work environment. 
 

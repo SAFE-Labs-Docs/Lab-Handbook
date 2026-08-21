@@ -19,6 +19,11 @@ A clear onboarding process should not only ensure that lab members complete esse
 
 ## Examples
 
+### France
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
+>
+>At the institute level, you will have a series of compulsory training on your first day (health and safety, informatics etc…). In the first week(s) every new lab member will have a one-on-one meeting with the PI where some or all of the following points are covered (depending on the role of the team member): (a) this handbook, (b) access to lab calendars and resources, (c) general expectations including work hours, presence, communication, (d) necessary courses and licenses, (e) next steps for practical training and project identification. A complementary presentation by the labmanager, explaining all the rules and practices of the lab will be given on the first day(s) in the lab. In addition, every new lab member will be paired with a « lab buddy » who will be there to help you integrate in the lab.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_  The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
 

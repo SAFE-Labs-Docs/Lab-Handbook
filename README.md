@@ -6,7 +6,7 @@ For the most readable version of this handbook, visit the [SAFE Labs Website](ht
 
 Creating a fair, transparent, and inclusive research environment is increasingly recognised as essential for academic success and well-being. Yet, many academic labs still struggle with unclear expectations, unequal experiences, and a lack of documented practices. In 2024, we launched the **SAFE Labs (Starting Aware, Fair, and Equitable)** initiative to address these persistent gaps—starting where change is most feasible: within individual labs (https://safelabs.info/).
 
-The **SAFE Labs Handbook** is a practical tool co-authored by 13 new group leaders from across Europe. It contains **32 concrete, verifiable commitments** that support better lab culture—grouped into three categories: **Policies, Teams, and Careers**. Every commitment is designed to be implemented **without requiring institutional support**, making them immediately actionable for any lab leader.
+The **SAFE Labs Handbook** is a practical tool co-authored by 13 new group leaders from across Europe. It contains **33 concrete, verifiable commitments** that support better lab culture—grouped into three categories: **Policies, Teams, and Careers**. Every commitment is designed to be implemented **without requiring institutional support**, making them immediately actionable for any lab leader.
 
 We focus on two major barriers that the handbook directly addresses:
 

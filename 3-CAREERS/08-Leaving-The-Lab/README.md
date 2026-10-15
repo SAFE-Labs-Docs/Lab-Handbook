@@ -27,6 +27,10 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >I review the Slack channels each year to remove users who are no longer with the lab. Honours students and RAs will typically be converted to a guest account for one year after they leave the lab and are deactivated two years later. Any trainee who wishes to stay on as a guest for longer is more than welcome, just let me know.
 
+>_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
+>
+>As a research supervisor, I am therefore generally only interested in engaging and investing in research that is publishable in the international peer-reviewed scientific literature. An exception is research that forms a pilot- or exploratory study. Accordingly, I ask students to commit to seeing publications through to completion, whether the students intend to pursue research careers or not. This commitment usually requires time after graduation, for which I will make every effort to compensate you.
+
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/04-policies.md)_:
 >
 >Another difficult situation commonly encountered by students is how to manage the publishing process after you have completed your degree and have moved onto new jobs or opportunities outside the academic environment. Most importantly, every opportunity will be given to lead graduate students to get first author publications resulting from their thesis work. The following guidelines are to help move this process forward and outlines contingency plans in the event this process does not become feasible:

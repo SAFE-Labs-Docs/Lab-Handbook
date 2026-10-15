@@ -20,6 +20,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >As a guideline of what is expected, masters students should publish 1-2 conference papers (or perhaps 1 conference, 2 workshops papers) during their two years in the group; phd students should aim for 3 conference (with at least one of these expanding to a journal) and perhaps some workshop papers earlier in their career); postdoc should be participating on several papers a year (and leading at least 1-2 papers).
 
+>_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
+>
+>I expect MSc students to lead-author at least one significant manuscript from their thesis work, though students have sometimes produced two or more. The primary manuscript should be submitted to a peer-reviewed scientific journal prior to the thesis defense. PhD students should lead-author at least three significant manuscripts from their thesis work. At least two should be accepted or published before the thesis defense, with a third submitted or close to submission. Submitting a paper is a big achievement worthy of celebration. Students will receive a $1000 bonus for each independent manuscript submitted to an international peer-reviewed scientific journal. I commit to paying page charges/article processing charges (APCs) (often $2500-$4000 per published paper) for our work done together at SFU, even if it is published after the lead author has moved on.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

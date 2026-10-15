@@ -134,3 +134,7 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 > calendar to keep track of known absences (e.g. illness, travel,
 > holidays, etc.). All
 > full-time lab members should request write access.
+
+>_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Expectations.html)_:
+>
+>You must enter days you are planning to be absent in the calendar for the lab/group that you belong to (e.g., the NVSL or the GreenDroid group).

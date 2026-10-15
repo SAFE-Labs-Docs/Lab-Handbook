@@ -350,6 +350,20 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >We typically use lab meetings to get feedback on new research ideas or a manuscript in progress, practice for an upcoming talk, or discuss a paper. Grad students, postdocs, and thesis students are required to present in lab meetings regularly. RAs are not required to do so, but they can give a project idea or a good suggestion for a discussion topic.
 
+>_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/expectations-gradStudent.html)_:
+>
+>One-on-one meetings are 45-min, weekly meetings between each trainee and me.
+>You can also schedule one-off one-on-one meetings with me.
+>When scheduling your one-on-one and other meetings, send all of your available times (between 9am and 5pm), not just your preferred times!
+>You may indicate which of your available times are preferred or less preferred.
+>One-on-one meetings are designed for us to discuss any training and research-related issues in detail and to form plans for the near future, in addition to any challenges.
+>Make sure that you also use this time to communicate new ideas that you have about your work and challenges that you are facing.
+>Remember: I cannot address or advise about issues that you do not bring to my attention.
+>I expect trainees to attend all their one-on-one meetings.
+>I understand that sometimes there is nothing to report, so occasional cancellation is fine.
+>That said, note that even if you have nothing to report, sometimes having the meeting can still be advantageous and it may be worth our time to still check in.
+>Do not cancel meetings with me if you feel that you have not made adequate progress on your research; these might be the most critical times to meet with a mentor.
+
 >_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
 >
 >I meet with postdocs and graduate students individually once every two weeks

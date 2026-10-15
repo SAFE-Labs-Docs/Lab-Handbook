@@ -47,6 +47,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
 >It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.
 
+>_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
+>
+>As a student or postdoc, you can generally expect to be supported to attend conferences when you have something new and substantial to present. Exceptions include the occasional local/regional meeting and the Annual Meeting of the Northwest Glaciologists (one Friday and Saturday every October), where all students are expected to attend every year the meeting is within driving distance, and give talks after their first year. MSc students making steady research progress should generally attend one important conference in their final year (e.g. AGU Fall Meeting). PhD students should generally attend one important conference per year (e.g. AGU, EGU, an IGS symposium) once substantial research progress has been made.
+
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/07-funding-sources.md)_:
 >
 >The availability of lab funding will change year-to-year, although I value conference experience for graduate students and will try to fund at least one conference per year for graduate trainees (e.g., at minimum OEP or CSEP)
@@ -235,6 +239,14 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >I will support you to attend one conference per year assuming you have a poster to present
+
+>_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Misc.html)_:
+>
+>Typically, if you are paper author I'll send you to the conference if it's in the US. If you are presenting the paper (usually the first author), you will go regardless of where it is. Subject to the availability of funding and university policy, I'll cover your flight, your hotel during the conference, conference registration, ground transportation, and food. In making your travel arrangements I expect you to book travel frugally and as if you are spending your own money (The one exception to this is that you should stay in the conference hotel, even though it's usually expensive). For instance, you should
+>- Make travel arrangements well in advance.
+>- Share a hotel room with another student of the same gender, when possible.
+>- Share cabs, etc. when possible.
+>- Plan to spend less than $900 total for a domestic conference. If it is going to cost more than this, let me know.
 
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >

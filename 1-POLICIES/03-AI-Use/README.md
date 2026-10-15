@@ -63,6 +63,29 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >In general, I prefer that you develop initial versions of all study documents and obtain input from the study team, and then am comfortable with you using generative AI to refine protocol documents, interview guides, participant or eligibility surveys, recruitment materials, clean deidentified transcripts, or consent language for the IRB. I fully expect that you do your due diligence and take the time to carefully review any content generated from AI, and then edit it to accurately reflect the work we do. You should never put any identifiable information into generative AI.
 >When it comes to scholarly products and dissemination of our research (e.g., manuscripts, presentations), I am more cautious about if and how AI can be used due to difficulties maintaining research integrity and recognizing infringements on others’ intellectual property. We do not want to inadvertently propagate misinformation, or worse – engage in any research misconduct. Do not use AI in the preparation of scholarly products for dissemination (e.g., editing text for grammatical correctness or clarity) without discussing it with me first. Be aware that publications, medical organizations, and conference organizers have different norms and policies on if/how AI can be used to prepare scholarly contributions. Unacknowledged or inappropriate use of AI in manuscripts, grant applications, or presentations is considered plagiarism/ misconduct.
 
+>_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/ai-policy.html)_:
+>
+>All AI use must be disclosed if used for research/external products (i.e., anything that will be used or viewed outside the lab).
+>Research products (i.e., posters, manuscripts) should include a statement describing the use of AI using the categories below:
+>
+>- **Topic Selection**: using text generators like ChatGPT to help brainstorm potential research topics to study
+>- **Brainstorming**: using mind-mapping tools to help connect disparate ideas or suggest related concepts
+>- **Literature Search**: using ChatGPT plug-ins like Scholar AI or websites like Perplexity AI to assist you in conducting scholarly reviews of the literature (always ensure sources are valid and read any articles you cite; these tools sometimes create false citations)
+>- **Outlining**: using a text generator to help organize thoughts, main arguments, and supporting evidence into a coherent outline
+>- **Feedback on writing**: using a text generator to analyze the draft for grammar checking, clarity, coherence, and consistency, or to help polish or refine language, syntax, tone, and overall style
+>- **Programming**: using AI tools to help write code or syntax
+>- **Analysis**: using AI tools to help with data analysis (besides mere programming)
+>
+>Here is an example attestation for a research product that used AI:
+>
+>"*I have reviewed the lab's AI policy and attest that I fully report (below) the ways I used AI: Literature Search, Programming, and Analysis.*
+>*I attest that I am responsible for the content of this project.*"
+>
+>Here is an example attestation that did not use AI:
+>
+>"*I have reviewed the lab's AI policy and attest that I did not use AI for creating this project.*
+>*I attest that I am responsible for the content of this project.*"
+
 >_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
 >
 >The advances in generative AI transformer-based large-language models (LLM), agentic AI, and related tools such as ChatGPT, Claude, Gemini, CoPilot, and so on, plus derivative tools like Grammarly, Codex, or translation engines, are evolving rapidly and require paying careful attention to their limitations, ethics, and resources required or cost. In their current form, these tools are great for idea generation, automating routine workflows, debugging or generating code, developing figures or interactive web apps, overcoming writer’s block or other academic struggles, improving your English (or other language), interpreting an email, or helping summarize or improve text. However, you need to understand the science, code, and text generated, potential security risks, and be able to explain the theory and understand where AI use is allowed or prohibited. The risks of hallucinations (made up answers), false citations, overly confident sounding yet incomplete answers, and incorrect or incomplete math or code means they are require thoughtful use for scholarly output including approaches to verify output. If you are unsure of whether an AI tool is appropriate in a specific context, ask me first. You may be violating intellectual property agreements if you feed into it academic work (e.g., a manuscript you are reviewing), and many journals and funding agencies prohibit its use in that way or require disclosure when used for parts of manuscripts. The university licenses AI tools that may be more appropriate, secure, and cheaper than commercial ones, so check those out first.

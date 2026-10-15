@@ -108,3 +108,11 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
 >
 >As a general policy, assignment of desk space is based on seniority. As space opens up, I reach out to those who have been here the longest to offer them the option to move their space. Other lab spaces are shared, and I ask that you not store personal belongings (bikes, equipment, plants, etc) in the lab, unless you can place them at your desk.
+
+>_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Misc.html)_:
+>
+>Here's laptop policy for my students:
+>- After I've been your primary graduate advisor for two years (and we expect that state of affairs to continue), you can ask for a laptop as soon as you'd like one. If you have a workable laptop of your own, it's probably a good idea to wait (see #2).
+>- I'll pay for one laptop during your grad school career.
+>- If you've received and still have the use of another university laptop in the last 3 years, you'll need to wait until the laptop is at least 3 years old.
+>- Once you have a laptop, it should become your primary computer for school work. This means that unless you have a specific need for a desktop machine, your desktop machine may get repurposed (just the CPU, not the monitor and keyboard etc).

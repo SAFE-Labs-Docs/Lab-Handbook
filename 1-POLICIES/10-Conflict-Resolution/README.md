@@ -126,6 +126,10 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >- If you observe a conflict between two other lab members, encourage one of them to speak with the other directly. If that isn’t possible, direct them to the senior postdoc, a PI, or another appropriate person.
 >- A mediator can be brought in at any point if it would help.
 
+>_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
+>
+>We will all try to communicate issues promptly with respect and professionalism. Then listen actively. If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps o Observations (I see…) o Feelings (I feel…) o Needs (I need…) o Requests (Would you be willing to …) Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions If a problem persists, we will consider inviting a mediator
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Ensuring MsEE Lab is a welcoming, constructive working environment is part of the responsibilities of the principal investigator, and a crucial one at that. Pablo has completed conflict resolution training from the [Community Dispute Settlement Center](https://communitydispute.org/) in Cambridge, MA as a confidential conflict coach with the [MIT BE REFS](https://berefs.com/), where he gathered experience with interpersonal conflicts both between lab members and involving advisors. For these reasons, lab members are encouraged to bring issues in lab dynamics to him. However, he recognizes that power imbalances and his role as head of MsEE Lab may make this difficult. For this reason, consider these options:
@@ -141,6 +145,10 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >    - A volunteer group member each quarter who observes and promotes healthy lab dynamics
 >    - An unofficial contact for concerns within the research group
 >    - Will schedule meetings with Malin as needed for issues and updates
+
+>_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Expectations.html)_:
+>
+>If you ever feel that a member of the group (including myself) is not meeting the expectations in this document please let me know. This is especially important if you feel unwelcome in the group, are otherwise unable to perform to best of your ability, or suspect potential academic dishonesty. All the members of the lab are committed to fixing problems that arise.
 
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >

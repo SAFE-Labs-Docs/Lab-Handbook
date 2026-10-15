@@ -50,6 +50,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
 >How much detail is required in this record? There’s no perfect answer to that question, but the document should be clear enough and detailed enough so that if we revisit the project several years later, we should be able to ﬁnd where the manuscript is, where any relevant code is, and where the data is stored.
 
+>_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
+>
+>At the end of your program, you will be asked to organize, document and post all files relevant to your work on the NAS with a copy delivered to me. All data and research output will be considered our collective property, unless otherwise stated (see INTELLECTUAL PROPERTY). Field books and notes are considered property of the project, not personal.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

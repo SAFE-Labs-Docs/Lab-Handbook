@@ -151,6 +151,20 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- **Project Ownership:** Every PhD student and postdoc has their own project. First projects for each trainee are initially proposed by me and then designed and implemented with my input. Postdocs may propose their own first project if they choose. Second projects are then proposed by the trainee. You are the driving force behind your project, taking ownership of it and all related elements. Plan ahead and be proactive.
 >- **Project Assistance:** Technicians and undergraduate students will help with one or more ongoing projects in the lab. Technicians can expect to contribute as a co-author on at least one paper. Technicians are expected to help manage the lab as well. Undergraduate students will be considered for co-authorship if their contribution meets our guidelines discussed below.
 
+>_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/lab-manual.html)_:
+>
+>Below are the eligibility criteria for advancement in lab:
+>
+>- Has been an active and engaged RA for at least 4 full semesters
+>- Has shown a personal interest in the research being conducted in lab/research in general
+>- Meaningful and engaging research and leadership opportunities can be helpful in building a CV and research background, but it also can involve considerable work and responsibility.
+>Therefore, prospective Advanced RAs should be **self-motivated** and have consistently shown that they are **reliable** and **capable of additional responsibility**.
+>
+>## I meet the criteria, what should I do next?
+>
+>After you have met all the criteria and feel that you are ready to pursue this opportunity, <u>it is your responsibility to set up a meeting with the Lab Coordinator and Dr. Petersen</u>, and to determine what types of responsibilities and projects you would like to lead.
+>You should be prepared to come to this meeting with a thought-out idea of what projects and roles you are interested in given these new responsibilities and privileges.
+
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/LabManagerResponsibilities.md)_:
 >
 >## 1. Lab Management (40% effort)

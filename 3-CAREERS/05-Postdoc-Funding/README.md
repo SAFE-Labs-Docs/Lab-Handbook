@@ -82,7 +82,7 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >All positions are fully funded.
 
->_[BerkeleyAgroecologyLab_2026](https://docs.google.com/document/d/1-zcsh3758BUU-nmSeCj-JYO0pgFMZx8Q50JwOascUiw)_:
+>_[BerkeleyAgroecologyLab_2026](https://ourenvironment.berkeley.edu/people/timothy-bowles)_:
 >
 >Postdocs typically come into my lab funded on grants from federal or state agencies. This does dictate what must be done in the immediate future to satisfy granting requirements; however, I expect after year one that postdocs will take on the responsibility of writing annual grant reports, or helping to do so, depending on the project.
 >

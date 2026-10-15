@@ -127,7 +127,7 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >I expect technicians to be our lab for 2 years, PhD students 4-5 years, and postdocs 4-6 years. Students and postdocs should at a minimum submit their first author paper and post it to bioRxiv before leaving the lab. If you can complete your publication in less than 4 years, you’re welcome to leave the lab then if you wish. All lab members will remain funded beyond these time ranges, provided they are still maintaining adequate progress. Establish your goals during the annual IDP meeting and keep track of your progress. I will provide feedback on your progress as needed. I expect you to keep on top of deadlines for your graduate program, conferences, fellowships, and trainings.
 
->_[BerkeleyAgroecologyLab_2026](https://docs.google.com/document/d/1-zcsh3758BUU-nmSeCj-JYO0pgFMZx8Q50JwOascUiw)_:
+>_[BerkeleyAgroecologyLab_2026](https://ourenvironment.berkeley.edu/people/timothy-bowles)_:
 >
 >For postdocs, I expect that during the first year you will have 0-2 first-authored publication from work in my lab – although those postdocs coming onto ongoing projects have the potential to be a co-author on that ongoing research where the lead author is the lab PI or other current or previous postdocs. If there is already data collected for your project, then I expect two publications to be submitted during the first year. I expect in the second year postdocs should have two first-authored publications from work in my lab, and if collaborative teams have been set up to be a co-author on other publications, even more. In the 3rd – 5th year, a postdoc should have an established lab inside the lab, and I would expect 2-3 first-authored publications per year.
 

@@ -117,6 +117,15 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 > services to address domestic and sexual violence and stalking
 > (866-348-9473)
 
+>_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
+>
+>When we are in conflict, we follow the following, we follow this protocol:
+>- Go directly to the person you have a conflict with whenever that is possible.
+>- If that isn’t possible, the senior postdoc is the point person (including via the anonymous feedback form).
+>- If the conflict involves the senior postdoc, or you are not comfortable going to the senior postdoc, go to your respective PI; if that isn’t possible, go to another PI in the lab.
+>- If you observe a conflict between two other lab members, encourage one of them to speak with the other directly. If that isn’t possible, direct them to the senior postdoc, a PI, or another appropriate person.
+>- A mediator can be brought in at any point if it would help.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Ensuring MsEE Lab is a welcoming, constructive working environment is part of the responsibilities of the principal investigator, and a crucial one at that. Pablo has completed conflict resolution training from the [Community Dispute Settlement Center](https://communitydispute.org/) in Cambridge, MA as a confidential conflict coach with the [MIT BE REFS](https://berefs.com/), where he gathered experience with interpersonal conflicts both between lab members and involving advisors. For these reasons, lab members are encouraged to bring issues in lab dynamics to him. However, he recognizes that power imbalances and his role as head of MsEE Lab may make this difficult. For this reason, consider these options:
@@ -126,6 +135,17 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >3. If external involvement would be beneficial, consider consulting with external mentors. If you are a graduate student, options include discussion with members of your Thesis Committee or the Director of Graduate Studies for your Field. Regardless of whether or not you are a student, other options include contacting leadership within the School of Chemical and Biomolecular Engineering or other units at Cornell, if relevant. If not, contact our dedicated external advisor.  
 >4. If none of the above steps are appropriate, other external resources include the list of confidential resources at Cornell or raising the issue with resources for workplace misconduct. Both are outlined below.
 
+>_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
+>
+>Lab listener
+>    - A volunteer group member each quarter who observes and promotes healthy lab dynamics
+>    - An unofficial contact for concerns within the research group
+>    - Will schedule meetings with Malin as needed for issues and updates
+
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >
 >Interpersonal conflicts between group members are best brought to my attention by all parties involved by asking for a meeting via email (for the record) that I can mediate. Such conflicts can take many guises, ranging from authorship, scheduling lab time or instruments, to problems of group members collaborating on a project or in a mentoring relationship. It is important for the parties involved to have a conversation first before escalating to the PI or department. If the conflict is with me (as PI), the Graduate Diversity & Program Climate Director and / or Department Head should be consulted, or the student affairs dean at the Graduate College if the group member prefers a more atarms-length confidant. One area of special concern involves authorship on manuscripts. I am always happy to discuss this with you. As the editor of an ACS journal that has received tens of thousands of submissions, I have been involved in many such disputes and am happy to work with group members towards an authorship solution.
+
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>In case of interpersonal conflict within the group, you are expected to: ➢ First try to resolve the issue between yourselves. Be direct: what did the person do that harmed you, and how would you like them to act in the future? In general we assume that everyone’s intentions are good but that we all make mistakes. ➢ If the first point does not resolve your problem, you are expected to talk to a colleague you are comfortable with who can act as a mediator. ➢ If student to student, student to mediator does not resolve the conflict, you are expected to talk to Josh. If you are not comfortable talking to Josh (or have a problem with Josh), Tepora Su’a has agreed to be a neutral third party.

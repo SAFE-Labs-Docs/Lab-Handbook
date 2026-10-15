@@ -100,6 +100,18 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 >
 >Sign up for lab meetings and look out for birthdays and lab events on the _labwide_ calendar. Sign up for 1-on-1s on the _Emily_ calendar. Add seminars, symposia, and conferences that others in lab might want to attend on the _talks_ calendar. Sign up to use shared equipment or rooms on the _rooms and equipment_ calendar. Add any weekday you are out of lab for the full day to the _out of office_ calendar.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>The lab has many Google calendars.
+>
+>- Aly Lab calendar: used to keep track of lab events, including birthdays!
+>
+>- Alyssano Lab Meeting calendar: used to keep track of lab meetings with the Baldassano lab.
+>
+>- Aly Lab – Travel Schedules calendar: used to indicate travel dates (e.g., “Mariam away” for August 1-7), so that other people know when you aren’t available. You are not obligated to put down your travel dates, but they are useful for planning purposes (e.g., Mariam will know not to bother with lab meeting if no one is around; or if she is writing a grant, it helps to know if you won’t be available to provide data). Putting your travel dates down also ensures that Mariam won’t bother you with emails or Slack messages during your time away!
+>
+>- Aly Lab Running Rooms calendar: used to reserve time in the experiment running rooms
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >Google Calendar:

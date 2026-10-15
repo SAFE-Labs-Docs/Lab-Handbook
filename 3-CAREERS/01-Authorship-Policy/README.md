@@ -109,6 +109,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Authorship is based on meaningful intellectual contribution. We will discuss expectations early (during our one-on-one meetings and/or project-specific meetings), revisit as needed as contributions evolve, and prioritize transparency on how authorship order is selected. I expect that all authors will meet the ICJME criteria for authorship. In the event that you have contributed to a project but do not meet authorship criteria, an acknowledgement in a manuscript or presentation would be appropriate to expect.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>At the start of a new project, the student or post-doc taking on the lead role can expect to be first author and corresponding author (talk to Mariam about it if you aren’t sure). Mariam will typically be the last author, unless the project is primarily under the guidance of another PI and Mariam is involved as a secondary PI – then Mariam will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it off to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first-authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >The "Passing the Baton" scenario: Imagine Student A starts a project, works on it for two years, and then graduates. Student B picks it up and needs three more years to complete the work. It's like a research relay race where both students have run their laps, and the project crosses the finish line thanks to their combined efforts. In this case, it's crucial to acknowledge and fairly attribute authorship to both students. However, when a student leaves the lab and doesn't continue working on the project, they naturally relinquish control over its direction. This is perfectly fine and sometimes passing the baton is the best career option for all involved.
@@ -160,6 +164,12 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >2) substantially contributed to many figures or panels while working with someone else (typically the first author), OR
 >3) taken charge of revisions for a paper begun by a first author who is unwilling or unable to complete them. a. Depending on the nature and extent of the revisions, this may also be a case that warrants co-first authorship, or assumption of first author position.
 
+>_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
+>
+>• The PI will make every effort to clarify co–first contributions in reference letters, emphasizing that co–first authors are full first authors and highlighting the lab member’s leadership and hard work in collaborative projects.
+>• A scientist who has performed a substantial amount of work toward a project—even if the specific data do not appear in the final version of the paper—should be included as an author. Effort matters as much as outcome.
+>• Giving credit is essential to maintaining a collaborative and productive environment. Lab members are expected to acknowledge meaningful contributions from others in the lab.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >Generally, the student or postdoc who made the largest contribution to a piece of work will be the first author. Multiple students and postdocs can be co-first authors, though there is usually still a “first cofirst” author. If most of the supervision and responsibility for the project rests with me, I will be the last author and corresponding author. (Any questions about the paper should be directed to me, since such questions may arrive long after you have left.) Other authors on the paper should have made a substantial contribution to the work, such as fabricating the device, or performing a theoretical calculation. If a group member’s only contribution was fabricating the device that was used for an experiment, that group member will be an author on the first paper using the device. Subsequent experiments papers do not need to include that person as an author but can include them in the acknowledgments.
@@ -167,6 +177,26 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >In our lab, every member should be able to contribute to each other's projects without the expectation of a personal reward (see the lab motto at the top of this page). This is the basis of being good lab citizens and colleagues - helping with set up of an experiment, like starting cultures, or with taking out plates from incubators, does not constitutes a significant intellectual contribution to warrant an authorship on a paper. However, performing an actual experiment, interpreting results and providing useful troubleshooting or novel ideas in the context of the project, or analyzing data and putting together figures, things that either allow the project to be published or provide a significant intellectual contribution that allows the project to move forward, all of that deserves an authorship.
+
+>_[VanderHeidenLab_2026](https://vanderheidenlab.mit.edu/our-values/)_:
+>
+>We aim for all intellectual and experimental effort to be fairly reflected in manuscript authorship. This is typically done through informal conversations between the project’s primary contributor(s), collaborating lab members, and Matt. Ultimately, the first author(s) and Matt make decisions surrounding authorship. Importantly, an individual’s position in the lab does not affect one’s ability to be an author, and everyone who makes a meaningful contribution is included as author. We also extend authorship to personnel in core facilities who make significant intellectual contributions.
+
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Before starting a collaborative scientific project, it is recommended to have a conversation with Josh to decide authorship and acknowledgements to avoid future conflicts. ❖ All of the projects in our lab involve multiple people, which means all papers have multiple authors. Sometimes on a particular paper, the 2nd/3rd authors may have done a significant amount of work, so there is a potential for conflict in the authorship order. Josh’s goal is for this to integrate to fairness over the entire Ph.D., and he will discuss the decision process openly with all students.
+
+>_[ZETAResearchGroup_2026](https://github.com/pzivich/LabGroupMaterials/blob/main/authorship.md)_:
+>
+>The role of second author tends to be more variable across fields and groups. Within my group, the second author is
+>expected to play a more substantial role in ensuring reproducibility of the scientific results than most other
+>research groups. In particular, these are recommended expectations for the second author:
+>- Contribute to the analysis. This role can involve double-coding (recommended), developing code in a secondary
+>programming language, code review, or algorithm review.
+>- Preliminary review of the manuscript before other authors.
+>- Close communication with the first author in revisions based on co-author feedback or responding to peer-reviewers.
+>- Double check article proofs after the first author for errors.
+>- Meet on a regular basis with the first author.
 
 ### Australia
 >_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_:
@@ -223,3 +253,13 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >• You scored a test or created a data set.
 >• You helped to proofread or edit.
 >In these cases, you will be acknowledged by name in the paper.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/05-publishing-policy.md)_:
+>
+>* All authors must meet 3 criteria:
+>    1. Substantial contributions to one of:
+>        * Study conception/design: This includes authors who are no longer in the lab, but came up with the core idea
+>        * Acquisition of data: Individuals must be integral to the acquisition (e.g., would the study have been completed without you?). This includes collaborators who recruited, scheduled, or managed participants on a day-to-day basis. For example, entering LabChart comments does not qualify authorship, but taking care of the testing environment while a senior trainee operates the ultrasound does.
+>        * Analysis/Interpretation of data: By default, I expect the primary trainee to be the point-person, delegating analysis tasks to those best suited to the task. As this may largely be beyond the view of the PI, this fluid environment should be noted and identified in regular meetings for early transparency.
+>    2. Drafting/Reviewing the paper for important intellectual content: I expect all identified contributing authors from (1) to engage in the review process. This can be daunting for junior trainees out-of-field, but I encourage you to put in the effort to contribute in depth to a discussion point, and particularly the story-crafting element of the written work.
+>    3. Final approval of the version to be published: All authors should be aware when and where the final paper will be submitted. No surprises!

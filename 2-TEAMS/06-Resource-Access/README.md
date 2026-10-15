@@ -74,3 +74,33 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >- All tools, equipment, consumables, and lab spaces are shared, except for desks. Sign up for shared rooms and equipment in timely manner on the “rooms and equipment” calendar. Reset the space when you’re done or label as a work in progress.
 >- We collectively keep the inventory up-to-date to prevent duplicates. Order replacement inventory at least before we reach 2 week’s supply, to allow for shipping time.
 >- We have an annual lab clean-up in December that everyone is expected to participate in. We use this time to reorganize shared inventory, toss or rehome items no longer in use, and agree on where things should live.
+
+>_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
+>
+>a. If someone in the Kawahara Lab does not have a private office, then they are entitled to have a clean and distraction-free work area in at least one of the following shared spaces.
+>
+>1. Graduate student cubicles
+>
+>2. 2nd-floor mailroom
+>
+>3. Molecular lab
+>
+>4. Wing voucher room
+>
+>5. Rearing room
+>
+>6. Main floor collections (e.g., next to digitization equipment)
+>
+>b. People should only store personal items in their personal work space or in a designated locker (located next to the graduate student cubicles). Be mindful of the limited spaces available in the lab for storage.
+>
+>1. Personal items that could be disrespectful to others should not be brought into shared spaces
+>
+>2. Be cognizant that some of these spaces are shared with people outside of the Kawahara Lab; please be respectful of other museum staff and students.
+>
+>c. Everyone is expected to remove/clean their workspace before graduating/leaving the Kawahara Lab.
+>
+>d. Everyone in the Kawahara Lab is entitled to have a virtual workspace in the Kawahara group on the HiPerGator cluster. They are expected to clean/organize their files before graduating/leaving the Kawahara Lab and delete any unneeded files. The Kawahara Lab has limited computing resources and all users should be mindful of not wasting those resources.
+
+>_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
+>
+>As a general policy, assignment of desk space is based on seniority. As space opens up, I reach out to those who have been here the longest to offer them the option to move their space. Other lab spaces are shared, and I ask that you not store personal belongings (bikes, equipment, plants, etc) in the lab, unless you can place them at your desk.

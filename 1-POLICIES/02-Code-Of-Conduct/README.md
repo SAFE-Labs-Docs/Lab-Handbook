@@ -118,6 +118,12 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- We value failure as part of learning. I invite everyone to take risks and will commend you even if it fails. We value the process over the product and resilience over results.
 >- We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>We respect the privacy and comfort of lab members by only taking photos or video recordings of them with their explicit knowledge and consent. This is especially important in situations where a lab member would otherwise not be aware of you taking a photo and therefore cannot object if they do not want you to – e.g., if they are wearing a VR headset or are being scanned. To avoid ambiguity about when a lab member is or is not aware of photos being taken, we ask that everyone obtain consent from lab members before taking photos or videos, and obtain consent again before posting any images on social media. This is done to respect others’ privacy and acknowledge that people have varying degrees of comfort related to being photographed and having photographs shared on social media.
+>
+>The goal of this is to foster an environment where everyone feels safe to be who they are, take risks, and have fun, without worry or self-consciousness. If someone wants to be photographed doing something fun or silly in lab events, and consents to be photographed, by all means go ahead! Just please respect the privacy of those who do not want that.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >Your rights as a lab member
@@ -166,3 +172,47 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- You agree to maintain a clean workspace free from clutter,
 > including both personal spaces (e.g. desks) and shared
 > areas (couch, sink, testing rooms, etc.).
+
+>_[McMahonLab_2026](https://mcmahonlab.wisc.edu/lab-mission/)_:
+>
+>Be engaged and contribute to the broader mission of the lab. This includes paying attention, asking questions, and providing feedback during lab meetings; reading other lab members’ writing; assisting with big field/lab projects that require many hands; sharing (meta)data; and sharing expertise.
+>- Prioritize healthy work habits and pursuits outside of your professional life. This includes setting boundaries, taking time off when you need it, developing strategies to avoid burnout, and maintaining connections with your family / community.
+>- Be respectful, welcoming, and mindful of our individualities. This includes personal identities, lived experiences, scientific interests, training backgrounds, and outside interests. We will strive to draw upon our diversity to build our community and improve our science.
+>- Be accountable to others in the group, to yourself, and to your professional network. This includes learning how to manage your time in order to meet deadlines, doing what you say you will do, maintaining organized / reproducible documentation of your work.
+>- Create, practice, and refine science communication products (papers, presentations, outreach materials) in a space that allows for imperfection and growth.
+>- Continue to grow, learn, work hard, and be curious. This includes learning how to be an effective scientist/engineer, about each others’ projects, about your discipline(s) and its norms, and about each other.
+>- Respect the fact that the lab is financed almost exclusively by taxpayer dollars. Spend funds wisely and in a way that would not embarrass Trina if she gets called to testify in front of the US Congress.
+
+>_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
+>
+>The following core values and principles underlie the expectations and culture of our group.
+>
+>• Honesty & integrity.  We strive to be above reproach in all we do. This includes never misrepresenting results, always giving credit to others when it is due, and avoiding posturing (e.g., admitting we don’t know something rather than making something up).
+>
+>• Supportiveness.  We seek to help others succeed. I want to be abundantly clear: you are not competing with the other group members. This frees us to generously share our ideas and expertise to benefit others’ work.
+>
+>• Respect.  We treat everyone with respect. It is crucial that the work environment be safe and free from harassment and discrimination.
+>
+>• Constructive criticism.  The principle of respect does not preclude delivering appropriate scientific criticism.  Indeed, critical analysis is a necessary part of the scientific process. For the one giving criticism, the key is to make it constructive and to target ideas, never the person behind them. For the one receiving criticism, it is important to remember that you are not your work, and vice versa – a criticism of your idea does not constitute a criticism of you as a person.
+>
+>• Rigor.  We strive to make our science as rigorous as possible. This includes backing up our ideas with careful mathematical analysis whenever possible and avoiding logical jumps or inconsistencies.
+>
+>• Clarity.  Our goal when communicating ideas and results (i.e., through papers, presentations, group and one-on-one discussions) is NOT to look smart, but rather to communicate as clearly as possible.
+>
+>• Balance.  There is more to life than work. Although Ph.D. studies are demanding, I hope that you will maintain and nurture other outside interests and relationships.
+
+### Canada
+>_[McKinneyLab_2026](https://mckinneylab.weebly.com/lab-code-of-conduct.html)_:
+>
+>Respect everybody’s time. Be punctual and show up prepared for lab work/office work/meetings
+>- Ensure you keep both your workspace and communal spaces (lab, offices) clean and organized
+>- Keep the environment positive as much as possible
+>- Accept responsibility for mistakes that arise and take action to correct them
+>- Ask for permission before sharing any words, thoughts, or resources that other lab members have shared or provided through email, slack, conferences, etc.
+>- Be mindful of personal boundaries of others
+>- Make sure to coordinate schedules and shared bench space with other lab members before starting work in the lab
+>- As email or text-based communication can be misinterpreted (due to the lack of facial expression, or voice intonation), please ensure that communications are clearly kind and respectful.
+>- Respond to professional emails within a reasonable time frame (usually <24 hours) and copy Melissa on all project-related emails
+>- Have reasonable expectations regarding the completion of a task (lab, data analysis or written work) and establish realistic deadlines together
+>- Keep the group updated on your progress and the projects that you’re working on
+>- Ensure all data generated (lab notebooks, data files, r-code, manuscripts) are neat (legible for lab notebooks), organized, and properly backed up

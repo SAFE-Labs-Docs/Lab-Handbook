@@ -99,3 +99,10 @@ Contact details can be found in our extended version of the Lab Handbook.
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Students who feel they have experienced or witnessed bias, discrimination, bullying, hazing, harassment, or sexual misconduct by another student may make a formal report to Cornell through a variety of mechanisms outlined on [the Student and Campus Life Website](https://scl.cornell.edu/sub/about-scl/report-incident-or-concern), which links to the [Cornell Office of Civil Rights/Title IX and Sexual Misconduct](https://titleix.cornell.edu/). The latter website also has [links to resources for filing reports with both Cornell and law enforcement](https://titleix.cornell.edu/file-a-report/) for all members of the Cornell community. This process may also be initiated through Pablo as the group leader.
+
+>_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
+>
+>To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://titleix.ucsc.edu/reporting/index.html)
+>    - If you aren't comfortable speaking to Malin:
+>      - contact the Lab Listener
+>      - contact the graduate program coordinator: Judy Straub (UCSC) or Shaneika Nelson (Rutgers)

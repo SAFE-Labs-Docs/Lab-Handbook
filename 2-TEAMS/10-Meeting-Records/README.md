@@ -63,6 +63,17 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.
 >    * By 5pm the night before a feedback session, we ask that you write a brief note describing what you think is going well, how you think you can improve, any questions you have, and any suggestions you have for us. After the session, you will write up some brief notes summarizing the conversation.
 
+>_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
+>
+>**1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member to follow up on any items and prepare for the next meeting.
+
+>_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
+>
+>I ask that my mentees meet with me regularly during the semester, and in advance of the meeting I recommend that you:
+>- Develop and share your agenda
+>- Summarize progress or pitfalls since our last meeting
+>- Create a shared record of our meeting notes so that we both know what was discussed.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >All meetings start with a brief overview of the meeting agenda. Pablo will take notes of meetings and share them with participants through Google Docs. Other participants are encouraged to take notes of their own and/or complement the Google Doc to clear any misunderstandings. If a participant would like to record the meeting or use a note-taking app, they may do so with the consent of all other participants. Meetings (and notes) include agreed-upon action items to prioritize before the next meeting. These action items are set by participants through backwards design by reviewing the goals of the participants or group present and setting a course of action towards them.

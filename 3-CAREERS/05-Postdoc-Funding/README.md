@@ -88,3 +88,23 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >- Complete and keep up to date your Individual Development Plan (IDP)
 >- Contracts are renewed each year depending on progress towards these goals
 >- My goal will be to give you three months notice if funding is short or I think it is time for you to move on
+
+>_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
+>
+>When a graduate student joins the group, I am responsible for funding that individual for the duration of their Ph.D (subject to satisfactory progress in the program and in accordance to departmental standards). For postdoctoral researchers, terms of appointment and renewal are described in the offer letter.
+>
+>**Fellowships/External Funding**
+>If current/prospective students or postdocs are interested in applying for external funding opportunities, such as fellowships, I highly encourage you let me know, and I will do what I can to help you craft a competitive application. If I think that you are a good candidate for a specific opportunity, I will share that with you as well. Some specific relevant opportunities are listed below:
+>
+>***Graduate Students***
+>* [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) (usually due in mid-late October)
+>* [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) (usually due in the first half of January)
+>* [National Defense Science and Engineering Graduate Fellowship](https://ndseg.org/) (usually due end of October)
+>* [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) (nominations by early June, submission by early July; for rising 3rd year students)
+>* [National Institute of Health F31 Predoctoral Fellowships](https://researchtraining.nih.gov/programs/fellowships) (standard NIH due dates)
+>
+>***Postdotoral Researchers***
+>* [Presidential Postdoral Research Fellowship](https://dof.princeton.edu/Presidential-Postdoctoral-Fellows) (requires nomination by November)
+>* [Princeton Center for Theoretical Science Postdoctoral Fellowship](https://pcts.princeton.edu/nominations) (requires nomination, usually in October)
+>* [Andlinger Center Distinguished Postdoctoral Fellowship](https://acee.princeton.edu/postdoc-program/) (usually due in December with interviews in Spring; competitive applicants usually work with multiple advisors)
+>* [Princeton Materials Science Postdoctoral Fellowship](https://pccm.princeton.edu/education/materials-science-postdoctoral-fellowship-competition) (due in October)

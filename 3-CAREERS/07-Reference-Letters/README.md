@@ -64,6 +64,12 @@ Career progression, grants, and competitive applications often require reference
 >
 >I will provide letters of recommendation with sufficient advance notice and updated personal statement and/or CV as appropriate (two weeks for a first-time letter, one week for subsequent letters). While I will make every effort under short notice, I ask that such requests remain the exception.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>Letters of recommendation are extremely important for getting new positions and grants. You can count on Mariam to write you a letter if you have been in the lab at least 6 months (it’s hard to really know someone if they have only been around for a couple of months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
+>
+>If you need a letter, notify Mariam as soon as possible with the deadline (see Deadlines for guidance), your CV, and relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >Letters of recommendation: Most fellowships require multiple letters of recommendation. As a professor, writing a strong, personalized, and heartfelt letter of recommendation is one of the most important things we do for our students. We take this responsibility seriously and want to ensure we do justice to each student's individuality and character. Therefore, it's crucial to communicate your intention to apply for a fellowship at least one month in advance (if not more) to all your letter writers, including Dr. Chory. This allows us the time and space to craft thoughtful letters that capture the essence of who you are as a person and a scientist, and why you deserve the opportunities that the fellowship can provide.
@@ -93,6 +99,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >If, after finishing the folder, you have additional requests for uploads, please email Crystall and add a row to the spreadsheet.
 
+>_[MoreauLab_2026](https://www.moreaulab.entomology.cornell.edu/joinus)_:
+>
+>To request a letter of recommendation please ask me as far in advance as possible. For letters of recommendation it is helpful to me to have links to the opportunity, your updated CV, the proposal or at least a brief description of what you are proposing if I have not provided feedback on the proposal, the deadline my letter is to be submitted, and any important information about you or your abilities you would like me to amplify.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Lab members should never shy away from requesting a recommendation letter. Pablo will communicate openly about what he is able to write and any difficulties in the timeline to submission, but supporting lab members' career opportunities is a key part of his role as an advisor and leader of MsEE Lab. Ideally, requests for reference letters should be made at least two weeks in advance of the deadline. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. Reference letters will only include statements and opinions that the lab member is already aware of, and Pablo will be candid about the contents of the letter. Lab members should provide Pablo with an up-to-date CV, information about the purpose of the letter and its intended audience, and any suggestions on content they may want to highlight. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.
@@ -116,6 +126,10 @@ Career progression, grants, and competitive applications often require reference
 >https://forms.gle/h7WKdY2ddacYT2y5A
 >
 >I have worked hard to build my reputation and that of our lab over the years. In this manner, I take my word seriously. In the rare instances where I don't feel comfortable writing a recommendation letter for you, I will email you ASAP and set up a meeting to discuss my concerns and devise a plan to move forward.
+
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Students should give Josh two weeks notice before a letter of recommendation is due, should not be shy about reminding him as the deadline approaches..
 
 ### Canada
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:

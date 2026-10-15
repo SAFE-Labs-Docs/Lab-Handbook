@@ -83,12 +83,37 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
     - within Raw Data and Preprocessed Data: [Data Type]/[Animal Name]
 >- Recording file naming scheme: [yyyymmdd]*[Animal Name]*[Track][Epoch]
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>For results to be reproducible, the analysis pipeline must be organized and well documented. To meet these goals, you should take extensive notes on each step of your analysis pipeline. This means writing down how you did things every step of the way (and the order that you did things), from pre-processing, to running models, to statistical tests. You should take detailed notes on your experimental design as well. Your code should also be commented, and commented clearly. We all know what it’s like to sit down, quickly write a bunch of code to run an analysis without taking time to comment it, and then having no idea what we did a few months down the road. Comment your code so that every step is understandable by an outsider. Finally, it is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub) to keep track of what code changes you made and when you made them, as well as sharing code with others. The lab’s GitHub is https://github.com/alylab.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >You should treat GitHub as a digital version of a “lab notebook”
 > that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions,
 > determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your
 > ideas and maintain a continuous traceable log for your project.
+
+>_[DeAngelisLab_2026](https://kristendeangelis.net/expectations/)_:
+>
+>Collaborative research. Our lab group is collaborative, and your PI is a coinvestigator on all projects. We share viewing access to all protocols, data, research and results internally through OSF, Overleaf, and/or Google docs. When you begin your work in the lab, we will have a shared online document where we can share research plans, data, shared papers, and writing. You should expect to have a dedicated folder for your project where you share results, plans and progress, including shared meeting notes document for both agenda items to discuss, and benchmarks for short- and long-term goals. People working on projects funded by public funds are obligated to share data and scripts at the time of publication, and this shared repository will also act as a place to draft these open source final documents.
+
+>_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
+>
+>• Lab book entries should be titled using the lab member’s initials followed by a number, e.g., JLP637: Alpha vs Omicron growth curve in PLSCR1 KO Huh-7.5 cells.
+>• All related files (e.g., datasets, graphs, images) should begin with the same index (e.g., JLP637_cell_count.xlsx) and be organized in a dedicated directory (e.g., '/Work/Experiments/JLP637').
+>• Each lab member’s main Work directory should be automatically backed up to a cloud platform (e.g., Microsoft OneDrive, iCloud, or Dropbox). The department recommends using Microsoft OneDrive and provides all members with a free account.
+>• The lab also maintains a Microsoft SharePoint account, which serves as a central cloudbased drive for general shared lab documents. It is accessible through OneDrive and used for materials such as shared scientific resources, meeting slides, onboarding documents, and more. Every new lab member will be shown how to connect to the lab SharePoint during onboarding.
+>• Large files (e.g., sequencing or imaging data) should be stored in S-drive as cold storage at '/Volumes/shared/IID-Le Pen Lab/cold_storage' and properly indexed in the lab’s SharePoint at: ' /General/Data archive/Metadata table.xlsx'.
+
+>_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
+>
+>Maintain a legible and thorough lab notebook. For each experiment, please write:
+>- Objective
+>- Background
+>- Methods, including deviations from established methods
+>- Results
+>- Conclusion
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
@@ -120,6 +145,13 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >“Good Laboratory Practices” and I require notebooks to be used. For data, cross reference to the actual file locations. The notebooks are required to stay in the group (which is a requirement for most of our federal funding). Your data cannot live on the instrument it was collected on and so needs to be backed up to at least two locations. We have a current SOP on these details.
 
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Because lab notebooks are not only important for record keeping but also for patent applications (in the future), you are expected to follow following lab notebook organization guidelines in the lab:
+>1. Laser notebook : For laser alignment and laser maintenance
+>2. Data collection notebook (XUV and tUV/Vis separate notebooks): Data collected from the laser lab
+>3. Synthesis notebook : You are expected to thoroughly note down your experiments in your lab notebook and leave it when graduating.
+
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
 >
@@ -137,3 +169,32 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
 >How much detail is required in this record? There’s no perfect answer to that question, but the document should be clear enough and detailed enough so that if we revisit the project several years later, we should be able to ﬁnd where the manuscript is, where any relevant code is, and where the data is stored.
+
+### Japan
+>_[ShojiLab_2026](https://scrapbox.io/shoji-lab-survey/莊司研究室データセット公開マニュアル)_:
+>
+>莊司研究室におけるデータセット公開は、研究室共同 GitHub アカウントを基盤として運用する。
+>
+>各学生は、研究室 GitHub 組織配下に個別のデータセットリポジトリを作成する。
+>
+>その際、当該学生の GitHub アカウントをCollaborator として招待し、本人がコミットを行う。
+>
+>これにより：
+>
+>　リポジトリ管理履歴にデータセット作成者が明示される
+>
+>　データ取得時期が最終コミット時刻として記録される
+>
+>
+>
+>また、複数学生のデータを単一リポジトリに集約する運用は行わない。
+>
+>理由としては：
+>
+>　更新履歴が混在する
+>
+>　データ取得時期の追跡が困難になる
+>
+>　個別引用が不明瞭になる
+>
+>したがって、「1データセット＝1リポジトリ」を基本原則とする。

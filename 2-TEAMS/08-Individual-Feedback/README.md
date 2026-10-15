@@ -75,6 +75,32 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >Please also let me know if you are ever worried about your progress.
 >Postdocs and salaried researchers will get formal annual reviews as required by the Biological Sciences Division, but they are really secondary to the regular meetings (i.e., there should be no surprises).
 
+>_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
+>
+>• Annual career development meeting: Each lab member will have an annual career meeting with the PI to discuss their Individual Development Plan (IDP). This meeting is an opportunity to reflect on career goals—whether academic, industry-related, or otherwise—and to identify actionable steps for progress. The IDP, prepared by the mentee, serves as a framework for this conversation and should include short- and longterm goals, current strengths and gaps, and a plan for progress.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, a one-on-one meeting with every lab member will be dedicated specifically to evaluating the state of the mentorship relationship. Both participants will discuss answers on [the last online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog)  and reevaluate the worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder, making whatever adjustments may be necessary.
+
+>_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd)_:
+>
+>At the end of the fall and spring, we take a meeting to step back from the details and think about big picture career trajectories. It’s a good chance to go back the goals you wrote for yourself, think about your progress, and think about whether they’re still the right goals for you. Please start a running document of your goals in our Google Drive (how_we_work/Group_member_goals/, make a copy of the template and add your name to the title) and share it with Malin.
+>
+>This is your meeting to use as you want, but I often find it useful to loosely structure the meeting like this:
+>
+>- First 1/3: Highlights from the semester/last six months:
+>  - What have you done?
+>  - What have you learned?
+>  - What connections have you made?
+>- Last 2/3: Plans for the next six months:
+>  - What do you want to do?
+>  - What do you want to learn?
+>  - What connections do you want to make?
+>  - How can I support you in that?
+>- Also let me know if you want me to think about answers to any questions.
+>- Funding plan during each end-of-year checkin
+
+>_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
+>
+>I conduct a quarterly mutual assessment with each of my students. These exercises are four-fold symmetric: (i) the student assesses their own progress and performance over the last quarter; (ii) I provide feedback on their work; (iii) I assess my own performance as an advisor and researcher; (iv) the student provides feedback on how I could better support them.

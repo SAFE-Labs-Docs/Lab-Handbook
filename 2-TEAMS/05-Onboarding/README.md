@@ -27,6 +27,76 @@ A clear onboarding process should not only ensure that lab members complete esse
 >At the institute level, you will have a series of compulsory training on your first day (health and safety, informatics etc…). In the first week(s) every new lab member will have a one-on-one meeting with the PI where some or all of the following points are covered (depending on the role of the team member): (a) this handbook, (b) access to lab calendars and resources, (c) general expectations including work hours, presence, communication, (d) necessary courses and licenses, (e) next steps for practical training and project identification. A complementary presentation by the labmanager, explaining all the rules and practices of the lab will be given on the first day(s) in the lab. In addition, every new lab member will be paired with a « lab buddy » who will be there to help you integrate in the lab.
 
 ### Germany
+>_[AppliedMediaSystemsTUIlmenau_2026](https://github.com/TUIlmenauAMS/AppliedMediaSystems_Onboarding/blob/main/Applied%20Media%20Systems%20Group%20%E2%80%93%20Onboarding%20Guide%20for%20New%20Teaching%20and%20Research%20Assistants.md)_:
+>
+>## Week 1 – Infrastructure and Orientation
+>
+>- TU Ilmenau login
+>- e-mail
+>- Nextcloud
+>- Moodle
+>- GitHub
+>- Jupyter / Colab / Codespaces
+>- course chatbot access
+>- inspect assigned courses
+>
+>Deliverable:
+>
+>> One-page overview of where all important teaching and research resources are located.
+>
+>---
+>
+>## Week 2 – Course Preparation
+>
+>For each assigned course:
+>
+>- chatbot-generated course overview
+>- study lecture structure
+>- read selected book chapters
+>- solve representative exercises
+>- run notebooks
+>- complete Moodle quizzes
+>
+>Deliverable:
+>
+>> Give a 10-minute informal explanation of the course structure and identify three topics likely to be difficult for students.
+>
+>---
+>
+>## Week 3 – Research Orientation
+>
+>Read selected papers from the group:
+>
+>- filter-bank papers
+>- ELD paper
+>- singing voice separation paper
+>- multichannel source separation material
+>
+>Also explore the Audio Coding and Multirate Signal Processing books.
+>
+>Deliverable:
+>
+>> Give a short presentation of one paper: problem, method, results, limitations, and one possible follow-up idea.
+>
+>---
+>
+>## Week 4 – Teaching Rehearsal
+>
+>Prepare a short mock seminar.
+>
+>The session should contain:
+>
+>1. chatbot warm-up question
+>2. explanation of one lecture topic
+>3. Moodle-style quiz questions
+>4. practical exercise
+>5. project challenge
+>6. explicit grading criteria
+>
+>Deliverable:
+>
+>> Conduct a 20–30 minute mock seminar with members of the group acting as students.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
@@ -156,3 +226,34 @@ A clear onboarding process should not only ensure that lab members complete esse
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >(Mentor) Train the student on relevant skills needed. This is the upfront time cost from the mentor. Do a good and thorough job here, and you’ll be saving time later.  (Mentor) Introduce the student to everyone in the lab as soon as possible. Have each person give a brief overview of what they are working on. Even better, set up scheduled meetings (they can be as short as 10 minutes) between the student and everyone in the lab so they can introduce themselves and explain what they work on. By the end of the second week, they should know everyone.
+
+>_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd)_:
+>
+>1. Read the [GCRG Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+>2. If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.qmd) (also has some useful postdoc-related resources)
+>1. Read the [GCRG Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
+>1. Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a key for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
+>1. Make a [GitHub](https://github.com/) account if you don't have one already.
+>1. Ask Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Roy Roberts).
+>1. Connect to the "Global Change Research Group" Shared Google Drive by asking Roy to share it with you.
+>1. Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
+>1. Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have webpage, they can help you make a page on our website.
+>1. Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
+
+### Canada
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
+>
+>At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:
+>* Expected response times for communications;
+>* Best ways to keep on top of drafts, applications, and meetings;
+>* Mentorship meeting frequency and structure;
+>* Working habits;
+>* Time off / vacations;
+>* Strategies to stay 'on time' for program milestones (proposal, committee meetings, defences);
+>* Teaching and volunteer interests;
+>* Career plans and goals (CIHR Individual Development Plans);
+>* Conference plan and funding expectations;
+>* Publishing and authorship expectations;
+>* Expectations to apply for external funding; and,
+>* Responsibility for research ethics.
+>In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.

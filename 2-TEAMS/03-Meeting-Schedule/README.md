@@ -216,6 +216,14 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >3.3.3. As-Needed Meetings
 >Though we try to limit additional meetings, sometimes they may be necessary if we are in certain phases of projects (e.g., launching a new project, or discussing data interpretation).
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>Weekly lab meetings (~1.5 hours each) are meant to be a forum for trainees to present project ideas and/or data to get feedback from the rest of the group. Projects at any level of completion (or even not yet started!) benefit from being presented. These lab meetings can also be used to talk about methods, statistical analyses, new papers, and career development. For paper discussions, everyone must come to lab meeting having read the paper and prepared with comments and questions to contribute. Some weeks we may explore a particular issue and have people read different papers — in that case, come to lab meeting having read your paper and be prepared to summarize it for the group.
+>
+>Each lab member is expected to present at least once every semester. These meetings are informal, and you can do what you wish with your slot — just be prepared to contribute something substantive. Lab members are also expected to attend every meeting (obviously, illnesses, doctor appointments, family issues, etc are a valid reason for missing a meeting). Undergraduate students are encouraged to attend as often as possible (assuming it fits in their course schedule).
+>
+>We may have joint lab meetings with other faculty — these may be combined with our weekly lab meeting or an additional meeting. We will also use lab meetings (or ad-hoc scheduled meetings) to prepare for conference presentations and give feedback on job talks or other external presentations.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >I (Dr. Chory) maintain an open door policy to ensure accessibility for all lab members. If my personal calendar shows I'm not in a meeting, feel free to drop by to discuss any matters.
@@ -281,9 +289,19 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 > I
 > will always make time to meet with you.
 
+>_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
+>
+>• Regular check-ins: The PI commits to regular one-on-one meetings (biweekly with students, monthly with staff and postdocs) and expects lab members to come prepared to discuss progress and concerns. These meetings are led by the lab member and are meant to encourage strategic thinking about ongoing and future work. Even when there’s little new data to show, it’s valuable to reflect on behind-the-scenes efforts, ideas in development, or challenges encountered. Using slides to structure the discussion is encouraged. The PI also welcomes feedback from lab members during these meetings to improve the lab experience.
+
 >_[ManningGroup_2026](https://mmanning.expressions.syr.edu/wp-content/uploads/2023/01/Manning-Research-Manual-January-2023.pdf)_:
 >
 >Updates: Every other week our research group meeting will be an “updates” meeting. These are opportunities for you to share what you’ve been thinking about over the week with others. I expect every group member to post a short “group update” on the slack channel before these meetings, which will help you to gather your thoughts about what you’d like to share with the group and also help identify overlap between your work and the expertise of others. Quite often, it leads to help where you’re stuck on a project! During the meeting, group members volunteer to go over their update and have others ask questions and provide feedback. These updates are NOT polished, professional talks – they are opportunities for informal, low-stakes collaborative feedback and help from our collective research group.
+
+>_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
+>
+>Undergraduates and high school students will meet with Dr. Kat for 15 minutes every other week. This can be increased as needed, or you can schedule an appointment for a longer discussion as needed. You are highly encouraged to meet more frequently with your direct mentor in the lab
+>- Graduate students, postdoctoral fellows, and technicians will meet with Dr. Kat for 30 minutes every week. This can be increased as needed, or you can schedule an appointment for a longer discussion as needed
+>- Available for drop-ins and appointments for other discussions.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
@@ -347,9 +365,43 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Individual Meetings
 >At the beginning of each semester, we will set a schedule for weekly meetings. Each full-time lab member (RAs, graduate students, post-docs) will have a one-hour slot set aside to meet with me. If scheduling conflicts arise (e.g., because of travel), we can try to reschedule for another day that week. If there is nothing to discuss, feel free to cancel the meeting or just drop by for a brief chat.
 
+>_[VanderHeidenLab_2026](https://vanderheidenlab.mit.edu/our-values/)_:
+>
+>We support each other’s scientific development. Our lab holds biweekly Idea Clubs where two members present any scientific ideas where a lab-wide discussion could be helpful for them. We also hold biweekly Journal Clubs where different groups of members present a paper for the entire lab to discuss. We make time in our days to attend these meetings to listen, provide feedback, and contribute to these discussions. Likewise, we often hold practice scientific talks for presenters, and we all aim to attend each other’s presentation
+
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Typically each week, there will be a one-on-one meeting with Josh that is scheduled to run for
+>30 minutes (though usually takes less time). This is an opportunity to regularly update Josh on your research outside of group presentations (more to follow on that!), address any questions or concerns you have regarding your research, and keep track of your own progress as you are going along in your PhD. To prepare for this meeting, upload a word document (in your folder in the Box folder for weekly updates) listing your goals for the past week, what you’ve actually done (goals accomplished, in progress, what went wrong, etc), and what your new goals are for the next week. You are strongly encouraged to include items like data figures, synthetic schemes, and other visual aids. Remember that Josh is trying to keep track of ~10 student projects, so it is your responsibility to frame your work for the week in the context of your long- and short-term goals. Don’t assume that he remembers the details of a plot you showed him two weeks ago – repeat data if necessary to give the proper context. You should upload this document even if Josh is traveling/out sick/etc so that he can still keep up with what you’re doing.
+
+>_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
+>
+>* **Weekly Group Meetings** (ACE35, Fridays) - We convene weekly as a group to discuss literature, present tutorials, or share research; usually these last about two hours (although I wouldn't argue with them being shorter!). The first meeting of every month (except January or if falling on a Holiday) is dedicated to literature reviews and tutorials (and food!). The remaining slots are used for research updates. The updates are informal and interactive. These meetings are intended more for the benefit of the researchers than for me as I *should* have a good handle on what everyone is already doing (but I am happy to be surprised by new things!). In any case, I encourage and prefer interruptions/questions/involvement from everyone. The current schedule can be found **[here.](https://docs.google.com/spreadsheets/d/19qcmAjeKe95WtADDXaoeuGWyftBqGdU6M7HONlLOuDo/edit?usp=sharing)** To balance the load of preparation, the schedule is based on a rotating format wherein different sub-groups are responsible for a given week's content.
+>* **Biweekly Joint Group Meetings** - Every other week during the academic year, we also convene with the [Panagiotopoulos group](https://scholar.princeton.edu/azpgroup/home) and the [Graves group](https://cbe.princeton.edu/people/david-graves) to share and discuss research with each other. Meetings are over lunch (provided by the PIs) and feature 1-2 junior researchers giving research informal presentations. The current schedule can be found [here](https://docs.google.com/spreadsheets/d/1vNKZ6YOeL1sGhxME7_955ZLrzBDTdK-aDdqdeGuwAc0/edit?usp=sharing)
+>* **Biweekly Journal Clubs** - Approximately every other week, we meet with members of the [Jacobs group](https://jacobs.princeton.edu/) for a detailed discussion and analysis of a research article. The article is selected (by myself and Prof. Jacobs) from a set of three articles proposed by the discussion leader. The discussion leader rotates each week, such that each junior researcher leads about once per year.
+
 >_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
 >
 >For  our  weekly  meetings,  I  expect  you  to  prepare  ppt  slides or other documents to provide me with an update on your progress, struggles, and new ideas.  These  weekly  updates  can  include  (raw)  data,  graphs,  schematics,  plots,  images,  videos,  thoughts  in  bullet‐points,  etc..  Ideally,  you  also  include  a  brief  section  on  self‐reflection:  what  went  well,  what  didn’t,  why  did  it  go  well  or  not,  etc..
+
+>_[ZETAResearchGroup_2026](https://github.com/pzivich/LabGroupMaterials/blob/main/README.md)_:
+>
+>The main way we will meet is through a weekly research group meetings. Group meetings are a 2-hour meeting. All
+>students under my direct supervision are expected to attend that occurs weekly during the Fall and Spring semesters.
+>The general structure of these meetings is:
+>- Good new updates
+>- 5 minutes for continuing education piece (relevant slides live in `presentations/`)
+>- 5 minutes for each attendee to briefly state what they would like to discuss that week (to help me triage)
+>- The remaining times is for individual-specific discussion
+>
+>You may need additional time for an individual meeting beyond the research group meeting. If you need additional time,
+>I expect you to reach out to me. *Please email me to schedule an individual meeting time as needed*.
+>
+>Occasionally we might modify the structure to discuss a paper we have collectively read or allot for time from a guest
+>attendee. These lab meetings can also be used to talk about methods, statistical analyses, new papers, and career
+>development. If you would like to suggest a reading, please email me or bring up the suggested reading during a meeting.
+>
+>An idea behind the choice of group meetings is to provide opportunities for peer-mentorship and feedback.
 
 >_[ZhangLab_2026](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/lab_activity.md)_:
 >
@@ -403,3 +455,11 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >We hold a 1.5 hour lab meeting every week. The weekly meeting consists of core lab members (Me, graduate students, postdocs and honours students, when possible). Occasionally, other members will be invited to attend as well. The purpose of these meetings is to discuss current projects, to engage in debate or discussion about topics in the literature, and to plan future studies. Mostly, the purpose of the lab meeting is to solve problems. We meet in room 5017 WIRB. I usually schedule lab meetings at a time that is convenient for the maximum number of people. This varies by term, and it may vary even by month. We don’t usually meet as often in the summer.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/03-communications.md)_:
+>
+>Full group lab meetings occur weekly. The general format of lab meetings are:
+>* general announcements;
+>* research issues to be considered by the group;
+>* individual updates; and,
+>* a learning outcome for the group. The learning outcome will change week to week; for example: student data presentations, student practice presentations, journal club, career development, science development, science discussion, tutorial lecture/demonstration, etc.

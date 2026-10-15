@@ -131,6 +131,45 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- **Project Ownership:** Every PhD student and postdoc has their own project. First projects for each trainee are initially proposed by me and then designed and implemented with my input. Postdocs may propose their own first project if they choose. Second projects are then proposed by the trainee. You are the driving force behind your project, taking ownership of it and all related elements. Plan ahead and be proactive.
 >- **Project Assistance:** Technicians and undergraduate students will help with one or more ongoing projects in the lab. Technicians can expect to contribute as a co-author on at least one paper. Technicians are expected to help manage the lab as well. Undergraduate students will be considered for co-authorship if their contribution meets our guidelines discussed below.
 
+>_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/LabManagerResponsibilities.md)_:
+>
+>## 1. Lab Management (40% effort)
+>1. Purchasing and ordering
+>2. Shipping and receiving
+>3. Inventory management of chemicals, plasmids, and mammalian cell lines
+>4. Expanding and freezing cell lines for lab master stock
+>5. Instructing and assigning common lab duties among group members
+>6. Instructing lab safety and regulation compliance for group members
+>
+>## 2. Scientific projects (40% effort)
+>1. Building and testing new reagents
+>	1. cloning
+>		- PCR, restriction cloning, Gateway cloning
+>		- sequence verification via Sanger and whole plasmid sequencing
+>	2. transgenesis of mammalian cell lines
+>		- plasmid preparation for transfections
+>		- gene delivery methods: lipofection, nucleofection
+>		- gene integration methods: PiggyBac recombinase, CRISPR-Cas9
+>		- selection methods: antibotics, clone picking, FACS
+>		- genotyping
+>2. Experimental assays and analysis
+>	- Spheroids, neural organoids, cardiac organoids, etc.
+>
+>## 3. Training new lab members (10% effort)
+>1. Sterile techniques and cell culture
+>2. Molecular biology and cloning
+>3. Immunofluorescence procedures and microscopy
+>4. Preparation of other reagents
+>5. Lab duties
+>	- Lab floor cleaning
+>	- Preparation of common reagents
+>	- Glass wash and autoclaving
+>	- Chemical and bio-waste disposal
+>
+>## 4. Professional development (10% effort)
+>1. Learning new technical skills (e.g. programming)
+>2. Other career development opportunities
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Our team may be composed of researchers with different roles at any given time: undergraduate students (whether enrolled at Cornell or visiting from elsewhere), graduate students at the Master's or PhD level, postdoctoral researchers, and research technicians or scientists. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. The responsibilities of different lab roles are shaped by the distinct kinds of goals the role might have.
@@ -140,3 +179,37 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Team-Members-and-Expectations-a1aeb366bb0f4d15a8144e8184e7c669)_:
 >
 >Masters students in our lab will be trained on all things exercise oncology, with a specific emphasis on resistance training and programming. This will include, exercise testing and measurement techniques, body composition analysis, training program design and research methods. You will be trained in a way that is in line with our culture and philosophy; which is to do the best work you can, whilst respecting those around you.
+
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Constant Roles (rotating every 6 months excluding LSOs): ➢ Laser maintenance: keeping track of issues or updates needed for the laser (using box note and/or white board), cleaning the laser lab, advocating for laser maintenance at planning meetings ➢ Laser planner: runs laser planning meeting and scheduling laser plans, updating group laser and group meeting calendar ➢ General maintenance: updates and acquires general lab supplies as needed (eg sticky pads, silicon nitride membranes, etc). Does NOT acquire specific chemicals ➢ TED Maintenance: keeps track of TED, advocates for cleaning/fixes, acquires supplies ➢ Lab safety officer(s): ■ General/chemical LSO: maintains and updates safety standards in the lab space (outside laser lab), checks eye washes/fire extinguishers/etc, attends monthly LSO meetings, proctors annual safety review, resource for safe lab practices in the group ■ Laser LSO: maintains and updates laser glasses, keeps track of laser safety training and logs, resource for safe laser practices in the group ➢ Social chair: solicits ideas for group activities, coordinates group activities ❖ Temporary Roles: ➢ Conference coordinator: when the majority of the group is attending the same conference, one of the attendees will be elected to serve as the point person. They will coordinate with the attendees (and the IMP office as necessary) on registering for the conference, hotel reservations, and travel plans.
+
+>_[WexlerGroup_2026](https://github.com/wexlergroup/wexlergroup-handbook/blob/main/group-administration/group-gigs.md)_:
+>
+>## Documentation Scribe
+>
+>**Mission:** Grow and curate the Wexler Group knowledge base.
+>
+>**Responsibilities:**
+>
+>* Lead a semester‑long initiative to expand internal documentation and tutorials.
+>* Proactively solicit contributions and track progress with gentle nudges.
+>* Enforce information architecture and cross‑linking standards.
+>* Present a quarterly report on documentation coverage and gaps.
+>
+>***
+>
+>## Expectations & Rotation
+>
+>* Roles are assigned at the start of each summer and can be swapped by mutual agreement.
+>* Each gig should require no more than 1–2 hours per week on average.
+>* If you hit a roadblock, ask for help early — no one is expected to know everything.
+>* When you rotate out, prepare hand‑off instructions so the next person can ramp up quickly.
+
+### Canada
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
+>
+>It is expected that during your time in the VORTEX Lab, you will have to learn some coding basics to push forward your research and run your statistics. Expectations vary depending on the level of the trainee. For instance, at minimum:
+>* Undergraduate students will be expected to be able to run standard code already written and manipulate some variables to explore data;
+>* MSc students will be expected to create new scripts to run custom analysis, or edit existing scripts to deal with data in new formats specific to their thesis studies. MSc students are also expected to be able to code their statistics and graphs using RStudio.
+>* PhD students will be expected to do all of the above and act as primary mentors to junior students learning the basic steps. Depending on career aspirations and learning objectives, I trust that PhD students will decide at what level of coding they want to push themselves.

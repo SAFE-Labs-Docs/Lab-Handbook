@@ -51,6 +51,15 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >In general, I prefer that you develop initial versions of all study documents and obtain input from the study team, and then am comfortable with you using generative AI to refine protocol documents, interview guides, participant or eligibility surveys, recruitment materials, clean deidentified transcripts, or consent language for the IRB. I fully expect that you do your due diligence and take the time to carefully review any content generated from AI, and then edit it to accurately reflect the work we do. You should never put any identifiable information into generative AI.
 >When it comes to scholarly products and dissemination of our research (e.g., manuscripts, presentations), I am more cautious about if and how AI can be used due to difficulties maintaining research integrity and recognizing infringements on others’ intellectual property. We do not want to inadvertently propagate misinformation, or worse – engage in any research misconduct. Do not use AI in the preparation of scholarly products for dissemination (e.g., editing text for grammatical correctness or clarity) without discussing it with me first. Be aware that publications, medical organizations, and conference organizers have different norms and policies on if/how AI can be used to prepare scholarly contributions. Unacknowledged or inappropriate use of AI in manuscripts, grant applications, or presentations is considered plagiarism/ misconduct.
 
+>_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/CommunityGuidelines.md)_:
+>
+>**Use of generative AI/large language models:** LLMs are a rapidly evolving tool that can be helpful but can lead to serious environmental, ethical and legal violations. Most importantly, LLM use can disrupt the learning process. As we are all learning, shortcutting this process robs us of opportunities for growth. We are scholars and the purpose of scholarship is to help more people better understand the world not to generate text. **As such, our default position is that AI use for scholarship (in the lab) is not acceptable, with exceptions only as approved by Sarah.**
+>- **Never** upload data into an LLM/online AI tool. The data is owned by the lab and doing so violates our intellectual property rights. LLMs are not good at data analysis and will often find patterns in data that aren't there.
+>- **Never** upload an unpublished manuscript or grant proposal into an LLM/online AI tool.
+>- AI for any sort of scientific writing is not acceptable. The act of writing is the act of thinking; using AI to write is bypassing thinking.
+>- AI tools such as grammarly to help with wording/grammar is only acceptable in certain situations and after conversations with and approval from Sarah.
+>- AI for help with coding is acceptable in certain situations after approval from sarah: the output of the LLM must always be verified and tested, and use of an LLM must be acknowledged in the code comments. You must do the work to be able to explain and stand behind any code you put out into the world.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Kirby-lab-AI-policy.pdf)_:
 >
 >1) First, apply the "Other Person" rule. Ask yourself: Would it be ok to pay another person to do what you are trying to use the LLM or AI program for? If so, it is possibly ok. If not, then it is probably not OK. Some examples:
@@ -92,3 +101,29 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
 >
 >Before you send me any written drafts & documents I expect you to carefully proofread the text,  captions, and figure legends. If your native language it not English and you struggle with grammar and  the “flow” of writing in English, I highly encourage you to work with the Engineering communications &  writing  center  to  edit  your  documents  before  you  send  them  to  me  for  review  or  to  use  artificial  intelligence (AI) for language editing (be careful about AI hallucinations, though!). I expect that we will  have to go through numerous iterations between you and me before manuscripts are ready to submit,  but  these  should  focus  on  the  scientific  content  and  storytelling,  not  English.
+
+>_[ZETAResearchGroup_2026](https://github.com/pzivich/LabGroupMaterials/blob/main/ai_policy.md)_:
+>
+>For us to have a successful advisor-advisee or mentor-mentee relationship, we need to be able to trust each other. As
+>part of that, I expect for you to disclose any use of a LLM to me. Failure to do so, jeopardizes that collaborative
+>relationship and may mean we are not able to trust each other. For disclosing LLM use, please complete the following
+>table (or a modified version we agree upon). This table *must be completed prior to using an LLM*.
+>
+>| Task | Rationale | Description of Use |
+>|---------------------------|-----------|--------------------|
+>| Outlining project | ... | ... |
+>| Writing proposal or paper | ... | ... |
+>| Statistical analysis plan | ... | ... |
+>| Code writing | ... | ... |
+>| Data analysis | ... | ... |
+>| Code or paper review | ... | ... |
+>| Literature review | ... | ... |
+>| Other | ... | ... |
+>
+>I also recognize that the mentor-mentee relationship is a two-way street. So, I also make the following promises
+>in terms of conduct and disclosure to you:
+>- I will review your work that you send to me. I will not use an LLM or other related technology for reviewing your
+>work.
+>- I will respond to your emails or questions myself. I will not use an LLM to do so.
+>- I will draft requested recommendations letters myself and will not use an LLM.
+>- If we are working together on a project, I will disclose my use of an LLM in accordance with the disclosure table.

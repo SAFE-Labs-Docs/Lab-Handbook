@@ -119,6 +119,10 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >-**Electricity**: Turn off room lights when not in use and shut down computers between experiments.
 >-**Composting**: Put coffee grounds, tea bags, and other compostable food scraps into the lab compost bin on the coffee cart.
 
+>_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/CommunityGuidelines.md)_:
+>
+>**Sustainability as a core value:** We acknowledge that the only way to stop climate change is to stop burning fossil fuels and that many efforts focused on carbon footprint or individual responsibility simply deflect blame from the corporations that are at fault. However, being mindful of our use and disposal of materials as a group can help us to understand changes we need to push for and help us to live according to our values. To that end, it is important that we keep track of lab supplies in the inventory, resulting in fewer expired products and more mindful ordering, when possible choose reusable over disposable and recyclable/durable materials (Glass, metal) over plastic (a petroleum product). In addition, when possible reuse or repurpose materials and break it down into its component parts. Organization and documentation help us to minimize waste while resisting hoarding. In addition, we choose to travel with purpose and limit unnecessary trips that require flying especially for short durations. When possible, we choose to take the train, bus, or drive in a carpool.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Many other organizations have catalogued best practices for lab sustainability. Wherever possible, we follow practices for research labs outlined by [My Green Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) and the [Brophy Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) ([Leak *et al.*, 2023](https://doi.org/10.1016/j.tibs.2022.09.001)), such as [routine cleaning of freezers and setting ultracold storage to –70 ºC](https://freezerchallenge.mygreenlab.org/landing/?showResource=best-practices).

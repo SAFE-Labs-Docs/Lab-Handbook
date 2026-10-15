@@ -108,6 +108,17 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >Publish at least two papers on which you're first author.
 >	These papers should be submitted by the time you defend. Note, this is not the requirement of relevant UChicago doctoral programs, but I think it is an important minimal target.
 
+>_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/Expectations-PhD.md)_:
+>
+>Requirements for graduation:
+>- First chapter submitted to a journal (ideally published)
+>- Second chapter ready to submit (ideally submitted)
+>- Third chapter written (does not have to be final form)
+
+>_[MoreauLab_2026](https://www.moreaulab.entomology.cornell.edu/joinus)_:
+>
+>You should aim for the goal of publishing most of your thesis research during your time in my lab. This typically consists of three peer-reviewed papers and Ph.D. students in my lab typically begin publishing in about their third year.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
@@ -152,6 +163,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.
+
+>_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
+>
+>My expectation, however, is that, your *original scientific research* will be conveyed through multiple (3+) first-author publications and will also be disseminated broadly in other venues (e.g., conference posters/talks). I encourage students to put together manuscripts over the course of the Ph.D rather than submitting a whole host of papers all towards the end; this also seems better for student development. The thesis itself should be straightforward to write if you follow this approach. The document will essentially consist of a grand, cohesive introduction; a presentation of requisite theory/methods; a series of chapters, each likely to reflect the content of a published or submitted manuscript; and a concluding chapter with future directions.
 
 >_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
 >

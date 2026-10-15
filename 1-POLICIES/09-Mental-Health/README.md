@@ -97,6 +97,10 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >I am always available for students to discuss mental health issues and encourage such inquiries. I understand that students may wish to consult with mental health professionals instead or first, and the Chemistry Department website provides a detailed list of available options. All such discussions will be kept in utmost confidentiality.
 
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Josh will check in approximately monthly with you to ask about your well-being, e.g. stress level, optimism/pessimism about projects, etc. ❖ If someone in the group is having a really rough time, please let Josh know. He will keep your confidence and can step in to give the person more support.
+
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >

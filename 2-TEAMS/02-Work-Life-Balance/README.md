@@ -197,6 +197,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >There are many reasons why you may not meet your own expectations, but I am an ardent advocate against the “just work harder” mindset. Your work pace may feel like the only thing you have control over, but working longer hours almost never gets to the root of the problem. It’s important to set boundaries so you don’t just work all the time. You cannot pour from an empty cup.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>I will sometimes (rarely, I hope!) send emails or Slack messages outside of normal working hours. For the most part, I try to schedule emails and Slack messages to appear during your normal working hours. But sometimes I mess up – I hit send rather than schedule, or I forget to consider time zones or times of day. If I contact you outside of your working hours, I do not expect you to respond until you are back at work (ignore me!). I do not expect there to be cases when I suddenly and urgently need something from you over the weekend (e.g., for a grant deadline), but should I anticipate that happening, I will bring it up in advance so we can plan accordingly. All this said, I realize that being told you can ignore my messages might not take away the stress of seeing my messages if you check work email or Slack in the evenings or on weekends. If my off-hours messages are unwelcome and cause distress, please talk to me, and I will be better at not bothering you during your time off.
+
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/how-we-work.html)_:
 >
 >I will not judge your progress based on the hours you keep in the lab: what matters most is that you make substantive progress on the lab's goals.
@@ -261,6 +265,18 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >At minimum, we need a 10-day notice for planned trips. This is so a) we can get coverage if necessary and b) we know when team members are out, so we don’t plan important meetings in their absence.
 >Considering a last minute trip? These are the BEST. The only thing I ask is that you chat to me and we can decide together if/how we can make this work.
+
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Before taking vacation, the student should notify the PI of their absence a reasonable time beforehand. 2.5 times the duration of the vacation is a good rule of thumb (e.g. if taking a month off, give at least two 2.5 months’ notice; if taking 2 days off, give at least a week’s notice). This helps the group with long-term planning and lets Josh plan ahead if there is a grant renewal due while you are gone.
+
+>_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
+>
+>A reasonable baseline number might be averaging ~50 hours/week; this requires pretty consistent effort throughout the week but also affords quality time for other activities.
+>Ideally, this is not a slog for you because you like what you are working on! If it is, then we may want to discuss what we can do about that situation.
+>Some people can work more; some can manage with less.
+>It is important to have some time for rest/leisure/extracurricular activities/hobbies/relationships, and so, generally, it is not advisable to work significantly more than 60 hours/week.
+>You should also be cognizant of burnout and whether you are really being productive during the time that you are investing.
 
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:

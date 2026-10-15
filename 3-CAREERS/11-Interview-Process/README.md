@@ -100,6 +100,10 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >It is useful to have a core, fixed set of questions or topics to discuss with different candidates.
 >This doesn't mean the conversation can't wander, but it promotes fair comparisons.
 
+>_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
+>
+>When we are looking for students to hire in the lab (typically a month before the start of the fall and spring semesters and occasionally a month or so before the summer starts) we look through the responses to the form and the resumes and pick students to interview before selecting typically 1-2 students per term/summer session.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Applicants intending to join MsEE Lab will be interviewed by Pablo and all current long-term (non-undergraduate) lab members before any decisions are made. Prospective graduate students must apply to a Cornell Graduate Field, where they may be interviewed by Pablo and carry out a research rotation in the lab to consider joining. Other types of positions apply to Pablo directly. Postdoctoral candidates should expect to present their previous research in a talk, either remotely or in person, depending on lab finances and candidate location. All candidates should provide a CV and expect it to be shared with lab members. Pablo will gather feedback from all lab members individually and confidentially. Pablo will present the conclusions gained from this process and the resulting decision to the group. The timeline for this decision will be communicated to the applicant promptly.

@@ -112,6 +112,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 * Every lab member can travel to present at one conference per year. If you want attend more than one conference in a single year or travel to a conference without presenting something, discuss with me so we can determine how we can fund your travel in a way that’s fair to other lab members. These trips are fully funded; I only support travel if I can reimburse 100% of transportation, meals, and hotels.
 * Each lab member can attend 1 major external workshop during their time in lab (e.g. Neuromatch) with a tuition budget of about $1000 per person. Tuition for additional courses will be considered on a case-by-case basis.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>Mariam will fund up to two conferences a year if you are presenting, more if some are regional and do not require overnight stays or air travel. Typically, she can fund conferences within North America. Mariam typically does not fund conference travel if you wish to attend but are not presenting; the exception is regional conferences (like the Bay Area Memory Meeting). Reimbursable expenses include membership and submission fees, registration fees, poster printing fees, travel and lodging, and per diem. Reimbursements are capped at maximum ~$2,000 for multi-day conferences that require overnight stays and air travel, and less for conferences that do not require air travel. Ask Mariam how much she can reimburse before making your travel arrangements, and plan accordingly
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >If you are presenting your work from the lab (i.e., you
@@ -142,6 +146,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.
 
+>_[MoreauLab_2026](https://www.moreaulab.entomology.cornell.edu/joinus)_:
+>
+>I typically try to support your participation in at least one scientific conference per year where you will present your independent research, although you should seek funding too.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >If you have something to present at a conference, like a talk or poster, I will do my best to pay for your travel. Exceptions to this policy include program reviews, in which all students involved in the project are generally expected to attend. Conferences are a valuable opportunity to network, stay up to date, and present your work. As such, they are a key part of your professional development. It costs about $1,000-$2,000 to send someone to a conference. All students and postdocs should share lodging with someone else. Possible exceptions to this rule can be made, but only if you consult with me first.
@@ -164,6 +172,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >I want you to attend appropriate scientific meetings to learn from others, to present your work, etc. In fact, I use a large part of flexible group funds to fund graduate student attendance at such meetings. However, the meeting must fit the goals of our funding sources; assuming we have adequate funding, I will allow one meeting per year, although this may increase as you become more senior. The second meeting may also be to a funding agency meeting or have some other special tie to the group. To help with the financial aspects of meetings, I hope you look for financial support for travel. I always appreciate it when a group member tells me about a travel award (or another award) they discovered. In some cases, such as graduate student travel grants, the group can have only one nominee (per program), and so you may have to wait a semester or two for your turn.
 
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Students should consult with Josh before applying to a conference. ❖ We aim to have students attend at least one conference by the end of their 3rd year, subject to having enough solid results to present. ❖ All conference funding will be provided. Students should apply for external conference funding (ex. WCC or department awards).
+
 ### Canada
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
@@ -171,3 +183,7 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >To maximize the experience and minimize expenses, please share a room with other graduate students.
 >Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
 >It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/07-funding-sources.md)_:
+>
+>The availability of lab funding will change year-to-year, although I value conference experience for graduate students and will try to fund at least one conference per year for graduate trainees (e.g., at minimum OEP or CSEP)

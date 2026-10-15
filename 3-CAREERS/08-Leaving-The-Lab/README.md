@@ -170,6 +170,22 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >* Fill out [this](https://docs.google.com/forms/d/1Cb3j-KGDGEKvK1VePjgtmMa2X8YJbVX75n0uXov_L5w/viewform?pli=1&pli=1&edit_requested=true) form with information on classes you took as an RP (if any), which will serve as a resource for future RPs.
 >* Add to [staff ids](https://docs.google.com/spreadsheets/d/1zKA0T7gz4h91qdSG_kZL3izV0iBqBeWl0gfcowp705Q/edit?gid=1851494083#gid=1851494083) a good email address to reach out at after you leave. Put this in the "past" tab.
 
+>_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
+>
+>### Offboarding checklist
+>- [ ] Experimental samples
+>	- Check what you have in the 4C, -20C, -80C, and also room temperature. Organize and prune as necessary. If unsure to discard a sample, keep but label it clearly.
+>	- For -20C and -80C, you must create a list of items and add this file to your folder in the Ishihara lab NAS.
+>- [ ] Digital Data
+>	- All digital data must be copied to your folder in the Ishihara lab NAS. This includes the files in the Ishihara lab shared OneDrive.
+>	- (Interim policy) All microscopy data must be copied to the FujiData drive of the Fuji workstation.
+>- [ ] Lab Notebooks
+>	- LabArchives ELN: List Keisuke as Administrator for your notebook(s). Give access to your personal email for continued access after your Pitt account expires.
+>	- Other digital notebooks: Export all entries as Word or PDF documents to your folder in the Ishihara lab NAS.
+>	- Physical notebooks: Physical notebooks stay in the lab. Make a personal copy by scanning relevant pages.
+>- [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
+>- [ ] Check all of the above with Keisuke.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >All lab members should write papers before leaving the lab (Barker, 2010) If a paper is submitted before a lab member leaves and it comes back requiring revisions, the first author or someone previously designated should make those changes and resubmit. If a paper is submitted before a lab member leaves but is then rejected, the person who rewrites the paper will become the first author (ideally this
@@ -180,6 +196,10 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >In general, please ask me for permission to share anything from our group that has not been published. This includes things that the group has produced, like fabrication recipes or tricks, special measure code, etc. This excludes things that only you have produced, like your private code folder, presentations, etc. (i.e., you can use or share these things as you see fit).  If you are going to work at a company, I do not expect that you would make such a request. I would also be hesitant to grant such a request for students moving on to big companies.  I will disable your software accounts (box, slack, OneNote, etc.) shortly after your last day.  Please delete all nicholgroupur and urqdots chrome profiles on your personal computers, and do not log in to any of the shared google accounts after you leave.  Make sure all lab notebooks (especially fab notebooks) and fab tools are in the lab before you leave.  Turn in your keys to the keys drawer before you leave.  If possible, please provide an email address that we can use to contact you in case questions arise.
 
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>When a group member graduates, as a PhD or as a Master, the group member’s contributions should be celebrated in a group event. The group social chair should take the initiative in organizing this event. The group event may be a shared meal, a potluck, a board games party or any other appropriate activity. Regardless of how a group member exits the group, steps should be taken with cooperation from the departing group member to ensure that any useful skills or knowledge developed by said group member will remain available to the group. ❖ Before the group member physically leaves (ideally as soon as an exit is planned), the supervisor, the departing group member and any in house collaborator (e.g. co-authors on papers) should meet and agree on what needs to be documented in writing and what needs to be passed on in training. ❖ To ensure completeness, the written documents should be read and understood by the professor and continuing group members.
+
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
 >
@@ -189,3 +209,18 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >      agreed place, and its README says where.
 >- [ ] Each README and lab notebook is up to date enough for someone else to
 >      continue the work without you.
+
+### Canada
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/04-policies.md)_:
+>
+>Another difficult situation commonly encountered by students is how to manage the publishing process after you have completed your degree and have moved onto new jobs or opportunities outside the academic environment. Most importantly, every opportunity will be given to lead graduate students to get first author publications resulting from their thesis work. The following guidelines are to help move this process forward and outlines contingency plans in the event this process does not become feasible:
+>* Prior to leaving the lab, a 'lingering publication plan' will be discussed in the exit interview;
+>* If a paper draft is not adequately prepared up to 3 years after the end of data collection, a conversation will be initiated to re-assign the project to a different student lead to expedite the publication;
+>* If a student willingly relinquishes responsibility to finish a paper, Jason will re-assign the project to a different student lead.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/10-offboarding.md)_:
+>
+>After leaving regular hours in the lab, it can be very difficult to find time to put the finishing touches and making major revisions after reviewer feedback. In light of this, before students leave the lab, we will arrange a personalized paper writing plan that works best for the student. A general approach is listed under the lab 'publishing-policy.md' document, which is subject to personalization depending on the student and scope of the project.
+>
+>### Exit Interview
+>Prior to leaving the lab, I will ask to have a final debrief meeting with you to review your experience working with the group.

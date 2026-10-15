@@ -58,6 +58,10 @@ Lab members are often considering academia as a potential career. It informs tha
 >
 >Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
 
+>_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
+>
+>At some point, you will likely be asked to provide a figure or two for a grant Mariam is writing, and/or provide feedback on the grant. You are entitled to read any grant Mariam has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see her vision for the lab in the years ahead. Ask Mariam to see any of her grants.
+
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
 >
 >We keep copies of funded and unfunded grants in the "Grant proposals" project on Asana.

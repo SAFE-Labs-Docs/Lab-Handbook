@@ -98,6 +98,16 @@ Science is an international endeavour, which brings together people from many cu
 >
 >Diverse communities are better equipped to adapt to change and solve unexpected challenges, [in biology](https://www.gutenberg.org/ebooks/1228) as in [science](https://doi.org/10.1073/pnas.1915378117), [business](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation.aspx), and [human societies](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse) at large. MsEE Lab encourages diversity and understands that its resilience as a community depends on its diversity. By increasing the breadth of our experience pool, we increase the breadth of problems we are aware of, questions we can tackle, [solutions we can develop](https://doi.org/10.1073/pnas.1915378117), and people we can communicate with.
 
+>_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
+>
+>To specifically amplify the work of researchers from underrepresented groups, we've committed to
+>      - Discussing an article about systemic barriers or racism at least twice a year during lab meetings. Everyone is encouraged to lead a discussion
+>      - Engaging in a lab discussion regarding systemic problems within the field of ecology and evolutionary biology or within graduate school (i.e., decolonizing conservation, systemic barriers and racism within the field of ecology, history of racism against BIPOC communities in genomics)
+>      - Prioritize the citation of underrepresented authors in our writings
+>      - Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
+>       - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.
+>       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
+
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >

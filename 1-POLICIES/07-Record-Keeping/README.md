@@ -87,6 +87,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >For results to be reproducible, the analysis pipeline must be organized and well documented. To meet these goals, you should take extensive notes on each step of your analysis pipeline. This means writing down how you did things every step of the way (and the order that you did things), from pre-processing, to running models, to statistical tests. You should take detailed notes on your experimental design as well. Your code should also be commented, and commented clearly. We all know what it’s like to sit down, quickly write a bunch of code to run an analysis without taking time to comment it, and then having no idea what we did a few months down the road. Comment your code so that every step is understandable by an outsider. Finally, it is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub) to keep track of what code changes you made and when you made them, as well as sharing code with others. The lab’s GitHub is https://github.com/alylab.
 
+>_[BacklundGroup_2026](https://backlundlab.scs.illinois.edu/files/2025/01/Backlund-Group-Expectations-vJan2025.pdf)_:
+>
+>Lab notes: Students are expected to maintain a daily record of their research. Some days it may make sense to handwrite notes in a physical notebook, while other days the most efficient record keeping method might be to take typed notes with interleaved screenshots. Students should maintain both a dedicated physical notebook for written record keeping and a dedicated Box folder to store digital notes (save, e.g., as Word documents). These notes must be sufficiently well-organized such that a future lab member can reasonably follow your prior work.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >You should treat GitHub as a digital version of a “lab notebook”
@@ -204,8 +208,3 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >　個別引用が不明瞭になる
 >
 >したがって、「1データセット＝1リポジトリ」を基本原則とする。
-
-### Unite tates
->_[BacklundGroup_2026](https://backlundlab.scs.illinois.edu/files/2025/01/Backlund-Group-Expectations-vJan2025.pdf)_:
->
->Lab notes: Students are expected to maintain a daily record of their research. Some days it may make sense to handwrite notes in a physical notebook, while other days the most efficient record keeping method might be to take typed notes with interleaved screenshots. Students should maintain both a dedicated physical notebook for written record keeping and a dedicated Box folder to store digital notes (save, e.g., as Word documents). These notes must be sufficiently well-organized such that a future lab member can reasonably follow your prior work.

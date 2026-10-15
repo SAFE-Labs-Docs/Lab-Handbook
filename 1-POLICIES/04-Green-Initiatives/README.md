@@ -69,6 +69,8 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Please take climate concerns into account when planning conferences. If the choice is between two equally relevant conferences, and one can be reached by train whereas the other requires flying - consider prioritizing the one that can be reached by train.
 
+>_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_: In the lab, we recognize the climate emergency and try our best to be mindful of our carbon footprint. That means to take the train whenever you can, even if it costs a bit more. That does not mean flying for conferences is necessarily out of the question, but we have to do so deliberately: it has to be a really valuable opportunity, and we should plan ahead to make the most of it (including a workshop, other local talks or events etc.).
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: We actively work on making academia [a more sustainable place](https://anneurai.net/green-neuroscience/). [In line with Leiden University's polies](https://www.universiteitleiden.nl/en/dossiers/the-sustainable-university/sustainable-campus/mobility) I encourage travel by train, and may prioritize certain conferences based on their accessibility by train.
 >
 >For projects that require significant resources (usually either in the lab or computing), I encourage discussing ways to minimize the environmental cost of our research.

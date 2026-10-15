@@ -34,6 +34,8 @@ Career progression, grants, and competitive applications often require reference
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Lab members may request reference letters from their supervisor/line manager/PI at least 2 weeks in advance of the deadline. In principle, supervisors should comply with such requests - time permitting. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided.
 
+>_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_: In general I am happy to provide you with a reference, so do not hesitate to ask (or to send reminders!). It helps if you can be quite detailed about the format, the deadline and where/how to send it. Needless to say, I can only provide references for the skills and abilities I have had exposure to. If you know in advance of your stay you will be needing certain skills or experience, let me know at an early stage so we can integrate that into your training.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ To guarantee that Pip provides your letter, **you must give at least 2 weeks notice**. 
 >

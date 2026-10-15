@@ -66,3 +66,6 @@ Thankfully, awareness and support for mental health issues within work environme
 >- If you are **off campus**, call 911
 >
 >Even if your phone is out of service, 911 operators can still be reached.
+
+### Belgium
+>_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_: The main reason for setting up a lab philosophy document is to make things discussable, and provide a frame of reference for the insecurities and uncertainties we might have (I sure have them!). Academia can be a stressful environment. The competition can be fierce, and the expectations can be vague. We also each have a personal story that might sometimes feel less compatible with our professional life. If you experience negative feelings that affect your general wellbeing at work, you are encouraged to share those feelings with your PI (if considered helpful), but also with close colleagues, the faculty’s or department’s trust person, professional help, or anyone else that can be of help.

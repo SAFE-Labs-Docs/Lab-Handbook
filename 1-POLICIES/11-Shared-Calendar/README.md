@@ -31,6 +31,13 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >- Stay up-to-date regarding lab meetings and talks 
 >- Stay up-to-date regarding animal care 
 
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/17/general-onboarding-document/)_: We have a group mailing list, a Slack workspace (phase-lab.slack.com), a group TimeTree calendar, and a shared server.
+>- Emails will be sent about important updates or information (in German and English), please also use email as a default to send me documents or requests that require more than a quick response
+>- Slack is for contacting other people in the lab with short questions etc. (to replace needing to use Whatsapp or texting)
+>- The server is for accessing and storing documents, data and information for our research projects
+>- TimeTree is for putting in when you have holidays, sickleave etc. to let other people in the lab know and for planning purposes
+>- Dominik Fischbach is in charge of IT/computer support and will give access to the server and mailing list, I will send a Slack and TimeTree invitation.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Science is collaborative and it’s important to know when people are present. Every lab member is hence requested to add to the Lab Calendar when they’re on vacation or at a conference. Short absences, e.g. to go to the bank, do not need to be communicated unless they happen during scheduled meetings such as the weekly lab meeting. Absences of full days and more need to be added. The main purpose of this is to organize the work with your colleagues and so we don’t panic when we don’t see our colleagues for a few days. The lab calendar also contains information about deadlines for conference applications, lab meetings and institutional seminars. Further calendars to book setups, for lecture schedules and to see when Katja is available are shared in more detail in the lab internal Handbook.
 

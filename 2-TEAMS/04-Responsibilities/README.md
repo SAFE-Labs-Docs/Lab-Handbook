@@ -63,6 +63,17 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ### United Kingdom
 
+>_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_: Support group members scientifically, emotionally and financially.
+>- Be available both in person and via electronic communication, including regular meetings to discuss work and anything else group members would like to discuss.
+>- Provide a broad perspective on work within the context of the group and the general direction of science.
+>- Provide timely feedback on drafts of manuscripts, talks, grant proposals, etc.
+>- Help identify next career steps, whether inside or outside academia, and provide support towards them.
+>- Identify training opportunities and conferences and support group members in making the most of them.
+>- Point out grant and fellowship opportunities and support applications to appropriate ones.
+>- Care for group members’ mental and physical well-being, and prioritise it above anything else.
+>- When changing priorities, communicate this to others whose work is affected.
+>- Model the group’s values: share problems and incomplete work openly, ask for help, and show that this is how we work at all levels.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.
 >
 >We have several general lab support duties distributed among all the group members. The up-to-date responsibility list can be found here: link not public. It is important that you let the responsible person know about something running low or equipment broken well in advance.

@@ -94,3 +94,12 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >	- Storing, transferring, or discarding your remaining samples, supplies, and desk items
 >	- Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
 >- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.
+
+### Spain
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_: 
+>- [ ] You have discussed with the PI, well before your last day, how each of
+>      your projects will be handed over.
+>- [ ] Every project, `data/` included, has a final complete backup in the
+>      agreed place, and its README says where.
+>- [ ] Each README and lab notebook is up to date enough for someone else to
+>      continue the work without you.

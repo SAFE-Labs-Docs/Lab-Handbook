@@ -29,6 +29,12 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >The supervisor, and lab member, both have responsibilities during this meeting. In brief: both parties should add discussion points to the meeting page throughout the week, and then during the meeting, they should go over these discussion points and update the to-do list. After the meeting, the lab member should write a summary of the meeting (100-200 words).
 
+>_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_: Individual meetings with your supervisor (at least one hour per week)
+>
+>Each group member has at least one dedicated hour per week of their supervisor’s time. The default is a meeting, but you can use this however is most useful — a code review, written feedback on a draft, or skipping it entirely if you don’t need it that week. These meetings are also the place to discuss career development, training, and any institutional or personal matters. If you want feedback on something specific, share it at least a day before the meeting.
+>
+>We maintain a Google Doc (or similar) for ongoing notes — updated every meeting with a short summary of discussion and action points.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Keep a record of our meetings (what we discussed and decided on) where we can both access them (Teams).
 >
 >For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
@@ -37,3 +43,11 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_: All meetings start with a brief overview of the meeting agenda. Pablo will take notes of meetings and share them with participants through Google Docs. Other participants are encouraged to take notes of their own and/or complement the Google Doc to clear any misunderstandings. If a participant would like to record the meeting or use a note-taking app, they may do so with the consent of all other participants. Meetings (and notes) include agreed-upon action items to prioritize before the next meeting. These action items are set by participants through backwards design by reviewing the goals of the participants or group present and setting a course of action towards them.
+
+### Spain
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_: 
+>- **The last five minutes produce a to-do list**: what you will do before the
+>  next meeting. The PI keeps these lists as a running, dated record, newest
+>  first.
+>- **The next meeting opens by reading that list back**: what got done, what
+>  didn't, and why.

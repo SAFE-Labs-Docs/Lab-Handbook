@@ -26,6 +26,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/):_ Authorship vs acknowledgement is not always obvious in advance, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy (https://credit.niso.org/). For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the PI, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
 
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/16/authorship/)_: In my opinion, all contributions to a scientific paper should be acknowledged with co-authorship. Worrying about the contribution to the writing itself is old-fashioned and limited, and I have yet to see any particularly strong argument for excluding technicians, e.g. “just because they did the technical work” or “because they don’t need papers for their job evaluations”. Input and discussion of ideas, project implementation, technical assistance, supervision, data collection, statistical analysis, writing and critical revision of the manuscript, these are all potentially grounds for authorship. We don’t lose out by including more authors, particularly if all contributions are detailed to allow for a detailed dissection of who did what for each project/paper. “Gift” authorship is not okay – including people as co-authors who really did not contribute at all. But realistically, I feel this is less of a problem in our current system than under-acknowledgement of research contributions with co-authorship, particularly when under-acknowledgement disproportionately affects people from demographics which are currently underrepresented at higher academic levels.
+>
+>Although not all journals require an “Author Contributions” section, I do see this as a way forward to appease academics with more conventional ideas of what “authorship” should entail, as well as giving fair credit to everyone involved in the project. Hence, for my research group, please just always include this section in the manuscript submission, whether it is asked for or not. I would hope we can also have frank and open discussions about contributions to each manuscript and hence author order. I may not always get this right! I may not directly oversee every stage of the project, and may just have a general idea of who was involved with each step, so please bring this up if you are even slightly concerned or feel it may be unfair.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is impossible to do modern neuroscience alone. Techniques are too difficult, algorithms too complicated for one person to be able to do everything. In our lab, PhDs and postdocs will have their main project, but everyone will be involved in at least one additional project by contributing specific expertise. Hence, papers with only 2 authors (First + PI) will be impossible or at least extremely rare. We also don’t believe in authorship gatekeeping or that papers are worth less if there are more authors. The following steps are taken for transparent authorships:
 >
@@ -45,6 +49,14 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/):_ Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
 
+>_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_: Authorship on any work will be openly discussed in lab meetings and should include everyone who
+> contributed significantly to the work being presented. Where conflict arises, Jon Hill will facilitate
+> discussion to resolve the conflict.
+
+>_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_: We err on the side of inclusion when not sure if someone’s contributions warrant authorship, but don’t award authorship based on friendship, reciprocity or seniority. While authorship does not require writing any of the paper, we will share drafts and submitted version with all coauthors and give opportunities for critical input. If in doubt, we give more time.
+>
+>For any group publication, group authorship should be agreed based on the value and volume of each person’s contribution, with more supervisory roles towards the end. Where an order between co-authors cannot clearly be resolved we will randomise the order.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: According to the criteria recommended by the International Committee of Medical Journal Editors (ICMJE), to qualify for authorship, individuals must meet all the following conditions:
 >- Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data;
 >- Drafting the work or revising it critically for important intellectual content;
@@ -62,3 +74,27 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: We follow [ICMJE authorship guidelines](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two). Authorship is granted when the paper could not have happened without their contribution. This could be a substantial intellectual, data collection, analysis, or data sharing contribution. All authors are expected to contribute to manuscript writing, editing, and journal revisions.
+
+### Australia
+>_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_: Current standards for authorship (such as by the [International Committee of Medical Journal Editors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) and the [American Psychological Association](https://www.apa.org/research/responsible/publication)) require a writing contribution to the research publication. Instead, the PALM Lab believes that **all researchers contributing to a scientific publication should be recognized** ("a contributorship model"), and adopts the [Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/) to assign credit and authorship. CRediT lists 14 research roles that contribute to research outputs, listed below with brief explanations as how they might pertain to the PALM Lab:
+>
+>* **Conceptualization** - The **formulation** or evolution of overarching research goals and aims.
+>* **Data curation** - Data **management**, including generating metadata, cleaning and maintaining research data
+>* **Formal analysis** - Application of statistical, mathematical, and/or computational techniques to **analyse experimental data**.
+>* **Funding acquisition** - Acquisition of the financial support for conducting the research
+>* **Investigation** - **Conducting the experiments** for data collection
+>* **Methodology** - **Design** of the experiment
+>* **Project administration** - **Coordination** of the research activity
+>* **Resources** - **Provision** of any equipment
+>* **Software** - **Programming** and testing of experimental code.
+>* **Supervision** - **Oversight** for the research activity, including mentorship.
+>* **Validation** - **Verification** of the overall reproducibility of results/experiments.
+>* **Visualization** - **Preparation** of the published work, specifically data presentation.
+>* **Writing -- original draft** - Preparation of the initial draft.
+>* **Writing -- review and editing** - Critical review, commentary or revision.
+>
+>The standard for authorship on any research publication from the PALM Lab is to have adequate involvement in **at least one** of the above roles, with the following as minimum requirements:
+>
+>* **Investigation** - The researcher was responsible for data collection of at least a third (1/3) of the sample size in any experiment. (Assistance with EEG preparation does not count towards this.)
+>* **Validation** - Conducted code review at least once, producing a report on the computational reproducibility of the results and experiment.
+>* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.

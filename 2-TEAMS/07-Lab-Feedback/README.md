@@ -65,3 +65,7 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >6. The lab discusses potential improvements on lab management and mentorship practices, including changes to the MsEE Lab Handbook, and defines action items to be pursued next (~15 min).
 
 >Notes and results of this meeting are communicated in writing to all lab members by Pablo.
+
+>_[PoldrackLab_2026](https://poldracklab.github.io/labguide/environment/survey.html)_:
+>
+>In order to ensure that the environment remains welcoming and productive for everyone, we will conduct a yearly survey of lab members regarding the lab environment (link to example). This survey will be completed at the end of the Spring Quarter (in June).

@@ -110,6 +110,16 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >
 >d. Everyone in the Kawahara Lab is entitled to have a virtual workspace in the Kawahara group on the HiPerGator cluster. They are expected to clean/organize their files before graduating/leaving the Kawahara Lab and delete any unneeded files. The Kawahara Lab has limited computing resources and all users should be mindful of not wasting those resources.
 
+>_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
+>
+>Computers. All full time members of the Kleiner Lab have high-performance laptops provided for them to assist in completing their research.
+>
+>High-performance computing resources. The Kleiner Lab owns two high-performance standalone computers (12 cores, 96GB memory, 15 TB hard drive space including SSD drives), which are used for proteomic data processing and analyses. The Kleiner Lab also owns two servers (512 and 768 GB of memory, 56 and 128 threads) for tasks that are memory or computationally intensive such as assembly of metagenomes. These servers are available to all team members working with large genomic, metagenomic, metatranscriptomic, and (meta)proteomic datatsets.
+
+>_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
+>
+>Everyone who works full-time in the lab is entitled to a desk in some sort of office. These will be rotated periodically to help ensure equitable assignment of locations. If you are not happy with the current arrangement let me know and I will try to address it. If your work setup is ergonomically suboptimal, let me know and I will try to rectify.
+
 >_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
 >
 >As a general policy, assignment of desk space is based on seniority. As space opens up, I reach out to those who have been here the longest to offer them the option to move their space. Other lab spaces are shared, and I ask that you not store personal belongings (bikes, equipment, plants, etc) in the lab, unless you can place them at your desk.

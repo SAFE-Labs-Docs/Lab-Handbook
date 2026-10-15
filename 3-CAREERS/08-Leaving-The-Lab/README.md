@@ -27,6 +27,12 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- Flag any barriers to project completion. If there are factors that may prevent you from completing outstanding work after you leave (e.g., loss of software access, data access restrictions, time constraints) raise these with [the PI] as early as possible so we can work around them together.
 >- Ensure you have collected any personal belongings from the lab, and that all equipment that you have used is cleaned, in working order, clearly labeled, and stored in the proper location.
 
+>_[BHKLab_2026](https://github.com/bhklab/handbook/blob/main/docs/onboarding_offboarding/Offboarding/index.md)_:
+>
+>Members leaving the lab will prepare a single digital parent folder containing all ongoing and completed project work.
+>This prepared folder will be shared by the outgoing lab member with the assigned lab staff member, in addition to at least one (1) topic expert (e.g. their mentor/supervisor) involved in each project included in the prepared folder.
+>If you have any open pull requests or working branches on any BHKLab project repositories, push the latest local commit you have. If the branch does not already have an open pull request, create a new pull request. Leave a comment on the PR describing what stage the branch is at and what next steps need to be taken. Assign the PR to the repo owner, whoever is taking over the project, or your mentor.
+
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >I expect postdocs will be lead author on anything they produce in the lab. However, I will enforce a policy where they are expected to continue working on writing up and publishing research results after leaving the lab. If, six months after the end of data collection and leaving our lab, you are unable to continue working on publishing research projects, I or another lab member may step in and complete the write-up process. This might involve including new authors or changing order of authorship to reflect the contribution of people involved in completing the write-up process.
@@ -290,6 +296,10 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
 >
 >Usually, the first author has played the lead role in project execution, takes the lead in writing the manuscript, and continues these responsibilities during revision process. I expect all authors to read and provide comments. It is expected that the first author will continue to take primary responsibility even after they have left the lab. If substantial writing or other responsibility shifts to a co-author, then the order of authorship may change as the paper undergoes revision.
+
+>_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
+>
+>For many reasons, you might consider leaving the lab. Maybe this type of research is not what you are looking for, maybe you are considering a career switch, maybe your interests have changed, or maybe you don’t like the lab culture. Don’t keep this to yourself but discuss it with me. I will not take it personally and I will do my best to help you. I might introduce you to others. I might help you reflect on the various options. If you decide to leave, we will discuss how you can potentially still get a paper out of your work in the lab.
 
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >

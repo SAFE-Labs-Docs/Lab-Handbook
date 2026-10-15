@@ -38,6 +38,22 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Weekly Progress Meetings: We have weekly meetings where people present one experiment they worked on during the past two weeks. The goal is not to present all the work that was done. Presentation of negative results is perfectly adequate. If a person did not work in the lab the last two weeks, they can present a future experiment they want perform, a new idea they want to share or an interesting experiment from a paper they recently read. The presentation is not formal; best is to simply show the “labbook” entries limiting the talk to maximum 5 minutes, thereby allowing plenty of time for discussion. Each person presents every two weeks. The goal is to better know what each person is doing, allow more people to gain knowledge in various experimental approaches and exploit the collective intelligence of the group to get feedback.
 
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/Basics/labActivities.md)_:
+>
+>Journal club is an opportunity for the lab to discuss recent papers published in the field with your study lead (graduate student/post-doc). During journal club, students will present and critically analyze a research paper.
+>
+>- Each independent study/thesis student will present 1 paper to their study lead.
+>- The paper will be assigned to the student.
+>- The student will then briefly present the paper to their study lead at a time decided by the study lead.
+> - PowerPoint slides are not permitted; students only need to describe the paper verbally in a 3-minute maximum presentation.
+>- After the presentation, the study lead and other team members will have an opportunity to ask the student questions about the paper and engage in discussion.
+>
+>**Article Requirements:**
+>- Empirical research articles or review papers. Commentary articles, reports, or correspondence articles do NOT qualify.
+>- Articles published in the past 3 years.
+>- Articles never presented at our journal club before (check the Journal Club channel on Teams for previously presented papers).
+>- Articles that lab members did NOT contribute to.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >We hold a 1.5 hour lab meeting every week. The weekly meeting consists of core lab members (Me, graduate students, postdocs and honours students, when possible). Occasionally, other members will be invited to attend as well. The purpose of these meetings is to discuss current projects, to engage in debate or discussion about topics in the literature, and to plan future studies. Mostly, the purpose of the lab meeting is to solve problems. We meet in room 5017 WIRB. I usually schedule lab meetings at a time that is convenient for the maximum number of people. This varies by term, and it may vary even by month. We don’t usually meet as often in the summer.
@@ -441,6 +457,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Postdocs + Research Scientists + Jose lunch, every 3 weeks
 >- Student Informal Prez w/ Postdocs, w/o Jose (1.5 hrs, 1 per mo)
 
+>_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
+>
+>Lab retreats. We engage in lab retreats twice a year centered around research presentations, project feedback, and brainstorming. All members of the lab attend these 2-3 day retreats, one of which is local and the other is a destination. During these retreats, we engage in team building activities, such as lab olympics.
+
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >
 >- Lab meetings – Grad students and postdocs will be expected to lead (at least) one lab meeting/quarter. If materials will be discussed at lab meeting (i.e. paper, or draft) then these need to be sent around to everyone at least 5 working days prior to lab meeting. You are always expected to participate in and contribute to discussions during lab meeting.
@@ -500,6 +520,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Lab meetings (~1 hour) are scheduled at the same time every week during the semester and are held in person in Lutz 440. Lab meetings are usually the only time all of us are gathered in person, so it’s our weekly chance to connect with and learn from each other—and grow as a lab community.
 >    Any lab member can set the agenda, but every meeting needs an agenda. Typically, the person who sets the agenda will run the meeting, but they can also invite a guest speaker based on a topic of their choosing. Leading is like being the moderator in a conference talk. You don’t have to create content, but you’re in charge of making sure the meeting is instructive. Meeting agendas should be posted on Notion at least 5 days ahead of the meeting time so lab members can prepare appropriately.
 >    Lab meetings follow a rotating list of topics based on a monthly schedule, starting from the first week of the month: Journal Club, Didactics, Project Discussion, and remaining weeks are “Wild Cards.” Lab members take turns to choose topics so that everyone has a chance to lead a meeting.
+
+>_[PoldrackLab_2026](https://poldracklab.github.io/labguide/environment/expectations.html)_:
+>
+>All researchers in the lab are expected to attend the weekly lab meeting, except in cases of unavoidable conflict (such as course scheduling). It generally lasts 1-2 hours and all the members are invited to share the main activities of the last week. Additional activities at the lab meeting include: presentations of research projects or data; talks by external speakers; discussions of specific research papers; code reviews in which a lab member’s code is reviewed online with a focus on refactoring.
 
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/07-communication.html)_:
 >

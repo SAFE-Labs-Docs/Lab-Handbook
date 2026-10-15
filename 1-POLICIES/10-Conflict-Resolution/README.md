@@ -165,6 +165,14 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >Disagreements, misunderstandings, and conflicts within a group sometimes happen. Early and authentic communication are key to resolving issues and minimizing conflicts. If you have concerns about your interaction with me or with anyone else, please don’t hesitate to come talk with me.
 >- If you wish a conversation to remain confidential, please be sure to indicate that at the start of the conversation. I will endeavor to respect this request, and if I am unable to do so I will let you know.
 
+>_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
+>
+>Despite our best efforts, conflicts or tensions can arise. Primarily, I hope that we can resolve conflicts and tensions directly with each other, by de-escalating, listening to each other, and taking a step back from what caused the conflict.
+>
+>Problems in relationships tend to be easier to solve before they fester, and I am always available to listen, provide advice, and mediate if useful. I encourage you to talk to me if you have issues with a fellow lab member.
+>
+>Outside of the lab, there are other resources, which are particularly useful if your conflict or tension is with me. If you are a PhD student, the members of your thesis committee and the Director of Graduate Studies are your main resources. They could advise you confidentially, and in some cases might mediate. If you are not a PhD student, your best bet is to seek out a trusted faculty member other than me. Sometimes, previous mentors can be very helpful in a consulting capacity, but if they don’t know me and are in a different institution, that limits what they can do. You could also approach the Director of Graduate Studies, who often cares about the lab environment more broadly, or the Department Chair (Marjorie Rhodes in Psychology and Andre Fenton in CNS).
+
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
 >
 >We will all try to communicate issues promptly with respect and professionalism. Then listen actively. If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps o Observations (I see…) o Feelings (I feel…) o Needs (I need…) o Requests (Would you be willing to …) Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions If a problem persists, we will consider inviting a mediator

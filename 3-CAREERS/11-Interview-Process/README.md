@@ -105,6 +105,14 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >It is useful to have a core, fixed set of questions or topics to discuss with different candidates.
 >This doesn't mean the conversation can't wander, but it promotes fair comparisons.
 
+>_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
+>
+>To ensure equality and fairness, most lab members will participate in the recruitment and hiring process of new lab members. At least two members of the lab will participate in the hiring process with our PI, but all members of the lab will get the opportunity to share feedback about prospective members.
+>
+>For prospective members, we use the following guiding principles:
+>- Postdocs and employees. Employee hiring will follow relevant university guidelines, but will generally include application screening, screening interviews, and formal interviews. Postdocs are generally hired as employees and should contact our PI to express interest.
+>- Graduate students. We welcome graduate students from a variety of graduate programs across NC State. Prospective graduate students will participate in a formal rotation working with lab members. Rotating students are included in group activities and day to day functions such as group meetings and journal clubs. Rotations typically conclude with a final presentation to the lab.
+
 >_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
 >
 >When we are looking for students to hire in the lab (typically a month before the start of the fall and spring semesters and occasionally a month or so before the summer starts) we look through the responses to the form and the resumes and pick students to interview before selecting typically 1-2 students per term/summer session.

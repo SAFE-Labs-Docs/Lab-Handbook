@@ -151,6 +151,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- **Project Ownership:** Every PhD student and postdoc has their own project. First projects for each trainee are initially proposed by me and then designed and implemented with my input. Postdocs may propose their own first project if they choose. Second projects are then proposed by the trainee. You are the driving force behind your project, taking ownership of it and all related elements. Plan ahead and be proactive.
 >- **Project Assistance:** Technicians and undergraduate students will help with one or more ongoing projects in the lab. Technicians can expect to contribute as a co-author on at least one paper. Technicians are expected to help manage the lab as well. Undergraduate students will be considered for co-authorship if their contribution meets our guidelines discussed below.
 
+>_[ARFC_2026](https://arfc.github.io/manual/expectations)_:
+>
+>It is your responsibility to work with Katy to identify a research topic, identify research milestones and goals, plan your timeline toward progress, plan for conference submissions, prepare for manuscript submissions, prepare for your thesis proposals and defenses, etc. Get a calendar, consider a task manager, create a GANTT chart… whatever works for you. If at some point it seems like you don’t have a plan, I will suggest all of these things.
+
 >_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
 >
 >- Training:
@@ -215,6 +219,12 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >## 4. Professional development (10% effort)
 >1. Learning new technical skills (e.g. programming)
 >2. Other career development opportunities
+
+>_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
+>
+>Established training procedures in the lab for equipment and proteomics pipeline: watch (watch an experienced person), do (with supervision of an experienced person), teach (teach another, less-experienced person)
+>
+>Established standard operating procedures (SOPs) to maintain continuity within the lab. SOPs are updated on a regular basis with input from multiple people in the team.
 
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
 >

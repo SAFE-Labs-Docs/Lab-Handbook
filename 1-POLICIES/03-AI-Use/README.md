@@ -15,7 +15,17 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 
 ## Examples
 
+### Australia
+
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/04-use-of-ai.md)_:
+>
+>This is the part that matters most given we work with children's and families' data. UNSW has activated **Microsoft Copilot with Commercial Data Protection** for everyone with a zID — this is currently the only generative AI tool that's appropriate for anything involving UNSW research data, because inputs aren't used to train external models and are covered by UNSW's data agreements. Consumer tools (a personal ChatGPT/Claude/Gemini account, browser extensions, random "AI note-taker" apps) are not appropriate for anything containing participant data, even de-identified data, unless you've specifically checked with Bridget and the lab manager first. When in doubt, treat it like you would any other cloud service you haven't vetted — don't put lab data into it.
+
 ### Canada
+>_[CastoriniLin_2026](https://github.com/castorini/onboarding/blob/master/ura.md)_:
+>
+>If you ask a coding agent to do everything for you (and yes, a modern coding agent can easily speedrun the entire sequence), then it's likely that you'll miss much of the intended learning. Use the agent to help you, not to do everything for you. Remember, you are solely responsible for understanding what you're doing and accountable for everything that you and your agent do.
+
 >_[EvendenLab_2026](https://grad.biology.ualberta.ca/evenden/lab-code-of-conduct/)_:
 >
 >In the Evenden Lab, GenAI cannot be used as a ghost writer. It should not be used to generate code for statistical analyses or original written work or images. We do not upload our data sets to GenAI tools that share files. It can be used for troubleshooting and copy editing.
@@ -62,6 +72,20 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >
 >In general, I prefer that you develop initial versions of all study documents and obtain input from the study team, and then am comfortable with you using generative AI to refine protocol documents, interview guides, participant or eligibility surveys, recruitment materials, clean deidentified transcripts, or consent language for the IRB. I fully expect that you do your due diligence and take the time to carefully review any content generated from AI, and then edit it to accurately reflect the work we do. You should never put any identifiable information into generative AI.
 >When it comes to scholarly products and dissemination of our research (e.g., manuscripts, presentations), I am more cautious about if and how AI can be used due to difficulties maintaining research integrity and recognizing infringements on others’ intellectual property. We do not want to inadvertently propagate misinformation, or worse – engage in any research misconduct. Do not use AI in the preparation of scholarly products for dissemination (e.g., editing text for grammatical correctness or clarity) without discussing it with me first. Be aware that publications, medical organizations, and conference organizers have different norms and policies on if/how AI can be used to prepare scholarly contributions. Unacknowledged or inappropriate use of AI in manuscripts, grant applications, or presentations is considered plagiarism/ misconduct.
+
+>_[AneGroup_2026](https://github.com/cecileane/ane-group-guidelines-expectations/blob/main/generativeAI.md)_:
+>
+>Generative AI is incredibly useful. Overarching guidelines:
+>1. use it to be more productive
+>2. question everything, check accuracy, take full 100% responsibility for the outcome
+>3. don't use it to skip learning
+>4. never input confidential information, such as data or unpublished manuscripts
+>
+>For #2 specifically:
+>* check any code produced by generative AI: accuracy is paramount
+>* review all writing produced by genAI: you will be the author in the end
+>* as everything, *document*: before you start using AI, document the tool version, document how & why you use it, save your prompts. You will need this information.
+>* disclosure: write an AI statement to disclose your use of generative AI, to be included in any resulting publication.
 
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/ai-policy.html)_:
 >
@@ -127,6 +151,16 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >APS, NSF, and NIH all have guidelines about appropriate use of AI. The primary concerns are the following.  An AI cannot be held responsible for any errors. As such, it cannot be credited with authorship. This means that any errors introduced through the use of AI, such as plagiarism or incorrect calculations or citations, are the responsibility of the human authors.  Any information you upload to an AI is effectively in the public domain. At a minimum, it means you cannot upload confidential documents like papers or proposals that you are reviewing, for example. However, it also means that the draft of the paper you just uploaded for editing is no longer confidential. My current guidance is the following:  Substantial parts of papers should not be uploaded to an AI before publication.  If you use an AI for any part of the writing process, please let me know.
+
+>_[PoldrackLab_2026](https://poldracklab.github.io/labguide/research/ai_policy.html)_:
+>
+>AI tools may be used for any part of the research process except for the drafting of narrative text for manuscripts or grant proposals. Lab members are expected to manually draft all of the text that they put into a paper or proposal; no copying and pasting of text directly from an LLM is allowed without explicit discussion and agreement.
+>
+>When using AI tools in the research process:
+>
+>- AI tools may be used to create schematic figures but the accuracy of the figure must be double-checked and confirmed.
+>- AI tools must not be used to directly generate data figures; instead, the AI tool should be used to generate code that will create the figure in a reproducible and auditable way.
+>- AI tools should not be used to generate reference lists.
 
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/appendix-a-meetings.html)_:
 >

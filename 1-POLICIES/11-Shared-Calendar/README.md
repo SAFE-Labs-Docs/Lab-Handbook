@@ -18,6 +18,12 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 
 ## Examples
 
+### Canada
+
+>_[BHKLab_2026](https://github.com/bhklab/handbook/blob/main/docs/General/Communications/bhklab_calendar.md)_:
+>
+>Mark any BHKLab events that BHK is not attending as "Free" rather than "Busy". Mark away-time events (e.g., vacation, conference travel, or other absences) as "Free". These settings keep everyone's availability accurate and avoid scheduling conflicts.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -111,6 +117,10 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 >- Aly Lab – Travel Schedules calendar: used to indicate travel dates (e.g., “Mariam away” for August 1-7), so that other people know when you aren’t available. You are not obligated to put down your travel dates, but they are useful for planning purposes (e.g., Mariam will know not to bother with lab meeting if no one is around; or if she is writing a grant, it helps to know if you won’t be available to provide data). Putting your travel dates down also ensures that Mariam won’t bother you with emails or Slack messages during your time away!
 >
 >- Aly Lab Running Rooms calendar: used to reserve time in the experiment running rooms
+
+>_[ARFC_2026](https://arfc.github.io/manual/guides/communication)_:
+>
+>ARFC has a google calendar. It has various scholarship, fellowship, and grant deadlines that group members might want to be aware of. It also is a great place for group meetings, outings, deadlines, etc.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >

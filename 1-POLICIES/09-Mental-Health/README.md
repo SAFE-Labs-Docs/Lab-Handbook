@@ -72,6 +72,10 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >To share any concerns confidentially, postdocs and staff can talk to [EAP](https://www.umaryland.edu/hr/benefits-and-well-being/well-being/employee-assistance-program/) or [Employee Health Services](https://www.medschool.umaryland.edu/familymedicine/student--employee-health/employee-health-at-campus-health/) and students can talk to [Student Counseling](https://www.umaryland.edu/counseling/) or [Student Health Services](https://www.umaryland.edu/studenthealth/).
 
+>_[ARFC_2026](https://arfc.github.io/manual/expectations)_:
+>
+>Universities are places of growth and challenge. I recognize that times will occasionally be dark or overwhelming. Throughout your group membership, I will match your dedication to your success with support to the best of my ability. When that is insufficient, I am also responsible for pointing you toward external resources and helping you to formulate a plan.
+
 >_[CELPLab_2026](https://github.com/celp-lab/lab-manual/blob/main/code_of_conduct.qmd)_:
 >
 >Working in science can be difficult for one's mental health. We are constantly at the cutting edge, and failure is constant - both in terms of results of our work and rejection in the form of grant proposals and papers. In the modern university, we are also asked to wear many hats, often at the same time. Mental health has long carried a stigma in academia, and it's time to move past that and acknowledge the reality.
@@ -96,6 +100,10 @@ Thankfully, awareness and support for mental health issues within work environme
 >- If you are **off campus**, call 911
 >
 >Even if your phone is out of service, 911 operators can still be reached.
+
+>_[PoldrackLab_2026](https://poldracklab.github.io/labguide/environment/work_life_balance.html)_:
+>
+>Lab members who are seeking time off for health (including mental health) reasons are strongly encouraged, though absolutely not required, to speak with Dr. Poldrack about their concerns. Dr. Poldrack commits to approaching these conversations in a nonjudgmental and empathetic manner, and to working with all lab members to find a solution that works best for them.
 
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >

@@ -104,6 +104,16 @@ Science is an international endeavour, which brings together people from many cu
 >- Access to Mentorship and Resources: We're committed to providing equal access to mentorship, resources, and opportunities for all lab members, regardless of their background or prior experiences. Good mentorship is often the difference between a student who finishes and one who does not, and we take that seriously for everyone in the group.
 >- Open Environment and Dialogue: We’re striving to create an environment where everyone feels welcome and can openly discuss their experiences and challenges. As such, Dr. Chory will be setting up regular check-ins and one-on-one meetings to stay connected.
 
+>_[GlobalCommunityWellnessLab_2026](https://bookdown.org/jordandanielsnyder/LabManual/code-of-conduct-and-policies.html)_:
+>
+>This lab is committed to an environment that is supportive, educational, and empowering for everyone. Thus, this lab is committed to diversity, inclusion, and equity for everyone regardless of group membership. This means the lab actively does the following (but this is a non-exhaustive list):
+>- Jordan seeks out ongoing education on how to work with students who belong to traditionally underrepresented groups in clinical psychology. He welcomes feedback from students, but he does not expect them to teach him how to teach them.
+>- Jordan is committed to the ideas of cultural humility, and he will talk about this in lab quite a bit.
+>- Jordan will seek out funding for students and scholars from traditionally underrepresented backgrounds in the lab’s research.
+>- We prioritize open, rigorous scientific methods, and communicating these results to those we partner with.
+>- We seek to provide a culture of mutual support.
+>- We commit to standing in solidarity with each other when we see discrimination and inappropriate behavior.
+
 >_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/lab-values.md)_:
 >
 >_I will encourage my students to participate in efforts to promote equity and inclusion in the sciences._ This includes, but is not limited to, encouraging them to join UO organizations such as [UOWGS](https://blogs.uoregon.edu/uowgs/) and [CMIS](https://pages.uoregon.edu/cmis/index.html); supporting their participation in Departmental committees like [CBGReAT](https://blogs.uoregon.edu/cbgreat/) and the Diversity, Equity, and Inclusion Committee; funding travel to meetings and workshops devoted to improved equity and inclusion (e.g. [SACNAS](https://www.sacnas.org/what-we-do/conference/), [GRC Power Hour](https://www.grc.org/the-power-hour/)); and inviting students to participate in outreach activities such as [Skype a Scientist](https://www.skypeascientist.com/) and [SPICE](https://www.spicescience.org/).

@@ -157,6 +157,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >- Second chapter ready to submit (ideally submitted)
 >- Third chapter written (does not have to be final form)
 
+>_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
+>
+>Your thesis should have enough material for 2-3 papers. Those papers do not have to be published or even submitted, but often, at least one is. Usually, the thesis has 3 content chapters, preceded by an introduction chapter and followed by a discussion chapter. If you have the contents in near-final form, count 2-3 months of full-time work to finish the thesis.
+
 >_[MoreauLab_2026](https://www.moreaulab.entomology.cornell.edu/joinus)_:
 >
 >You should aim for the goal of publishing most of your thesis research during your time in my lab. This typically consists of three peer-reviewed papers and Ph.D. students in my lab typically begin publishing in about their third year.

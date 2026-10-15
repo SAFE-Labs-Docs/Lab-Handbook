@@ -84,6 +84,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >If you need a letter, notify Mariam as soon as possible with the deadline (see Deadlines for guidance), your CV, and relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements.
 
+>_[BurnsLab_2026](https://burnslab.umbc.edu/mentorship/)_:
+>
+>I am happy to provide letters of recommendation to my trainees, students, and advisees when appropriate. Please provide me with your current CV/resume, information on the opportunities you are applying for (include pertinent dates and any important talking points I should bring up in my letter), the format my letter should take, and where my letter should ultimately be sent. For the most timely response, I require at least three weeks notice before new letters are due.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >Letters of recommendation: Most fellowships require multiple letters of recommendation. As a professor, writing a strong, personalized, and heartfelt letter of recommendation is one of the most important things we do for our students. We take this responsibility seriously and want to ensure we do justice to each student's individuality and character. Therefore, it's crucial to communicate your intention to apply for a fellowship at least one month in advance (if not more) to all your letter writers, including Dr. Chory. This allows us the time and space to craft thoughtful letters that capture the essence of who you are as a person and a scientist, and why you deserve the opportunities that the fellowship can provide.
@@ -100,6 +104,14 @@ Career progression, grants, and competitive applications often require reference
 >_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
 >
 >For the first letter request at a given career stage (e.g., graduate fellowship, postdoctoral fellowship, faculty position), it would be ideal to have 4 weeks notice (but definitely ask if something arises on a shorter timeline). For subsequent requests at a respective career stage, one week notice is sufficient (although more is appreciated).
+
+>_[GlobalCommunityWellnessLab_2026](https://bookdown.org/jordandanielsnyder/LabManual/code-of-conduct-and-policies.html)_:
+>
+>Jordan is very happy to write letters of recommendation for lab members. You will want to make sure that Jordan can write you a strong, well-detailed letter, so ask Jordan ahead of time about this in a one-on-one meeting. Make sure to remember that I appreciate as much time as possible
+>
+>If Jordan agrees, Jordan will provide you with a qualtrics link to upload your CV and answer some questions. Though this form is long, Jordan does it so that he make sure he knows the important details of your work for what you are applying for and that he can write you the best letter possible.
+>
+>The more organized you are, the better. Jordan writes a good number of recommendation letters. He wants to make sure that he does a good job of this, and so feel free to follow up with him.
 
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Recommendation-letters-(non%E2%80%90PhD))_:
 >
@@ -130,6 +142,10 @@ Career progression, grants, and competitive applications often require reference
 >- All letters must be requested at least 3 weeks prior to the due date. Ask Kate (and if appropriate, your supervising grad student/postdoc/tech) whether she thinks she can provide a strong letter. If you give less than 3 weeks lead time then Kate will try to fulfill the request but cannot guarantee that she’ll have time.
 >- If Kate agrees to write a letter, then write her an email that includes what the letter is for, provide instructions on where to send the letter, include your CV/application materials and highlight any details you think might be especially important to mention.
 >- Follow up with Kate about a week before the letter is due to remind her, if she hasn’t already told you that she has submitted the letter
+
+>_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
+>
+>One of my jobs is to write letters of reference. I am always happy to do it. I just ask that you try to give me a few weeks advance notice, and remind me one week, two days, and one day before it is due, to make sure I don’t forget. If you forget to give me much advance notice, it is still fine to ask for a letter. I will do my best to get it done, and if I have already written you a letter previously it may not take much time to adapt it.
 
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >

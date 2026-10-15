@@ -87,3 +87,7 @@ Lab members are often considering academia as a potential career. It informs tha
 >6. The lab discusses potential improvements on lab management and mentorship practices, including changes to the MsEE Lab Handbook, and defines action items to be pursued next (~15 min).
 
 >Notes and results of this meeting are communicated in writing to all lab members by Pablo.
+
+>_[RIPLRT_2026](https://doi.org/10.5281/zenodo.23146333)_:
+>
+>Each RIPLRT member is entitled to read any grant Dr. Rivera has submitted, whether it is ultimately funded or not: all grant documentations, similarly to everything else in RIPLRT, is available intra-lab within our Google Drive. Aside from being a good opportunity to learn how grants are written, this will also allow us to see his vision for the lab in the years ahead.

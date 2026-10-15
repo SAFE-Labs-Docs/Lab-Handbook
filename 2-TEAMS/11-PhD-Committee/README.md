@@ -54,6 +54,14 @@ A PhD steering committee provides independent oversight of PhD student progress 
 >
 >The thesis committee should be convened prior to the Winter Quarter of the PhD student’s second year. The student is expected to consult closely with the advisor about the composition of the committee. The student is encouraged to keep in mind that the advisor has considerable experience with the committee process, and with the individual faculty in the Department. The thesis committee conducts the Qualifying Exam; meets annually with the student to discuss research progress, research plans, coursework, and professional/career goals; and conducts the Oral Exam (i.e., “dissertation defense”) and the evaluation of the written dissertation. Members of the thesis committee may in some cases also be research collaborators, and may also serve as mentors and/or letter writers for applications.
 
+>_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
+>
+>PhD students have yearly committee meetings with a group of 3-5 faculty, including the advisor. These are an opportunity to get outside feedback on your research, and you will generally give a presentation of your work. Advice on what to do to get the most out of these meetings:
+>1. Try to schedule at least a 90-minute block for the meeting. One hour is usually not enough time.
+>2. Prepare at most 30 minutes of material. You will typically be interrupted with questions and suggestions, and so you probably won’t make it through more than this.
+>3. Send me slides in advance to get some feedback, and practice your presentation at least once ahead of time.
+>4. The faculty on your committee will usually both be interested in your work and eager to help, and may have lots of questions/suggestions. To make sure the issues that are most important to you get addressed, have a slide close to the beginning of your presentation where you state the things you would most like feedback on. This can help to focus the discussion to make it maximally helpful to you.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >PhD students should schedule yearly Thesis Committee meetings as outlined by their Graduate Field's Graduate Student Handbook. For more information on expectations, check your Field's handbook ([e.g., the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) and [MsEE Lab's mentorship philosophy statement](https://mseelab.org/mentorship.html).

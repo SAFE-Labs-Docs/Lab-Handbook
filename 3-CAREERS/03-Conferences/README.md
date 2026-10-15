@@ -216,6 +216,14 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >**I will encourage you to attend scientific/professional meetings.** I will not be able to cover all requests but you can generally expect to attend at least one major domestic conference per year, when you have material to present. Securing outside funding (e.g. a fellowship or travel award) will likely enable you to attend additional meetings, especially international meetings. I will work together with you to strengthen your presentation skills.
 
+>_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
+>
+>The lab pays for PhD students and postdocs to attend up to two conferences a year if they present at those conferences. For research assistants and undergraduates, conference attendance is decided on a case-by-case basis.
+
+>_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
+>
+>I will always pay for the first author on a conference presentation to attend the meeting. If you are not presenting as a first author but feel that attending a conference is important, ask me and I will fund it if I can.
+
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >
 >The lab will typically pay for full-time lab members to present their work at major conferences (e.g., SFN, CNS, CEMS), as long as there is funding to do so. In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. This will usually result in 1-2 conferences per year. When I set our grant budgets, I estimate $1500 per trip, so your reimbursable costs should be around that amount or less, and you should plan your travel accordingly. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in the lab (i.e., without presenting). If you wish to attend any other conference outside of these guidelines, under some circumstances I may be willing to have the lab reimburse you for the registration fee. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds. Lab members are required to apply for other sources of funding available to them (e.g., departmental or university travel awards).
@@ -244,6 +252,14 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >Posters
 >
 >Anyone presenting a poster should circulate an initial version to all authors at least one week before the printing deadline. Use the lab Adobe Illustrator template so that our posters have a consistent look to them. If this is your first time using Illustrator, make sure to leave plenty of extra time so you can learn how to use the software.
+
+>_[PoldrackLab_2026](https://poldracklab.github.io/labguide/publication/conferences.html)_:
+>
+>The laboratory will generally fund the attendance of members to at least one conference per year, pending funding availability.
+>- While funding is usually tied to presenting at the meeting, in some cases the lab will fund members to attend who are not presenting, depending on the meeting location and funding availability.
+>- We regularly fund the attendance of research assistants to conferences as we think this is an essential aspect of their training experience.
+>- Conference abstract submissions must be completed at least one week before the final deadline, to allow coauthors sufficient time to review the submission.
+>- Lab members are encouraged to find satellite opportunities (such as hackathons or workshops) to maximize the benefit of their conference travel.
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >

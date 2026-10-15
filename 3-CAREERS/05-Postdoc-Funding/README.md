@@ -116,6 +116,13 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >Apply for external funding (e.g., NRSA, K99). I will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
 
+>_[PoldrackLab_2026](https://poldracklab.github.io/labguide/funding/funding.html)_:
+>
+>Most postdocs in the lab are funded through postdoctoral fellowships or grants that they write themselves.
+>- Some postdocs are funded through existing grants. In this case, the postdoc must spend a significant portion of their time working on that project. However, the lab also provides postdocs the room to develop their own ideas.
+>
+>Postdocs should pay close attention to the details of their funding arrangement. For example, F32 NIH funding to the university comes with a financial account where the institutional allowance is included. Stanford taps this allowance for 'university insurance', so one should be aware that funds will deplete faster than may be presumed.
+
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >Talk with me about pursuing funding opportunities

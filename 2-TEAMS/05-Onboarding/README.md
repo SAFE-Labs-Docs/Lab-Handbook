@@ -20,6 +20,10 @@ A clear onboarding process should not only ensure that lab members complete esse
 ## Examples
 
 ### Canada
+>_[CastoriniLin_2026](https://github.com/castorini/onboarding/blob/master/ura.md)_:
+>
+>By "working through", I mean follow the instructions, reproduce the results, and send a pull request to add to the reproduction logs. You can send me an email (with pointers to your pull requests) after you've progressed through _the entire path_ and covered all the lessons.
+
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/onboarding/)_:
 >
 >1. Read the [lab manual](https://ccmlab-ubc.github.io/lab-manual).
@@ -281,3 +285,11 @@ A clear onboarding process should not only ensure that lab members complete esse
 >1. Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
 >1. Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have webpage, they can help you make a page on our website.
 >1. Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
+
+>_[RIPLRT_2026](https://doi.org/10.5281/zenodo.23146333)_:
+>
+>RIPLRT members are expected to read this manual and sign a form within your first 7 days in the RIPLRT indicates that the RIPLRt member have done so.
+
+>_[SnyderGroup_2026](https://drive.google.com/file/d/1BchgsHCwpaEqxYKdwQkdqXjgIRpKtM6c/view)_:
+>
+>Each new member will be assigned a mentor that will help guide them as necessary. This involves getting accustomed to the city, group environment, and chemistry department. Mentors are expected to provide a comfortable amount of time for familiarizing the mentee with the basics such as training, procedures, etc. Mentors should keep in mind that not all mentees have the same background knowledge as themselves and should treat each mentee with appropriate respect. Furthermore, mentees should always feel comfortable and never hesitate to ask. Mentors are there to help you feel comfortable and learn, so mentees should never feel burdened or afraid to ask questions. Mentors will be provided a checklist to ensure they are training the mentees appropriately.

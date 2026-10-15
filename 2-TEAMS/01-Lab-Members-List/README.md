@@ -75,3 +75,7 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Current and former lab members are [listed publicly on the lab website](https://mseelab.org/members.html).
+
+>_[RIPLRT_2026](https://doi.org/10.5281/zenodo.23146333)_:
+>
+>Each lab member must provide a profile photo, a short bio to be included in the lab members section, as well a video interview, where you will be introduced to our site visitors.

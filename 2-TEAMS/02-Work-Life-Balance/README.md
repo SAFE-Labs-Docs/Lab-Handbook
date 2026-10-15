@@ -252,6 +252,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >I will sometimes (rarely, I hope!) send emails or Slack messages outside of normal working hours. For the most part, I try to schedule emails and Slack messages to appear during your normal working hours. But sometimes I mess up – I hit send rather than schedule, or I forget to consider time zones or times of day. If I contact you outside of your working hours, I do not expect you to respond until you are back at work (ignore me!). I do not expect there to be cases when I suddenly and urgently need something from you over the weekend (e.g., for a grant deadline), but should I anticipate that happening, I will bring it up in advance so we can plan accordingly. All this said, I realize that being told you can ignore my messages might not take away the stress of seeing my messages if you check work email or Slack in the evenings or on weekends. If my off-hours messages are unwelcome and cause distress, please talk to me, and I will be better at not bothering you during your time off.
 
+>_[AneGroup_2026](https://github.com/cecileane/ane-group-guidelines-expectations/blob/main/expectations_grad.md)_:
+>
+>- As a TA or RA, your are an employee, see [GAPP](https://hr.wisc.edu/policies/gapp/) for policies and procedures. Your 40 hours of work per week should be divided between: taking courses (prior to being a dissertator), teaching (if TA), reading papers directly closely related to your research project, reading papers on broader topics less close to your topic, attending seminars, and working on your own research projects. Every workday, you should give priority to the latter: save the best 2 hours of your day (whenever your brain works best) to work on your own research projects. Schedule these research hours in your calendar and turn off notifications.
+>
+>- Graduate Assistants earn paid vacation, with scheduling "subject to the approval of the supervisor" (from [GAPP](https://hr.wisc.edu/policies/gapp/#leave-benefits)). I expect you to discuss your vacation schedule in advance.
+
 >_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
 >
 >In general, every member of the team (particularly members who are not bound by class schedules anymore) should be actively at work for a duration that includes 11am to 3pm on weekdays, so that each of us will be able to overlap for a significant chunk of the workday while accommodating for individual schedules. (This is not to say you should only work 4 hours a day! And obviously, exceptions apply.) Your consistent presence during those times will lead to interactions and team-building, for the benefit of you and your labmates.
@@ -302,6 +308,17 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >It is okay to take a day off to decompress from time to time. However, if you will be out of town or take a longer break, please let me know so I won’t be worried about not having seen you in a while. Each lab member can usually take up to 3 weeks of vacation time each year. In addition, I don’t expect lab members to work between 12/15 and the first week of January. Please inform me your vacation plans before booking your trip.
 
+>_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
+>
+>Lab holidays will be a superset of federal and NYU holidays.
+>
+>What does it mean for the lab to be on holiday?
+>  1. All lab events are cancelled.
+>  2. All individual meetings are cancelled.
+>  3. I do not have any expectations that you will do work. Work includes replying to emails or Slack messages. Of course, you are not forbidden to do work.
+>  4. I might still send you emails or Slack messages when I have thoughts or questions, but you should feel free to ignore those.
+>  5. If you send me an email, Slack message, or text message, I will generally be delayed in responding.
+
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >
 >It is expected that lab members will do most of their work from the lab. Full-time lab members can choose to work remotely 1-2 days a week, as long as this does not interfere with their research progress. Undergraduates are not eligible for remote work unless otherwise approved, and must be present in the lab for their work shifts. Anyone working remotely should plan to be available over Slack or for Zoom meetings during their working hours. Extended periods of working remotely should be approved ahead of time, and you’ll be expected to maintain regular hours if not taking PTO.
@@ -345,6 +362,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >- Please let me know in advance, I’d rather not find out that you are in some exotic destination from a colleague or via social media. I have some responsibility for your safety and that’s hard to do if I don’t know where you are
 >- Don’t tell me you are going on vacation, ask me if it’s ok. Invariably, I will say, “yes”. But if vacations become too frequent given your work commitments and progress, we may need to have a longer discussion
 >- Please put when you will be away on the lab Google calendar
+
+>_[SnyderGroup_2026](https://drive.google.com/file/d/1BchgsHCwpaEqxYKdwQkdqXjgIRpKtM6c/view)_:
+>
+>Ben will not track the hours you work. He expects that you will know when to work hard. He also expects that there will be times for decompressing, where the pace of things slows down a bit. In the end, you may have some fantastically productive 30-hour weeks, and some frustratingly unproductive 80-hour weeks. A minimum expectation is that you are present in lab during most of the regular working hours (9:00 AM – 5:00 PM). This will maximize your chance of having insightful discussions with your colleagues and helps ensure a safe working environment (working late into the night in lab and working alone in lab that have safety risks associated with them are both strongly discouraged). What you do beyond that is up to you. Do not overextend yourself, however. Ben is of the firm belief that working 65+ hour weeks is unsustainable.
 
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >

@@ -279,6 +279,19 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >2) substantially contributed to many figures or panels while working with someone else (typically the first author), OR
 >3) taken charge of revisions for a paper begun by a first author who is unwilling or unable to complete them. a. Depending on the nature and extent of the revisions, this may also be a case that warrants co-first authorship, or assumption of first author position.
 
+>_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
+>
+>Papers. In our lab, the person who writes the manuscript is the first author. First authorship may be shared with a co-author who plays a major role in experimental design, data collection, or analysis. Our PI is the corresponding author on all published papers, but may share corresponding authorship with the relevant first author trainee. The following contributions may qualify for authorship and should be discussed throughout project development:
+>- Experimental design
+>- Data collection
+>- Data processing and analysis
+>- Graphic design
+>- Writing
+>- Editing
+>- Consulting that majorly contributes to the project
+>
+>Acknowledgements will be used for anyone who contributes to a project but does not rise to the threshold of authorship.
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• The PI will make every effort to clarify co–first contributions in reference letters, emphasizing that co–first authors are full first authors and highlighting the lab member’s leadership and hard work in collaborative projects.
@@ -289,9 +302,18 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Our lab follows APA guidelines with respect to authorship, such that the individual’s contribution to the work determines their authorship or acknowledgement on the ﬁnal product of the research (e.g., a peer-reviewed publication and/or conference presentation). Speciﬁcally, individuals will be included as co-authors if they intellectually contribute to the research by actively working on research design, providing intensive work on study materials and analysis, and/or drafting/revising the write-up of the work. The authorship order will be explicitly discussed and agreed upon at the start of the project and potentially revisited if contributions change during the course of the project. In most cases, graduate students and postdocs will be ﬁrst author for their own projects and Vanessa will be the last author, with other collaborators ordered according to their contributions to the work. We will use the Contributor Roles Taxonomy (CRediT) to help us determine the authorship order, and there should be open discussion of any concerns.
 
+>_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
+>
+>Authorship on papers is usually obvious, but the grey area is when smaller contributions warrant authorship. I expect that all authors contribute to the ideas in a project. As a concrete proxy for such contributions, I expect that for a lab member to be an author, they attend (and speak in) the project meetings from the moment they are brought onto the project. Sometimes, you ask someone (in or outside of the lab) for help several times and they are interested in the project; then, they can be brought on board as an author. If someone “only” assists with data collection without a broader intellectual input, then that is usually an acknowledgement in the paper, not authorship.
+>  * CRediT is a system for recognizing contributions to a paper, and we can use it as a guide to discuss authorship. For lab members, some combination of conceptualization, formal analysis, methodology, and writing is usually required to be an author.
+
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
 >
 >Authorship. You are expected to be first author on all manuscripts from your degree and those you have taken a lead in development and writing. You are expected to publish them in a timely manner. Any collaborators on a project in the lab or outside CU who have made a substantial contribution to at least two aspects of the project (e.g., data collection and writing) should be listed as an author on manuscripts and presentations. If the project involves data collected from my grant funding then I should be the last author. All authors must read and approve of manuscript submissions; ideally presentations as well.
+
+>_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
+>
+>One common guideline is for a person to be an author on a paper if they have been substantially involved in at least two of the following four activities: 1) designing or conceiving the study, 2) collecting data, 3) analyzing data, 4) writing the paper. It is often pretty clear what constitutes substantial involvement, but there are borderline cases where the PI has to make a judgment call. If you are unsure about whether you should be an author on a paper coming out of our lab, ask me and we can talk about it. In general, undergraduate RAs who help collect data are not authors on papers except in cases where they have been unusually involved (which we welcome, but are in practice not all that common).
 
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >

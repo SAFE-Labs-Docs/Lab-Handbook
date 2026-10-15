@@ -101,6 +101,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >• Annual career development meeting: Each lab member will have an annual career meeting with the PI to discuss their Individual Development Plan (IDP). This meeting is an opportunity to reflect on career goals—whether academic, industry-related, or otherwise—and to identify actionable steps for progress. The IDP, prepared by the mentee, serves as a framework for this conversation and should include short- and longterm goals, current strengths and gaps, and a plan for progress.
 
+>_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
+>
+>About once a year I schedule a one-on-one meeting to address the big picture of your time in the lab. These are a chance for us to discuss how things are going and what we can do to make things better. I will send out questions in advance of this that you should prepare answers to, and these form the basis of the conversation. Your feedback is a gift to me to help me do things better, and I cannot stress enough how much I value your honest opinions. It is very acceptable and encouraged to give me constructive criticism, and I will do my best to implement suggestions that I get from you. I also generally give a lab presentation after these meetings to summarize the feedback I got (my hope is that this increases transparency and conveys to all of you that I am serious about incorporating your feedback).
+
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >
 >Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in late summer each year to sketch out a strategic plan for the academic year that will keep you on track with your goals. At that time, we will also review your progress toward these goals.
@@ -130,6 +134,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
 >Prepare an annual “personal plan” that includes short, medium- and long-term goals, as well as specific milestones for the coming year. We will review your plan together at the start of each year, and you will conduct a self-evaluation at the end of each year, which we will review together.
+
+>_[SnyderGroup_2026](https://drive.google.com/file/d/1BchgsHCwpaEqxYKdwQkdqXjgIRpKtM6c/view)_:
+>
+>As a new group, one feature we are trying to implement within our group is a feedback mechanism system. A questionnaire will be filled out and discussed with Ben. This will serve as a professional way to discuss with Ben regarding his mentoring style and any goals members have in mind. It is important to understand that graduate school is not only about publications, but an opportunity to bolster one’s toolkit for future endeavors. These meetings will occur at the end of every semester and should not be viewed as performance reviews, but rather as opportunities to seek out and provide structured feedback to ensure continued success.
 
 >_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
 >

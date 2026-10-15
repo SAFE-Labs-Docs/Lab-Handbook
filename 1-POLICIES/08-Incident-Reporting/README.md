@@ -69,6 +69,12 @@ Contact details can be found in our extended version of the Lab Handbook.
 >3. For PhD students, the [FSW graduate school](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences) has mentors and people you can connect with.
 >4. At the level of the faculty and university, there are many [resources](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology): confidential counselors, ombuds officers, and formal procedures.
 
+### South Korea
+
+>_[GOLab_2026](https://go-lab.korea.ac.kr/code-of-conduct)_:
+>
+>If you observe behavior inconsistent with this Code of Conduct, report it to the group leader (dongwookgo@korea.ac.kr). If the issue involves the group leader, contact Prof. Yosep Kim (yosep9201@gmail.com), who is the Ombudsperson for GO-Lab. Confidentiality and anonymity will be maintained to the fullest extent possible, and all violations will be addressed promptly and fairly. When necessary, we will seek guidance from Korea University’s Center for Human Rights and Gender Equality (https://humanrights.korea.ac.kr/). In cases of discrimination or harassment, we enforce a Zero Tolerance Policy, addressing matters immediately through official university channels and the Center for Human Rights and Gender Equality.
+
 ### United Kingdom
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
@@ -95,6 +101,12 @@ Contact details can be found in our extended version of the Lab Handbook.
 >_[CELPLab_2026](https://github.com/celp-lab/lab-manual/blob/main/code_of_conduct.qmd)_:
 >
 >In the case of a violation of any element of our code of conduct, please discuss it with Prof. Byrnes. He will talk to the responsible party - both to attempt to rectify the immediate situation but also to start a dialogue around understanding why this is an important tenant of being a scientist in the modern world. If the problem persists, this could lead to a more serious discussion of the member's role within the lab. At any time, if warranted, Prof. Byrnes is happy to bring in the chair, GPD, or other relevant element of the University administration. For appropriate issues, Prof. Byrnes is happy to consult with [UMB Office of Civil Rights and Title IX](https://www.umb.edu/crtix) or the [Office of Diversity, Equity, and Inclusion](https://www.umb.edu/odei). If, for whatever reason, you feel uncomfortable discussing a problem with Prof. Byrnes, you are encouraged to approach these resources.
+
+>_[GlobalCommunityWellnessLab_2026](https://bookdown.org/jordandanielsnyder/LabManual/code-of-conduct-and-policies.html)_:
+>
+>IMPORTANT: UWP Faculty members are considered “responsible employees” or “mandated reporters,” meaning that they are required to report violations of Title IX to the TItle IX Coordinator. Jordan is a responsible employee and must report any Title IX related incidents that are disclosed in writing, discussion, or a one-on-one. Before talking with Jordan about a Title IX incident, be sure to ask whether they are a responsible employee. Jordan is happy to talk with you and help you, but Jordan wants you to be certain you are aware of his status and are comfortable with him about reporting an incident you choose to disclose. Jordan will try to check with you if he gets the feeling you are about to disclose a Title IX violation. If you wish to speak with someone for support or remedies without making an official report, you can talk to confidential services at the UWP Student Health and Counseling Center. You can also talk to me without talking about specifics, and I can be glad to help connect you to care/support.
+>
+>Please also know that Jordan is required to report any suspected child abuse/neglect as part of his role as well. Please let him know if you have any questions or concerns.
 
 >_[IvesLab_2026](https://ives.labs.wisc.edu/pdf/Ives_Lab_guidelines.pdf)_:
 >

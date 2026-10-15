@@ -245,6 +245,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >    * Discussions should not be counted as contributions; implementation/theoretically sound ideas could be.
 >    * Same for writing - proof-reading should not be counted as contributions; actual writing could be.
 
+>_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
+>
+>Co-authorship is best discussed early rather than late. Ideally, this includes before analysis begins, and if not then certainly before writing begins. And, it is important to be aware that additional contributions may be necessary in order to thoroughly and convincingly answer the scientific questions that are asked, meaning that in some cases it may be necessary to seek out collaborators later in the process (including, in some instances, at the journal revision stage). However, whenever possible, students and advisors should seek to communicate early and often about co-authorship - when in doubt, discuss.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
 >
 >Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:

@@ -87,6 +87,10 @@ Career progression, grants, and competitive applications often require reference
 >* In the follow-up email, give the writer a suggested list of points to highlight in their letter. This is your opportunity to ask them to emphasize aspects of your training or goals that are particularly valuable or nuanced, e.g., you made the key insight for a research project, the proposed research is especially novel, you were delayed in publishing because of a health problem but are otherwise fast, etc.
 >* At the deadline, thank them for writing. Follow up with the writer when you learn the outcome of the competition, thanking them again for their support.
 
+>_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
+>
+>For the first letter request at a given career stage (e.g., graduate fellowship, postdoctoral fellowship, faculty position), it would be ideal to have 4 weeks notice (but definitely ask if something arises on a shorter timeline). For subsequent requests at a respective career stage, one week notice is sufficient (although more is appreciated).
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Recommendation-letters-(non%E2%80%90PhD))_:
 >
 >Applications for predoc jobs and masters degrees can generate a large volume of emails to those writing reference letters. Send letter of recommendation requests to [ganong_recs@uchicago.edu](mailto:ganong_recs@uchicago.edu).

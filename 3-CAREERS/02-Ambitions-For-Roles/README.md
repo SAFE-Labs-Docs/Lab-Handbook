@@ -128,6 +128,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >Publish at least two papers on which you're first author.
 >	These papers should be submitted by the time you defend. Note, this is not the requirement of relevant UChicago doctoral programs, but I think it is an important minimal target.
 
+>_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
+>
+>Given that the PhD signifies capability to independently conduct independent research, it is expected that students have completed the full paper publication process prior to graduation. (All students from this research group have had at least one chapter in print and at least one more submitted at the time of the dissertation defense, and more than half have had at least three chapters in print.)
+
 >_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/Expectations-PhD.md)_:
 >
 >Requirements for graduation:

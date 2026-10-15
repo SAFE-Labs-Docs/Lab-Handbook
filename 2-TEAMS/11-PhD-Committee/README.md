@@ -50,6 +50,10 @@ A PhD steering committee provides independent oversight of PhD student progress 
 >
 >Thesis committee policies are set by the graduate programs.
 
+>_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
+>
+>The thesis committee should be convened prior to the Winter Quarter of the PhD student’s second year. The student is expected to consult closely with the advisor about the composition of the committee. The student is encouraged to keep in mind that the advisor has considerable experience with the committee process, and with the individual faculty in the Department. The thesis committee conducts the Qualifying Exam; meets annually with the student to discuss research progress, research plans, coursework, and professional/career goals; and conducts the Oral Exam (i.e., “dissertation defense”) and the evaluation of the written dissertation. Members of the thesis committee may in some cases also be research collaborators, and may also serve as mentors and/or letter writers for applications.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >PhD students should schedule yearly Thesis Committee meetings as outlined by their Graduate Field's Graduate Student Handbook. For more information on expectations, check your Field's handbook ([e.g., the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) and [MsEE Lab's mentorship philosophy statement](https://mseelab.org/mentorship.html).

@@ -181,6 +181,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > funding through non-lab sources, you should discuss your options with
 > Jeremy.
 
+>_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
+>
+>Graduate students should expect the advisor to be able to fund one conference per year, with the possibility of additional funds depending on the circumstances (with additional funds prioritized later in the PhD when preparing to apply for post-PhD employment). Students should apply for travel funds when available.
+
 >_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
 >
 >Build independent external collaborations to help advance your scholarship goals, through networking, conference attendance, and regular attendance at department and campus seminars, colloquia, collaborator visits (talks, group meetings, dinners), and events, and learn from those to support building our scholarship.

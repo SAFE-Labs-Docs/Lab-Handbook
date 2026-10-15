@@ -70,6 +70,53 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >
 >You are welcome to use this anonymous form (link omitted for Github example) to share anything that concerns you. This form will go to me, but I won’t know who submitted it unless you choose to identify yourself. Please share as much detail as you feel comfortable. As a professor, I am a Title IX mandatory reporter and must report any allegations of sexual misconduct, sexual harassment, or discrimination on the basis of sex to the [Title IX office](https://www.umaryland.edu/titleix/). You are always welcome to come to me to share your concerns, but by law I cannot keep this particular type of information confidential. If you aren’t comfortable talking to me, you can reach out to the [university ombudsperson](https://www.umaryland.edu/ombuds/) or the department chair.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>All lab members, regardless of position or status, are protected by (and must abide by) Dartmouth's human resources policies. This means behaving professionally and respectfully towards others (including your fellow lab members). Clear, direct communication is often the best way to address interpersonal issues. On rare occasions, despite your best efforts, you may find yourself in an interpersonal situation you cannot resolve on your own. You have many resources at your disposal to help:
+>
+>- Senior lab members (e.g. your immediate supervisor, Project
+> Owner, or Project Coordinator)
+>
+>- Jeremy
+>
+>- The PBS department chair
+>
+>- The
+> Undergraduate
+> Deans Office or the
+> Graduate
+> and Professional Schools Deans Office
+>
+>- Dartmouth's Office of
+> Human Resources, which provides assistance and resources to all
+> faculty, staff, retirees, and prospective employees
+>
+>- Dartmouth's
+> Student
+> Employment Office, which provides a similar suite of services to
+> student employees
+>
+>- The Dartmouth Ombuds
+> Office, which provides confidential and informal assistance in
+> resolving concerns related to interpersonal issues
+>
+>- Dartmouth's
+> Faculty/Employee Assistance
+> Program
+>
+>- Dartmouth's
+> Title
+> IX office (for issues related to sex or gender-based
+> discrimination, or concerns about sexual misconduct, harassment, or
+> assault)
+>
+>- Hanover
+> Police (if criminal activity is involved)
+>
+>- WISE, a 24-hour crisis hotline for free and confidential
+> services to address domestic and sexual violence and stalking
+> (866-348-9473)
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Ensuring MsEE Lab is a welcoming, constructive working environment is part of the responsibilities of the principal investigator, and a crucial one at that. Pablo has completed conflict resolution training from the [Community Dispute Settlement Center](https://communitydispute.org/) in Cambridge, MA as a confidential conflict coach with the [MIT BE REFS](https://berefs.com/), where he gathered experience with interpersonal conflicts both between lab members and involving advisors. For these reasons, lab members are encouraged to bring issues in lab dynamics to him. However, he recognizes that power imbalances and his role as head of MsEE Lab may make this difficult. For this reason, consider these options:

@@ -112,6 +112,32 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 * Every lab member can travel to present at one conference per year. If you want attend more than one conference in a single year or travel to a conference without presenting something, discuss with me so we can determine how we can fund your travel in a way that’s fair to other lab members. These trips are fully funded; I only support travel if I can reimburse 100% of transportation, meals, and hotels.
 * Each lab member can attend 1 major external workshop during their time in lab (e.g. Neuromatch) with a tuition budget of about $1000 per person. Tuition for additional courses will be considered on a case-by-case basis.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>If you are presenting your work from the lab (i.e., you
+> are the presenting author for a talk or poster), then your travel
+> expenses and conference registration fees will be guaranteed by the
+> lab, under the assumption that you will also make reasonable
+> efforts to seek out alternative sources of travel funding (e.g. through PBS, other internal Dartmouth sources, applying for travel
+> awards, using personal grants like NRSAs or NSF fellowships, etc.).
+> You are also expected to keep costs low (e.g. fly economy class,
+> seek out cheaper tickets, stay in reasonably priced hotels, share a
+> room with other lab members, etc.). By the same token, we also want
+> to be cognizant of your comfort and time, and it is not always
+> necessary to use the cheapest option. More specific travel
+> guidelines will be given on a per-conference or per-trip basis.
+>
+>If you are not presenting your work (or if you're presenting non-lab
+> work), but you are a senior lab member, then the lab may cover your
+> travel expenses to a limited number of conferences each year. These
+> should be discussed on a case-by-case basis with Jeremy.
+>
+>If you are a junior lab member not presenting your work, the lab will
+> generally not pay for you to attend conferences. However, if you are
+> interested in attending a conference, and you aren't able to secure
+> funding through non-lab sources, you should discuss your options with
+> Jeremy.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Graduate-Student-Expectations-in-the-Kirby-Lab.pdf)_:
 >
 >Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.

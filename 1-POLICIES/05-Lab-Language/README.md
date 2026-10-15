@@ -96,3 +96,8 @@ English is the international language of science in the 21st century: proficienc
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >You are welcome to speak any language you want, as long as everyone in the conversation speaks that language. Lab notebooks and all documentation must be kept in English so everyone can understand them. All lab business and meetings are held in English.
+
+### Denmark
+>_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
+>
+>Feel free to speak any language with anyone around, but please switch to English in non-private conversations if anyone around does not speak your language. Keeping English as our working language will allow everyone to take part and contribute to our chats and discussions.

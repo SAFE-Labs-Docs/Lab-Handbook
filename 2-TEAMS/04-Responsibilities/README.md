@@ -136,3 +136,7 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >Our team may be composed of researchers with different roles at any given time: undergraduate students (whether enrolled at Cornell or visiting from elsewhere), graduate students at the Master's or PhD level, postdoctoral researchers, and research technicians or scientists. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. The responsibilities of different lab roles are shaped by the distinct kinds of goals the role might have.
 
 >MsEE lab maintains [a lab mentorship philosophy statement](https://mseelab.org/mentorship.html) outlining more details on proposed structures, purposes, and expectations (including role duration and publication output) of MsEE Lab members.
+
+>_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Team-Members-and-Expectations-a1aeb366bb0f4d15a8144e8184e7c669)_:
+>
+>Masters students in our lab will be trained on all things exercise oncology, with a specific emphasis on resistance training and programming. This will include, exercise testing and measurement techniques, body composition analysis, training program design and research methods. You will be trained in a way that is in line with our culture and philosophy; which is to do the best work you can, whilst respecting those around you.

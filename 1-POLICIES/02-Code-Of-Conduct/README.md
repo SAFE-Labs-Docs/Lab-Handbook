@@ -117,3 +117,52 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- We take caution and consideration with our experiments. We question each element of our experiments to make sure they’re the most appropriate to test our hypotheses. We think critically about the background literature and data the supports our hypotheses. We design the strongest experiment before diving into data collection. We pause to do intermediate analyses before collecting additional data. We seek feedback early, often, and from many viewpoints.
 >- We value failure as part of learning. I invite everyone to take risks and will commend you even if it fails. We value the process over the product and resilience over results.
 >- We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
+
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>Your rights as a lab member
+>
+>- You are entitled to a safe work environment free from
+> harassment, abuse, violence, and discrimination in any form.
+>
+>- You are entitled to be supported and respected by all lab
+> members.
+>
+>- You are entitled to openly share your scientific ideas and
+> constructive feedback with all lab members.
+>
+>- You are entitled to appropriate credit (e.g. authorship,
+> acknowledgement, letter of recommendation) for your work and
+> ideas.
+>
+>Your responsibilities as a lab member
+>
+>- You agree to contribute to a safe work environment and to refrain
+> from behaviors that harass, abuse, expose to violence, or
+> discriminate.
+>
+>- You agree to support and respect all lab members, including
+> yourself.
+>
+>- You agree to openly share your scientific ideas and constructive
+> feedback with other lab members.
+>
+>- You agree to clearly communicate and document your
+> contributions to each research project (e.g. through GitHub
+> commits and issues, reports, updates on Slack, etc.).
+>
+>- You agree to establish open lines of communication between
+> yourself and other lab members, and to address concerns or issues
+> promptly and directly with the relevant parties (to the extent
+> that you feel safe doing so).
+>
+>- You agree to carry out your work with integrity and diligence,
+> adhering to the highest possible standards of scientific
+> excellence.
+>
+>- You agree to utilize lab resources (including equipment,
+> money, time, etc.) responsibly and sustainably.
+>
+>- You agree to maintain a clean workspace free from clutter,
+> including both personal spaces (e.g. desks) and shared
+> areas (couch, sink, testing rooms, etc.).

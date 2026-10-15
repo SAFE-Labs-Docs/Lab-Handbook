@@ -54,6 +54,31 @@ Researchers moving Italy are entitled to a refund for accommodation of the first
 >
 >The visa process in the US is outrageously complicated, cumbersome, and expensive. Work with me and the UMB Office of International Services to ensure your visa paperwork and fees are submitted in a timely manner. Expect the process to take several months at least. Whenever possible, the lab funds all visa application fees. Note that most visas come with expiration dates and are tied to a specific employer. Work with me well in advance of the visa expiration or before moving on to your next job so we can work together to transition your visa.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>Visa requirements vary widely depending on your country of origin, visa category, and other factors. These requirements also change frequently, so it is important to stay informed about the latest policies and how they may affect your work in the lab. Some areas that may be affected include:
+>
+>- Ability to volunteer: Some visa categories prohibit unpaid
+> work, which may affect your ability to volunteer in the lab.
+>
+>- In-person vs. remote work requirements: Some visas may
+> require you to be physically present at Dartmouth College, while others may
+> allow remote work.
+>
+>- Payment or course credit eligibility: Your visa category may
+> affect whether you can receive payment for your work or whether you need
+> to receive course credit instead.
+>
+>- Eligibility for certain funded projects: Some projects (e.g.,
+> those funded by the Department of Defense) may require US citizenship or
+> security clearance, which may limit your ability to work on those
+> projects.
+>
+>Some workarounds that have been successful for international students in the past include:
+>
+>- Course credit: Enrolling in independent studies or thesis
+> projects to receive course credit for your work in the lab.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >The [Cornell Office of Global Learning](https://international.globallearning.cornell.edu/) provides services for international members of the Cornell community (such as Pablo). Support for the appropriate visa paperwork filing may be obtained through them.

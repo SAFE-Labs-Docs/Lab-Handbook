@@ -83,6 +83,13 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
     - within Raw Data and Preprocessed Data: [Data Type]/[Animal Name]
 >- Recording file naming scheme: [yyyymmdd]*[Animal Name]*[Track][Epoch]
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>You should treat GitHub as a digital version of a “lab notebook”
+> that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions,
+> determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your
+> ideas and maintain a continuous traceable log for your project.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >_Protocols:_ MsEE Lab encourages all members to write or annotate their own versions of protocols. Lab reference versions are stored publicly and updated on the [MsEE Lab Protocols repository on GitHub](https://github.com/mseeLab), which allows for version control and history.

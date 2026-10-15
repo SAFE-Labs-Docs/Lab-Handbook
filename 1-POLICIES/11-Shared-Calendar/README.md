@@ -95,3 +95,26 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >Sign up for lab meetings and look out for birthdays and lab events on the _labwide_ calendar. Sign up for 1-on-1s on the _Emily_ calendar. Add seminars, symposia, and conferences that others in lab might want to attend on the _talks_ calendar. Sign up to use shared equipment or rooms on the _rooms and equipment_ calendar. Add any weekday you are out of lab for the full day to the _out of office_ calendar.
+
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>Google Calendar:
+>
+>- We use the
+> https://calendar.google.com/calendar/embed?src=5ta50cfv4uih0a0k8m2di9dhjo
+> lab calendar (“Contextual Dynamics Lab”) to keep track of lab-wide events including lab
+> meetings, conferences, and activities. Note: write access is
+> granted only to senior lab members– i.e., lab staff and graduate students.
+>
+>- We use the
+> https://calendar.google.com/calendar/embed?src=dgcv8l8a8s10hfg2s5h0qec0q0
+> resources calendar to coordinate the use of shared rooms and
+> equipment, such as testing rooms, our EEG systems, eye-tracker,
+> hospital equipment, software licenses, etc. Request write access
+> if you may require use of lab equipment.
+>
+>- We use the
+> https://calendar.google.com/calendar/embed?src=h1j06dohcg7v1g2o5tkb7ijhvs
+> calendar to keep track of known absences (e.g. illness, travel,
+> holidays, etc.). All
+> full-time lab members should request write access.

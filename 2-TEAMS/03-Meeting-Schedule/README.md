@@ -231,6 +231,40 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >You're welcome to schedule additional meetings to discuss papers, give practice talks, etc., at any time yourself.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>Lab meetings. We hold weekly lab meetings. If you are an active lab member, you are expected to attend our lab meetings unless you let Jeremy know that you have a conflict (e.g., a course that meets at the same time, another commitment that comes up, etc.). Prioritizing lab meeting attendance helps build and maintain a lab culture of collaboration and ongoing participation.
+>
+>During lab meetings we typically focus on things that project teams want input on beyond their immediate group. We also use lab meetings to discuss logistics, give feedback on upcoming talks or poster presentations, and/or share project updates that might be of interest beyond one project team. Generally we spend most of the time going around the room and having each person give a brief informal update about something they are working on, planning to work on, or thinking about.
+>
+>- Project meetings. Many of our collaborative
+> projects involve regular coordination within the lab and/or with external collaborators.
+> Attendees: all project team members and any other interested active
+> lab members.
+>
+>- One-on-one meetings. Jeremy holds regular
+> one-on-one meetings with lab members who request them. These
+> are scheduled as part of the term scheduling process (below)
+> and typically take place in Moore 349 or on Zoom.
+>
+>- Term scheduling process. Prior to the start of
+> each term, Jeremy will post a scheduling survey on Slack.
+> All active lab members are expected to:
+>
+>- Fill out their weekly availability for the upcoming term.
+>
+>- Indicate which project meetings they plan to attend.
+>
+>- Indicate whether they would like to schedule regular
+> one-on-one meetings with Jeremy, and if so, specify
+> the preferred frequency (weekly or biweekly) and duration.
+>
+>Based on the collected responses, Jeremy will run a scheduling
+> algorithm to find optimal meeting times for lab meetings, project
+> meetings, and one-on-one meetings. The finalized schedule is posted
+> and pinned to the #general Slack channel and added to the
+> CDL Google Calendar.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 
@@ -263,6 +297,13 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Not currently in place, but under consideration. If you have a well-thought-out proposal for how to run this effectively, bring it to the PI.
 
+>_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Feedback-and-Communication-042e11183b2a48478033a4ba8ad770a8)_:
+>
+>We will have weekly lab meetings to discuss ongoing projects, plans/ideas or to work through problems. This is a negotiable part of our lab. We might work through ethics problems, strategise study ideas, discuss papers, or just talk shop and/or career development. We will periodically hold presentations within our lab or for other students to get experience presenting and fielding questions on your topic of interest.
+>
+>Individual Meetings
+>At the beginning of each semester, we will set a schedule for weekly meetings. Each full-time lab member (RAs, graduate students, post-docs) will have a one-hour slot set aside to meet with me. If scheduling conflicts arise (e.g., because of travel), we can try to reschedule for another day that week. If there is nothing to discuss, feel free to cancel the meeting or just drop by for a brief chat.
+
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
 >
@@ -286,3 +327,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >of meetings with different modalities and goals. For instance, if we are collaborating closely, we will have regular one-on-one meetings. These meetings are time that belongs to you, and you can fill it with anything that comes to your mind. I might have some
 >direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to
 >help you get unstuck.
+
+### Denmark
+>_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
+>
+>Weekly 1-on-1 meetings of 15-60 minutes as needed. This is for in-depth feedback and discuss results and future plans. If you send me a brief meeting agenda ahead the meeting, I will do my best to prepare accordingly.
+>• If my door is open (which it mostly is), feel free to come discuss/ask whatever needed. It is often much better to get the quick input in the moment than waiting for the weekly meeting.
+>• Half-year meetings: every half year we have a meeting of whatever length needed, where we step back and talk about the bigger picture of your PhD. Not about data and experiments, but about your career track/wellbeing/plans/etc. This is a chance to identify/make needed corrections to the track of your education and our work together.

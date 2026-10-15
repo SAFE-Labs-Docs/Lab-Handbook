@@ -115,6 +115,48 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >If you stop working on a manuscript, so that someone else needs to do the submission, revision, or resubmission, your position as first author might change. The first author, in other words, not only needs to lead the work but also finish it. For example, if you leave the lab before a paper is accepted, you'll have the opportunity to continue working on it as first author when reviews are returned, but if you cannot do this promptly, others in the lab will be invited to take over. Someone else might become first author. We have an obligation to publish the work funded by grants and contracts.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>Please also work through the following offboarding checklist to ensure a smooth transition:
+>
+>- Notify Jeremy of your end date as early as possible.
+>
+>- Ensure all code and data are properly documented and stored on GitHub.
+>
+>- Back up and document all collected data:
+>
+>- Use GitHub if data is under 1 GB total and under 100 MB per file.
+>
+>- Use Discovery for larger files.
+>
+>- Write a brief summary of work done for project continuity and future letters of recommendation:
+>
+>- Include GitHub links and file paths to your work.
+>
+>- Include your contact information for future questions.
+>
+>- Optional: Share any feedback, comments, questions, concerns, or reflections about your time in the lab.
+>
+>- Optional: Note any ideas about the future of your project(s), outstanding papers, or current status of ongoing work.
+>
+>- Return all lab equipment and coordinate with Jeremy to log the returns.
+>
+>- If any equipment was damaged during your time in the lab, notify Jeremy.
+>
+>- Return any remaining petty cash and sign the close account form.
+>
+>- Set to inactive any SONA experiments that no one else will continue.
+>
+>- Coordinate with Jeremy to be removed from relevant IRB protocols.
+>
+>- Coordinate with Jeremy to be added to the lab “alum” Slack channel.
+>
+>- Update the lab manual with your end date by moving your name to the alumni section.
+>
+>- Clean up your workspace, including shared areas you may have used.
+>
+>- Return all keys to appropriate offices or personnel.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Offboarding)_:
 >
 >Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI

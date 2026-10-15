@@ -106,3 +106,13 @@ Career progression, grants, and competitive applications often require reference
 >If you need a letter of recommendation, ask the PI. Ask early: at least several months before any deadline, with the deadlines stated clearly at the time of asking. Do not assume the PI knows what you need or when you need it by. Tell them directly, in writing, with specific dates.
 >
 >Think ahead. Fellowship applications, residency programs, faculty searches, and industry positions all have deadlines that arrive faster than expected. Build in time for the PI to write something strong, which requires time to reflect on your work. Last-minute requests produce last-minute letters. You deserve better than that, and so does the person reading the letter.
+
+>_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Can-you-write-me-a-rec-letter-cadf815c27294f738dd56c161c8b43c6)_:
+>
+>Fill out the link below as soon as you know you are applying for a position. This will give me a hard prompt to start working on this.
+>
+>Rec Letter Form
+>
+>https://forms.gle/h7WKdY2ddacYT2y5A
+>
+>I have worked hard to build my reputation and that of our lab over the years. In this manner, I take my word seriously. In the rare instances where I don't feel comfortable writing a recommendation letter for you, I will email you ASAP and set up a meeting to discuss my concerns and devise a plan to move forward.

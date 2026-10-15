@@ -202,6 +202,22 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >You don't have to communicate your schedule with me in advance, as long as you're around roughly this much and show up for meetings.
 >Undergrads and out-of-state lab members will have different arrangements, of course.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>We generally expect full-time employees to be in the lab
+> during “standard” working hours—roughly 9 AM to 5 PM.
+> The precise hours you work are less important than
+> helping form a cohesive lab culture where lab
+> members interact in person to share ideas, leverage expertise,
+> and solve problems. Even if you shift
+> your hours, we'd like you to be physically
+> present in the lab between 1 and 4 PM (prior arrangements
+> notwithstanding; e.g., if you have a long commute and we've agreed
+> you won't come in every day, or if you occasionally need to
+> schedule an appointment during the 1–4 PM window). Similarly, if
+> you are a part-time employee, try to put in your
+> in-lab hours during the 1–4 PM window when possible.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
 >In general, we expect you to be working Monday through Friday for 9 hours per day (including a lunch break).
@@ -216,6 +232,11 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >You may take up to 4 weeks of vacation every year, i.e., 20 business days. This includes but is not limited to federal holidays, university holidays, or scheduled university recesses, such as winter break, spring break, etc. Please inform your teammates and me in advance of days you will be gone. I understand that emergencies will arise. In this case, please notify my as soon as possible. Updating your status on Slack is a good way to let your teammates know if you cannot come to the lab.
+
+>_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Taking-time-off-Planned-and-Unplanned-5126e7346f684f2fb23c14f012f7b3e3)_:
+>
+>At minimum, we need a 10-day notice for planned trips. This is so a) we can get coverage if necessary and b) we know when team members are out, so we don’t plan important meetings in their absence.
+>Considering a last minute trip? These are the BEST. The only thing I ask is that you chat to me and we can decide together if/how we can make this work.
 
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
@@ -234,3 +255,9 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >expect you to notify me if you are not available during a certain period of time. Moreover, as a token of respect to all other lab members, everyone should usually be present for the lab meetings.
 >
 >1 This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.
+
+### Denmark
+>_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
+>
+>What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly
+>09:00 to 15:00) to facilitate mentorship, meetings and discussions. Please put it on the whiteboard and let Peter and Mie know if you plan to work from home or take time off for a full day or more so we can plan around it. Importantly, while you will need to work hard to be competitive for whatever you chose to do for your future career, you also need to find a consistent balance that goes well with not only your ambitions, but also your health and sanity – it’s a marathon, not a sprint.

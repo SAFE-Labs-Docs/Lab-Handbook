@@ -113,6 +113,46 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >The "Passing the Baton" scenario: Imagine Student A starts a project, works on it for two years, and then graduates. Student B picks it up and needs three more years to complete the work. It's like a research relay race where both students have run their laps, and the project crosses the finish line thanks to their combined efforts. In this case, it's crucial to acknowledge and fairly attribute authorship to both students. However, when a student leaves the lab and doesn't continue working on the project, they naturally relinquish control over its direction. This is perfectly fine and sometimes passing the baton is the best career option for all involved.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>The Contextual Dynamics Lab follows the NIH
+> Guidelines for Authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgements section of the paper. In general, you likely meet the requirements for authorship if you contributed in any of the following ways:
+>
+>- Drafted the manuscript (this warrants first authorship)
+>
+>- Came up with the idea or made other substantial intellectual
+> contributions that meaningfully shaped the trajectory of the project
+>
+>- Carried out an original experimental study (e.g. that you
+> designed or implemented)
+>
+>- Carried out non-trivial data analyses (e.g. more complicated
+> than t-tests)
+>
+>- Contributed novel tools or resources to the project that haven't
+> been published yet
+>
+>NOTE: Conference posters and abstracts generally
+> have substantially less stringent authorship requirements than
+> formal papers. The general rule of thumb for posters is that all
+> project team members should be co-authors. You are unlikely to meet the requirements for authorship if your contributions were limited to the following:
+>
+>- Running experimental participants for an already-designed and
+> coded-up study
+>
+>- Running trivial data analyses (e.g. t-tests or similar)
+>
+>- Getting trained by one of the other project members on a
+> project-related task
+>
+>- Training another project member on a project-related task
+>
+>- Sharing already-published tools or resources
+>
+>- Editing or commenting on a draft of the manuscript
+>
+>The final determination for who will be an author on each lab paper (and in what order) will be made by Jeremy, following open discussions with project team members.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
 >
 >Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:

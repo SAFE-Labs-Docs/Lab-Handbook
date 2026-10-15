@@ -121,6 +121,34 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >A complete and frequently updated onboarding checklist is on the lab wiki.
 
+>_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
+>
+>The lab uses an automated onboarding system to help new members get set up quickly and consistently. To start the onboarding process, use the “Join the lab!” workflow in Slack. You can also access this workflow in the #general channel through the Workflows menu (usually near the top left of the window). When you initiate the workflow, you'll be asked to provide:
+>
+>- Your GitHub username
+>
+>- Your email address (preferably Gmail or Dartmouth)
+>
+>- Your preferred name for the lab website
+>
+>- A short bio (2–3 sentences about yourself and your research interests)
+>
+>- A link to your personal website (optional)
+>
+>NOTE: After submitting the workflow, please also send a profile photo to Jeremy via Slack DM. Once approved, your photo and bio will be added to the lab website.
+>
+>Once you submit this information, Jeremy will review your submission and approve your onboarding. The system will then automatically:
+>
+>- Send you an invitation to the ContextLab GitHub organization
+>
+>- Grant you access to the lab's Google Calendars (Contextual Dynamics Lab, Out of lab, and CDL Resources)
+>
+>- Add your profile to the lab website via a pull request
+>
+>- Update the lab's internal records
+>
+>You will receive notifications in Slack as each step completes. If any issues arise during the process, Jeremy will reach out to help resolve them.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >New members should review the Handbook and communicate any questions, concerns, or suggestions to Pablo. Additionally, part of the onboarding process will include completing worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder.

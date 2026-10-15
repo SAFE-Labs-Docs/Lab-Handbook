@@ -25,6 +25,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Internal and external seminars : Internal seminars at IGH are organized every Thursday at 11.30am, followed by pizzas. Attendance to the internal seminars is compulsory for all lab members. In addition to these internal seminars, external seminars are often organized at various times of the week. Keep an eye out for these external seminars and try to attend those related to your project.
 
 ### Germany
+>_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
+>
+>In addition to informal exchange opportunities, such as the daily lunch in the Mensa, there is a 30-minute chair meeting Thursdays at 2 pm during the lecture period on a fortnightly basis. Here, organisational topics and questions relating to teaching are discussed. During the lecture-free period, we also use this meeting from time to time to discuss our teaching vision and direction in more depth. If, as a project member, you don’t have time to take part in these teaching-related meetings due to your own project tasks, it’s perfectly okay if you opt out of the meetings. In principle, however, anyone who has time is welcome to get involved, even if they have no formal teaching commitments.
+>
+>We meet during the lecture period as part of the Lehrstuhlkolloquium (Thursdays, 2.30 - 4.00 p.m.) for professional dialogue. In addition to presentations of theses being supervised at our group, we also value presentations by all members of the department. Researchers from other universities can also be proactively invited. In this context, it is not relevant to us at what stage a presented project is. We welcome presentations on anything from an initial idea to the results of a completed project. Only one thing is always very important to us: constructive feedback. Regardless of whether your own area of responsibility as a faculty member is more focussed on teaching or research, we greatly appreciate the participation of all colleagues. The presentations at the research colloquium are usually held in German. However, if foreign-language guests are present, we are happy to switch to English.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The PI expects active participation at regular meetings including

@@ -34,6 +34,10 @@ English is the international language of science in the 21st century: proficienc
 >- French language courses are available via the CNRS or the University; do not hesitate to ask HR or colleagues about this.
 
 ### Germany
+>_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
+>
+>The everyday language at our group is German and we encourage our non-German speaking employees to learn German. Of course we switch to English when we talk to our non-German speaking colleagues or discuss our science in a larger group. All teaching and therefore most teaching materials are in German. In team meetings, we usually have an English part for information relevant for all group members and a German part where only teaching or administrative stuff is discussed that is not relevant for all group members.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonetheless, some administrative exchanges are in German and the institute offers assistance in learning the German language.

@@ -28,6 +28,12 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >Please find important information about publishing (including authorships, open science policies, choice of journals) in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing).
 
 ### Germany
+>_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/science.html)_:
+>
+>We do not follow the common practice of automatically including the chair holder on the paper.
+>
+>First authors are usually those who have written the majority of the first formulated draft of a paper. This also applies when students publish their theses and turn their submitted work into a draft paper. In psychology, last authors are often perceived as the supervisors of the project, so it is common, for example, to list the doctoral supervisor as the last author.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >Authorship vs acknowledgement is not always obvious in advance, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy (https://credit.niso.org/). For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the PI, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.

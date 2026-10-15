@@ -22,6 +22,14 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >Working hours: There is no such thing as expected working hours in the group. In fact, we do not encourage long working hours and the weekend is time off work. Everyone’s life circumstances are different, so all group members should find a schedule and work routine that works best for them. Individual approaches have to be communicated clearly with the PI so that the time spent together in the lab can be fruitful for all group members. This includes group meetings, institute meetings, and project discussions, which should be attended in person if possible. You should not feel obliged to reply to any form of workrelated communication outside your own working hours, and should respect the boundaries set by your colleagues.
 
+>_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
+>
+>No one looks at you askance if you take breaks or have to work longer hours during periods of increased workload. No one has to be available on weekends.
+>
+>7. We are family-friendly.
+>
+>We make it possible to combine family and career. This means scheduling joint meetings at family-friendly times (i.e. especially not too late in the afternoon), children can be brought to work. If children/family members are sick or have problems, we are there for each other and, if necessary, stand in for colleagues who are affected. We respect the fact that family has priority over work performance!
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >- **Healthy Practices:** High commitment and productivity don’t equate to overwork. Lab members manage their productivity responsibly and are not expected to exceed 39.5 work hours per week regularly.

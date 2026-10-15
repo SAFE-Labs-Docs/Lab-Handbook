@@ -210,6 +210,11 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >If you have something to present at a conference, like a talk or poster, I will do my best to pay for your travel. Exceptions to this policy include program reviews, in which all students involved in the project are generally expected to attend. Conferences are a valuable opportunity to network, stay up to date, and present your work. As such, they are a key part of your professional development. It costs about $1,000-$2,000 to send someone to a conference. All students and postdocs should share lodging with someone else. Possible exceptions to this rule can be made, but only if you consult with me first.
 
+>_[OlanrewajuLab_2026](https://ayokunle.notion.site/Olanrewaju-Lab-Manual-cdf5d841306e44009fbdc752cf4724f6)_:
+>
+>Prior to presenting a poster or talk, you should use the group meetings prior to the event to show your poster draft and/or walk through your presentation slides. When you present your work, it is expected that you will take notes on the questions asked, and identify who is asking the question (name, title) and where they are located (University/Industry, email address).  If someone is asking questions, it shows that they have an appreciation for the work—they are likely someone who should be contacted in the future!  You will be expected to include the questions asked and the people who asked questions in your post-conference debrief.
+>In your group meeting presentation following a conference/research travel, you will be expected to present a debrief.  This must include a thorough discussion of at least 3, preferably 5 talks and/or posters you attended.  You are encouraged to ask for copies of the talk, papers (if published), or take photos (if allowed/with author permission) to share in your debrief.
+
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
 >
 >Anyone submitting an abstract for a conference, symposium, etc. should clear this with me first, and circulate to all authors at least one week before the submission deadline.

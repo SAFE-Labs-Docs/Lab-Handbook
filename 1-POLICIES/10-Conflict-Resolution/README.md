@@ -126,6 +126,11 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >- If you observe a conflict between two other lab members, encourage one of them to speak with the other directly. If that isn’t possible, direct them to the senior postdoc, a PI, or another appropriate person.
 >- A mediator can be brought in at any point if it would help.
 
+>_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
+>
+>Disagreements, misunderstandings, and conflicts within a group sometimes happen. Early and authentic communication are key to resolving issues and minimizing conflicts. If you have concerns about your interaction with me or with anyone else, please don’t hesitate to come talk with me.
+>- If you wish a conversation to remain confidential, please be sure to indicate that at the start of the conversation. I will endeavor to respect this request, and if I am unable to do so I will let you know.
+
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
 >
 >We will all try to communicate issues promptly with respect and professionalism. Then listen actively. If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps o Observations (I see…) o Feelings (I feel…) o Needs (I need…) o Requests (Would you be willing to …) Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions If a problem persists, we will consider inviting a mediator

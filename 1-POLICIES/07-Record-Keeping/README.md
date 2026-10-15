@@ -230,6 +230,14 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >The intended reader of your notes is not you at the present time. The intended audience is either me or you several years in the future once you have forgotten the details of your experiment. Write your notes with this in mind.
 
+>_[OlanrewajuLab_2026](https://ayokunle.notion.site/Olanrewaju-Lab-Manual-cdf5d841306e44009fbdc752cf4724f6)_:
+>
+>All lab members are expected to maintain a lab notebook using Benchling. Each experiment should have its own unique entry in Benchling. Each experiment should be named in the following format “YYYY-MM-DD-Brief-Summary-of-Experiment-Purpose” and must have entries on two important tabs:
+>Objectives: why was the experiment done?
+>Methods: brief overview of key techniques and any deviations from previous experiments. You can link to previous experiments in Benchling using the “@” symbol and search for experiments by title.
+>Include screenshots or images of key data here
+>Also upload a copy of your raw & analyzed data for the experiment after completion so that it’s linked to the experiment.
+
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
 >
 >Anyone conducting an independent research project should have a lab notebook for keeping track of discussions, experiments, and taking notes. You may also want to use an electronic notebook (e.g., Evernote) as your primary lab notebook, or to supplement a paper copy. The important thing is that you are keeping notes, and they are in one place.

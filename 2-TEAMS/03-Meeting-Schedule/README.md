@@ -471,6 +471,14 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Everyone is expected to read the slides and paper before lab meeting
 >- Only one person speaks at a time
 
+>_[SouroullasLab_2026](https://sites.wustl.edu/souroullaslab/?p=297)_:
+>
+>We currently have weekly lab meetings with our neighboring lab, the Kaufman lab. This setting provides a larger and more scientifically diverse audience to present to. I believe this helps everyone with their presentation skills and provides better opportunities for feedback on their projects. We also attend the weekly “Stem Cell Meeting” which mainly focuses on hematopoietic projects. Trainees present approximately once per month.
+>
+>Journal club
+>
+>Science moves fast and keeping up with all the literature is not an easy task. In our lab, each member is tasked with monitoring several journals about the latest articles on chromatin, epigenetics and cancer, or the latest technologies in biomedical research. We meet informally once a month and discuss the latest science over coffee and treats! Often we pick a single paper and go over it extensively if it is relevant to our work.
+
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >
 >Thus, I do not meet with individuals regularly. Instead, I have weekly group meetings on Fridays at 2 pm (usually last 90 minutes or so). These may include a single research presentation and a short 15-minute talk from another group member, with other meetings devoted to job interviews, oral prelim or final exam practices, poster and talk medleys before major conferences, or even group visitors. You are expected to attend the group meetings when you are in town and available. Yes, at times, someone has a course at the same time; this is fine for a semester. Subgroup meetings are smaller and allow a chance for individual feedback and everyone will be expected to attend one or more of these. I also aim to meet one-on-one each semester and ask for a short summary of recent progress and expectations for the coming months.

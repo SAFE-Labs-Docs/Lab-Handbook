@@ -84,6 +84,10 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >- AI tools such as grammarly to help with wording/grammar is only acceptable in certain situations and after conversations with and approval from Sarah.
 >- AI for help with coding is acceptable in certain situations after approval from sarah: the output of the LLM must always be verified and tested, and use of an LLM must be acknowledged in the code comments. You must do the work to be able to explain and stand behind any code you put out into the world.
 
+>_[HewittLab_2026](https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html)_:
+>
+>Writing and verbal communication are core research skills we need to practice. All paper first drafts must be written without AI. Lab communication must follow the first-follow-up rule: lab members should know enough details about the code, experiments, and presentations they give to answer a reasonable first follow-up question from a labmate without checking with their AI assistant.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Kirby-lab-AI-policy.pdf)_:
 >
 >1) First, apply the "Other Person" rule. Ask yourself: Would it be ok to pay another person to do what you are trying to use the LLM or AI program for? If so, it is possibly ok. If not, then it is probably not OK. Some examples:

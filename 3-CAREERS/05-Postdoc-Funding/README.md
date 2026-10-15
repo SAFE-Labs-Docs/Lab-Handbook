@@ -82,6 +82,16 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >All positions are fully funded.
 
+>_[BerkeleyAgroecologyLab_2026](https://docs.google.com/document/d/1-zcsh3758BUU-nmSeCj-JYO0pgFMZx8Q50JwOascUiw)_:
+>
+>Postdocs typically come into my lab funded on grants from federal or state agencies. This does dictate what must be done in the immediate future to satisfy granting requirements; however, I expect after year one that postdocs will take on the responsibility of writing annual grant reports, or helping to do so, depending on the project.
+>
+>Let’s have a conversation about whether pursuing external funding makes sense. Grant-writing is an important skill and I enjoy it. However, it is also time consuming and can take away from time spent on publishing, which is of primary importance for next steps in an academic career. It is important to be strategic about when to spend time applying for grants or fellowships.
+>
+>Grants include both small grants (e.g., Organic Farming Research Foundation) and large fellowships (e.g. AFRI postdoc fellowships). As with experimental designs and publication drafts, I will review all proposals. Be sure to allocate plenty of time for these applications. Almost all proposals must go through UC Berkeley’s Sponsored Projects Office, which requires materials 10 business days before the grant deadline. Last minute proposals are rarely successful. For larger grants, at a minimum, I expect to see a full draft at least 3 weeks prior to the internal deadline to allow for at least two rounds of comments. The more drafts I see, and the more drafts you work on, the more likely it is to get funded. For smaller grants, this deadline will be more flexible, but I expect a full draft 2 weeks prior to the internal deadline and a goal of submitting to SPO before their deadline.
+>
+>I will sometimes have funds that are flexible enough to use as "seed funding" for projects in the lab. So, even if you are working on something peripheral to my major grants, please talk to me about your funding needs. One of my major priorities is securing external funds for the lab and everyone’s projects.
+
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
 >Students and post-docs in the lab have an expectation of being informed what projects are providing them with stipend support, the timelines for those projects, and any concerns. If a change in support is expected, students and post-docs should be given at least three months notice.
@@ -91,6 +101,12 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >If I accept you to the lab, that means I commit to funding you. I always encourage
 > students and postdocs to apply to fellowships—those help both me (by lowering the
 > financial burden) and you (by strengthening your CV).
+
+>_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/FAQ_Prospective)_:
+>
+>The two sources of funding are our research grants and postdoctoral fellowships. In the US postdoctoral fellowships are more scarce than PhD student fellowships.
+>- As of January 2012, the fraction of postdoc-months for all past and current postdocs in our group supported by each source was: research grants 83%, fellowships 17%.
+>- Teaching is not a viable funding source for postdocs, as you would need to teach an extremely heavy schedule to have a reasonable salary, but then you would have no time for research at all.
 
 >_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
 >

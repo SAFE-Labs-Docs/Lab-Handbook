@@ -254,6 +254,22 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >When leaving the lab, it is a good idea for both you and others in the lab to archive and leave a copy of all of your data. Nobody in the lab will use your individual data without your consent. But if you archive them, we will all know where they are.
 
+>_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/Check-out)_:
+>
+>Return your keys to Lab Assistant
+>
+>___ Return your A-Card & Travel Card to Jennie (or destroy them)
+>
+>___ For international folks: E-mail Rhonda Miller (Rhonda.Miller@colorado.edu) and let her know the last date of employment. She e-mails back with a detailed check list which also has a link to the form that needs to be submitted to the International Student and Scholar Services.
+>
+>___ Return your group laptop to Lab Assistant. If you are keeping it longer while finishing group work, let us know when we can expect it back
+>
+>___ Return any group hard drives, screens, keyboards etc. to Lab Assistant
+>
+>___ Remove yourself from any email lists and shared documents that are no longer relevant, including group list and JG-Org, JG-Sched
+>
+>___ Ask Lab Assistant to move you from the Group members page to the Group Alumni page with the correct info about your new job (if known)
+
 >_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
 >
 >Usually, the first author has played the lead role in project execution, takes the lead in writing the manuscript, and continues these responsibilities during revision process. I expect all authors to read and provide comments. It is expected that the first author will continue to take primary responsibility even after they have left the lab. If substantial writing or other responsibility shifts to a co-author, then the order of authorship may change as the paper undergoes revision.

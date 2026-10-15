@@ -83,6 +83,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >I put a high value on feedback. For example, I have one-on-one meetings with students both before and after they present group meetings to go over presentation style, effective communication, research progress, and long-term goals; in addition, I encourage all students to discuss their Individual Development Plan and career goals with me at least once per year. Each New Year's, I have a discussion with each student where we discuss various areas for growth such as Lab Skills, Responsiveness, Curiosity, Presentations, Writing, Participation, Work Ethic, Teaching/Mentoring, Taking Charge of Project, Following Through on Plans, and Safety.
 
+>_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/FAQ_Prospective)_:
+>
+>We have an annual evaluation process, where the postdoc fills an official CU form (Annual Summary of Accomplishments or ASA) plus this group form this form, followed by feedback from Jose & Doug, and then we meet and discuss. This allows regular discussion of performance, timelines, suggestions for improvement in both directions etc.
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• Annual career development meeting: Each lab member will have an annual career meeting with the PI to discuss their Individual Development Plan (IDP). This meeting is an opportunity to reflect on career goals—whether academic, industry-related, or otherwise—and to identify actionable steps for progress. The IDP, prepared by the mentee, serves as a framework for this conversation and should include short- and longterm goals, current strengths and gaps, and a plan for progress.

@@ -400,6 +400,23 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >**Lab meetings.** Lab meetings are held once a week. Each semester, students are generally responsible for two to three presentations covering overall project goals, sub-aims, data, completed work, and planned work. Lab meetings are a space for troubleshooting and constructive scientific criticism. Agendas are managed through GitHub Projects or Notion.
 
+>_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/J-Group_Meeting)_:
+>
+>Science Meeting
+>- 2 people, 1 hr each (40 min + questions), every 2 weeks
+>- Every person in the group will present ~5-6 times per year
+>- Scheduling of the next meeting decided at the start of each meeting, by looking at the group calendar.
+>- The research meeting is devoted 100% to group research presentations
+>- Attendance is Mandatory. Notify Jose in advance if you can't make it or have to arrive late or leave early.
+>- Business Meeting
+>- 1 hr brown bag lunch in a meeting room, every 3 weeks
+>- Business items, Journal Club
+>- Attendance is Mandatory. Notify Jose in advance if you can't make it or have to arrive late or leave early.
+>- Grp Lunch every Thu @ 1pm in Atrium (optional)
+>- Student + Jose lunch, every 3 weeks
+>- Postdocs + Research Scientists + Jose lunch, every 3 weeks
+>- Student Informal Prez w/ Postdocs, w/o Jose (1.5 hrs, 1 per mo)
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• Regular check-ins: The PI commits to regular one-on-one meetings (biweekly with students, monthly with staff and postdocs) and expects lab members to come prepared to discuss progress and concerns. These meetings are led by the lab member and are meant to encourage strategic thinking about ongoing and future work. Even when there’s little new data to show, it’s valuable to reflect on behind-the-scenes efforts, ideas in development, or challenges encountered. Using slides to structure the discussion is encouraged. The PI also welcomes feedback from lab members during these meetings to improve the lab experience.

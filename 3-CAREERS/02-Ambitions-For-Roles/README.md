@@ -16,7 +16,9 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ Every position in the lab inevitably has its own set of experimental or funding challenges. Therefore, it is impossible to predict the outcome of any project, however we strive that the efforts of at least longer-term lab members are valorised in a scientific publication. Some specific information is listed below:
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>Every position in the lab inevitably has its own set of experimental or funding challenges. Therefore, it is impossible to predict the outcome of any project, however we strive that the efforts of at least longer-term lab members are valorised in a scientific publication. Some specific information is listed below:
 >
 >Our team is affiliated to the PhD school  ["Complexity of Life" of Sorbonne University](https://ed515.sorbonne-universite.fr/en/led-515/presentation). Independently of the source of funding (PhD school fellowship or another grant) a PhD lasts for 3 years, a 4th one can be exceptionally granted if additional funding is found. According to the PhD School rules, the thesis must contain original research results, which translates in the publication of at least one research article; in case of delays or particular circumstances the authorization to defend the thesis can be given if an article is in the final steps of preparation prior to submission. Projects are designed so that it should be possible to have at least a paper draft by the end of the three years.
 >
@@ -24,7 +26,9 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >According to CNRS rules, master internships cannot last longer than 6 months. The main purpose of a thesis is for the student to learn laboratory skills techniques, to get insights into analysis of data and scientific thinking, as well as to practice scientific writing and figure making. Given the short time frame, it is rare that the work of a student will contribute to a scientific publication, however if relevant data is produced, the student will be granted authorship.
 
->_[GalupaLab_2025](https://www.galupalab.org/):_ Please find important information about publishing (including authorships, open science policies, choice of journals) in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing). Regarding the duration and publication outputs expected:
+>_[GalupaLab_2025](https://www.galupalab.org/)_:
+>
+>Please find important information about publishing (including authorships, open science policies, choice of journals) in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing). Regarding the duration and publication outputs expected:
 >
 >**PhD students:** in France, PhDs typically last between 3 and 4 years. PhD fellowships are for 3 years, and there are specific fellowships to extend the PhD for one more year. This could also be ensured by the lab, depending on the funding situation. My aim is that each student finishes their PhD with at least one first authored manuscript submitted for publication (and published on bioRxiv). PhD projects are chosen with this in mind. After graduating, students (no longer students!) might be able to stay in the lab for a bit longer, but this will depend on the lab's funding situation at the time. All this will be discussed ahead.
 >
@@ -33,47 +37,69 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >Importantly, it is impossible to predict the outcome of any project, so no guarantees can be made with respect to timelines or publications.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ Our team is composed by researchers with different roles: postdoctoral researchers, graduate students, undergraduate (Master or Bachelor) students and research assistants. These roles, which may correspond to different career stages and seniority, typically come with different duties, responsibilities and expectations. These will be discussed at hiring and onboarding. Typically, postdocs and graduate students are expected to independently carry out research projects ranging from experimental work to data analysis and paper writing, as well as take part at the lab’s and institute’s regular meetings (see below). Postdocs are additionally expected to assist the PI in writing grants and reviewing papers. Graduate students will receive a larger degree of training and supervision, for example, via the Humboldt Graduate School (see below). Undergraduates and research assistants are not expected to independently carry out projects and will be supervised by a graduate student or postdoc. All full-time lab members are expected in helping to maintain the lab’s infrastructure and animal colonies. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>Our team is composed by researchers with different roles: postdoctoral researchers, graduate students, undergraduate (Master or Bachelor) students and research assistants. These roles, which may correspond to different career stages and seniority, typically come with different duties, responsibilities and expectations. These will be discussed at hiring and onboarding. Typically, postdocs and graduate students are expected to independently carry out research projects ranging from experimental work to data analysis and paper writing, as well as take part at the lab’s and institute’s regular meetings (see below). Postdocs are additionally expected to assist the PI in writing grants and reviewing papers. Graduate students will receive a larger degree of training and supervision, for example, via the Humboldt Graduate School (see below). Undergraduates and research assistants are not expected to independently carry out projects and will be supervised by a graduate student or postdoc. All full-time lab members are expected in helping to maintain the lab’s infrastructure and animal colonies. 
 
->_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_: You should aim to finish your PhD within three years with three first-author experimental research papers (experiments) written up into complete manuscripts. There is nothing magical about the number three, this is just one major experiment per year of the project, and is widely considered internationally as the gold standard for research productivity for PhDs: if you complete with three experimental papers in reputable journals (see other material on the topic of journals and what is a “good” journal) this is usually considered to be a good to excellent PhD thesis. The more the better, if everything goes well, but plan for three!
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_:
+>
+>You should aim to finish your PhD within three years with three first-author experimental research papers (experiments) written up into complete manuscripts. There is nothing magical about the number three, this is just one major experiment per year of the project, and is widely considered internationally as the gold standard for research productivity for PhDs: if you complete with three experimental papers in reputable journals (see other material on the topic of journals and what is a “good” journal) this is usually considered to be a good to excellent PhD thesis. The more the better, if everything goes well, but plan for three!
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Researchers in different roles will spend different amounts of time in the lab. Furthermore, technical challenges and other unknown or unforeseen aspects may delay projects. It is hence difficult to predict how many papers each team member will publish. As a rule of thumb, the following applies:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Researchers in different roles will spend different amounts of time in the lab. Furthermore, technical challenges and other unknown or unforeseen aspects may delay projects. It is hence difficult to predict how many papers each team member will publish. As a rule of thumb, the following applies:
 >- PhD students: PhD candidates need to finish their PhD within 4 years. Projects are selected and adjusted so that it should be possible to have at least a paper draft by the end of these 4 years. While this is the minimum, the aim is to have a first-author manuscript on biorxiv and likely submitted by the end of the PhD. Due to the collaborative nature of our work, students can expect to be contributing author on at least a second paper.
 >- Postdocs: While postdoc contracts will usually be for 12 months, the PI clearly communicates funding availability and expected total duration of the postdoc (generally to be anticipated to be at least 3 years). The aim is to have at least one first-author paper in that time-frame and to likely contribute to multiple projects in the lab. Changes to funding or anticipated duration and publications will be communicated openly and timely. Conversely, postdocs may decide to move on to new positions and challenges before a publication has been achieved. 
 >- Master students / interns: Master theses last for at least 9, ideally 12 months. The main purpose of a thesis is for the student to learn one or more practical techniques, to understand all steps of a scientific project, to get insights into analysis of data, and to practice scientific writing and figure making, as well as scientific communication. The actual content and output are less important. However, if a student contributes a relevant data set which is included in a publication, they will certainly be granted authorship as detailed in the CRediT Taxonomy guidelines. 
 >- Technicians: Technicians’ contracts may be more variable and depend on needs and agreements. If technicians’ contributions fulfill the CRediT Taxonomy guidelines, they will be authors on papers.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: **PhD student:** Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>**PhD student:** Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project.
 
->_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
+>
+>My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
 
 ### United Kingdom
->_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_: The PhD thesis is a substantial body of work carried out over three years. A good series of PhD studies should produce at least one substantial journal article. Usually, a single “chapter” of the PhD includes the contents of one published or publishable paper. Such a chapter may contain a single experiment or a series of related experiments. A good PhD thesis in cognitive psychology typically contains at least three empirical chapters, plus an introduction chapter and a concluding chapter.
+>_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_:
+>
+>The PhD thesis is a substantial body of work carried out over three years. A good series of PhD studies should produce at least one substantial journal article. Usually, a single “chapter” of the PhD includes the contents of one published or publishable paper. Such a chapter may contain a single experiment or a series of related experiments. A good PhD thesis in cognitive psychology typically contains at least three empirical chapters, plus an introduction chapter and a concluding chapter.
 
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions. 
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions. 
 > 
 >My goal for researchers in Postdoc, PhD, or HSO positions is to help each individual publish at least one first or co-first-authored paper within the span of their initial 3-4-year contracts. While advancing your own project is important, I also expect you to contribute to other projects in the lab, where you will be recognised as a co-author. It is unrealistic for one person to manage all aspects of a project or possess all the necessary expertise; therefore, supporting one another is essential for the success of everyone in the lab. 
 > 
 >I and the first author(s) of the manuscript will discuss the journal to which the manuscript will be submitted.
 
->_[CoenLab_2025](https://coen-lab.com/):_ Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:
 >
 >PhD students in the UK typically graduate ~3-4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it may be possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.
 >
 >Postdoctoral researchers typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a twelve-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).
 
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions.
 >
 >That said, my goal for PhD researchers for whom I am the primary supervisor is to help each individual submit three first or co-first-authored papers for publication, with one of those published within the span of the initial 3-4-year contract.
 >
 >While advancing your own project is important, I also expect you to contribute to other projects in the lab, where you will be recognized as a co-author. It is unrealistic for one person to manage all aspects of a project or possess all the necessary expertise; therefore, supporting one another is essential for the success of everyone in the lab.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: I expect technicians to be our lab for 2 years, PhD students 4-5 years, and postdocs 4-6 years. Students and postdocs should at a minimum submit their first author paper and post it to bioRxiv before leaving the lab. If you can complete your publication in less than 4 years, you’re welcome to leave the lab then if you wish. All lab members will remain funded beyond these time ranges, provided they are still maintaining adequate progress. Establish your goals during the annual IDP meeting and keep track of your progress. I will provide feedback on your progress as needed. I expect you to keep on top of deadlines for your graduate program, conferences, fellowships, and trainings.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>I expect technicians to be our lab for 2 years, PhD students 4-5 years, and postdocs 4-6 years. Students and postdocs should at a minimum submit their first author paper and post it to bioRxiv before leaving the lab. If you can complete your publication in less than 4 years, you’re welcome to leave the lab then if you wish. All lab members will remain funded beyond these time ranges, provided they are still maintaining adequate progress. Establish your goals during the annual IDP meeting and keep track of your progress. I will provide feedback on your progress as needed. I expect you to keep on top of deadlines for your graduate program, conferences, fellowships, and trainings.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
 >The most important goal of all lab members is to develop as scientists (except for the PI and any long-term research scientist, see below). The ways in which this scientific and career development happens differ by role:
 
 >- *PhD students:* PhD students aim to gain enough expertise in a field to be able to teach themselves and others about new knowledge they contribute to it.

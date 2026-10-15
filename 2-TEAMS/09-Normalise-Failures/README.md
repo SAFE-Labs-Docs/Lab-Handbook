@@ -17,29 +17,44 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 ## Examples
 
 ### France
->_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: General lab annual meetings : Although we have not done this yet, I recently encountered the idea of lab-wide meetings aimed at normalizing « failures » and this is something I aim to implement in the lab.
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
+>
+>General lab annual meetings : Although we have not done this yet, I recently encountered the idea of lab-wide meetings aimed at normalizing « failures » and this is something I aim to implement in the lab.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_  Science is hard; apparent failure is commonplace and everyone makes mistakes. Good failure (not caused by inappropriate behavior) is celebrated and rewarded as much as successes. Keep in mind that no one is perfect, we’re all human, and in case of mistakes or failures the most important part is being honest, taking accountability, learning from your behavior, and moving forward. We share good failures at our annual retreat. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>Science is hard; apparent failure is commonplace and everyone makes mistakes. Good failure (not caused by inappropriate behavior) is celebrated and rewarded as much as successes. Keep in mind that no one is perfect, we’re all human, and in case of mistakes or failures the most important part is being honest, taking accountability, learning from your behavior, and moving forward. We share good failures at our annual retreat. 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide meetings targeted at normalizing failures. If this format is deemed useful by the lab members, it’ll be implemented in the future. Normalizing failures is part of daily interactions and during the weekly lab meetings, including reports of past/present failures of the PI.
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>We currently do not hold annual lab-wide meetings targeted at normalizing failures. If this format is deemed useful by the lab members, it’ll be implemented in the future. Normalizing failures is part of daily interactions and during the weekly lab meetings, including reports of past/present failures of the PI.
 
->_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
+>_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>
+>At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The last lab meeting of the academic year devotes time to discussing successes and failures.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>The last lab meeting of the academic year devotes time to discussing successes and failures.
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Many failures are "good" failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. 
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Many failures are "good" failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. 
 >
 >**Some failure just suck**—and the only “lesson” is that academia (and life) sucks sometimes.
 >
 >Each year (in January) we will dedicate one meeting to this topic: everyone will talk about (at least) one professional failure from the past year—it could be anything from an experimental issue to a rejected application. The exact format will evolve with time, so for more specifics of the agenda and process, please look at the corresponding entry in the Lab Meetings database.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
 >- Failure is a part of science, and mistakes are a part of learning. Being transparent about both helps us move our research and ourselves forward. Keeping them buried leads at best to missed learning opportunities and at worse to scientific misconduct. I want to hear about your obstacles, failures, and mistakes frequently so we can correct course together.
 >- Every year in April, we have a “Mishap Recap” meeting to recount our failures and mistakes together. Bring your experimental flops, rejected grant applications, coding bugs, and your own personal missteps in your work. We’ll share strategies for overcoming setbacks, document lessons learned, and celebrate honesty and accountability.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: [The Multiscale Evolutionary Engineering (MsEE) Lab](https://mseelab.org/) is a training environment first and foremost. Our actions as a group and as individual members within it are oriented towards the goal of helping all members develop as scientists and citizens of the world. The goal of establishing evolutionary principles as a core part of bioengineering and a decision-making tool is best served by training researchers who will further develop these ideas, put them into practice, and teach others themselves. Advancing science through high-quality research is a crucial (and welcome) part of achieving this. An inherent part of both high-quality research and high-quality training is embracing the reality that failed experiments, null results, and disproven hypothesis are part of our profession, and deserve as much attention, scrutiny, and occasionally celebration as the more popular parts of the job.
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>[The Multiscale Evolutionary Engineering (MsEE) Lab](https://mseelab.org/) is a training environment first and foremost. Our actions as a group and as individual members within it are oriented towards the goal of helping all members develop as scientists and citizens of the world. The goal of establishing evolutionary principles as a core part of bioengineering and a decision-making tool is best served by training researchers who will further develop these ideas, put them into practice, and teach others themselves. Advancing science through high-quality research is a crucial (and welcome) part of achieving this. An inherent part of both high-quality research and high-quality training is embracing the reality that failed experiments, null results, and disproven hypothesis are part of our profession, and deserve as much attention, scrutiny, and occasionally celebration as the more popular parts of the job.

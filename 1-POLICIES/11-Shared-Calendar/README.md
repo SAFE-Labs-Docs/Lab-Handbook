@@ -19,19 +19,25 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 ## Examples
 
 ### France
->_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: These one-on-one meetings are organized in a proactive way : you will find open slots for one-on-one meetings every week on the lab common calendar that you can book. This allows for flexibility both in the frequency of meetings and time of the meeting in the week.
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
+>
+>These one-on-one meetings are organized in a proactive way : you will find open slots for one-on-one meetings every week on the lab common calendar that you can book. This allows for flexibility both in the frequency of meetings and time of the meeting in the week.
 >
 >I also encourage you to indicate your annual leave in the share calendar so that other lab members know about your holidays.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ We use Google calendars to organize scheduling of lab meetings, events, animal care, equipment use, vacation days, home office, and other. Mandatory entries include:
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>We use Google calendars to organize scheduling of lab meetings, events, animal care, equipment use, vacation days, home office, and other. Mandatory entries include:
 >
 >- Shared equipment use (see specific calendars)
 >- Any (full) day not on-site due to work travel, home office, sick leave, or other (please specify)
 >- Stay up-to-date regarding lab meetings and talks 
 >- Stay up-to-date regarding animal care 
 
->_[PHASELab_2026](https://masonphaselab.com/2023/09/17/general-onboarding-document/)_: We have a group mailing list, a Slack workspace (phase-lab.slack.com), a group TimeTree calendar, and a shared server.
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/17/general-onboarding-document/)_:
+>
+>We have a group mailing list, a Slack workspace (phase-lab.slack.com), a group TimeTree calendar, and a shared server.
 >- Emails will be sent about important updates or information (in German and English), please also use email as a default to send me documents or requests that require more than a quick response
 >- Slack is for contacting other people in the lab with short questions etc. (to replace needing to use Whatsapp or texting)
 >- The server is for accessing and storing documents, data and information for our research projects
@@ -39,7 +45,9 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >- Dominik Fischbach is in charge of IT/computer support and will give access to the server and mailing list, I will send a Slack and TimeTree invitation.
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Science is collaborative and it’s important to know when people are present. Every lab member is hence requested to add to the Lab Calendar when they’re on vacation or at a conference. Short absences, e.g. to go to the bank, do not need to be communicated unless they happen during scheduled meetings such as the weekly lab meeting. Absences of full days and more need to be added. The main purpose of this is to organize the work with your colleagues and so we don’t panic when we don’t see our colleagues for a few days. The lab calendar also contains information about deadlines for conference applications, lab meetings and institutional seminars. Further calendars to book setups, for lecture schedules and to see when Katja is available are shared in more detail in the lab internal Handbook.
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Science is collaborative and it’s important to know when people are present. Every lab member is hence requested to add to the Lab Calendar when they’re on vacation or at a conference. Short absences, e.g. to go to the bank, do not need to be communicated unless they happen during scheduled meetings such as the weekly lab meeting. Absences of full days and more need to be added. The main purpose of this is to organize the work with your colleagues and so we don’t panic when we don’t see our colleagues for a few days. The lab calendar also contains information about deadlines for conference applications, lab meetings and institutional seminars. Further calendars to book setups, for lecture schedules and to see when Katja is available are shared in more detail in the lab internal Handbook.
 
 > _[RossiLab_2025](https://rossilab.iit.it/home)_: IIT workflows are based on Microsoft Office 365. Thus, we use the Outlook Calendar to coordinate activities in the lab. To facilitate readability, please be succint when creating new entries. Here are some ground rules on how to use the shared lab calendar:
 >
@@ -56,7 +64,9 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >  
 > SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by maintaining dedicated calendars. As the lab grows, to facilitate experiment planning across users, please plan your experiments and book them in advance.
 
->_[Mariotti Lab](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_: CNR workflows are based on Microsoft Office 365. However not all the lab members have access to this tool. Therefore, we use the Google Calendar to coordinate activities in the lab as follow:
+>_[Mariotti Lab](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>
+>CNR workflows are based on Microsoft Office 365. However not all the lab members have access to this tool. Therefore, we use the Google Calendar to coordinate activities in the lab as follow:
 ABSENCES: Every lab member (PI, post-doc, PhD student, trainee) must write their absences in the lab calendar. There are 3 kinds of absences:
 •	On annual leave
 •	Smart working (working remotely)
@@ -69,13 +79,19 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ UCL is Microsoft-based. Unfortunately, we are tied into this system. Therefore, the lab calendar is “outlook” and please only access/change it via outlook. Using Google or other third-party software can cause issues (e.g. you think you edited an event, but you didn’t). The following entries should be included in the lab Calendar: 
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>UCL is Microsoft-based. Unfortunately, we are tied into this system. Therefore, the lab calendar is “outlook” and please only access/change it via outlook. Using Google or other third-party software can cause issues (e.g. you think you edited an event, but you didn’t). The following entries should be included in the lab Calendar: 
 >- Attend in Person (AIP) Events: Lab meetings, Journal Clubs etc.
 >- For your information (FYI) Events: Talks, deadlines, meetings etc.
 >
 >Please indicate when you are away from lab according to the following entries...
 
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: If I am your primary supervisor, you must put your scheduled leave into the Superlab Leave & Holiday Calendar on Teams, and alert me by either Teams chat or email of the dates. Please also ensure that you create an Out of Office automatic message in Outlook so members of the university can see when you are away.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>If I am your primary supervisor, you must put your scheduled leave into the Superlab Leave & Holiday Calendar on Teams, and alert me by either Teams chat or email of the dates. Please also ensure that you create an Out of Office automatic message in Outlook so members of the university can see when you are away.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Sign up for lab meetings and look out for birthdays and lab events on the _labwide_ calendar. Sign up for 1-on-1s on the _Emily_ calendar. Add seminars, symposia, and conferences that others in lab might want to attend on the _talks_ calendar. Sign up to use shared equipment or rooms on the _rooms and equipment_ calendar. Add any weekday you are out of lab for the full day to the _out of office_ calendar.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Sign up for lab meetings and look out for birthdays and lab events on the _labwide_ calendar. Sign up for 1-on-1s on the _Emily_ calendar. Add seminars, symposia, and conferences that others in lab might want to attend on the _talks_ calendar. Sign up to use shared equipment or rooms on the _rooms and equipment_ calendar. Add any weekday you are out of lab for the full day to the _out of office_ calendar.

@@ -23,7 +23,9 @@ The decision to recruit an applicant should depend on clear selection criteria t
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ We keep the process as fair as possible. We always welcome direct inquiries from applicants, even if no open position is officially available yet.
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>We keep the process as fair as possible. We always welcome direct inquiries from applicants, even if no open position is officially available yet.
 >
 >For open job offers, applications need to be sent through the CNRS portal – we strongly encourage applicants to also directly contact the PIs for more information. The CNRS recruitment system does not allow for blind screening, however all CVs are read with the same interest and dedication, usually by at least two people. 
 >
@@ -34,21 +36,29 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >For perspective PhD students, please keep in mind that a slightly different system is in place. Most students join the lab through a fellowship granted by the PhD School Complexity of Life, which runs an annual competition, usually in July. Each PI will select only one candidate to present to the competition, and usually a project pre-proposal is posted on the dedicate portal ([adum.fr](https://adum.fr)) in February/March. Candidates are strongly encouraged to directly contact the PI, as no automatic emails are sent from the portal. The PI will make the selection, and directly discuss with the applicant in order to better define the proposed project. The chosen candidate will then submit the official candidature through the [adum.fr](https://adum.fr) portal, usually by the end of May. Candidates that are allowed to proceed to the competition, which features an interview with scientists affiliated to Sorbonne University, will be notified in June. The interview includes a presentation of usually 15 minutes describing past research and proposed project, followed by questions for about 10 minutes.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ As much as possible, hiring should not depend on personal biases such as the applicant's name or appearance or other personal characteristics. We strive to minimize such biases by using pre-defined job advertisement and recruiting processes and making hiring decisions based on a selection committee. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>As much as possible, hiring should not depend on personal biases such as the applicant's name or appearance or other personal characteristics. We strive to minimize such biases by using pre-defined job advertisement and recruiting processes and making hiring decisions based on a selection committee. 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Hiring should not depend on personal biases, applicant names or other similar aspects. On one hand, the Italian recruitment system restricts to some degree the possibility for e.g. blind screening; on the other hand, academic work is based on often long hours in very close collaboration and hence, to some degree, personality and “fit” are important criteria to make sure that the new team member is happy but also that the existing team dynamics aren’t interrupted. In summary, to hire fairly and equitably is not easy. Given those considerations, the steps that are taken by the PI to make hiring as fair as possible are the following:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Hiring should not depend on personal biases, applicant names or other similar aspects. On one hand, the Italian recruitment system restricts to some degree the possibility for e.g. blind screening; on the other hand, academic work is based on often long hours in very close collaboration and hence, to some degree, personality and “fit” are important criteria to make sure that the new team member is happy but also that the existing team dynamics aren’t interrupted. In summary, to hire fairly and equitably is not easy. Given those considerations, the steps that are taken by the PI to make hiring as fair as possible are the following:
 >- All CVs are read and evaluated with the same interest and dedication, independently of applicants’ names or affiliations.
 >- Reasons for or against candidates are documented (although not publicly).
 >- Postdoc candidates are informed about the types of questions that will be asked during the interview.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The INSIGHT lab has conducted the first pilot of blind selection at Tilburg University. While this approach was positively reviewed, it places an undue burden on HR due to the lack of suitable automated systems. We will continue to push for more equitable recruitment at University strategy meetings. Meanwhile - we ask applicants to avoid mentioning information in their applications that could lead to biased evaluation, including demographic and cultural background, and photographs. Only mention information that is relevant to the job at hand.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>The INSIGHT lab has conducted the first pilot of blind selection at Tilburg University. While this approach was positively reviewed, it places an undue burden on HR due to the lack of suitable automated systems. We will continue to push for more equitable recruitment at University strategy meetings. Meanwhile - we ask applicants to avoid mentioning information in their applications that could lead to biased evaluation, including demographic and cultural background, and photographs. Only mention information that is relevant to the job at hand.
 >
 >Selection panels typically consist of: The hiring PI/promotor; Other collaborators in the project/supervision team; One junior lab member. The members of interview panels are announced in the job vacancy.
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ People As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised., and in accordance with guidelines from UCL.
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>People As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised., and in accordance with guidelines from UCL.
 >
 >In brief, the entire process lasts ~2 months and consists of:
 >
@@ -71,7 +81,9 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >    - Notified they were not suitable for the role
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Candidates are solicited from public job postings. After screening CVs, I invite a subset to 1-on-1 Zoom interviews, then speak over Zoom with references of a further subset. I use the same set of Zoom interview questions for all candidates and share them with the candidate in advance. For technicians, we have a final round of interviews with select current lab members before making an offer. For postdocs, we invite them to a full-day onsite interview including a seminar, meeting 1-on-1 with lab members and other relevant people, and a meal with lab members before making an offer.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Candidates are solicited from public job postings. After screening CVs, I invite a subset to 1-on-1 Zoom interviews, then speak over Zoom with references of a further subset. I use the same set of Zoom interview questions for all candidates and share them with the candidate in advance. For technicians, we have a final round of interviews with select current lab members before making an offer. For postdocs, we invite them to a full-day onsite interview including a seminar, meeting 1-on-1 with lab members and other relevant people, and a meal with lab members before making an offer.
 >
 >I decide to invite candidates to join the lab based on the following criteria:
 >	- Do I have sufficient funding for them and their project?
@@ -81,4 +93,6 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >	- Do I think they would mesh well with our lab’s culture and dynamics?
 >	- Have them demonstrated growth and resilience in their prior work, showing a potential for growth and future scientific excellence?
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: Applicants intending to join MsEE Lab will be interviewed by Pablo and all current long-term (non-undergraduate) lab members before any decisions are made. Prospective graduate students must apply to a Cornell Graduate Field, where they may be interviewed by Pablo and carry out a research rotation in the lab to consider joining. Other types of positions apply to Pablo directly. Postdoctoral candidates should expect to present their previous research in a talk, either remotely or in person, depending on lab finances and candidate location. All candidates should provide a CV and expect it to be shared with lab members. Pablo will gather feedback from all lab members individually and confidentially. Pablo will present the conclusions gained from this process and the resulting decision to the group. The timeline for this decision will be communicated to the applicant promptly.
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>Applicants intending to join MsEE Lab will be interviewed by Pablo and all current long-term (non-undergraduate) lab members before any decisions are made. Prospective graduate students must apply to a Cornell Graduate Field, where they may be interviewed by Pablo and carry out a research rotation in the lab to consider joining. Other types of positions apply to Pablo directly. Postdoctoral candidates should expect to present their previous research in a talk, either remotely or in person, depending on lab finances and candidate location. All candidates should provide a CV and expect it to be shared with lab members. Pablo will gather feedback from all lab members individually and confidentially. Pablo will present the conclusions gained from this process and the resulting decision to the group. The timeline for this decision will be communicated to the applicant promptly.

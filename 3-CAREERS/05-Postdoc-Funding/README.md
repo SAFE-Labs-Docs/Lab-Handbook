@@ -18,7 +18,9 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ At CNRS, salaries are determined by a [national grading system](https://carrieres.cnrs.fr/en/compensation-for-contractual-employees/), particular cases might apply to specific funding sources (e.g Marie Curie postdoctoral fellowships). In France, taxes and contributions to pension schemes (etc) are deducted directly from the gross salary, in case of doubts do not hesitate to ask further information. As a general information, health care is provided by the French state.
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>At CNRS, salaries are determined by a [national grading system](https://carrieres.cnrs.fr/en/compensation-for-contractual-employees/), particular cases might apply to specific funding sources (e.g Marie Curie postdoctoral fellowships). In France, taxes and contributions to pension schemes (etc) are deducted directly from the gross salary, in case of doubts do not hesitate to ask further information. As a general information, health care is provided by the French state.
 >
 >Contrary to some other countries, no unpaid work is allowed, this concerns also master or bachelor students who will receive a "compensation" if staying longer than 2 months.
 >
@@ -26,20 +28,28 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >Postdoctoral salaries depend on the experience level. Postdoctoral researchers are encouraged to apply for their own funding, both to benefit their own career and to improve lab finances. Options will be discussed case by case.
 
->_[GalupaLab_2025](https://www.galupalab.org/):_ All postdoctoral researchers are expected to apply for fellowships, both to benefit their own career and to improve lab finances. Yet, being awarded a fellowship is not a requirement. With or without a fellowship, postdoctoral researchers in our lab/institute will be employed by the CNRS. The salary at entry level will be determined according to years of experience after PhD; at the CNRS, the pay scales correspond to the following years of experience after PhD: [0-2], [2-7], [7-10], [10-15], [15-20] and [+20]. Importantly (and unfortunately), the salary will not evolve according to the scale, regardless of the duration of the postdoc, but rather be fixed at the level of the start. For a salary change, the contract would have to be broken and a new one made, which is not always possible. These situations should of course be discussed when relevant.
+>_[GalupaLab_2025](https://www.galupalab.org/)_:
+>
+>All postdoctoral researchers are expected to apply for fellowships, both to benefit their own career and to improve lab finances. Yet, being awarded a fellowship is not a requirement. With or without a fellowship, postdoctoral researchers in our lab/institute will be employed by the CNRS. The salary at entry level will be determined according to years of experience after PhD; at the CNRS, the pay scales correspond to the following years of experience after PhD: [0-2], [2-7], [7-10], [10-15], [15-20] and [+20]. Importantly (and unfortunately), the salary will not evolve according to the scale, regardless of the duration of the postdoc, but rather be fixed at the level of the start. For a salary change, the contract would have to be broken and a new one made, which is not always possible. These situations should of course be discussed when relevant.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ Available funding depends on current grants and project goals and will be discussed with each researcher during hiring and onboarding. In general, funding for graduate students and postdoctoral researchers is available for at least 3 years. Typically, I will ask postdocs and graduate students, where appropriate, to apply for funding. I guide and support the grant writing process. This helps to crystalise their project approach and hypotheses, are valuable additions to a researcher's CV, and can provide additional funding for professional activities (e.g. travel).
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>Available funding depends on current grants and project goals and will be discussed with each researcher during hiring and onboarding. In general, funding for graduate students and postdoctoral researchers is available for at least 3 years. Typically, I will ask postdocs and graduate students, where appropriate, to apply for funding. I guide and support the grant writing process. This helps to crystalise their project approach and hypotheses, are valuable additions to a researcher's CV, and can provide additional funding for professional activities (e.g. travel).
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ There are no (very few) Italian personal grants for postdocs. Hence, funding can come from one out of three sources: (1) Lab grant, (2) EU fellowship (MSCA etc.), (3) School funds. Since 2025, postdoc contracts are work contracts that include taxes, contributions to pension schemes etc. The details of these contracts will be communicated by HR. Postdocs can likely expect the following salaries and contract durations:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>There are no (very few) Italian personal grants for postdocs. Hence, funding can come from one out of three sources: (1) Lab grant, (2) EU fellowship (MSCA etc.), (3) School funds. Since 2025, postdoc contracts are work contracts that include taxes, contributions to pension schemes etc. The details of these contracts will be communicated by HR. Postdocs can likely expect the following salaries and contract durations:
 >1. Lab grants: Initial contracts are for 12 months, but there will be clear communication about the duration of the current funding and the anticipated duration of the postdoc (typically at least 3 years). If funds allow, we aim to pay more than Italian standard postdoc contracts, currently we pay around 27’000-30’000 Euro net per year from which only a small health care contribution needs to be subtracted. 
 >2. EU fellowships: Typical fellowship durations are 2-3 years. Salaries can vary widely and are determined by the agency; they cannot be “topped-up” by other funding sources. An MSCA currently pays more than double of a typical Italian postdoc salary.
 >3. School funds: Depending on school budgets, there are certain numbers of “postdoc months” that can be paid from school money. Durations are variable but will be max. 12 months. How these fellowships will look like exactly under the new law is not clear yet.
 >
 >For comparisons, salaries of personnel and faculty at different stages are public and can be found [here](https://www.sissa.it/servizi-informazioni-personale/salary-tables).
 
->_[RossiLab_2025](https://rossilab.iit.it/home)_: Postdoctoral positions can be funded in 3 ways: 1)on a lab grant, 2) on IIT core funds to the lab; 3) on an external fellowship (e.g. MSCA, EMBO etc..). Salaries and type of contract depends on the funding source.
+>_[RossiLab_2025](https://rossilab.iit.it/home)_:
+>
+>Postdoctoral positions can be funded in 3 ways: 1)on a lab grant, 2) on IIT core funds to the lab; 3) on an external fellowship (e.g. MSCA, EMBO etc..). Salaries and type of contract depends on the funding source.
 >
 >1,2. Postdocs are hired via Co.Co.Co (‘collaboration’) contracts, with a yearly gross salary (R.A.L) ranging from 30-55K depending on experience and funds available: these salaries are typically higher than the average in Italy. The collaboration contract is not constrained by working hours, remote work and annual leave limits, which can be flexibly managed in agreement with Federico depending on the project milestones. Additional benefits include an optional health insurance, which paid by IIT top of the salary, which can be extended to any family member: while the insurance cost adds to the taxable income, its value is paid by IIT. At the end of the contract, a researcher may be rewarded with a one off bonus (compenso aggiuntivo di fine incarico, CAFI).
 >
@@ -49,10 +59,14 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ Any advertised postdoctoral position is fully funded for the duration specified on the job advertisement. However, all postdocs are required to apply for funding and fellowships when accepting a position in the lab. This is for three reasons:
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>Any advertised postdoctoral position is fully funded for the duration specified on the job advertisement. However, all postdocs are required to apply for funding and fellowships when accepting a position in the lab. This is for three reasons:
 >1. It helps to crystalise their project approach and hypotheses
 >2. Fellowships are valuable additions to a researcher’s CV
 >3. It can provide additional funding for professional activities (e.g. travel)
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: All positions are fully funded.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>All positions are fully funded.

@@ -17,25 +17,39 @@ A PhD steering committee provides independent oversight of PhD student progress 
 ## Examples
 
 ### France
->_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: PhD students also have annual meetings with their external advisory committee, as set in the CBS2 doctoral school rule.
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
+>
+>PhD students also have annual meetings with their external advisory committee, as set in the CBS2 doctoral school rule.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_  Every PhD student is supervised by a PhD committee comprising the direct supervisor (usually myself) and at least two additional committee members. The PhD committee meets annually to provide feedback on the student's progress. Please find specific rules and regulations regarding composition, meeting frequency, and documentation requirements on the respective PhD program's website, for example, for the [BCCN Berlin's PhD program](https://www.bccn-berlin.de/doctoral-program-structure.html). 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>Every PhD student is supervised by a PhD committee comprising the direct supervisor (usually myself) and at least two additional committee members. The PhD committee meets annually to provide feedback on the student's progress. Please find specific rules and regulations regarding composition, meeting frequency, and documentation requirements on the respective PhD program's website, for example, for the [BCCN Berlin's PhD program](https://www.bccn-berlin.de/doctoral-program-structure.html). 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Two types of feedback and steering measures are in place:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Two types of feedback and steering measures are in place:
 >- Annual progress reports: Every PhD student presents their research and answers questions during a public presentation that includes at least all Neurobiology faculty. These progress report meetings are annual at the end of the 1st, 2nd and 3rd year. They are followed by a discussion among the faculty (without the student) and by an official written report that will be shared with the student. A discussion between the student and the committee, but without the supervisor, is not part of this format. However, PhD students have yearly meetings with the PhD coordinator to raise general issues and can request a meeting with the coordinator at any point during their PhD to discuss issues with their supervisor.
 >- External mentorship program: In addition to the school-intern reports, our lab has established an external mentorship program. For every student, we identify an external scientist who meets with the student at least twice a year for 2h (online), starting at the end of their first year. These meetings exclude the supervisor and can be used by the student as they wish, to discuss data, methods, career etc.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: This is embedded in policy at Tilburg University. At INSIGHT lab, the PhD committee always consists of at least 3 supervisors.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>This is embedded in policy at Tilburg University. At INSIGHT lab, the PhD committee always consists of at least 3 supervisors.
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ There are a number of different PhD programmes that the lab is part of (e.g. SWC, LiDO, RES, ROS, MRC-Birkbeck etc.) Each programme has its own system, and Pip may not be familiar with all of them (please be patient with him!) If you are part of a program within CDB (e.g. RES, ROS, or direct application to a position Pip Advertised), your PhD committee will meet at least once per year throughout the course of your time in the lab, and you “upgrade” after approximately 12-18 months. Annual PhD committee meets are now fairly common across programmes, and this can an extremely valuable process for both Pip and the PhD student. 
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>There are a number of different PhD programmes that the lab is part of (e.g. SWC, LiDO, RES, ROS, MRC-Birkbeck etc.) Each programme has its own system, and Pip may not be familiar with all of them (please be patient with him!) If you are part of a program within CDB (e.g. RES, ROS, or direct application to a position Pip Advertised), your PhD committee will meet at least once per year throughout the course of your time in the lab, and you “upgrade” after approximately 12-18 months. Annual PhD committee meets are now fairly common across programmes, and this can an extremely valuable process for both Pip and the PhD student. 
 >
 >Therefore, If your program does *not* have a PhD committee with (at least) annual meetings, please let Pip know and he will arrange for an informal “steering committee” to fulfil this role
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Thesis committee policies are set by the graduate programs.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Thesis committee policies are set by the graduate programs.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: PhD students should schedule yearly Thesis Committee meetings as outlined by their Graduate Field's Graduate Student Handbook. For more information on expectations, check your Field's handbook ([e.g., the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) and [MsEE Lab's mentorship philosophy statement](https://mseelab.org/mentorship.html).
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>PhD students should schedule yearly Thesis Committee meetings as outlined by their Graduate Field's Graduate Student Handbook. For more information on expectations, check your Field's handbook ([e.g., the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) and [MsEE Lab's mentorship philosophy statement](https://mseelab.org/mentorship.html).

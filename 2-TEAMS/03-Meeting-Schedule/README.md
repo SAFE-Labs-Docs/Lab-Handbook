@@ -19,12 +19,15 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
+>
 >- We meet weekly to discuss our (and other’s) science during labmeetings, on Fridays, 1.30pm-3.30pm. Everyone is expected to attend (in person) and participate. All presentations must be in English. Labmeetings can either consist of data presentation or journal clubs (discussion of a research paper that everyone is expected to read in advance). One presenter is chosen for each week on a rotation basis but the frequency of an individual's presentation may be adapted, depending on projects or people’s needs. The presentation is followed by a quick round table, with every lab member preparing one slide to discuss the latest results. This round table is meant to help each other solve specific technical issues. The labmeeting usually finishes with any updates there might be, especially from myself and from the labmanager. All labmeetings presentations (data and journal club) should be deposited in the shared folder on our lab server.
 >- Individual meetings : While informal discussions will occur throughout the week, each lab member will also benefit from one-on-one meetings. For these one-on-one meetings you are expected to prepare a short powerpoint presentation including a summary of the previous meeting, updates on recent progress, and a plan for future experiments. These one-on-one meetings are organized in a proactive way : you will find open slots for one-on-one meetings every week on the lab common calendar that you can book. This allows for flexibility both in the frequency of meetings and time of the meeting in the week. Expected frequency of meetings will be set with each person depending on their needs. Typically, a new group member may be expected to book weekly meetings while more experienced lab members may meet every other week. While lab members are expected to book one-on-one meetings themselves, if you don’t do it, you will be reminded to do it 😊
 >- Internal and external seminars : Internal seminars at IGH are organized every Thursday at 11.30am, followed by pizzas. Attendance to the internal seminars is compulsory for all lab members. In addition to these internal seminars, external seminars are often organized at various times of the week. Keep an eye out for these external seminars and try to attend those related to your project.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ The PI expects active participation at regular meetings including
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>The PI expects active participation at regular meetings including
 >1. Bi-weekly [Data Club](https://www.notion.so/Decision-Circuits-Data-Club-54e4c1ad1b564dddb630723516d0b8a4?pvs=21) with rotating progress reports
 >2. Bi-weekly [Journal Club](https://www.notion.so/Decision-Circuits-Journal-Club-a5c3fecbff3e411884d4458faf77f057?pvs=21) with rotating paper discussions
 >3. Bi-weekly 1-on-1 [meetings with the PI](https://www.notion.so/Meetings-with-Torben-258f11d17af942beb2c0123d88e2481e?pvs=21)
@@ -33,18 +36,23 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >The PI expects every 1-on-1 meeting is prepared with an agenda and summarized afterwards, highlighting action points (see Notion). 
 
->_[PHASELab_2026](https://masonphaselab.com/2023/09/17/general-onboarding-document/)_: We have journal club currently after lab meeting on Mondays via Zoom, this is compulsory for senior researchers / postdocs, PhD and MSc students and optional for everyone else. The current format is that 3 – 5 selected people each week present a paper of their choice (in about 10 minutes or so). Dr. Mariana Baez is responsible for the journal club schedule.
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/17/general-onboarding-document/)_:
+>
+>We have journal club currently after lab meeting on Mondays via Zoom, this is compulsory for senior researchers / postdocs, PhD and MSc students and optional for everyone else. The current format is that 3 – 5 selected people each week present a paper of their choice (in about 10 minutes or so). Dr. Mariana Baez is responsible for the journal club schedule.
 >- We have a group seminar currently on Thursdays at 11 am via Zoom, this is compulsory for postdocs, PhD and MSc students and optional for everyone else. Dr. Fei He is responsible for the seminar schedule.
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We have three types of regular meetings:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>We have three types of regular meetings:
 >- Lab Meetings: Tuesdays 13:30 – 15:30. These meetings are mandatory and to be attended in-person unless otherwise agreed on with the PI. Meetings may last less than 2h. Lab meetings have the following format: Every 2 weeks data/journal club with a main presenter, and every other 2 weeks general lab meetings. In the "general lab meetings" everyone, including the PI, presents for max. 10-15min. Everyone should focus on 1-2 things they achieved in the past 2 weeks (important: an achievement can be a first pilot experiment, having fixed an issue with a setup, having identified an issue, having written 1 paragraph…) and 1-2 things they plan to do in the next two weeks. These presentations should have a very short introduction (max. 1 slide, a few sentences) to the project or technique and the description of the achievements; future plans should be short and concise so that there’s time within 10-15min for feedback/help/ideas. The purpose of these meetings is NOT to compare productivity or judge each other, but to keep everyone updated on what’s going on in the lab and to provide space to discuss “minor” achievements or issues without having to wait weeks for the next data club. 
 >- 1o1 meetings: The PI meets regularly 1o1 with every lab member. PhD candidates can choose between a weekly or biweekly format; postdocs and technicians agree with the PI on a format that works best (regular, when necessary depending on the project status). Master students and interns may have biweekly or monthly meetings with the PI, depending on the degree of supervision by the PhDs/postdocs in the lab. All lab members are requested to send a short summary email to the PI after each 1o1 meeting. These can be bullet-point style but should contain concrete plans/agreements/outcomes. This format ensures that there’s a paper trail of what has been discussed and agreed on, but also that the PI and the lab member have the same understanding of the discussed matter.
 >- Yearly feedback meetings: At the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
 >
 >More details can be found in the internal Lab Handbook.
 
->_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti):_ 
+>_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>
 >We have three types of regular meetings:
 >
 >Lab Meetings (Tuesdays, 9:30 – 11:30):
@@ -56,7 +64,9 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Topic Meetings (Fridays, 10:00 – 11:00):
 >Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing >on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
 
->_[RossiLab_2025](https://rossilab.iit.it/home):_ **Lab meetings**: The lab meets as a group once per week, on Friday morning from 9 to 11 – breakfast is on the house! We are experimenting with 4 types of meetings:
+>_[RossiLab_2025](https://rossilab.iit.it/home)_:
+>
+>**Lab meetings**: The lab meets as a group once per week, on Friday morning from 9 to 11 – breakfast is on the house! We are experimenting with 4 types of meetings:
 > - Data Clubs
 > - Journal Clubs
 > - Literature Review Clubs
@@ -72,11 +82,17 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: The lab meets monthly for a round table, to discuss ongoing research, present project proposals, and read relevant literature. Lab members are expected to be present in person for events organized by other lab members, including the lab meetings.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>The lab meets monthly for a round table, to discuss ongoing research, present project proposals, and read relevant literature. Lab members are expected to be present in person for events organized by other lab members, including the lab meetings.
 
->_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_: Every lab member, from RA to PI, will have admin jobs they should have done last week but never get round to. During Eat The Frog sessions (usually 14-15 on Thursday) we sit together in one space and (only!) work on these tasks, writing what you will finish on the whiteboard at the start. Some examples include updating your CV, filling out paperwork, updating an online profile or finishing the references in your paper. Use this hour productively so that these endless small tasks don’t affect you the rest of your week.
+>_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_:
+>
+>Every lab member, from RA to PI, will have admin jobs they should have done last week but never get round to. During Eat The Frog sessions (usually 14-15 on Thursday) we sit together in one space and (only!) work on these tasks, writing what you will finish on the whiteboard at the start. Some examples include updating your CV, filling out paperwork, updating an online profile or finishing the references in your paper. Use this hour productively so that these endless small tasks don’t affect you the rest of your week.
 
->_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
+>
+>Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:
 >1. On Monday or Tuesday (see Gcal for the lab), our own CoCoSys lab meeting
 >2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and _CO-squared_ joint lab meeting.
 >
@@ -84,7 +100,9 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ### United Kingdom
 
->_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_: Group meetings (weekly, ~90 minutes)
+>_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:
+>
+>Group meetings (weekly, ~90 minutes)
 >
 >Weekly group meetings are for sharing work and helping each other. Participation is expected of all group members — if you can’t make it, send advance notice.
 >
@@ -116,7 +134,9 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >A monthly walk to a coffee shop or similar, replacing a regular meeting. These encourage smaller 2-3 person conversations that don’t happen easily in a full group.
 
->_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/lab-meetings-and-communication.html)_: During term time, meetings take place on most Thursdays, 13:00-14:30. Location varies: see Teams calendar for details.
+>_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/lab-meetings-and-communication.html)_:
+>
+>During term time, meetings take place on most Thursdays, 13:00-14:30. Location varies: see Teams calendar for details.
 >
 >3.2 Standing agenda
 >- Logistics: Is anything broken? Are there scheduling conflicts/difficulties? Programs to troubleshoot?
@@ -124,7 +144,9 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- OSF Review: We’ll check whether any milestones have been reached lately
 >- Research content (ordered by priority; we won’t do all things every meeting): Lab members starting a new study will give their elevator speech and demo their program, lab members with new data will describe it for us (must have a graph!), we will discuss a relevant research paper
 
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Discussing scientific progress is essential for academic success. I expect all the lab members to participate in our scheduled meetings. I will schedule all meetings during the ICR's working hours, from 9 am to 5 pm.
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>Discussing scientific progress is essential for academic success. I expect all the lab members to participate in our scheduled meetings. I will schedule all meetings during the ICR's working hours, from 9 am to 5 pm.
 >
 >**1. Radzisheuskaya lab meetings:** every 3 weeks, 2 speakers on a rotating schedule present an informal progress report. There will be time allocated for discussion of general lab issues. The meetings typically last 90-120 min. The schedule is sent via Outlook Calendar. 
 >
@@ -140,13 +162,17 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >If you want my help or advice on specific experiments, please come with raw data for me to look at. Describing your observations verbally will not help me troubleshoot your problems.
 
->_[CoenLab_2025](https://coen-lab.com/):_ At the time of writing, the lab meets as a group twice per week, on Tuesdays and Thursdays at 10am–pastries are provided! These are typically Journal Clubs (presentation of a paper) on Tuesdays and Data Clubs (update on a project) on Thursdays. However, meetings are sometimes focused on other lab business, including training, external speakers, feedback sessions, or mini-hackathons.
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>At the time of writing, the lab meets as a group twice per week, on Tuesdays and Thursdays at 10am–pastries are provided! These are typically Journal Clubs (presentation of a paper) on Tuesdays and Data Clubs (update on a project) on Thursdays. However, meetings are sometimes focused on other lab business, including training, external speakers, feedback sessions, or mini-hackathons.
 >
 >The expectations for regular meetings are laid out in detail on our lab wiki, but most meetings have a presenter, responsible for leading the meeting, and someone taking notes on the content. All group meetings are in-person events, although we record meetings online for posterity, and to allow participation from those who can’t attend in person.
 >
 >Individually, I meet with every lab member at least once per week, unless one of us is out of town, to discuss their project and any other issues. After each meeting, lab members write a brief summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.
 
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Discussing scientific progress is essential for academic success. I expect all lab members to actively participate in our scheduled lab meetings. These meetings serve as a platform to present work-in-progress, to engage in discussions about research, and to explore general topics around research practice. It is also a useful way for lab members to stay informed about, and learn from, each others' work, and to share achievements and challenges together.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>Discussing scientific progress is essential for academic success. I expect all lab members to actively participate in our scheduled lab meetings. These meetings serve as a platform to present work-in-progress, to engage in discussions about research, and to explore general topics around research practice. It is also a useful way for lab members to stay informed about, and learn from, each others' work, and to share achievements and challenges together.
 >
 >Lab meetings are held weekly, currently on Wednesdays from 13:00-14:30 UK. If I am your primary supervisor, you are required to attend these meetings in person. If you must attend virtually or are unable to attend a meeting, let Reshanne know as soon as possible.
 >
@@ -157,7 +183,8 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
 >**Lab meetings & open meetings**
 >- **When:** Lab meetings are Mondays 9:30am-11am in the conference room. Everyone is expected to attend and be on time. If you must miss a lab meeting, let the presenter and Emily know, and talk to the presenter afterwards to learn about what you missed.
 >- **Format:** Slides recommended, but not required. If you’re presenting a project update, plan to present background slides establishing the scientific premise for your project. Share with the lab what types of feedback you’re seeking (e.g. overall project direction, new experiments, figure nit-picking). If you’re presenting a journal club, please send a link to or pdf of the paper to the lab via the #journal_club channel at least a week in advance, so everyone has time to read it.
@@ -173,6 +200,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- **Prep:** Think about how I can be most helpful in your goals. Do you want feedback on a plan? Guidance on where to start? Advice on a professional development topic? Anything you can share with me in advance can help me prepare, from a simple 1-sentence idea of what we’re discussing to a whole folder full of figures.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
 
 >**Weekly general lab meetings**: Lab meetings will occur weekly at a time voted on by all lab members at the start of each academic term. A meal will be provided to all in-person participants. Lab meetings will be carried out jointly with [the Harimoto Lab](https://www.harimotolab.com/) for the time being. The following proposed format is subject to change pending discussion with Prof. Harimoto.
 >1. Lab meetings will begin with a discussion of announcements and news (~5 minutes). 
@@ -182,7 +210,9 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >**One-on-one meetings**: Pablo runs weekly one-on-one meetings with each lab member, typically lasting 45 minutes. These meetings are designed to support lab members in achieving their goals in scientific and career development, including the successful implementation of research projects. The structure of these meetings involves setting and reviewing goals for research projects and the lab member's career at MsEE Lab. Pablo will also ask for feedback on mentorship strategy. Pablo is also available for additional (or fewer) meetings upon request.
 
 ### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_: The whole group meets once a week. Each meeting has two parts:
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
+>
+>The whole group meets once a week. Each meeting has two parts:
 >
 >1. **A short update from every member**, about five minutes each: what you did
 >   this week, what worked, what didn't, what you are doing next.

@@ -16,11 +16,15 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ We follow the guidelines of CNRS and Observatoire Océanologique de Banyuls-sur-Mer for sustainability. 
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>We follow the guidelines of CNRS and Observatoire Océanologique de Banyuls-sur-Mer for sustainability. 
 >
 >We favour, where possible, travel by train or other lower impact means. Lab waste is recycled according to instructions. We aim to minimize plastic consumables, for example by using smaller containers when possible.
 
->_[GalupaLab_2025](https://www.galupalab.org/):_ This aspect should deserve more of our attention in a near future, as a lab/team. At the institute level, some measures for energy-saving have been implemented (e.g., reduced lights outside of working hours, freezers at -70°C instead of -80°C) and we have an active working group dedicated to green initiatives, called "CBI 1.5", based on the initiative ["Labos 1.5"](https://labos1point5.org/le-gdr). We should strive to minimise energy consumption and waste production; any ideas are welcome.
+>_[GalupaLab_2025](https://www.galupalab.org/)_:
+>
+>This aspect should deserve more of our attention in a near future, as a lab/team. At the institute level, some measures for energy-saving have been implemented (e.g., reduced lights outside of working hours, freezers at -70°C instead of -80°C) and we have an active working group dedicated to green initiatives, called "CBI 1.5", based on the initiative ["Labos 1.5"](https://labos1point5.org/le-gdr). We should strive to minimise energy consumption and waste production; any ideas are welcome.
 >- When traveling for work, we prioritise more sustainable options (e.g. train over plane) when possible, especially when traveling time remains below 8 hours
 >- We recycle as much as possible, in the office and in the lab
 >- We place orders in bulk to reduce shipments
@@ -28,13 +32,17 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 >- We turn off unused equipment when prolonged downtime is forecasted, if possible and not detrimental to the instruments
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.
 >Recycling: To minimize the environmental impact of lab waste, we avoid mixing lab waste and regular waste. We recycle regular waste according to local regulations.
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment and lighting.
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided
 for experimental or safety reasons, we have rules in place to minimize our footprint as much as possible:
 >
 >Travels: Team members are required to travel by train or similar public transport means for trips <8h. Exceptions need to be discussed with the PI. SISSA employees can get a 10%discount on all Freccia travels, including private ones.
@@ -46,7 +54,9 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >Shared facilities: We have quite a large number of shared facilities and equipment. These are managed by the technical staff and can be used by all SISSA labs.
 
 
->_[RossiLab](https://rossilab.iit.it/home)_: The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+>_[RossiLab](https://rossilab.iit.it/home)_:
+>
+>The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >
 >Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, I will cover the most sustainable travel option (up to 150% the price of the cheapest alternative). IIT policies also encourages the use of public transport over private cars and taxis. Lab members are encouraged to combine their work trips with other activities to reduce future emissions, like visiting related labs or institutes in the local area, or simply taking a holiday: in compliance with IIT policies, onwards or returning travel on away days will be covered if similar or less expensive. I incentivize sustainable options for daily commute: undergrad, master and PhD students enrolled at University of Trento benefit from [discounted public transportation across the Trentino region](https://www.provincia.tn.it/Servizi/Abbonamenti-trasporto-studenti-universitari). 
 >
@@ -55,33 +65,46 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
 >_[MariottiLab](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>
 > Travel: I actively promote the use of sustainable transport options, both for long-haul travel and daily commuting. For long-distance trips, I prioritize covering the most environmentally friendly travel options whenever funding permits.
 >
 > Waste Management: All team members receive clear instructions on the proper disposal of hazardous waste and are encouraged to consult safety information before discarding unfamiliar materials. Recycling bins for paper and plastic are available throughout the labs and surrounding areas, and everyone is urged to use them for non-hazardous waste.
 >
 > Procurement: When fundings policy allows,  we prioritize sourcing equipment from local suppliers to reduce environmental impact and support the local economy whenever the cost difference is minimal.
 
->_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_: Research inevitably consumes energy and generates waste, but we can—and should—strive to minimize our environmental footprint. All lab members are expected to act responsibly and adopt sustainable practices whenever possible.
+>_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_:
+>
+>Research inevitably consumes energy and generates waste, but we can—and should—strive to minimize our environmental footprint. All lab members are expected to act responsibly and adopt sustainable practices whenever possible.
 - **Waste Management**: Ensure proper disposal of hazardous materials. If you’re unsure about how to discard a substance, consult safety data sheets or ask for guidance. Always recycle when appropriate.
 - **Energy Use**: Be mindful of electricity consumption. Turn off lights, equipment, and appliances when they are not in use.
 - **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Please take climate concerns into account when planning conferences. If the choice is between two equally relevant conferences, and one can be reached by train whereas the other requires flying - consider prioritizing the one that can be reached by train.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>Please take climate concerns into account when planning conferences. If the choice is between two equally relevant conferences, and one can be reached by train whereas the other requires flying - consider prioritizing the one that can be reached by train.
 
->_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_: In the lab, we recognize the climate emergency and try our best to be mindful of our carbon footprint. That means to take the train whenever you can, even if it costs a bit more. That does not mean flying for conferences is necessarily out of the question, but we have to do so deliberately: it has to be a really valuable opportunity, and we should plan ahead to make the most of it (including a workshop, other local talks or events etc.).
+>_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_:
+>
+>In the lab, we recognize the climate emergency and try our best to be mindful of our carbon footprint. That means to take the train whenever you can, even if it costs a bit more. That does not mean flying for conferences is necessarily out of the question, but we have to do so deliberately: it has to be a really valuable opportunity, and we should plan ahead to make the most of it (including a workshop, other local talks or events etc.).
 
->_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: We actively work on making academia [a more sustainable place](https://anneurai.net/green-neuroscience/). [In line with Leiden University's polies](https://www.universiteitleiden.nl/en/dossiers/the-sustainable-university/sustainable-campus/mobility) I encourage travel by train, and may prioritize certain conferences based on their accessibility by train.
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
+>
+>We actively work on making academia [a more sustainable place](https://anneurai.net/green-neuroscience/). [In line with Leiden University's polies](https://www.universiteitleiden.nl/en/dossiers/the-sustainable-university/sustainable-campus/mobility) I encourage travel by train, and may prioritize certain conferences based on their accessibility by train.
 >
 >For projects that require significant resources (usually either in the lab or computing), I encourage discussing ways to minimize the environmental cost of our research.
 
 ### United Kingdom
 
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We have a Silver Award from the LEAF lab sustainability initiative, and we follow a set of defined rules to maintain the Award. All the followed procedures can be found in the Sustainability section of our group's Team channel.
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>We have a Silver Award from the LEAF lab sustainability initiative, and we follow a set of defined rules to maintain the Award. All the followed procedures can be found in the Sustainability section of our group's Team channel.
 >
 >Since everyone in the lab shares responsibility for ordering reagents, I expect you to regularly look for the most budget-friendly options and ask sales reps for discounts—especially when it comes to high-cost items. The same mindset applies to doing experiments: always be mindful of conserving resources. That means reducing waste, optimising how you use reagents, keeping reaction volumes low when possible, and avoiding unnecessary samples. Being smart about spending day to day helps us save up for bigger, more expensive—and very exciting—experiments down the line.
 
->_[CoenLab_2025](https://coen-lab.com/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >
 >Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-haul trips, when funding allows, I will cover the most sustainable travel option. I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work-related) trips. Lab members are also encouraged to combine their work trips with other activities to reduce future emissions, like visiting related labs or institutes in the local area, or simply taking a holiday. I incentivize sustainable options for daily commute: PhD students benefit from reduced costs on public transportation across, and all staff can participate in UCL’s cycle scheme to purchase a bike through salary sacrifice (meaning that the effective cost is reduced and spread over time).
 >
@@ -91,8 +114,11 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
 >-**Transit**: I encourage you to take public transportation or share taxis between airports and conference venues whenever possible.
 >-**Electricity**: Turn off room lights when not in use and shut down computers between experiments.
 >-**Composting**: Put coffee grounds, tea bags, and other compostable food scraps into the lab compost bin on the coffee cart.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: Many other organizations have catalogued best practices for lab sustainability. Wherever possible, we follow practices for research labs outlined by [My Green Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) and the [Brophy Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) ([Leak *et al.*, 2023](https://doi.org/10.1016/j.tibs.2022.09.001)), such as [routine cleaning of freezers and setting ultracold storage to –70 ºC](https://freezerchallenge.mygreenlab.org/landing/?showResource=best-practices).
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>Many other organizations have catalogued best practices for lab sustainability. Wherever possible, we follow practices for research labs outlined by [My Green Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) and the [Brophy Lab](https://mygreenlab.org/alp/glc/the-sustainable-lab-playbook/) ([Leak *et al.*, 2023](https://doi.org/10.1016/j.tibs.2022.09.001)), such as [routine cleaning of freezers and setting ultracold storage to –70 ºC](https://freezerchallenge.mygreenlab.org/landing/?showResource=best-practices).

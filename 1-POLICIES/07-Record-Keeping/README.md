@@ -15,10 +15,14 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 ## Examples
 
 ### France
->_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: All data and codes will be made available through public repositories, respecting the FAIR (findable, accessible, interoperable, reusable) data principles. A big part of ensuring that data are FAIR is by documenting all experiments, protocols, results etc… For this we use electronic labbooks and ensure their strict completion.
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
+>
+>All data and codes will be made available through public repositories, respecting the FAIR (findable, accessible, interoperable, reusable) data principles. A big part of ensuring that data are FAIR is by documenting all experiments, protocols, results etc… For this we use electronic labbooks and ensure their strict completion.
 
 ### United Kingdom
->_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_: All computers should be backed up. A set of two USB hard drives should be used as a daily automated back-up,
+>_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_:
+>
+>All computers should be backed up. A set of two USB hard drives should be used as a daily automated back-up,
 > rotated at regular intervals. Regular backup of important documents (e.g. model set-up files, manuscripts)
 > to the lab group's google drive, the University's google drive or the University servers, preferably
 > via a version control system, e.g. git.
@@ -33,12 +37,15 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 > an open online environment, such as GitHub. Group members are free to add repositories to this group's or
 > start their own. Code should be released under a suitable, permissive licence, such as LGPL whenever possible.
 
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can't reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can't be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab. For results to be reproducible, the analysis pipeline must be organized and well documented.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can't reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can't be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab. For results to be reproducible, the analysis pipeline must be organized and well documented.
 >
 >To meet these goals, you must document all aspects of your analysis pipeline. This means writing down how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests (including in analysis scripts, which should always be commented clearly so that every step is understandable by an outsider). If you are running your analyses in JASP, make sure to re-label standard headings of analyses (e.g., 'Repeated Measures ANOVA' could be relabeled to 'Vividness of immediate recall: repeated-measures ANOVA'), give outputs a sensible title, e.g., 'Immediate_recall_analyses', and save them all in the same 'results' folder.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
 **General principles:**
 
 >- All data (raw and preprocessed), metadata, records (e.g. lab notebook), code, analysis, and writing must be backed up to cloud storage (e.g. OneDrive) or stored on a system with regular backups (the server). You can keep working copies of any data on the server in a second location as well. We must keep all these for several years after each paper is published, so it’s important that they are durably stored and easy to locate.
@@ -70,7 +77,9 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
     - within Raw Data and Preprocessed Data: [Data Type]/[Animal Name]
 >- Recording file naming scheme: [yyyymmdd]*[Animal Name]*[Track][Epoch]
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: _Protocols:_ MsEE Lab encourages all members to write or annotate their own versions of protocols. Lab reference versions are stored publicly and updated on the [MsEE Lab Protocols repository on GitHub](https://github.com/mseeLab), which allows for version control and history.
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>_Protocols:_ MsEE Lab encourages all members to write or annotate their own versions of protocols. Lab reference versions are stored publicly and updated on the [MsEE Lab Protocols repository on GitHub](https://github.com/mseeLab), which allows for version control and history.
 >
 >*Shared resources:* Presentations by all lab members, visuals, plasmid/strain databases, laboratory inventory, ordering history, and useful reference material are kept on the MsEE Lab Google Drive account.
 >
@@ -83,7 +92,9 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >*Publishing:* All projects are published as preprints as soon as they are completed for publication, and updated with new results whenever they are available. MsEE Lab prefers to publish in nonprofit research journals, but the choice of a target journal is an open matter of discussion for members of the project being published. [Elsevier is banned for being particularly egregious in its attacks on open science](https://en.wikipedia.org/wiki/Elsevier#Criticism_of_academic_practices) ([although making for a fascinating story along the way](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)). Yes, this includes all of Cell Press and The Lancet, sorry.
 
 ### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_: Some things that make a notebook useful, wherever it lives:
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
+>
+>Some things that make a notebook useful, wherever it lives:
 >
 >- Date every entry. Newest-first keeps the latest state at the top.
 >- Record *decisions* and *why*: "Discarded rep3: box too small, protein

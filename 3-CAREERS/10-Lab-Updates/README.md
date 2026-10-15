@@ -18,10 +18,14 @@ Lab members are often considering academia as a potential career. It informs tha
 ## Examples
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ At the annual retreat, I update the lab about the state of the lab, management challanges, grant and financial situations, and equipment. We also discuss how I or the team can address management challenges. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>At the annual retreat, I update the lab about the state of the lab, management challanges, grant and financial situations, and equipment. We also discuss how I or the team can address management challenges. 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Several mechanisms are in place to update all team members on lab management issues (responsibilities of lab managers, funding situation, costs etc.):
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Several mechanisms are in place to update all team members on lab management issues (responsibilities of lab managers, funding situation, costs etc.):
 >Biweekly lab meetings: The PI presents at the biweekly lab meetings. Often, these presentations will be about lab management related aspects.
 >Lab costs and funding are documented in detail and accessible to all lab members. Like this, everyone can get an idea of what “stuff costs” and what the funding situation of the lab is.
 >Grant applications are shared and, if adequate, lab members contribute to writing, budgeting etc. 
@@ -29,20 +33,30 @@ Lab members are often considering academia as a potential career. It informs tha
 >The PI participates often in informal lunches, coffee breaks or other opportunities to ask and discuss about lab management topics.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Lab members will be kept informed about lab developments information via email. Relevant information includes spending, grant applications, and outlook for the future. Lab members will be involved to provide feedback on grant applications and funding considerations that affect the future of the lab.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>Lab members will be kept informed about lab developments information via email. Relevant information includes spending, grant applications, and outlook for the future. Lab members will be involved to provide feedback on grant applications and funding considerations that affect the future of the lab.
 
 ### United Kingdom
 
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ Yearly state of the lab meeting: at the end of the year, I will give a lab management update to go over our spending, funding applications, achievements over the past year and the vision for the next one.
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>Yearly state of the lab meeting: at the end of the year, I will give a lab management update to go over our spending, funding applications, achievements over the past year and the vision for the next one.
 
->_[CoenLab_2025](https://coen-lab.com/):_ Every ~6 weeks, we have a Lab Update meeting where we discuss and improve lab management and operations, and address any concerns or questions. During these meetings, Pip will also provide updates on future lab funding, events, and other matters.
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>Every ~6 weeks, we have a Lab Update meeting where we discuss and improve lab management and operations, and address any concerns or questions. During these meetings, Pip will also provide updates on future lab funding, events, and other matters.
 >
 >Using the page dedicated to a specific lab update meeting, please add items to the agenda that you would like to discuss in this weeks meeting. This can be any aspect of general lab business, from how we store and manage data, to which snacks to get for lab meetings.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 
 
 >In preparation for this meeting, Pablo discusses the state of each research project with all lab members involved. The lab members involved in a paper then create one slide summarizing its status. Additionally, members of the lab fill out [an online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog) providing feedback on the lab's management and Pablo's mentorship.
 

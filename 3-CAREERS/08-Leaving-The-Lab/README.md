@@ -19,13 +19,19 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ In the normal life of a lab, people will leave, either because they have finished their project, or because they've found a new opportunity or for personal reasons. Lab members are encouraged to discuss their plans with the PIs as early as possible, in order to ensure a smooth process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects.
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>In the normal life of a lab, people will leave, either because they have finished their project, or because they've found a new opportunity or for personal reasons. Lab members are encouraged to discuss their plans with the PIs as early as possible, in order to ensure a smooth process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ The PI accommodates a lab member preparing for their next position towards the end of their time at the lab such as grant writing or preparing interviews after discussing timelines and remaining workload together. There can be various reasons for deciding to leave the lab, and some may need to do so before their projects are complete. Lab members should discuss their plans with the PI as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. The PI will conduct an exit interview to discuss the reasons for leaving and provide constructive feedback based on their experience and agree on a plan to finalize projects, if applicable. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>The PI accommodates a lab member preparing for their next position towards the end of their time at the lab such as grant writing or preparing interviews after discussing timelines and remaining workload together. There can be various reasons for deciding to leave the lab, and some may need to do so before their projects are complete. Lab members should discuss their plans with the PI as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. The PI will conduct an exit interview to discuss the reasons for leaving and provide constructive feedback based on their experience and agree on a plan to finalize projects, if applicable. 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is normal that people will leave the lab, either because they have finished their project, or because they’ve found a new opportunity or for personal reasons. Lab members are encouraged to talk to the PI as soon as they consider leaving the lab. It will not be held against anyone if they want to leave, instead, the PI is dedicated to providing support in planning the next steps or to finding solutions in case the leave is due to health/personal reasons. Once someone has decided to leave, the following steps need to be taken:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>It is normal that people will leave the lab, either because they have finished their project, or because they’ve found a new opportunity or for personal reasons. Lab members are encouraged to talk to the PI as soon as they consider leaving the lab. It will not be held against anyone if they want to leave, instead, the PI is dedicated to providing support in planning the next steps or to finding solutions in case the leave is due to health/personal reasons. Once someone has decided to leave, the following steps need to be taken:
 >
 >As early as possible:
 >- Make sure knowledge is transferred and at least one current lab member is trained in relevant techniques.
@@ -40,9 +46,13 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- 1o1 meeting with the PI to go together through the update documentation, discuss and give mutual feedback on the lab member’s time in the lab, and to discuss next steps concerning ongoing projects if adequate.
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Please archive all your ongoing work as described in Section 13. We will schedule an exit interview on your last day (or before, if necessary).
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>Please archive all your ongoing work as described in Section 13. We will schedule an exit interview on your last day (or before, if necessary).
 
->_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: People leave the lab for all kinds of reasons, whether after several PhD years, or after a summer project. Hopefully, they are leaving for exciting new opportunities. Regardless of the reason for leaving, please give Anne as much notice as possible so that this transition can take place as smoothly.
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
+>
+>People leave the lab for all kinds of reasons, whether after several PhD years, or after a summer project. Hopefully, they are leaving for exciting new opportunities. Regardless of the reason for leaving, please give Anne as much notice as possible so that this transition can take place as smoothly.
 >
 >Offboarding checklist:
 >- Inform the CogPsy secretariat of formal end to your contract, and indicate if your account should be extended as a guest
@@ -52,7 +62,9 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- Schedule [exit interview](https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab) to review time in the lab, give mutual feedback, and discuss future plans.
 
 ### United Kingdom
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I will be transparent with the employees about the available funding for their positions when they join the lab. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab or a plan for securing the next position. 
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>I will be transparent with the employees about the available funding for their positions when they join the lab. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab or a plan for securing the next position. 
 > 
 >I aim to provide lab members with mentorship and support to secure the next career step. Job and/or grant applications and preparing for subsequent interviews take time. Typically, after discussions during one-on-one meetings, I support dedicating up to 25% of research time to this endeavour.  
 >
@@ -60,7 +72,9 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 > 
 >I understand that people decide to leave the lab for different reasons and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the handover of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step before departure, I will organise an exit interview, during which the departing lab members will be able to discuss their reasons for leaving and provide constructive feedback based on their experience. If needed, another member of the ICR faculty will be invited to participate in the interview.
 
->_[CoenLab_2025](https://coen-lab.com/):_ People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member). While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member). While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!
 >
 >#### Offboarding Checklist
 >
@@ -88,7 +102,9 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >However, if someone is leaving the lab because they have been made to feel uncomfortable or unwelcome, *that is not to be expected and is not okay*. If you experienced something like this during your time in the lab, please raise it during your exit interview so Pip can take steps to prevent it happening again. Naturally, Pip hopes lab members feel able to raise these concerns as soon as they arise so he can take immediate action: you can submit concerns at any time in regular meetings, or anonymously [here]).
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
 >	- Teaching any skills unique to you to other lab members
 >	- Leaving your records and data organized
 >	- Storing, transferring, or discarding your remaining samples, supplies, and desk items
@@ -96,7 +112,8 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.
 
 ### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_: 
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
+>
 >- [ ] You have discussed with the PI, well before your last day, how each of
 >      your projects will be handed over.
 >- [ ] Every project, `data/` included, has a final complete backup in the

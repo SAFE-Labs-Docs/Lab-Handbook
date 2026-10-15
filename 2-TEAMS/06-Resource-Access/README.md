@@ -17,10 +17,14 @@ Most lab members will quickly recognize any disparities of time and resource inv
 ## Examples
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_  We use our shared Google calendar to schedule shared equipment. Challenges with using and sharing our equipment are regularly discussed at lab meeting and re-organizing equipment is a regular item at our annual retreat. In addition, feel free to bring up any issues regarding equipment use and scheduling with your PI. Remember that you are responsible to leave equipment clean and functional after use. Immediately bring up equipment issues with the team. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>We use our shared Google calendar to schedule shared equipment. Challenges with using and sharing our equipment are regularly discussed at lab meeting and re-organizing equipment is a regular item at our annual retreat. In addition, feel free to bring up any issues regarding equipment use and scheduling with your PI. Remember that you are responsible to leave equipment clean and functional after use. Immediately bring up equipment issues with the team. 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is important to us that all team members have access to the lab resources they need. Essential courses (animal licenses) and essential equipment (e.g. a powerful data processing computer) are guaranteed and paid for by the school/lab. Fair does not always mean equal since team members might have different contracts, personal resources, responsibilities and work-related needs. Lab and school resources (equipment, consumables) are accessible to everyone and will be allocated based on project needs without favoritism. Expenses, including for conferences and courses, are documented and visible to all lab members. We do not strive to guarantee the same amount of money to every member since certain events are much more costly than others, but to guarantee equal access to opportunities that are relevant to each member. Members with external funding (travel grants, bench fees from personal grants) may be able to attend more events, have more independence in their decision of which events to attend and/or might have exclusive access to equipment they bought with their grants. If a lab member feels unfairly treated, please raise the issue promptly as described in the section “Lab and inter-personal issues”. As a rule of thumb, the following applies:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>It is important to us that all team members have access to the lab resources they need. Essential courses (animal licenses) and essential equipment (e.g. a powerful data processing computer) are guaranteed and paid for by the school/lab. Fair does not always mean equal since team members might have different contracts, personal resources, responsibilities and work-related needs. Lab and school resources (equipment, consumables) are accessible to everyone and will be allocated based on project needs without favoritism. Expenses, including for conferences and courses, are documented and visible to all lab members. We do not strive to guarantee the same amount of money to every member since certain events are much more costly than others, but to guarantee equal access to opportunities that are relevant to each member. Members with external funding (travel grants, bench fees from personal grants) may be able to attend more events, have more independence in their decision of which events to attend and/or might have exclusive access to equipment they bought with their grants. If a lab member feels unfairly treated, please raise the issue promptly as described in the section “Lab and inter-personal issues”. As a rule of thumb, the following applies:
 >
 >- PhD candidates: 
 >
@@ -41,10 +45,14 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >Personal laptop: Same rules as for postdocs apply. 
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: At present, there are no lab resources other than the standard laptop employees receive.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>At present, there are no lab resources other than the standard laptop employees receive.
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_In our lab “resources” comprise two main areas: financial resources (e.g. ordering the equipment you need for your project) and access resources (e.g. access to experimental rigs). If you feel that either of these are not being distributed fairly, please raise the issue in your 1-on-1 meeting with Pip, or use the button below.
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>In our lab “resources” comprise two main areas: financial resources (e.g. ordering the equipment you need for your project) and access resources (e.g. access to experimental rigs). If you feel that either of these are not being distributed fairly, please raise the issue in your 1-on-1 meeting with Pip, or use the button below.
 >
 >#### Financial resources
 >Pip makes every effort to maximise the financial resources available to the lab, and discusses these at regular [Lab Updates link]. However, irrespective of lab finances, we strive to run the lab responsibly and spend money in accordance with the needs of each project. For more details: [Ordering Link]
@@ -60,7 +68,9 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >We share communal surgical and histology equipment with other labs in our immediate vicinity (at the time of writing, the O'Keefe, Barry, Linden, Wills, and Burgess Labs). These resources have their own dedicated calendar booking system. With two full surgical suites, there should be sufficient equipment to comfortably support everyone's needs. However, if you believe a group is unfairly monopolizing equipment or facilities, please raise the issue with Pip, who will discuss it with the head of the respective group. Please also do this if someone is not treating the equipment or facilities appropriately and it is impacting your work.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Everyone contributes equally to keeping the lab running.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Everyone contributes equally to keeping the lab running.
 >- All tools, equipment, consumables, and lab spaces are shared, except for desks. Sign up for shared rooms and equipment in timely manner on the “rooms and equipment” calendar. Reset the space when you’re done or label as a work in progress.
 >- We collectively keep the inventory up-to-date to prevent duplicates. Order replacement inventory at least before we reach 2 week’s supply, to allow for shipping time.
 >- We have an annual lab clean-up in December that everyone is expected to participate in. We use this time to reorganize shared inventory, toss or rehome items no longer in use, and agree on where things should live.

@@ -18,13 +18,19 @@ Career progression, grants, and competitive applications often require reference
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ Reference letters will be provided to lab members at request. We disapprove of "recycling" of letters, and provide tailored letters upon request.
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>Reference letters will be provided to lab members at request. We disapprove of "recycling" of letters, and provide tailored letters upon request.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ The PI committs to providing recommendation letters at each lab member's request (requested with at least 2 week’s notice).
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>The PI committs to providing recommendation letters at each lab member's request (requested with at least 2 week’s notice).
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Reference letters are important for job applications and for some summer school and travel grant applications. Lab members will receive a reference letter from the PI, unless the PI feels that it isn’t possible to write a positive letter (this will be openly communicated). Especially the first letter for a new lab member requires a lot of time to write. Hence, these are the general rules for requesting reference letters:
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Reference letters are important for job applications and for some summer school and travel grant applications. Lab members will receive a reference letter from the PI, unless the PI feels that it isn’t possible to write a positive letter (this will be openly communicated). Especially the first letter for a new lab member requires a lot of time to write. Hence, these are the general rules for requesting reference letters:
 >At least 4 weeks in advance for first letter, at least 2 weeks in advance for any subsequent letters.
 >Requests need to be made in writing and contain the following information: (a) type of position or event, (b) link to website, (c) deadline for reference letter, (d) any information about format of the letter, (e) how the letter has to be uploaded/sent, (f) any specific qualities or achievements you want me to highlight.
 >Send a reminder 4-6 days before the deadline.
@@ -32,18 +38,28 @@ Career progression, grants, and competitive applications often require reference
 
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Lab members may request reference letters from their supervisor/line manager/PI at least 2 weeks in advance of the deadline. In principle, supervisors should comply with such requests - time permitting. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>Lab members may request reference letters from their supervisor/line manager/PI at least 2 weeks in advance of the deadline. In principle, supervisors should comply with such requests - time permitting. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided.
 
->_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_: In general I am happy to provide you with a reference, so do not hesitate to ask (or to send reminders!). It helps if you can be quite detailed about the format, the deadline and where/how to send it. Needless to say, I can only provide references for the skills and abilities I have had exposure to. If you know in advance of your stay you will be needing certain skills or experience, let me know at an early stage so we can integrate that into your training.
+>_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_:
+>
+>In general I am happy to provide you with a reference, so do not hesitate to ask (or to send reminders!). It helps if you can be quite detailed about the format, the deadline and where/how to send it. Needless to say, I can only provide references for the skills and abilities I have had exposure to. If you know in advance of your stay you will be needing certain skills or experience, let me know at an early stage so we can integrate that into your training.
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ To guarantee that Pip provides your letter, **you must give at least 2 weeks notice**. 
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>To guarantee that Pip provides your letter, **you must give at least 2 weeks notice**. 
 >
 >Mistakes do happen, and if you do not give 2 weeks notice, Pip will of course try to accommodate your needs. However, this cannot be guaranteed—particularly if it is the first letter you are asking for—and it is your responsibility to monitor deadlines and notify Pip in advance.
 >
 >For his part, Pip will write, and personalize all reference letters. When appropriate (e.g. for a Masters project where the student works closely with a postdoc) Pip may write the letter in collaboration with a lab member, and co-sign the letter with them.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: Please inform me as far in advance as possible of deadlines for reference letters. I need two week’s notice if I’m writing a new or significantly revised reference letter or one week’s notice for a reference letter I’ve already drafted. Please send me your updated CV, any application materials you have drafted, and a list of any items you’d like to me highlight when requesting the letter.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>Please inform me as far in advance as possible of deadlines for reference letters. I need two week’s notice if I’m writing a new or significantly revised reference letter or one week’s notice for a reference letter I’ve already drafted. Please send me your updated CV, any application materials you have drafted, and a list of any items you’d like to me highlight when requesting the letter.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: Lab members should never shy away from requesting a recommendation letter. Pablo will communicate openly about what he is able to write and any difficulties in the timeline to submission, but supporting lab members' career opportunities is a key part of his role as an advisor and leader of MsEE Lab. Ideally, requests for reference letters should be made at least two weeks in advance of the deadline. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. Reference letters will only include statements and opinions that the lab member is already aware of, and Pablo will be candid about the contents of the letter. Lab members should provide Pablo with an up-to-date CV, information about the purpose of the letter and its intended audience, and any suggestions on content they may want to highlight. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>Lab members should never shy away from requesting a recommendation letter. Pablo will communicate openly about what he is able to write and any difficulties in the timeline to submission, but supporting lab members' career opportunities is a key part of his role as an advisor and leader of MsEE Lab. Ideally, requests for reference letters should be made at least two weeks in advance of the deadline. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. Reference letters will only include statements and opinions that the lab member is already aware of, and Pablo will be candid about the contents of the letter. Lab members should provide Pablo with an up-to-date CV, information about the purpose of the letter and its intended audience, and any suggestions on content they may want to highlight. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.

@@ -18,22 +18,32 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 ## Examples
 
 ### France
->_[CNIDevoLab_2025](https://cnidevolab.com/):_ We encourage all lab members to seek and apply for training opportunities to develop new expertise and networking, and we values initiatives to disseminate the lab research at conferences or outreach events. Depending on funding availability and specific circumstances, we aim at providing one opportunity per year to each lab members – this of course remains as a rule of thumb and strategies will be discussed case by case.
+>_[CNIDevoLab_2025](https://cnidevolab.com/)_:
+>
+>We encourage all lab members to seek and apply for training opportunities to develop new expertise and networking, and we values initiatives to disseminate the lab research at conferences or outreach events. Depending on funding availability and specific circumstances, we aim at providing one opportunity per year to each lab members – this of course remains as a rule of thumb and strategies will be discussed case by case.
 >
 >We expect lab members to discuss their intentions prior to applying to any event, in order to define priorities, agree on the budget and the eventual work that will be disseminated. We consider conferences and courses as an enriching opportunity, and we expect any lab member attending such an event to make the best use of it. Also for this reason, in general we encourage lab members to present their scientific results, even if of course several factors need to be considered, such as the stage of the project.
 >
 >Individual fellowships might include an additional budget for conferences and courses, but in general we provide equal travelling opportunities to lab all members. We encourage lab members to seek for additional funding in order to cover the costs, and to behave responsibly with regard to travel expenses. 
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_ Conferences are an important part of your science life. Let me know if you want to attend a conference in advance. As a graduate student your goal is to attend 1-2 international conferences to present your work (poster or talk). This is typically during the second half of your thesis. Your graduate program might support conference registration and/or travel costs when you present. For postdocs networking becomes another important aspect. I support about one international conference per year (if funding permits). Make use of Berlin’s and Germany's local conferences! The threshold for attending these is much lower. Let me know if you want to attend. After the conference, share a particular exciting talk/poster/insight from the conference at the next lab meeting as your update!
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>Conferences are an important part of your science life. Let me know if you want to attend a conference in advance. As a graduate student your goal is to attend 1-2 international conferences to present your work (poster or talk). This is typically during the second half of your thesis. Your graduate program might support conference registration and/or travel costs when you present. For postdocs networking becomes another important aspect. I support about one international conference per year (if funding permits). Make use of Berlin’s and Germany's local conferences! The threshold for attending these is much lower. Let me know if you want to attend. After the conference, share a particular exciting talk/poster/insight from the conference at the next lab meeting as your update!
 
->_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_: For PhD students I will make sure you have the opportunity to attend at least one international conference and one local conference during your PhD, and for postdocs at least one conference per year. Please note that I expect you to apply for any available scholarship options or funding support that would enable you to attend. This is sometimes offered through the conference itself, sometimes by societies (e.g the German Plant Breeding society) and sometimes by external funding (e.g. DAAD). Conference attendance is also dependent on whether you have anything to present: in most cases first-year PhD students probably won’t have sufficient results yet for this, although I may make an exception for a once-in-four-years conference depending on circumstances. If you attend a conference I will also expect you to be able to give an oral presentation, not just present a poster. In both cases though the presentation should be sent to me in advance to check before submission, as should the conference abstract (at least 1-2 weeks before). Oral presentations should also be practiced within our research group beforehand.
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_:
+>
+>For PhD students I will make sure you have the opportunity to attend at least one international conference and one local conference during your PhD, and for postdocs at least one conference per year. Please note that I expect you to apply for any available scholarship options or funding support that would enable you to attend. This is sometimes offered through the conference itself, sometimes by societies (e.g the German Plant Breeding society) and sometimes by external funding (e.g. DAAD). Conference attendance is also dependent on whether you have anything to present: in most cases first-year PhD students probably won’t have sufficient results yet for this, although I may make an exception for a once-in-four-years conference depending on circumstances. If you attend a conference I will also expect you to be able to give an oral presentation, not just present a poster. In both cases though the presentation should be sent to me in advance to check before submission, as should the conference abstract (at least 1-2 weeks before). Oral presentations should also be practiced within our research group beforehand.
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Attendance at conferences is a crucial part of science to build networks, to learn about new fields, the obtain the latest updates, to disseminate results and to find new positions. Lab members are encouraged to attend conferences – conference attendance time is work time! As a rule of thumb, lab members should present at least a poster if they want to attend a conference, but exceptions can be discussed. PhD candidates and postdocs are also requested to plan ahead far enough so that there is time to apply for travel grants. Details can be found as well in section “Equal access to resources”.
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Attendance at conferences is a crucial part of science to build networks, to learn about new fields, the obtain the latest updates, to disseminate results and to find new positions. Lab members are encouraged to attend conferences – conference attendance time is work time! As a rule of thumb, lab members should present at least a poster if they want to attend a conference, but exceptions can be discussed. PhD candidates and postdocs are also requested to plan ahead far enough so that there is time to apply for travel grants. Details can be found as well in section “Equal access to resources”.
 
 
->_[RossiLab_2025](https://rossilab.iit.it)_: I encourage all lab members to seek and apply for training opportunities to learn new expertise, and  values initiative to disseminate the lab research at conferences.
+>_[RossiLab_2025](https://rossilab.iit.it)_:
+>
+>I encourage all lab members to seek and apply for training opportunities to learn new expertise, and  values initiative to disseminate the lab research at conferences.
 >
 >TRAINING/SCHOOLS: I support both PhD students and postdoctoral researchers to apply and attend at least one competitive training school during their tenure in the lab. I will sponsor applications (e.g. with recommendation letters) to these initiatives when they align with a project interest or planned career development. Expression of interested must be communicated in time to apply for travel grants/fees waivers, and in any case 1 month in advance. When funds are available, and application to fees waivers are not successful, the lab will cover the costs.
 >
@@ -50,18 +60,26 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > 
 > We encourage everyone to apply for grant opportunities that allow you to fund your own trip, for instance [this one for PhD students at Amsterdam UMC](https://www.amsterdamumc.org/en/phd-student/trajectory/amsterdam-umc-young-talent-fund.htm). This will increase (y)our budget to attend workshops and it is great practice to try and obtain some small grants early on in your career!
 
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: Each lab member has a conference budget of at least XXX/year. It is expected that lab members attend at least one conference per year. To attend a conference, the lab member must present at the conference.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>Each lab member has a conference budget of at least XXX/year. It is expected that lab members attend at least one conference per year. To attend a conference, the lab member must present at the conference.
 
->_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_: If you are a funded lab member we have resources to cover registration, travel and accommodation. The general guideline is that I can cover approximately 1 ‘proper’ (multi day, outside the Netherlands) conference per year. In general you should go to a conference to present your work from the lab as either a poster, talk or symposium, and of course to attend other talks and posters of interest. For more local conferences (Netherlands or nearby) more is certainly possible. The general process is that you a) discuss with Rogier your plans or options and then b) book your own travel and reimburse it through Declaree. This is a suboptimal process as it puts undue financial strain on early career scholars. If the finances for a trip are a problem, come speak to me to see what we can do - it is possible to receive an advance from the RadboudUMC.
+>_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_:
+>
+>If you are a funded lab member we have resources to cover registration, travel and accommodation. The general guideline is that I can cover approximately 1 ‘proper’ (multi day, outside the Netherlands) conference per year. In general you should go to a conference to present your work from the lab as either a poster, talk or symposium, and of course to attend other talks and posters of interest. For more local conferences (Netherlands or nearby) more is certainly possible. The general process is that you a) discuss with Rogier your plans or options and then b) book your own travel and reimburse it through Declaree. This is a suboptimal process as it puts undue financial strain on early career scholars. If the finances for a trip are a problem, come speak to me to see what we can do - it is possible to receive an advance from the RadboudUMC.
 
->_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: I encourage all lab members to seek and apply for training opportunities to develop new expertise. This is often at conferences, but can also be through research visits (e.g. with collaborators) or by giving invited talks.
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
+>
+>I encourage all lab members to seek and apply for training opportunities to develop new expertise. This is often at conferences, but can also be through research visits (e.g. with collaborators) or by giving invited talks.
 >
 >Each postdoc and PhD student has a standard budget (see CogPsy wiki) per year to travel and attend conferences; individual funding and grant situations may change this somewhat. Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. Make sure to discuss your plans, and ask Anne for information on travel cost reimbursements.
 >
 >Master's or BSc students are also encouraged to attend conferences if they have work to present - please discuss plans with me in advance.
 
 ### United Kingdom
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ I encourage all lab members to participate in conferences and courses. If you find a conference or course that interests you, please feel free to discuss the possibility of attending with me. 
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>I encourage all lab members to participate in conferences and courses. If you find a conference or course that interests you, please feel free to discuss the possibility of attending with me. 
 > 
 >However, our travel budget is quite limited, as is typical for junior labs. Attending a national conference on a yearly basis is usually feasible, but large international conferences tend to be more expensive. Therefore, you should expect to attend an international conference approximately once every three years. If you'd like to attend more frequently, you can seek additional funding through ICR student, postdoc, and SO associations, or professional societies such as Genetics or Biochemistry.
 > 
@@ -69,7 +87,7 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >If you travel abroad for business purposes, contact HR in advance to obtain travel insurance information. 
 
->_[CoenLab_2025](https://coen-lab.com/):_ 
+>_[CoenLab_2025](https://coen-lab.com/)_:
 >
 >**Conference attendance** Each postdoctoral researcher and PhD student has an annual budget of £1000 to attend conferences. This can be accumulated across years if that is the preference, and can be used for one expensive conference or multiple inexpensive conferences. Lab members should discuss their conference plans with me before committing to attend a particular meeting. Lab members do not need to present anything when attending their first conference after joining the lab, but should present at any future conferences, or organize a workshop/symposium, if they are planning to attend. If lab members have additional funds through grants or their PhD programme, these can be used in addition to the £1000 annual budget. I am happy to make an exception to this rule and provide extra funds if allowed by current grants, and an excellent opportunity arises that would exceed this budget (e.g. a unique conference, an invitation to give a prestigious talk). Lab members are encouraged to supplement this funding with applications to grants, either from the conference itself (e.g. fee waivers for new attendees), or from external sources.
 >
@@ -78,7 +96,9 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >**Summer schools and courses:**
 >Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs for at least one such opportunity. Some courses that can help to develop the experimental and computational skills we use in the lab include:
 
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Conferences, workshops, and other training opportunities (e.g. summer schools) are valuable resources for dissemination, acquiring new expertise, networking, and career development. Lab members are encouraged to attend at least one regional or international conference per year.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>Conferences, workshops, and other training opportunities (e.g. summer schools) are valuable resources for dissemination, acquiring new expertise, networking, and career development. Lab members are encouraged to attend at least one regional or international conference per year.
 >
 >Lab members are encouraged to apply for additional funding (e.g. travel grants) to attend conferences and/or courses.
 >
@@ -87,6 +107,7 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >As a general rule, conference attendance requires submission of an abstract. All abstracts should be reviewed and approved by Reshanne before submission.
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: 
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
 * Every lab member can travel to present at one conference per year. If you want attend more than one conference in a single year or travel to a conference without presenting something, discuss with me so we can determine how we can fund your travel in a way that’s fair to other lab members. These trips are fully funded; I only support travel if I can reimburse 100% of transportation, meals, and hotels.
 * Each lab member can attend 1 major external workshop during their time in lab (e.g. Neuromatch) with a tuition budget of about $1000 per person. Tuition for additional courses will be considered on a case-by-case basis.

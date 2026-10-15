@@ -20,15 +20,21 @@ A clear onboarding process should not only ensure that lab members complete esse
 ## Examples
 
 ### France
->_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_: Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
+>_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
+>
+>Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
 >
 >At the institute level, you will have a series of compulsory training on your first day (health and safety, informatics etc…). In the first week(s) every new lab member will have a one-on-one meeting with the PI where some or all of the following points are covered (depending on the role of the team member): (a) this handbook, (b) access to lab calendars and resources, (c) general expectations including work hours, presence, communication, (d) necessary courses and licenses, (e) next steps for practical training and project identification. A complementary presentation by the labmanager, explaining all the rules and practices of the lab will be given on the first day(s) in the lab. In addition, every new lab member will be paired with a « lab buddy » who will be there to help you integrate in the lab.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/):_  The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
 
 ### Italy
->_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
+>
+>Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
 >
 >In the first week(s) every new lab member will have a 1o1 meeting with the PI where some or all of the following points are covered (depending on the role of the team member): (a) this handbook, (b) access to lab calendars and resources, (c) general expectations including work hours, presence, communication, (d) necessary courses and licenses, (e) next steps for practical training and project identification.
 >
@@ -49,7 +55,9 @@ A clear onboarding process should not only ensure that lab members complete esse
 > 
 > Besides the official Research Institutes, members of our group recently initiated the Genetics Network Amsterdam (GENE Amsterdam) which is a network of researchers working in the broader field of genetics across Amsterdam. An official [website](https://www.geneticsnetworkamsterdam.org/) was launched in November 2022. We recommend you to get your own personal page added to the website and to publish any relevant news item or blogs about your research on the website (contact x for anything related to the website). GENE Amsterdam also has regular research meetings which are very useful to attend, please e-mail x to get added to the GENE Amsterdam mailing list. There is also an annual research meeting of GENE Amsterdam.
 
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: When joining the lab:
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>When joining the lab:
 >- Read this Lab Manual
 >- Read the Code of Conduct
 >- Talk to the MTO Secretariat (Anne-Marie van der Heijden) about your room, your IT equipment, your IT account
@@ -57,13 +65,19 @@ A clear onboarding process should not only ensure that lab members complete esse
 >- Install software described in Section 9
 >- Subscribe to platforms mentioned in Section 9.2, or an open source alternative
 
->_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_: When your contract starts, you will get a LU account (email address, card for printing/library etc). Anne will add you to the Google lab calendar (where you can see lab events, talks etc). Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms. We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
+>_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
+>
+>When your contract starts, you will get a LU account (email address, card for printing/library etc). Anne will add you to the Google lab calendar (where you can see lab events, talks etc). Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms. We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
 
 ### United Kingdom
 
->_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/):_ We follow the standard ICR onboarding process, which can be found here:  LINK NOT PUBLIC. In addition, every new lab member will be paired with a “lab buddy” who will arrange for you an introduction to all the lab resources. 
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>We follow the standard ICR onboarding process, which can be found here:  LINK NOT PUBLIC. In addition, every new lab member will be paired with a “lab buddy” who will arrange for you an introduction to all the lab resources. 
 
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: Be comfortable making and admitting mistakes. It is all part of the learning process! But if you hide mistakes, I cannot help you.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>Be comfortable making and admitting mistakes. It is all part of the learning process! But if you hide mistakes, I cannot help you.
 >
 >There is no “one right answer”. Your PhD is about discovery, and your goal is to become the ultimate expert of your project. This means that for the most part, you must discover the answer as you go and there will be a high amount of uncertainty about whether it is right or not. Embrace the uncertainty!
 >
@@ -75,7 +89,9 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >You should transition to independence (in your ideas, networking, writing, designing experiments, coding, creating presentations, etc.) before the end of your PhD, but you are not expected to know how to do all of these things from the beginning! Expect a lot of help in the first 1-2 years, and less help with these things as you progress.
 
->_[CoenLab_2025](https://coen-lab.com/):_ These are some initial admin steps that *should* happen (some even before you arrive at UCL). If you've been in the lab for a week and any of these haven't been covered, ask someone!
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>These are some initial admin steps that *should* happen (some even before you arrive at UCL). If you've been in the lab for a week and any of these haven't been covered, ask someone!
 >
 >- Sign a contract/enroll
 >- Get added to payroll
@@ -101,6 +117,10 @@ A clear onboarding process should not only ensure that lab members complete esse
 >- Complete all online mandatory courses
 
 ### United States
->_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_: A complete and frequently updated onboarding checklist is on the lab wiki.
+>_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
+>A complete and frequently updated onboarding checklist is on the lab wiki.
 
->_[MsEELab_2026](https://mseelab.org/handbook.html)_: New members should review the Handbook and communicate any questions, concerns, or suggestions to Pablo. Additionally, part of the onboarding process will include completing worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder.
+>_[MsEELab_2026](https://mseelab.org/handbook.html)_:
+>
+>New members should review the Handbook and communicate any questions, concerns, or suggestions to Pablo. Additionally, part of the onboarding process will include completing worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder.

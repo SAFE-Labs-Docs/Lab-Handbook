@@ -16,7 +16,9 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 ## Examples
 
 ### Netherlands
->_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_: When such tools are used to support research activities, their role must be transparent, appropriate to the task, and aligned with open science and reproducibility standards. Clear distinctions between studying algorithms, applying algorithms, and using generative tools are essential to maintaining conceptual clarity and methodological integrity.
+>_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
+>
+>When such tools are used to support research activities, their role must be transparent, appropriate to the task, and aligned with open science and reproducibility standards. Clear distinctions between studying algorithms, applying algorithms, and using generative tools are essential to maintaining conceptual clarity and methodological integrity.
 >
 >While there is no blanket ban on the use of AI tools in our lab, consider the following:
 >- Is it clear and transparent how the tool works? In order to justify using the tool for scientific work, we must know _how_ it operates.
@@ -27,7 +29,9 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >Generative AI may never be used for original writing, including papers, presentations, applications, and peer review. Generative AI may be used to suggest minor edits, like reducing word counts or simplifying language. The results should be thoroughly proof-read and edited.
 
 ### United Kingdom
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_: You are discouraged from using large language models (LLMs) such as ChatGPT in your writing, including proofreading and refining language, summarizing research in literature reviews, and generating reference lists. LLMs "hallucinate" (fabricate) information and there are [embarrassing precedents](https://bsky.app/profile/sampendu.bsky.social/post/3lq4qzvxbwk25) that we must not emulate in our own publications.
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>You are discouraged from using large language models (LLMs) such as ChatGPT in your writing, including proofreading and refining language, summarizing research in literature reviews, and generating reference lists. LLMs "hallucinate" (fabricate) information and there are [embarrassing precedents](https://bsky.app/profile/sampendu.bsky.social/post/3lq4qzvxbwk25) that we must not emulate in our own publications.
 >
 >There is empirical evidence that using generative AI [reduces your frontal cortex function](https://arxiv.org/abs/2506.08872).
 >
@@ -35,6 +39,7 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
+>
 >- AI tools may be used for some tasks in our lab with caution and all outputs must be verified.
 >- **Code:** AI can be used to assist in writing code (e.g. Github Copilot) if the outputs are thoroughly tested, as you would for any manually generated code. AI cannot be used to write large amounts of code independently (”vibe coding”), as it will likely contain critical errors. All code must be well formatted and documented.
 >- **Transcription:** AI may be used for live transcription of meetings if necessary for accessibility and may be used to generate meeting summaries by tools that immediately delete recordings (e.g. Fireflies). Everyone in the meeting must consent first.

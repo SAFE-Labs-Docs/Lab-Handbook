@@ -18,6 +18,22 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 ## Examples
 
 ### Canada
+>_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
+>
+>One of the perks we have as academics is travel (although it comes with its own drawbacks!). We have limited money for travel, you can help as follows:
+>
+>- Apply for UVic travel grants as soon as you know your paper will be accepted (note for workshop or short papers, I may not be able to fund you, so check before assuming you can go).
+>- Book your flights early and look for cheap flights. Use the cheapest airline and option (e.g. Tango with Air Canada). Check with me about any restrictions for your project/grant.
+>- Try to share hotel rooms for expensive conferences, or look for cheaper hotels and AirBNB that are close by (but don’t stay in unsafe neighbourhoods).
+>- Apply to be a student volunteer at a conference and get free registration.
+>- Use public transportation or shuttles instead of expensive taxis, or share taxis. Obviously there are exceptions here (such as late at night or very awkward destinations).
+>- UVic allows per diems, but if you can find cheaper options for food that is still nutritious please submit the lower amount. In fancy hotels, look around for cheaper breakfast options. However, sometimes there are none, I know!
+>- Avail of the free food at the conferences, check if there is breakfast and other meals provided. If there are meals provided, I won’t be able to reimburse you. Yes you can go to the banquet for the conference if one is offered (networking at banquets is important :) ). Some conferences don’t
+>include the banquet with student rates, so add it!
+>- In general keep costs low in a reasonable way as it adds up quickly as a group! If you do this, I can send more of you to more conferences! If in doubt though, ask!
+>
+>**Note: Do not assume that your travel can be funded—please ask me before committing to anything!**
+
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >Under no circumstances are students ever expected to self-fund travel to a conference where they are presenting their work. However, please check with me prior to submitting your work to a conference to be certain I can fund your attendance. A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and your home department will generally also offer $250 per student per year (for students in psychology, find more information here). There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
@@ -93,6 +109,11 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >Each postdoc and PhD student has a standard budget (see CogPsy wiki) per year to travel and attend conferences; individual funding and grant situations may change this somewhat. Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. Make sure to discuss your plans, and ask Anne for information on travel cost reimbursements.
 >
 >Master's or BSc students are also encouraged to attend conferences if they have work to present - please discuss plans with me in advance.
+
+### Taiwan
+>_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
+>
+>Students in the Lien Lab are required to attend the annual biomedical meeting (held between February and March) in National Defense University or poster exhibition and competition (held June) in YM University before obtaining their Master or PhD degrees.
 
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
@@ -180,6 +201,18 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >If you have something to present at a conference, like a talk or poster, I will do my best to pay for your travel. Exceptions to this policy include program reviews, in which all students involved in the project are generally expected to attend. Conferences are a valuable opportunity to network, stay up to date, and present your work. As such, they are a key part of your professional development. It costs about $1,000-$2,000 to send someone to a conference. All students and postdocs should share lodging with someone else. Possible exceptions to this rule can be made, but only if you consult with me first.
+
+>_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
+>
+>Anyone submitting an abstract for a conference, symposium, etc. should clear this with me first, and circulate to all authors at least one week before the submission deadline.
+>
+>Talks
+>
+>Anyone giving a talk to a non-lab audience is required to give a practice talk to the lab at least one week before the real talk. If this is your first public talk on a lab project, plan on at least two practice talks (starting at least 2 weeks before the real talk). Practice talks should be mostly finished (final slides, practiced, and the right length) so that our comments will be as helpful as possible. Schedule one or more meetings with me ahead of time to plan or go over your slides, especially if you haven't given many talks before.
+>
+>Posters
+>
+>Anyone presenting a poster should circulate an initial version to all authors at least one week before the printing deadline. Use the lab Adobe Illustrator template so that our posters have a consistent look to them. If this is your first time using Illustrator, make sure to leave plenty of extra time so you can learn how to use the software.
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >

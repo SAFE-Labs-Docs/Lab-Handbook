@@ -152,6 +152,15 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to
 >help you get unstuck.
 
+### Taiwan
+>_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
+>
+>All lab members will discuss lab business every Friday (4:30-5:00 PM). Lab members are encouraged to report their technical problems or common interests in the meeting. It provides a great opportunity for information exchange and for everyone to contribute their thoughts and ideas.
+>
+>Datablitz:
+>
+>Students will give brief (<10 min; 2-3 slides) progress reports on their own work every Friday (5:00-5:50 PM) and the free, unhampered discussion that follows. Presenters will be assigned in advance by the lab Head.
+
 ### United Kingdom
 
 >_Anonymous lab_:
@@ -335,6 +344,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 > and pinned to the #general Slack channel and added to the
 > CDL Google Calendar.
 
+>_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/resources/recurring-activities)_:
+>
+>Lab meetings are usually held weekly or biweekly. Graduate students, lab staff, and undergraduate students taking research for credit are expected to attend all lab meetings and to arrive prepared (i.e., having read any assigned papers before the lab meeting). If you can't attend a meeting, you must let Hua know ahead of time. Lab meeting topics (including any readings) will be announced weekly in advance via Slack `#sharing` .
+>
+>We typically use lab meetings to get feedback on new research ideas or a manuscript in progress, practice for an upcoming talk, or discuss a paper. Grad students, postdocs, and thesis students are required to present in lab meetings regularly. RAs are not required to do so, but they can give a project idea or a good suggestion for a discussion topic.
+
 >_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
 >
 >I meet with postdocs and graduate students individually once every two weeks
@@ -350,6 +365,22 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 > on my time,
 > I
 > will always make time to meet with you.
+
+>_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/lab_meetings.qmd)_:
+>
+>* **Present once per term**: As an active member, you’ll present at least one lab meeting each term. It can be anything related to your work or something cool you’ve discovered!
+>
+>Possible topics include:
+>
+>* A **half-baked idea** or a topic you’re exploring
+>* A **paper** you found intriguing
+>* A tool or software package you learned about
+>* A **tutorial** or brief skill share
+>* A **hackathon** update or project progress
+>* Something you’re confused about—ask for feedback!
+>* **Practice presentations**: Talk or poster you’d like input on
+>
+>You can take up to an hour, but shorter is fine! You can also co-present with a teammate if you like. Hemanth will send out a Google Sheets link for scheduling at the start of each term.
 
 >_[JacksonResearchGroup_2026](https://cjacks04.github.io/compact-of-expectations/)_:
 >

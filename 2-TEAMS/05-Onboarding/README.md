@@ -166,6 +166,11 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >When your contract starts, you will get a LU account (email address, card for printing/library etc). Anne will add you to the Google lab calendar (where you can see lab events, talks etc). Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms. We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
 
+### Taiwan
+>_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
+>
+>The Buddy System is designed to break in new students and give them a helping hand and make sure they find their way around and settle in more quickly. All new students are assigned a buddy group. The old-timers help the new students by answering questions and showing them around. Together the group can enjoy all the lab activities that takes place at the start of the semester.
+
 ### United Kingdom
 
 >_[ComputationalLightLaboratory_2026](https://complightlab.com/documentation/getting_started/)_:

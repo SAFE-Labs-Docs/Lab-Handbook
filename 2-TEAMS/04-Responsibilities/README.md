@@ -196,6 +196,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 >MsEE lab maintains [a lab mentorship philosophy statement](https://mseelab.org/mentorship.html) outlining more details on proposed structures, purposes, and expectations (including role duration and publication output) of MsEE Lab members.
 
+>_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
+>
+>By the time you're done, you will have to know how to do statistics and plots in R, share your work with me using Rmarkdown, use Matlab scripts for data analyses, know enough Python to navigate presentation in PsychoPy, and make figures and posters using Adobe Illustrator or a similar graphics program. You will also preregister your experiments when appropriate (which it almost certainly will be) and share your data and analysis scripts publicly. The learning curve can be a little steep on these but it's well worth it. (If these aren't compatible with your goals or interests, my lab is probably not a good fit for you!)
+
 >_[Thrash_2026](https://thethrashlab.com/wp-content/uploads/2025/09/Thrash-Lab-personnel-expectations_7.pdf)_:
 >
 >Provide mentorship, guidance, and support to those who work in the lab, including, but not limited to, technical training for lab protocols and equipment, experimental design, project strategy and planning, manuscript preparation and submission, logistics, job searches, poster and oral presentations, teaching, letters of recommendation, and curriculum choices.

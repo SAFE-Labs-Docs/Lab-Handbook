@@ -14,6 +14,14 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 ## Examples
 
 ### Canada
+>_[EvendenLab_2026](https://grad.biology.ualberta.ca/evenden/lab-code-of-conduct/)_:
+>
+>If you see something inappropriate happening, a gentle reminder about the Code of Conduct is a productive response:
+>- Everybody makes mistakes, acknowledge them
+>- Try to respond in a constructive way
+>- First try to resolve the issue with the person you have an issue with
+>- - If not working or not comfortable, find a mediator to assist (conflict resolution)
+
 >_[McKinneyLab_2026](https://mckinneylab.weebly.com/lab-code-of-conduct.html)_:
 >
 >Respect everybody’s time. Be punctual and show up prepared for lab work/office work/meetings

@@ -58,3 +58,17 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >[The Multiscale Evolutionary Engineering (MsEE) Lab](https://mseelab.org/) is a training environment first and foremost. Our actions as a group and as individual members within it are oriented towards the goal of helping all members develop as scientists and citizens of the world. The goal of establishing evolutionary principles as a core part of bioengineering and a decision-making tool is best served by training researchers who will further develop these ideas, put them into practice, and teach others themselves. Advancing science through high-quality research is a crucial (and welcome) part of achieving this. An inherent part of both high-quality research and high-quality training is embracing the reality that failed experiments, null results, and disproven hypothesis are part of our profession, and deserve as much attention, scrutiny, and occasionally celebration as the more popular parts of the job.
+
+>_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
+>
+>A key part of accuracy is anticipating and avoiding “adverse events” (including near misses), and creating structures in the lab that facilitate a high level of reliability.
+>
+>Inspired by a blog post on reliability in the lab we have a page on the lab wiki for reporting adverse events, and have allocated time at lab meeting to make sure none slip through the cracks. Examples of adverse events include:
+>
+>- Any of the lab computers malfunctioning (including freezing or crashing)
+>
+>- Not being able to find the installation disc for a software program
+>
+>- Nearly running out of money to pay participants (this counts as a “near miss” which we also need to discuss)
+>
+>As a lab member it is your responsibility to be aware of times when things don't go as planned and bring these to the attention of the rest of the group. Even better, let's all work together to find ways of preventing such occurrences in the future.

@@ -15,6 +15,18 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 
 ## Examples
 
+### Canada
+>_[EvendenLab_2026](https://grad.biology.ualberta.ca/evenden/lab-code-of-conduct/)_:
+>
+>In the Evenden Lab, GenAI cannot be used as a ghost writer. It should not be used to generate code for statistical analyses or original written work or images. We do not upload our data sets to GenAI tools that share files. It can be used for troubleshooting and copy editing.
+>
+>Disclosure/Transparency Policy:
+>- Keep chat logs with AI tools and notes detailing when generative AI tools were used
+>- Disclose any and all use of AI tools in research development (hypotheses generation) and writing with supervisor. Maintain transparency with supervisor about involvement of AI tools in analyses. See example disclosure statements here
+>- Ensure that AI use is within guidelines for funding agencies and journal requirements and its use is communicated clearly in published manuscripts and theses
+>- Individuals maintain ownership and responsibility for the interpretation, use and accuracy of generated outputs
+>- Ensure that AI generative tools are not saving your data and using that to train its models
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
@@ -54,6 +66,14 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
 >
 >The advances in generative AI transformer-based large-language models (LLM), agentic AI, and related tools such as ChatGPT, Claude, Gemini, CoPilot, and so on, plus derivative tools like Grammarly, Codex, or translation engines, are evolving rapidly and require paying careful attention to their limitations, ethics, and resources required or cost. In their current form, these tools are great for idea generation, automating routine workflows, debugging or generating code, developing figures or interactive web apps, overcoming writer’s block or other academic struggles, improving your English (or other language), interpreting an email, or helping summarize or improve text. However, you need to understand the science, code, and text generated, potential security risks, and be able to explain the theory and understand where AI use is allowed or prohibited. The risks of hallucinations (made up answers), false citations, overly confident sounding yet incomplete answers, and incorrect or incomplete math or code means they are require thoughtful use for scholarly output including approaches to verify output. If you are unsure of whether an AI tool is appropriate in a specific context, ask me first. You may be violating intellectual property agreements if you feed into it academic work (e.g., a manuscript you are reviewing), and many journals and funding agencies prohibit its use in that way or require disclosure when used for parts of manuscripts. The university licenses AI tools that may be more appropriate, secure, and cheaper than commercial ones, so check those out first.
+
+>_[GureckisLab_2026](https://todd.gureckislab.org/2026/03/06/genaipolicy)_:
+>
+>The following checks are mandatory before any manuscript submission.
+>Citations. Verify that every DOI resolves, every URL is live, and a human has read at least the abstract of every paper cited to confirm it is being accurately characterized.
+>Statistical code. Any analysis generated or substantially assisted by an AI tool must be independently verified on simulated data with known ground-truth properties before application to real data. The verification script must be preserved and submitted with the code repository.
+>Model implementations. Cognitive model code must include unit tests covering known closed-form cases, boundary conditions, and, when possible, an end-to-end test reproducing a result from a prior published paper. Tests must pass before any data is published with the model.
+>AI-generated prose. Every factual claim in AI-assisted text must be traceable to a primary source. "The AI wrote it" is not a source.
 
 >_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/CommunityGuidelines.md)_:
 >

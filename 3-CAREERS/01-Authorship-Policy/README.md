@@ -49,6 +49,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Examples of important contributions to our work that that don't necessarily reach the threshold for authorship (but should always be acknowledged in a paper) are data collection and helping with figures. Students who contribute in these ways should be given opportunities to become more involved in order to get on a paper if they have the interest, time, and ability to, but that's not always going to be possible, which is also fine.
 
+>_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
+>
+>In terms of authorship on the paper, this is always somewhat tricky. It is best to define that early on and to be clear about it. I’ve seen some unfortunate conflicts over the years because this was not well defined. My approach is to have more rather than fewer authors (if in doubt add them). Author order should be based on input to the research and/or writing, not on seniority. I don’t believe however to stack people’s resumes by putting lots of authors on every paper for that reason alone!
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.
@@ -234,6 +238,13 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >The final determination for who will be an author on each lab paper (and in what order) will be made by Jeremy, following open discussions with project team members.
 
+>_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/policies/paper-writing)_:
+>
+>As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.
+>  * What is considered a contribution?
+>    * Discussions should not be counted as contributions; implementation/theoretically sound ideas could be.
+>    * Same for writing - proof-reading should not be counted as contributions; actual writing could be.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
 >
 >Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:
@@ -250,6 +261,22 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >Generally, the student or postdoc who made the largest contribution to a piece of work will be the first author. Multiple students and postdocs can be co-first authors, though there is usually still a “first cofirst” author. If most of the supervision and responsibility for the project rests with me, I will be the last author and corresponding author. (Any questions about the paper should be directed to me, since such questions may arrive long after you have left.) Other authors on the paper should have made a substantial contribution to the work, such as fabricating the device, or performing a theoretical calculation. If a group member’s only contribution was fabricating the device that was used for an experiment, that group member will be an author on the first paper using the device. Subsequent experiments papers do not need to include that person as an author but can include them in the acknowledgments.
+
+>_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
+>
+>In my view there are two key requirements to being an author:
+>
+>- Contribute to the intellectual scientific content of the manuscript in a meaningful way.
+>
+>- Contribute to the writing of the manuscript in a meaningful way.
+>
+>Note that “collect data”, “analyze data”, or “fund the study” aren't on the list. Those are very important parts of a paper, but do not (on their own) warrant authorship. Being an author means understanding the content and being willing to take public responsibility for the work: a large part of this concerns the theoretical motivation and implications of the research. In practice theoretical contributions are most often made through helping with the study design, data interpretation, and discussion about a topic.
+>
+>This doesn't mean that as an undergraduate student or research assistant you can't be an author on a paper. Of course, if the study goes well and you are involved, you might be. However, you will need to know enough (or learn enough) about the subject to understand what we've done, and to significantly contribute to the writing. I won't add you to a paper just because I like you and want to help you out; I will consider giving you the opportunity to be involved to a degree that you have earned authorship, if you are willing to take on the challenge.
+>
+>Typically one person will take on the main responsibility for writing the paper, and this person will be the first author.
+>
+>I assume that, unless we have talked about it, I will be an author on papers coming out of the lab. This does not mean that you should add me on to papers as a courtesy; it means that I expect you to include me in the process of discussion and writing in a way that merits authorship. In other words, the same approach I take with you.
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >

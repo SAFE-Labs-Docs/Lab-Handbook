@@ -80,6 +80,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >**One-on-one meetings.** Jackson holds weekly one-on-one meetings with graduate students and postdocs except during travel or other unavoidable commitments. Trainees should arrive with organized summaries of project status, recent data or outputs, and planned next steps. Each trainee shares a Google Doc with Jackson to track weekly and long-term goals. These meetings are used for troubleshooting, interpretation, planning, general concerns, and career development.
 
+>_[JiangLab_2026](https://jianglab.psychology.uiowa.edu/Expectations.html)_:
+>
+>One-on-one meetings are 45-min, weekly meetings between each trainee and me. You can also schedule one-off one-on-one meetings with me. These meetings are designed for us to discuss any training and research-related issues in detail and to form plans for the near future. To keep track on our progress, I ask each trainee to maintain a shared document with me to record the decisions and action items after each meeting and follow-ups. I expect trainees to attend all their one-on-one meetings. I understand that sometimes there is nothing to report, so occasional cancellation is fine. To cancel a meeting, please email me at least a day before. That said, note that even if you have nothing to report, sometimes meeting in person can still be advantageous and it may be worth our time to still check in.
+
 >_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
 >
 >I ask that my mentees meet with me regularly during the semester, and in advance of the meeting I recommend that you:

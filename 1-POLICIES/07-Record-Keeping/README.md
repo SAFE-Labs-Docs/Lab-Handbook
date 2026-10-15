@@ -226,6 +226,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >The intended reader of your notes is not you at the present time. The intended audience is either me or you several years in the future once you have forgotten the details of your experiment. Write your notes with this in mind.
 
+>_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
+>
+>Anyone conducting an independent research project should have a lab notebook for keeping track of discussions, experiments, and taking notes. You may also want to use an electronic notebook (e.g., Evernote) as your primary lab notebook, or to supplement a paper copy. The important thing is that you are keeping notes, and they are in one place.
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >There is no standard as whether it is a bound notebook, loose-sheet binders, or electronic files. You can use any, but please incorporate the following:

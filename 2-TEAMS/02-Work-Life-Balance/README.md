@@ -28,6 +28,10 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >Our job does not require many nine-to-five responsibilities, but we do encourage attending the department more than half the week during working hours. Other than our (lab) meetings and seminars, you should feel free to work when and where you please. However, we live in a society where most people work from nine to five, Monday to Friday. Outside those hours, many of us often prefer taking time for friends, family, hobbies, entertainment, or simply ourselves. As a lab, we will respect those hours when it comes to communicating and collaborating with others! We do this by trying to refrain from mailing over the weekend, or setting deadlines right after weekends or vacation days. Obviously, there is no shame in trying to reach a deadline over the weekend, or preferring to work during unusual hours, but it should definitely not be expected.
 
 ### Canada
+>_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
+>
+>You are entitled to vacation, unless you are part-time or co-op staff, in which case you may be paid extra in lieu of vacation as per the BC labour regulations. UVic (and NSERC) suggests three weeks off a year. I also shut down the lab on Christmas Eve and between Christmas and New Year (these days do not count as part of your three weeks). You should tell me about planned vacations well in advance, and add them to the calendar. Also, remind me of vacations approximately one week before you leave. You should keep track of the days you have taken for vacation.
+
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >Normal working hours in our lab are M-F 9am to 4pm, although you may expect some commitments on evenings and weekends depending on the type of research participants you are working with, and teaching schedules. Working from home is always an option on days when you don' t need to be physically present (e.g., for meetings, teaching, data collection). I recognize there are circumstances where it's necessary to work from home and there are other times when working from home is more productive for you. We try to be as accommodating as possible including using technology like teleconferencing.
@@ -284,9 +288,25 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >Policies on vacation days are set by Yale (up to 30 days/year including University holidays). I ask that you be clear to me (and your labmates) when you will be away, by telling me ahead of time, by leaving an easy-to-interpret note on your desk, and by making sure that your group jobs will be covered in your absence.
 
+>_[JiangLab_2026](https://jianglab.psychology.uiowa.edu/Expectations.html)_:
+>
+>It is okay to take a day off to decompress from time to time. However, if you will be out of town or take a longer break, please let me know so I won’t be worried about not having seen you in a while. Each lab member can usually take up to 3 weeks of vacation time each year. In addition, I don’t expect lab members to work between 12/15 and the first week of January. Please inform me your vacation plans before booking your trip.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >You may take up to 4 weeks of vacation every year, i.e., 20 business days. This includes but is not limited to federal holidays, university holidays, or scheduled university recesses, such as winter break, spring break, etc. Please inform your teammates and me in advance of days you will be gone. I understand that emergencies will arise. In this case, please notify my as soon as possible. Updating your status on Slack is a good way to let your teammates know if you cannot come to the lab.
+
+>_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
+>
+>Work hours in the lab are 8:30–5:00 (or 9:00–5:30), with 30 minutes for lunch. If you are testing participants outside of this time, we will adjust accordingly for those weeks. You are responsible for keeping your hours at the agreed amount (8 hours per day, 40 hours per week for full-time employees). To maintain full-time benefits eligibility your hours cannot drop (much) below 40; if on a given week you work substantially less than 40 hours, vacation time will be used to make up the difference (per HR policy).
+>
+>Time off should be requested at least 2 weeks in advance, via email. Once approved (via email) please add to the lab calendar. You are responsible for making sure you have sufficient vacation hours to cover any time off; otherwise, you will not be paid.
+>
+>Sick time should also be requested over email. Per HR policy, full-time employees are allowed up to 5 unverified sick instances per fiscal year (beyond this medical verification is required).
+>
+>(Note that graduate students, postdocs, and staff scientists are given more flexibility in their hours, provided they make sufficient progress on their projects. This flexibility does not extend to other paid positions because we need to maintain a consistent lab presence for scheduling, supporting undergrads, interacting with other staff, and so on.)
+>
+>Even if you speak with me in person, it is important to document these requests (and my approval) over email so that we have a record. It is your responsibility to make sure this happens.
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >

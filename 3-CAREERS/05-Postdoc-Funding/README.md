@@ -70,3 +70,21 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >All positions are fully funded.
+
+>_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
+>
+>If I accept you to the lab, that means I commit to funding you. I always encourage
+> students and postdocs to apply to fellowships—those help both me (by lowering the
+> financial burden) and you (by strengthening your CV).
+
+>_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
+>
+>Talk with me about pursuing funding opportunities
+>- Work with me to find a project
+>- Own and drive your project
+>- Look to me more for suggests than direction
+>- Create a plan to average publishing at least one paper per year
+>- Look for opportunities to mentor undergraduates
+>- Complete and keep up to date your Individual Development Plan (IDP)
+>- Contracts are renewed each year depending on progress towards these goals
+>- My goal will be to give you three months notice if funding is short or I think it is time for you to move on

@@ -43,6 +43,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >We maintain a Google Doc (or similar) for ongoing notes — updated every meeting with a short summary of discussion and action points.
 
+>_[OPTIMlab_2026](https://www.georgesdgordon.com/?p=584)_:
+>
+>I will ask you to make your own notes during the meeting, noting down key next steps and actions. Please share these with me after the meeting so we can discuss at the next meeting to see how the items have progressed. This can be done either via email, a Teams message or by adding them as tasks to an online Planner schedule (https://tasks.office.com/)
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >Keep a record of our meetings (what we discussed and decided on) where we can both access them (Teams).
@@ -62,6 +66,12 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >All meetings start with a brief overview of the meeting agenda. Pablo will take notes of meetings and share them with participants through Google Docs. Other participants are encouraged to take notes of their own and/or complement the Google Doc to clear any misunderstandings. If a participant would like to record the meeting or use a note-taking app, they may do so with the consent of all other participants. Meetings (and notes) include agreed-upon action items to prioritize before the next meeting. These action items are set by participants through backwards design by reviewing the goals of the participants or group present and setting a course of action towards them.
+
+>_[ZhangLab_2026](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/lab_activity.md)_:
+>
+>Weekly one-on-one meetings will be held for each member when they join the lab. We have Thursdays as our 1-1 meeting day!
+>- Every member will be assigned one or two major projects.
+>- We track everyone's progressed on specific tasks using Trello. So we can generate "TODO" list on everyone's Trello project board after each one-on-one meeting, and we mark the tasks as "Done" by examing it on our next one-on-one meeting. We will break down a "big task" into multiple measureable "small tasks".
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:

@@ -145,3 +145,29 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >If you have something to present at a conference, like a talk or poster, I will do my best to pay for your travel. Exceptions to this policy include program reviews, in which all students involved in the project are generally expected to attend. Conferences are a valuable opportunity to network, stay up to date, and present your work. As such, they are a key part of your professional development. It costs about $1,000-$2,000 to send someone to a conference. All students and postdocs should share lodging with someone else. Possible exceptions to this rule can be made, but only if you consult with me first.
+
+>_[RossIbarraLab_2026](https://rilab.ucdavis.edu/expectations.html)_:
+>
+>Everyone is encouraged to attend at least one conference a year. Members of the lab regularly attend such meetings as the maize meeting, SMBE, Evolution, and ESA. The department and university offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks.
+
+>_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
+>
+>For regional conferences (such as MMPC or MNID), presenting your work is not required but recommended for attendance. We usually go to these conferences as the whole group.
+>
+>For national and/or international conferences (such as ASM Microbe or GRCs), we only go if your work is accepted. However, it is important to look for financial aid (internally from ND, the organizers, professional societies, etc.) to at least supplement the expenses. Obtaining these will also look great on your CV!
+
+>_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
+>
+>I will support you to attend one conference per year assuming you have a poster to present
+
+>_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
+>
+>I want you to attend appropriate scientific meetings to learn from others, to present your work, etc. In fact, I use a large part of flexible group funds to fund graduate student attendance at such meetings. However, the meeting must fit the goals of our funding sources; assuming we have adequate funding, I will allow one meeting per year, although this may increase as you become more senior. The second meeting may also be to a funding agency meeting or have some other special tie to the group. To help with the financial aspects of meetings, I hope you look for financial support for travel. I always appreciate it when a group member tells me about a travel award (or another award) they discovered. In some cases, such as graduate student travel grants, the group can have only one nominee (per program), and so you may have to wait a semester or two for your turn.
+
+### Canada
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>7.1 Conference Funding A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and the Psychology Department also oﬀers $250 per presenting student, per year. There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
+>To maximize the experience and minimize expenses, please share a room with other graduate students.
+>Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
+>It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.

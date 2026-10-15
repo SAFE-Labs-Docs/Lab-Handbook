@@ -18,6 +18,10 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 ## Examples
 
 ### Germany
+>_[BodyBrainBehaviourLab_2026](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/biomag/BBB_LabHandbook_240313.pdf)_:
+>
+>Working hours: There is no such thing as expected working hours in the group. In fact, we do not encourage long working hours and the weekend is time off work. Everyone’s life circumstances are different, so all group members should find a schedule and work routine that works best for them. Individual approaches have to be communicated clearly with the PI so that the time spent together in the lab can be fruitful for all group members. This includes group meetings, institute meetings, and project discussions, which should be attended in person if possible. You should not feel obliged to reply to any form of workrelated communication outside your own working hours, and should respect the boundaries set by your colleagues.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >- **Healthy Practices:** High commitment and productivity don’t equate to overwork. Lab members manage their productivity responsibly and are not expected to exceed 39.5 work hours per week regularly.
@@ -232,6 +236,26 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >You may take up to 4 weeks of vacation every year, i.e., 20 business days. This includes but is not limited to federal holidays, university holidays, or scheduled university recesses, such as winter break, spring break, etc. Please inform your teammates and me in advance of days you will be gone. I understand that emergencies will arise. In this case, please notify my as soon as possible. Updating your status on Slack is a good way to let your teammates know if you cannot come to the lab.
+
+>_[RossIbarraLab_2026](https://rilab.ucdavis.edu/expectations.html)_:
+>
+>We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours (9-5pm) during the work week, since this is when most academic activities occur. There may be times when your project requires work late at night or on the weekends, but you are not expected to regularly work more than a normal 40-hour work week. It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
+
+>_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
+>
+>Our policy: It is flexible, but in the absence of extraordinary situations, it is 15 business day, in addition to major university holidays (Good Friday; Memorial Day; Independence Day; Labor Day; Thanksgiving Break; and Winter Break). Regadless, anytime that you plan to take an extended time, please tell me in advance, specially in the Summer and the Winter when there are no classes, and add it to the Calendar of Freedom.
+>Important: even if you let me know verbally, it is critical to add the time away to the Calendar of Freedom for various reasons, including that I will forget, but also to make sure there is always somebody present to keep the liquid nitrogen tank filled and receive deliveries.
+
+>_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
+>
+>Eligible for 22 days of paid vacation per year in addition to holidays and season days
+>- Please let me know in advance, I’d rather not find out that you are in some exotic destination from a colleague or via social media. I have some responsibility for your safety and that’s hard to do if I don’t know where you are
+>- Don’t tell me you are going on vacation, ask me if it’s ok. Invariably, I will say, “yes”. But if vacations become too frequent given your work commitments and progress, we may need to have a longer discussion
+>- Please put when you will be away on the lab Google calendar
+
+>_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
+>
+>Everyone needs time off. I follow the Chemistry PTO policy but also do not track time off. For those on TA or taking courses, you need to arrange the time off considering those jobs / duties. Within the group, a good rule of thumb is an average of two days per month of vacation, plus sick leave and university staff holidays. However, please follow your own departments / programs rules. After all, the Chemistry PTO policy is not the same as MCB or NSP policy. The group does have one hard rule: if you will not be reachable / in the lab for two or more days, please send me an email with details (when you will be gone, and if possible, an emergency contact). We have had issues in the past where we needed to contact someone on vacation because of important paperwork, safety or other issues, but this has been really rare. In terms of leaving for health, doctor’s appointments, or taking off early because of a visitor, I do not track these events nor do I need to know such details.
 
 >_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Taking-time-off-Planned-and-Unplanned-5126e7346f684f2fb23c14f012f7b3e3)_:
 >

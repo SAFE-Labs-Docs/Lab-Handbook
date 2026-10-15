@@ -164,6 +164,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Generally, the student or postdoc who made the largest contribution to a piece of work will be the first author. Multiple students and postdocs can be co-first authors, though there is usually still a “first cofirst” author. If most of the supervision and responsibility for the project rests with me, I will be the last author and corresponding author. (Any questions about the paper should be directed to me, since such questions may arrive long after you have left.) Other authors on the paper should have made a substantial contribution to the work, such as fabricating the device, or performing a theoretical calculation. If a group member’s only contribution was fabricating the device that was used for an experiment, that group member will be an author on the first paper using the device. Subsequent experiments papers do not need to include that person as an author but can include them in the acknowledgments.
 
+>_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
+>
+>In our lab, every member should be able to contribute to each other's projects without the expectation of a personal reward (see the lab motto at the top of this page). This is the basis of being good lab citizens and colleagues - helping with set up of an experiment, like starting cultures, or with taking out plates from incubators, does not constitutes a significant intellectual contribution to warrant an authorship on a paper. However, performing an actual experiment, interpreting results and providing useful troubleshooting or novel ideas in the context of the project, or analyzing data and putting together figures, things that either allow the project to be published or provide a significant intellectual contribution that allows the project to move forward, all of that deserves an authorship.
+
 ### Australia
 >_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_:
 >
@@ -202,3 +206,20 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of
 >us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
+
+### Canada
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.
+>• You designed one or more experiments in the paper.
+>• You wrote the initial draft for a major section.
+>• You wrote the entire paper.
+>• You designed and carried out the analyses.
+>In many cases, you might help with projects, but the contribution is not quite enough to warrant inclusion as an author. The following are several examples.
+>• You helped to carry out data collection.
+>• You created the reference section, table, or figure.
+>15
+>
+>• You scored a test or created a data set.
+>• You helped to proofread or edit.
+>In these cases, you will be acknowledged by name in the paper.

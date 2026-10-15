@@ -108,6 +108,18 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >The intended reader of your notes is not you at the present time. The intended audience is either me or you several years in the future once you have forgotten the details of your experiment. Write your notes with this in mind.
 
+>_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
+>
+>There is no standard as whether it is a bound notebook, loose-sheet binders, or electronic files. You can use any, but please incorporate the following:
+>- Table of contents – based on numbers or dates – specially important if using a bound book!
+>- Group experiments on folders, and give each folder an identifier – useful if using a binder and/or electronic files.
+>- Please upload protocols, presentations, or other important data to the Lab drive where it would be available to other members.
+>- VERY IMPORTANT: prior to leaving for vacation or an extended period of time, write a summary for all the experiments you've done so far. Especially, highlight where you are and what you need to do next. This will be greatly useful for when you come back, believe me!
+
+>_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
+>
+>“Good Laboratory Practices” and I require notebooks to be used. For data, cross reference to the actual file locations. The notebooks are required to stay in the group (which is a requirement for most of our federal funding). Your data cannot live on the instrument it was collected on and so needs to be backed up to at least two locations. We have a current SOP on these details.
+
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
 >
@@ -119,3 +131,9 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >  a referee asks for and a successor needs.
 >- Record mistakes. A note like "the first 300K set used the wrong salt
 >  concentration and was deleted" saves the next person from repeating the mistake.
+
+### Canada
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
+>How much detail is required in this record? There’s no perfect answer to that question, but the document should be clear enough and detailed enough so that if we revisit the project several years later, we should be able to ﬁnd where the manuscript is, where any relevant code is, and where the data is stored.

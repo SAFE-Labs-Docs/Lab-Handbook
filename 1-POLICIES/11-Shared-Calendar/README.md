@@ -87,6 +87,10 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 >
 >Please indicate when you are away from lab according to the following entries...
 
+>_[OPTIMlab_2026](https://www.georgesdgordon.com/?p=584)_:
+>
+>Please arrange annual leave or holiday in accordance with University and Departmental requirements, and with regard to key deadlines and group commitments. Postgraduate research students should agree holiday dates with their supervisor. As a courtesy, please note any holidays in the ‘Where are we’ shared calendar so others know when you will be away.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >If I am your primary supervisor, you must put your scheduled leave into the Superlab Leave & Holiday Calendar on Teams, and alert me by either Teams chat or email of the dates. Please also ensure that you create an Out of Office automatic message in Outlook so members of the university can see when you are away.

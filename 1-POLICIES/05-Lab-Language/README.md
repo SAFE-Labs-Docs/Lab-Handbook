@@ -97,6 +97,10 @@ English is the international language of science in the 21st century: proficienc
 >
 >You are welcome to speak any language you want, as long as everyone in the conversation speaks that language. Lab notebooks and all documentation must be kept in English so everyone can understand them. All lab business and meetings are held in English.
 
+>_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
+>
+>To provide the most inclusive environment in the lab, I expect everyone to communicate in English while in the lab, office space, or in other lab group settings. This has an added benefit of becoming more comfortable communicating in English (if it is not your mother tongue), which is crucial to modern-day science.
+
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >

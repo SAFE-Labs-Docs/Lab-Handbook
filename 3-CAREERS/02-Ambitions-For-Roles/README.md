@@ -144,3 +144,23 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/03-expectations.html)_:
 >
 >A graduate student who has done well leaves with at least two first-author publications: one a review or methods paper written in the early years, and one an original research paper. The ideal is one paper per aim, meaning three research papers alongside the initial review or methods article.
+
+>_[RossIbarraLab_2026](https://rilab.ucdavis.edu/expectations.html)_:
+>
+>Write and submit manuscripts. I strongly encourage collaboration, and a quick glance at our publications should show that this generally works well. On average I expect your time as a postdoc in the lab to generate ~2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.
+
+>_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
+>
+>I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.
+
+>_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
+>
+>While  it  is  difficult  to  pin‐point  an  exact  number  of  scientific  publications,  a  general  rule  of  thumb  is:  postdocs:  1‐2  papers  per  year,  PhD  students: 3‐4 first‐author publications (minimum 2 published and 1‐2 submitted) prior to graduation, MS  students: significant contribution to 1 paper, undergrads: it’s great if you can get a paper out of your  research, but it is not expected nor required.
+
+>_[ZhangLab_2026](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/for_trainee.md)_:
+>
+>It usually takes one or two years to publish your first first-authored paper and send your second first/co-first authored paper for review on the second or third year.
+>- Once you submit your first first-authored paper, please seek out opportunities to present your work to the national and/or international community to communicate with more folks in simiar fields.
+>- We highly encourage postdoc fellows to write grant proposals and apply for external fundings, like K grants, PhRMA grants, CCTSI and local pilot grants.
+>- As a postdoc fellow, demonstrating your independence, leadership, and mentoring capability is important to move on to your next career stage in either academia or industry. I will introduce you to other collaboration projects if you have the bandwith (if you can make good progress on your independent projects) in order to enhance your expertise of leading a multi-site project if available.
+>- We recommend you considering looking for jobs when your second paper is sent for review.

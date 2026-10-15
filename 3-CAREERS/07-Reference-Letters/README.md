@@ -116,3 +116,8 @@ Career progression, grants, and competitive applications often require reference
 >https://forms.gle/h7WKdY2ddacYT2y5A
 >
 >I have worked hard to build my reputation and that of our lab over the years. In this manner, I take my word seriously. In the rare instances where I don't feel comfortable writing a recommendation letter for you, I will email you ASAP and set up a meeting to discuss my concerns and devise a plan to move forward.
+
+### Canada
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>For all trainees: I will act as a professional / academic reference for you. This could be in the form of letters of reference for employment, for training opportunities, graduate school, grants, and awards. If you are seeking a letter of reference, please notify me as soon as possible and as far in advance as possible (several weeks or months). Please provide me with as much information as possible, including your CV, reference forms, reminders, etc. It can help to provide me with a list of things you would like me to mention in the letter. The more information I have, the better letter I can write for you. Please bear in mind that I may have several (many) other letters to write, including those for students outside the lab. As a rule, I will write your letter personally and ensure it arrives when and where it needs to.

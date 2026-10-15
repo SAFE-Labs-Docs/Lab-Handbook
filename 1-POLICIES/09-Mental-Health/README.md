@@ -68,6 +68,14 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >To share any concerns confidentially, postdocs and staff can talk to [EAP](https://www.umaryland.edu/hr/benefits-and-well-being/well-being/employee-assistance-program/) or [Employee Health Services](https://www.medschool.umaryland.edu/familymedicine/student--employee-health/employee-health-at-campus-health/) and students can talk to [Student Counseling](https://www.umaryland.edu/counseling/) or [Student Health Services](https://www.umaryland.edu/studenthealth/).
 
+>_[CELPLab_2026](https://github.com/celp-lab/lab-manual/blob/main/code_of_conduct.qmd)_:
+>
+>Working in science can be difficult for one's mental health. We are constantly at the cutting edge, and failure is constant - both in terms of results of our work and rejection in the form of grant proposals and papers. In the modern university, we are also asked to wear many hats, often at the same time. Mental health has long carried a stigma in academia, and it's time to move past that and acknowledge the reality.
+>
+>In the CELP Lab, we know that your mental health is crucial for being a great scientist. You should never feel obligated to push yourself to be unhealthy. Take breaks. Go on vacation. Have a hobby. Read a book - the trashier the better! Cook elaborate meals! Send us the recipes! Do the things you need to do to have a healthy balanced life. If you feel this is not possible, have a discussion with Prof. Byrnes and other members of the lab.
+>
+>We all work to be healthy and happy. Whether it's retooling your expectations of yourself, tackling your [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (we have all been there), or, heck, considering the importance of therapy (even Prof. Byrnes engages in it!), let's talk about it. It's the most important thing.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Mental well-being is crucial for personal and professional success, especially given the [prevalence of mental health challenges in academia](https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed regular work hours. If you feel comfortable, Pablo encourages you to discuss any personal challenges that may affect your work during one-on-one meetings. If you need additional support, we encourage you to consider the following resources:  
@@ -84,6 +92,10 @@ Thankfully, awareness and support for mental health issues within work environme
 >- If you are **off campus**, call 911
 >
 >Even if your phone is out of service, 911 operators can still be reached.
+
+>_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
+>
+>I am always available for students to discuss mental health issues and encourage such inquiries. I understand that students may wish to consult with mental health professionals instead or first, and the Chemistry Department website provides a detailed list of available options. All such discussions will be kept in utmost confidentiality.
 
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:

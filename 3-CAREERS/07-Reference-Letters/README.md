@@ -18,6 +18,16 @@ Career progression, grants, and competitive applications often require reference
 ## Examples
 
 ### Canada
+>_Anonymous lab_:
+>
+>I am always happy to serve as reference for past and present members of the lab. When asking for a letter of reference, please reach out at least three weeks before the reference is due. Writing a letter under a shorter timeline may be possible, but the quality may not be as high.
+>
+>To help me write the strongest possible letter, please provide the following when you reach out:
+>- A current CV.
+>- A description of the position or opportunity you are applying for, including any specific criteria or competencies that will be evaluated.
+>- Any aspects of your time in the lab or your broader experience that you would like me to emphasise.
+>- The submission deadline and any instructions for how the letter should be submitted.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >For all trainees: I will act as a professional / academic reference for you. This could be in the form of letters of reference for employment, for training opportunities, graduate school, grants, and awards. If you are seeking a letter of reference, please notify me as soon as possible and as far in advance as possible (several weeks or months). Please provide me with as much information as possible, including your CV, reference forms, reminders, etc. It can help to provide me with a list of things you would like me to mention in the letter. The more information I have, the better letter I can write for you. Please bear in mind that I may have several (many) other letters to write, including those for students outside the lab. As a rule, I will write your letter personally and ensure it arrives when and where it needs to.
@@ -106,6 +116,14 @@ Career progression, grants, and competitive applications often require reference
 >Once the folder is complete, share it with me and Crystall Dooley ([dooleyc@uchicago.edu](mailto:dooleyc@uchicago.edu)) and email them to let them know that it is complete.
 >
 >If, after finishing the folder, you have additional requests for uploads, please email Crystall and add a row to the spreadsheet.
+
+>_[HealthPolicyDataScienceLab_2026](https://stanfordhpds.github.io/lab_manual/chapters/02-policies.html)_:
+>
+>It essential that you ask Dr. Rose if she can write you a recommendation letter before submitting her name as a recommender. It may be the case that a letter from someone else will be more beneficial for you or that the deadline is too soon for her to accommodate your request.
+>
+>In general, please give Dr. Rose at least 4 weeks notice when requesting a letter, and more time than that when possible. If the deadline is sooner than 4 weeks, she may not be able to write the letter, particularly during times of the year when she receives a high volume of letter requests.
+>
+>Job candidates should request access to the Lab [job tracking template](docs.google.com/spreadsheets/d/1EB3ozh96kzLu2QrHafjwadsYlWjmF0NX6iM8BjLwzE4), make a copy, fill in details specific to your search, and invite Dr. Rose to the document.
 
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >

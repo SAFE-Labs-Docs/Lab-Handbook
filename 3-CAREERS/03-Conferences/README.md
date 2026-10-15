@@ -18,6 +18,12 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 ## Examples
 
 ### Canada
+>_Anonymous lab_:
+>
+>Discuss your conference interests with [the PI], and prepare a budget and justification (what will you gain by participating, what will you be presenting?). It is our goal that everyone should be able to participate in at least one local or regional conference each year (e.g. [a regional society meeting]) and one national or international conference at least once during their degree.
+>
+>[The graduate school] gives graduate students up to $500 to reimburse travel costs through the Graduate Student Travel Fund, once per degree program.
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >One of the perks we have as academics is travel (although it comes with its own drawbacks!). We have limited money for travel, you can help as follows:

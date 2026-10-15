@@ -16,6 +16,12 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 ## Examples
 
 ### Canada
+>_Anonymous lab_:
+>
+>Graduate students should plan to submit half of their chapters to peer-reviewed journals prior to sign-off on their thesis. For PhD students, aim to submit one chapter to both your committee and a peer-reviewed publication within the first 3.5 years in the program, and a second within the first 5.
+>
+>[the PI] and other lab members will support you in navigating the peer-review process, including journal selection, responses to reviewers, and payment of publication costs.
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >As a guideline of what is expected, masters students should publish 1-2 conference papers (or perhaps 1 conference, 2 workshops papers) during their two years in the group; phd students should aim for 3 conference (with at least one of these expanding to a journal) and perhaps some workshop papers earlier in their career); postdoc should be participating on several papers a year (and leading at least 1-2 papers).

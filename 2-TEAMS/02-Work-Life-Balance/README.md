@@ -28,6 +28,12 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >Our job does not require many nine-to-five responsibilities, but we do encourage attending the department more than half the week during working hours. Other than our (lab) meetings and seminars, you should feel free to work when and where you please. However, we live in a society where most people work from nine to five, Monday to Friday. Outside those hours, many of us often prefer taking time for friends, family, hobbies, entertainment, or simply ourselves. As a lab, we will respect those hours when it comes to communicating and collaborating with others! We do this by trying to refrain from mailing over the weekend, or setting deadlines right after weekends or vacation days. Obviously, there is no shame in trying to reach a deadline over the weekend, or preferring to work during unusual hours, but it should definitely not be expected.
 
 ### Canada
+>_Anonymous lab_:
+>
+>Graduate students may take 15 weekdays of vacation, as per [university] policy. You are highly encouraged to take your vacation time, and are not expected to be engaged in research or in communication with the lab while you are on vacation. Please ensure that you set up out-of-office notifications on e-mail.
+>
+>There is no formal system for tracking vacation, but you should let [the PI] know when you will be out of the office for longer than 1 day, and record these absences in the lab Days Away spreadsheet.
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >You are entitled to vacation, unless you are part-time or co-op staff, in which case you may be paid extra in lieu of vacation as per the BC labour regulations. UVic (and NSERC) suggests three weeks off a year. I also shut down the lab on Christmas Eve and between Christmas and New Year (these days do not count as part of your three weeks). You should tell me about planned vacations well in advance, and add them to the calendar. Also, remind me of vacations approximately one week before you leave. You should keep track of the days you have taken for vacation.

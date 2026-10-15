@@ -18,6 +18,16 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 ## Examples
 
 ### Canada
+>_Anonymous lab_:
+>
+>During the winter terms, our lab holds weekly 90-minute lab meetings, in person on campus. The first ~30 minutes will be dedicated to individual updates and lab business/announcements. The remaining 60 minutes will be dedicated to the primary topic of the lab meeting.
+>
+>All lab members will sign up to lead meetings on a rotating basis, and will be responsible for setting the agenda for their weeks. The purpose of these lab meetings is to solicit group feedback on research ideas and progress (and, occasionally, professional development). You might use this time to share a draft of a grant proposal, thesis proposal, or manuscript, discuss a paper relevant to your interests, or give a practice talk.
+>
+>All lab members are expected to attend weekly, unless in the field, and to provide written comments on materials in advance of the meeting. In-person attendance is expected for those in [the city], but joining remotely is an option when traveling. Please note any virtual attendance or absences on the lab meeting spreadsheet.
+>
+>We will rotate note-taking responsibilities and maintain notes in the lab Google Drive folder.
+
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
 >
 >We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.
@@ -379,6 +389,16 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 > on my time,
 > I
 > will always make time to meet with you.
+
+>_[HealthPolicyDataScienceLab_2026](https://stanfordhpds.github.io/lab_manual/chapters/02-policies.html)_:
+>
+>Lab trainees meet individually with Dr. Rose regularly. This is typically weekly or every other week depending on the needs of the trainee and their projects. Meetings are either 25 minutes or 50 minutes to allow for breaks between meetings. Dr. Rose expects trainees to manage the meeting such that it ends on time.
+>
+>In general, Dr. Rose expects progress to be made between each meeting. Progress can include struggling with the material. Dr. Rose cares that you are engaged and taking initiative to advance the project. We’ll discuss what you learned and where you are still confused. When we identify areas where you have gaps, Dr. Rose does expect you to invest in learning the required material and to follow through to fill those gaps. All trainees must be making satisfactory academic progress in line with the expectations of their graduate degree program.
+>
+>If you do not need to meet a particular week (e.g., making steady progress and don't have questions), please email Dr. Rose in advance so she can efficiently reallocate the meeting time. Your physical and mental health are important. If you need to cancel a meeting for health or personal reasons, email Dr. Rose. As much notice as is possible is helpful, but it is always better to cancel a meeting short notice than to attend when you are sick!
+>
+>If there are repeated meeting cancellations, we should discuss the underlying reasons.
 
 >_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/lab_meetings.qmd)_:
 >

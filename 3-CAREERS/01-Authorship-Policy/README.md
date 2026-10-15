@@ -43,6 +43,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.
 
 ### Canada
+>_Anonymous lab_:
+>
+>Co-authorship on a paper can be earned through substantial intellectual contribution (e.g., development of ideas, interpretation of results) or contribution to data collection, analysis, and/or writing. Contribution of data alone does not usually merit authorship, but data contributors should be given the opportunity to be co-authors by providing additional contributions. Similarly, using someone’s code that was developed for a prior project does not in itself warrant co-authorship. However, if that person provides additional intellectual input such as adapting the code, interpreting results, contributing to writing authorship should be considered.
+
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
 >
 >Authorship, and authorship order, is something that should be discussed early on in a project's life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we're talking about a manuscript, abstract, or poster. An "intellectual contribution" could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it's pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it's best to hash these sorts of things out early.
@@ -238,6 +242,13 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >The final determination for who will be an author on each lab paper (and in what order) will be made by Jeremy, following open discussions with project team members.
 
+>_[CTML_2026](https://jumbled-phone-c2e.notion.site/Expectations-cf248dabec7e45a987ae6840c70b3267)_:
+>
+>All authors need a chance to comment on the work before manuscript submission.
+>Determine authorship early in the research project to avoid conflict or misunderstandings.
+>In general, the first author does most of the writing, but consult with your supervisor on a case-by-case basis.
+>Co-first authorship should be determined by who led the drafting and submission process, not necessarily the original intellectual contribution.
+
 >_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/policies/paper-writing)_:
 >
 >As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.
@@ -248,6 +259,14 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
 >
 >Co-authorship is best discussed early rather than late. Ideally, this includes before analysis begins, and if not then certainly before writing begins. And, it is important to be aware that additional contributions may be necessary in order to thoroughly and convincingly answer the scientific questions that are asked, meaning that in some cases it may be necessary to seek out collaborators later in the process (including, in some instances, at the journal revision stage). However, whenever possible, students and advisors should seek to communicate early and often about co-authorship - when in doubt, discuss.
+
+>_[HealthPolicyDataScienceLab_2026](https://stanfordhpds.github.io/lab_manual/chapters/07-publications.html)_:
+>
+>**It is an expectation in the Lab that no new authors are invited to join an existing Lab project (i.e., where Dr. Rose is the lead PI) without the prior agreement of, at a minimum, Dr. Rose and the first author(s).**
+>
+>The Lab follows the [ICMJE recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) regarding who is included as an author.
+>
+>What does first authorship mean in our Lab? Being the first author typically means that you are: (1) an intellectual lead on the project, (2) making major contributions conducting the scientific work (e.g., developing methodology, analyzing data), and (3) a main writer on the manuscript, usually crafting the first draft. For some projects, a first authorship role may also involve project management with collaborators and partners. All of these activities are done under the mentorship of Dr. Rose as the PI with substantial feedback in an apprenticeship model.
 
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
 >

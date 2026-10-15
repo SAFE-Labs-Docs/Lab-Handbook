@@ -18,6 +18,15 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 ## Examples
 
+### Canada
+>_Anonymous lab_:
+>
+>Each lab member will have a designated Google Doc (visible only to you and [the PI]) for agendas and notes for our weekly meetings. (Following templates posted on Twitter by Susana Wadgymar and Michael Hoffman.) By 11am on the day of our weekly meeting, update this file with the following information (don’t spend any more than 15 minutes on this, and don’t feel the need to use complete sentences):
+>- Make a short agenda of any things you’d like to discuss in our meeting, in addition to your research plans and progress (if you have anything else to discuss, which may not be the case). I may add to these as well.
+>- Annotate the plans from the previous week using the ‘Comment’ feature or by adding text in a different color. We’ll use these notes as a tool for assessing whether we are developing SMART (Specific, Measurable, Achievable, Relevant, Time-Bound) plans
+>- Write a brief self-reflection on the previous week. This reflection is open-ended, but I suggest discussing what went well, what you found to be the most challenging, what you did to try to overcome those challenges, lessons learned, things that I/others can help with, and notes to yourself on what you would do differently in the upcoming weeks.
+>- Draft a list of plans and priorities for the upcoming week.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

@@ -75,9 +75,19 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >Please also let me know if you are ever worried about your progress.
 >Postdocs and salaried researchers will get formal annual reviews as required by the Biological Sciences Division, but they are really secondary to the regular meetings (i.e., there should be no surprises).
 
+>_[CTML_2026](https://jumbled-phone-c2e.notion.site/GSR-expectations-and-review-process-74c9feb4405a412797a8a7af286ab5b0)_:
+>
+>Each CTML GSR will be assigned one Project Leader (PL) in addition to their Faculty Supervisor (FS). Depending on the project, a GSR’s FS will also be their PL.
+>The PL and GSR are responsible for the GSR’s  goal & milestone setting for the year and monthly check-ins. If the PL has any concerns regarding the GSRs progress, the PL will conduct a  mid-year evaluation and/or schedule a conversation with the FS before the end of the semester.
+>Each Spring, the GSR will submit a self-evaluation that will be utilized during their annual evaluation with their FS. The purpose of the annual evaluation is to showcase growth as well as to create goals for next year. Afterwards, the GSR will be invite to submit an anonymous program evaluation to help improve CTML’s GSR program.
+
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
 >Professor Dolbow will meet with all students and post-docs in the lab at least once a year to discuss progress on research and progress towards degree, expected timelines to completion, and etc. During these meetings, the members will discuss career aspirations, options, and goals and additional steps (as needed) to help meet them. These meetings will be held every May after classes end.
+
+>_[HealthPolicyDataScienceLab_2026](https://stanfordhpds.github.io/lab_manual/chapters/02-policies.html)_:
+>
+>If Dr. Rose is your primary advisor, students and postdoctoral scholars should complete the Stanford Individual Development Plan (IDP) when joining the Lab and then annually thereafter ([student forms](https://oge.stanford.edu/academics/idp/forms/), [initial form for postdocs](https://postdocs.stanford.edu/sites/default/files/opa_idp-initial_0.pdf), [annual form for postdocs](https://postdocs.stanford.edu/sites/default/files/opa_idp-annual_0.pdf)). This applies regardless of home department. Trainees should plan to check in on progress made toward IDP goals once a quarter. Dr. Rose expects that trainees will be responsible for scheduling the annual IDP meetings and adding the IDP check-ins once a quarter to the agenda for an existing recurring meeting.
 
 >_[HollandGroup_2026](https://holland.chem.yale.edu/)_:
 >

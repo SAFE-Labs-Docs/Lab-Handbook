@@ -151,6 +151,18 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- **Project Ownership:** Every PhD student and postdoc has their own project. First projects for each trainee are initially proposed by me and then designed and implemented with my input. Postdocs may propose their own first project if they choose. Second projects are then proposed by the trainee. You are the driving force behind your project, taking ownership of it and all related elements. Plan ahead and be proactive.
 >- **Project Assistance:** Technicians and undergraduate students will help with one or more ongoing projects in the lab. Technicians can expect to contribute as a co-author on at least one paper. Technicians are expected to help manage the lab as well. Undergraduate students will be considered for co-authorship if their contribution meets our guidelines discussed below.
 
+>_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
+>
+>- Training:
+>- Our primary goal is to provide you with the training you need in order to
+>become a great scientist!
+>- We will have check-ins at the beginning, middle, and end of each semester
+>where we discuss your goals for the RAship, and whether you think you are
+>getting the training you need.
+>- If there are any specific things you would like to learn more about (coding,
+>writing, psychological theories), we can make these explicit goals and try to
+>orient your time here around them.
+
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/lab-manual.html)_:
 >
 >Below are the eligibility criteria for advancement in lab:

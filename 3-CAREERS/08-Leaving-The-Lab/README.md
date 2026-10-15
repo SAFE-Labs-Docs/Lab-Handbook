@@ -19,6 +19,14 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 ## Examples
 
 ### Canada
+>_Anonymous lab_:
+>
+>Leaving the lab is an important transition and a little planning goes a long way toward ensuring your work can be continued and that you leave with everything you need. The formal offboarding process is still under development. Nonetheless, before your last day, please make sure you have done the following:
+>- Discussed timelines with [the PI]. If you have papers, analyses, or other projects that are not yet complete at the time of your departure, make a clear plan with [the PI] for how and when these will be finished. This conversation should happen well before your last day, not on it.
+>- Ensure access to your files. Make sure that all of your project files, data, and code are up to date in the lab GitHub organisation before you leave. You will retain access to your personal GitHub account and any repositories you have contributed to, but confirm with [the PI] that you have copies of everything you need for ongoing work after your departure.
+>- Flag any barriers to project completion. If there are factors that may prevent you from completing outstanding work after you leave (e.g., loss of software access, data access restrictions, time constraints) raise these with [the PI] as early as possible so we can work around them together.
+>- Ensure you have collected any personal belongings from the lab, and that all equipment that you have used is cleaned, in working order, clearly labeled, and stored in the proper location.
+
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >I expect postdocs will be lead author on anything they produce in the lab. However, I will enforce a policy where they are expected to continue working on writing up and publishing research results after leaving the lab. If, six months after the end of data collection and leaving our lab, you are unable to continue working on publishing research projects, I or another lab member may step in and complete the write-up process. This might involve including new authors or changing order of authorship to reflect the contribution of people involved in completing the write-up process.

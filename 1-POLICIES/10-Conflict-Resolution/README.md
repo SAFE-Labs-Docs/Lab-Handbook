@@ -70,6 +70,35 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >
 >You are welcome to use this anonymous form (link omitted for Github example) to share anything that concerns you. This form will go to me, but I won’t know who submitted it unless you choose to identify yourself. Please share as much detail as you feel comfortable. As a professor, I am a Title IX mandatory reporter and must report any allegations of sexual misconduct, sexual harassment, or discrimination on the basis of sex to the [Title IX office](https://www.umaryland.edu/titleix/). You are always welcome to come to me to share your concerns, but by law I cannot keep this particular type of information confidential. If you aren’t comfortable talking to me, you can reach out to the [university ombudsperson](https://www.umaryland.edu/ombuds/) or the department chair.
 
+>_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
+>
+>If the concern is about something the PI has done, said, or failed to do, and
+>you feel comfortable raising it with Cameron directly, you should always feel
+>free to do this. He would rather hear about it directly, and raising it will
+>not affect how you are treated in the lab or what is written about you afterwards.
+>- However, it is often difficult to do this in practice. If you have an issue
+>that you don’t feel comfortable raising with the PI, there are several other ways
+>to report issues. You are entitled to use any of them without telling Cameron
+>first and without explaining your reasons.
+>- Within the Psychology Department:
+>- The Undergraduate Program Director (currently Dr. Hoi-Chung Leung,
+>psy_ugpd@stonybrook.edu) is the appropriate first point of contact for
+>concerns about an undergraduate research placement.
+>- The Department Chair (currently Dr. Joanne Davila) is the next step
+>if that isn’t the right route, or if it doesn’t resolve things. Contact
+>details are on the department page linked above.
+>- Outside the department:
+>- The Ombuds Office
+>(ombuds@stonybrook.edu, 631-632-9200, Psychology B Room 137) is independent,
+>informal, and impartial. It is not an office of record, so speaking to them
+>does not begin a formal process and does not commit you to anything.
+>Conversations are confidential, with narrow exceptions where disclosure is
+>required by law.
+>- The Office of Equity and Access
+>(reportit@stonybrook.edu, 631-632-6282) handles discrimination and
+>discriminatory harassment. Reports can be submitted, including anonymously,
+>through ReportIt.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >All lab members, regardless of position or status, are protected by (and must abide by) Dartmouth's human resources policies. This means behaving professionally and respectfully towards others (including your fellow lab members). Clear, direct communication is often the best way to address interpersonal issues. On rare occasions, despite your best efforts, you may find yourself in an interpersonal situation you cannot resolve on your own. You have many resources at your disposal to help:

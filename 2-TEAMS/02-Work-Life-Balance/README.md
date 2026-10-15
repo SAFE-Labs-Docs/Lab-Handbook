@@ -301,3 +301,8 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly
 >09:00 to 15:00) to facilitate mentorship, meetings and discussions. Please put it on the whiteboard and let Peter and Mie know if you plan to work from home or take time off for a full day or more so we can plan around it. Importantly, while you will need to work hard to be competitive for whatever you chose to do for your future career, you also need to find a consistent balance that goes well with not only your ambitions, but also your health and sanity – it’s a marathon, not a sprint.
+
+### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>Normal working hours in our lab are M-F 9am to 4pm, although you may expect some commitments on evenings and weekends depending on the type of research participants you are working with, and teaching schedules. Working from home is always an option on days when you don' t need to be physically present (e.g., for meetings, teaching, data collection). I recognize there are circumstances where it's necessary to work from home and there are other times when working from home is more productive for you. We try to be as accommodating as possible including using technology like teleconferencing.

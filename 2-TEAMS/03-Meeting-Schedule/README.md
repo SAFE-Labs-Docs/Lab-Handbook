@@ -224,6 +224,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >We may have joint lab meetings with other faculty — these may be combined with our weekly lab meeting or an additional meeting. We will also use lab meetings (or ad-hoc scheduled meetings) to prepare for conference presentations and give feedback on job talks or other external presentations.
 
+>_[ByersLab_2026](https://jebyers.ecology.uga.edu/wp-content/uploads/2020/09/Byers-Lab-Handbook.pdf)_:
+>
+>The Byers lab currently has a unique approach to weekly lab meetings. Jeb typically attends the first 30 minutes of the lab meeting, and then the rest of us take over for the next hour. Jeb may or may not be asked to attend the second part of the meeting, depending on the content. The topic of the lab meeting varies weekly, but typically, one person signs up to lead a lab meeting and presents their research, or provides a manuscript that we review. It’s the expectation that every lab member (except for undergraduates) leads at least one lab meeting per semester. If that lab member wants feedback on a manuscript, they are expected to distribute a draft to the rest of the lab at least 3 weekdays prior. If no one is signed up to present, we typically pick a published paper to review, or just get together and chat about current events, general questions about a career in science, how to navigate grad school, etc. We have decided to reserve every 3rd lab meeting to discuss social justice issues and what we can do as individuals and as a lab to increase diversity and inclusivity in science.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >I (Dr. Chory) maintain an open door policy to ensure accessibility for all lab members. If my personal calendar shows I'm not in a meeting, feel free to drop by to discuss any matters.

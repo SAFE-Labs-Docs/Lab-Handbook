@@ -141,6 +141,16 @@ A clear onboarding process should not only ensure that lab members complete esse
 
 ### United Kingdom
 
+>_[ComputationalLightLaboratory_2026](https://complightlab.com/documentation/getting_started/)_:
+>
+>Make sure to meet other members. Send emails! They are listed on this website. Ask about their experiences and thoughts. Explore what they are conducting in their research.
+>- Make sure to discuss with Kaan Akşit to see how you can contribute to Odak in the near future.
+>- Do you know what you will be focusing on? Do you know what projects are carried out in the team? Are you up-to-date with what the team has achieved recently?
+>- Are you listed as a member in the GitHub organization? In that organization which team do you belong to? Reach out to Kaan and ask, kaanaksit@kaanaksit.com.
+>- Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, kaanaksit@kaanksit.com.
+>- Are you receiving calendar invitations for weekly group meetings? Reach out to Kaan or any other team member and ask, kaanaksit@kaanaksit.com.
+>- Do you have a research plan? What are your goals? How will your research impact the society in the near and far future? Tinker deeply in a structured manner. Agree with Kaan and your other supervisors. Reach out to them and initiate conversations about your roadmap towards your degree.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >We follow the standard ICR onboarding process, which can be found here:  LINK NOT PUBLIC. In addition, every new lab member will be paired with a “lab buddy” who will arrange for you an introduction to all the lab resources. 

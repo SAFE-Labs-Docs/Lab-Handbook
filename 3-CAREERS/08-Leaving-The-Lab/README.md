@@ -211,6 +211,14 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >      continue the work without you.
 
 ### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>I expect postdocs will be lead author on anything they produce in the lab. However, I will enforce a policy where they are expected to continue working on writing up and publishing research results after leaving the lab. If, six months after the end of data collection and leaving our lab, you are unable to continue working on publishing research projects, I or another lab member may step in and complete the write-up process. This might involve including new authors or changing order of authorship to reflect the contribution of people involved in completing the write-up process.
+
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>I review the Slack channels each year to remove users who are no longer with the lab. Honours students and RAs will typically be converted to a guest account for one year after they leave the lab and are deactivated two years later. Any trainee who wishes to stay on as a guest for longer is more than welcome, just let me know.
+
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/04-policies.md)_:
 >
 >Another difficult situation commonly encountered by students is how to manage the publishing process after you have completed your degree and have moved onto new jobs or opportunities outside the academic environment. Most importantly, every opportunity will be given to lead graduate students to get first author publications resulting from their thesis work. The following guidelines are to help move this process forward and outlines contingency plans in the event this process does not become feasible:

@@ -165,6 +165,12 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >  concentration and was deleted" saves the next person from repeating the mistake.
 
 ### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>Every ongoing research project will have an associated OneDrive folder within a shared library for the lab. Please speak to me or the lab manager to be given access to the OneDrive shared library.
+>
+>Within this folder are subfolders for each aspect of the study from ethics to recruitment. If there are multiple studies attached to one ethics, there will be subfolders within the project folder indicating the project's title and the researchers name.If changes have been made to the study, these folders will need to be updated so that we have the most up-to-date information on how the study was conducted. This is to ensure that our studies are reproducible to the maximum extent we can manage.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
@@ -198,3 +204,8 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >　個別引用が不明瞭になる
 >
 >したがって、「1データセット＝1リポジトリ」を基本原則とする。
+
+### Unite tates
+>_[BacklundGroup_2026](https://backlundlab.scs.illinois.edu/files/2025/01/Backlund-Group-Expectations-vJan2025.pdf)_:
+>
+>Lab notes: Students are expected to maintain a daily record of their research. Some days it may make sense to handwrite notes in a physical notebook, while other days the most efficient record keeping method might be to take typed notes with interleaved screenshots. Students should maintain both a dedicated physical notebook for written record keeping and a dedicated Box folder to store digital notes (save, e.g., as Word documents). These notes must be sufficiently well-organized such that a future lab member can reasonably follow your prior work.

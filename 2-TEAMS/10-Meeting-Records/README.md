@@ -27,6 +27,14 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >- Write a brief self-reflection on the previous week. This reflection is open-ended, but I suggest discussing what went well, what you found to be the most challenging, what you did to try to overcome those challenges, lessons learned, things that I/others can help with, and notes to yourself on what you would do differently in the upcoming weeks.
 >- Draft a list of plans and priorities for the upcoming week.
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Monthly meetings:  Monthly small-group meetings serve a complementary purpose to weekly progress meetings: each trainee summarizes recent progress, sets goals for the coming month, and hears from peers about adjacent projects, fostering broader scientific awareness across the lab.
+>
+>Before each meeting, every trainee should prepare a brief bullet-point summary of work completed since the last meeting and enter it into the shared SharePoint document. Trainees should also ensure that experiments are time-stamped in eLab and that the corresponding PDFs have been uploaded to the dedicated SharePoint folder. One new set of results or experiments can be presented in details but other new results should be presented during the bi-weekly progress meetings or during unscheduled check-ins (see below). After each meeting, Thibault will summarize the key priorities discussed.
+>
+>At least once a year, one monthly meeting should be dedicated entirely to publication planning — ideally following a research lab meeting presentation. For that session, trainees are expected to prepare a story outline indicating which results will be presented in each figure.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

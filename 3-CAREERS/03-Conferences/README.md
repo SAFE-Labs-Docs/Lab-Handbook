@@ -46,6 +46,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >To maximize the experience and minimize expense, I may ask you to room share with other graduate students. This can create problems that I am unaware of due to issues that include specific privacy needs or concerns of harassment. If some room-sharing arrangements are not possible for you, please discuss it with me privately so that I can accommodate you.
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Meeting & Conference Participation: Each lab member should participate to a symposium or conference once a year or two years (national or international), providing there is sufficient funds available. While a poster presentation is not expected the first year, submission of an abstract for poster and/or oral presentation is required afterwards. Traveling and meeting registration is supported by the lab budget and external funds. Trainees should indicate which meeting(s) they would like to participate during their yearly IDP meetings.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >7.1 Conference Funding A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and the Psychology Department also oﬀers $250 per presenting student, per year. There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
@@ -203,6 +207,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Graduate-Student-Expectations-in-the-Kirby-Lab.pdf)_:
 >
 >Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.
+
+>_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
+>
+>- Conferences – assuming the lab has money, each grad student and postdoc will be funded to attend at least one academic conference per year. If an undergrad has taken a large role in a project and would like to attend, then this is also a possibility. Conferences are fun, but don’t forget that they are professional too. You are expected to use your time wisely at the conference (see relevant talks, meet new people, etc). You’ll be expected to give a summary of the cool things you learned/saw at a conference after you return
 
 >_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
 >

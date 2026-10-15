@@ -16,6 +16,11 @@ Most lab members will quickly recognize any disparities of time and resource inv
 
 ## Examples
 
+### Canada
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Bench space and common space: Each lab member will have a designated lab space consisting of a bench and desk spaces. The location of the designated space may occasionally be re-assigned if the lab is re-configurated. Lab seniority may determine priority for new free space after somebody leave (based on the date a lab member joined the lab).
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

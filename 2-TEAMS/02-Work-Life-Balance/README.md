@@ -42,6 +42,10 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >Normal working hours in our lab are M-F 9am to 4pm, although you may expect some commitments on evenings and weekends depending on the type of research participants you are working with, and teaching schedules. Working from home is always an option on days when you don' t need to be physically present (e.g., for meetings, teaching, data collection). I recognize there are circumstances where it's necessary to work from home and there are other times when working from home is more productive for you. We try to be as accommodating as possible including using technology like teleconferencing.
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Work-From-Home Policy: Our lab is first and foremost a place of daily interaction — asking questions, exchanging ideas, and giving each other feedback are central to how we work and grow as a team. Wet lab projects require in-person presence by nature, and for safety reasons it is strongly preferred that more than one person be present in the lab at all times. That said, we recognize that some phases of a project are more computational in nature, or require focused, uninterrupted time for writing, data analysis, scholarship applications, or manuscript preparation. In those cases, lab members may elect to work from home, provided they indicate their absence in the shared lab calendar using the “WFH” label. Anyone working from home is expected to remain reachable on Microsoft Teams throughout the day to respond to questions from other lab members. Hybrid participation in lab meetings can be accommodated, but the presenter must be notified in advance. Lab members who need to work from home more than one day per week, or on a recurring basis, should first discuss this arrangement with Thibault. Finally, work-from-home days are not a substitute for personal time off — unplanned absences should be recorded as such (see below).
+
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >

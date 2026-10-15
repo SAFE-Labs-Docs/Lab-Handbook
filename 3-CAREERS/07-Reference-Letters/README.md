@@ -125,6 +125,12 @@ Career progression, grants, and competitive applications often require reference
 >
 >Job candidates should request access to the Lab [job tracking template](docs.google.com/spreadsheets/d/1EB3ozh96kzLu2QrHafjwadsYlWjmF0NX6iM8BjLwzE4), make a copy, fill in details specific to your search, and invite Dr. Rose to the document.
 
+>_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
+>
+>- All letters must be requested at least 3 weeks prior to the due date. Ask Kate (and if appropriate, your supervising grad student/postdoc/tech) whether she thinks she can provide a strong letter. If you give less than 3 weeks lead time then Kate will try to fulfill the request but cannot guarantee that she’ll have time.
+>- If Kate agrees to write a letter, then write her an email that includes what the letter is for, provide instructions on where to send the letter, include your CV/application materials and highlight any details you think might be especially important to mention.
+>- Follow up with Kate about a week before the letter is due to remind her, if she hasn’t already told you that she has submitted the letter
+
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >
 >Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in some circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.

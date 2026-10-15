@@ -26,6 +26,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >As a guideline of what is expected, masters students should publish 1-2 conference papers (or perhaps 1 conference, 2 workshops papers) during their two years in the group; phd students should aim for 3 conference (with at least one of these expanding to a journal) and perhaps some workshop papers earlier in their career); postdoc should be participating on several papers a year (and leading at least 1-2 papers).
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Publication Expectation: Every graduate and postdoc in the lab is expected to publish their findings in peer-review articles. Generally, each lab member should be able to publish a first paper within 2-4 years, and a second paper within two more years. The expectation may change depending on field and impact of journals. The first draft of the manuscript should be completed by trainee(s). Although there is no strict rule, Master student are expected to publish one first author paper, while PhD student are expected to publish 2-3 main papers.
+
 >_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
 >
 >I expect MSc students to lead-author at least one significant manuscript from their thesis work, though students have sometimes produced two or more. The primary manuscript should be submitted to a peer-reviewed scientific journal prior to the thesis defense. PhD students should lead-author at least three significant manuscripts from their thesis work. At least two should be accepted or published before the thesis defense, with a third submitted or close to submission. Submitting a paper is a big achievement worthy of celebration. Students will receive a $1000 bonus for each independent manuscript submitted to an international peer-reviewed scientific journal. I commit to paying page charges/article processing charges (APCs) (often $2500-$4000 per published paper) for our work done together at SFU, even if it is published after the lead author has moved on.

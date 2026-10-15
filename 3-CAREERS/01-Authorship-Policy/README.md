@@ -57,6 +57,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >In terms of authorship on the paper, this is always somewhat tricky. It is best to define that early on and to be clear about it. I’ve seen some unfortunate conflicts over the years because this was not well defined. My approach is to have more rather than fewer authors (if in doubt add them). Author order should be based on input to the research and/or writing, not on seniority. I don’t believe however to stack people’s resumes by putting lots of authors on every paper for that reason alone!
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Authorship Policy: For research articles, the main person that led and executed the work will be the first author and is expected to coordinate the manuscript completion and submission. Other lab members who generated original data included in the manuscript or participated in some aspects of the work will be listed as author, including in some cases people who developed unpublished methods/reagents that led to some key results or provided mentorship for the work. Each co-author is expected to contribute to the manuscript preparation. Order of authorship should represent the time invested in the study. In some cases, co-authorship will be considered if two members worked together to develop the whole project and spend similar time on it. After a member leave the lab, first co-authorship can be granted if another lab member becomes significantly more involved to push the story out. Concerns about authorships should ideally be raised at the early stage of the manuscript writing (or before initiating additional work for a second submission).
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.

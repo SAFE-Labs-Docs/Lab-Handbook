@@ -35,6 +35,10 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >I review the Slack channels each year to remove users who are no longer with the lab. Honours students and RAs will typically be converted to a guest account for one year after they leave the lab and are deactivated two years later. Any trainee who wishes to stay on as a guest for longer is more than welcome, just let me know.
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>To ensure a smooth transition, let Thibault know as soon as possible when you will be leaving. When you leave the lab, we expect you to clean out all your possessions, reagents and samples. Some reagents can be passed to other lab members. Some important samples can be stored in a communal space (e.g. freezers). If you work with tissue culture cells, be sure to reduce and compact your number of samples in the liquid nitrogen tank leaving 2 samples per important cell lines (discuss which ones with Thibault in advance) and discard the unnecessary ones – update the online database accordingly. Please make sure you organize your labbook notes, samples, and data so that others can follow your work and that all your data is properly saved & backed up. Please remember to return keys to the lab. Typically, lab member will continue to have access to lab digital resources for a 3-12 month period after their departure.
+
 >_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
 >
 >As a research supervisor, I am therefore generally only interested in engaging and investing in research that is publishable in the international peer-reviewed scientific literature. An exception is research that forms a pilot- or exploratory study. Accordingly, I ask students to commit to seeing publications through to completion, whether the students intend to pursue research careers or not. This commitment usually requires time after graduation, for which I will make every effort to compensate you.
@@ -277,6 +281,11 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >___ Remove yourself from any email lists and shared documents that are no longer relevant, including group list and JG-Org, JG-Sched
 >
 >___ Ask Lab Assistant to move you from the Group members page to the Group Alumni page with the correct info about your new job (if known)
+
+>_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
+>
+>- The lead person on a project will work with Kate to develop a reasonable timeline for drafting and submitting manuscripts that result from the work
+>- While the lead person is expected to draft and submit the manuscript for their project, if progress is slow or the person has moved on (i.e. no progress in 6-12 months after leaving the lab), then Kate may choose to take over leadership of the project and/or bring in other folks to help finalize the writing. This will be done in discussion with the lead person whenever possible but it’s important that our work gets disseminated in a timely manner.
 
 >_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
 >

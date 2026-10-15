@@ -34,6 +34,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with.
 
+>_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
+>
+>Weekly Progress Meetings: We have weekly meetings where people present one experiment they worked on during the past two weeks. The goal is not to present all the work that was done. Presentation of negative results is perfectly adequate. If a person did not work in the lab the last two weeks, they can present a future experiment they want perform, a new idea they want to share or an interesting experiment from a paper they recently read. The presentation is not formal; best is to simply show the “labbook” entries limiting the talk to maximum 5 minutes, thereby allowing plenty of time for discussion. Each person presents every two weeks. The goal is to better know what each person is doing, allow more people to gain knowledge in various experimental approaches and exploit the collective intelligence of the group to get feedback.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >We hold a 1.5 hour lab meeting every week. The weekly meeting consists of core lab members (Me, graduate students, postdocs and honours students, when possible). Occasionally, other members will be invited to attend as well. The purpose of these meetings is to discuss current projects, to engage in debate or discussion about topics in the literature, and to plan future studies. Mostly, the purpose of the lab meeting is to solve problems. We meet in room 5017 WIRB. I usually schedule lab meetings at a time that is convenient for the maximum number of people. This varies by term, and it may vary even by month. We don’t usually meet as often in the summer.
@@ -436,6 +440,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Student + Jose lunch, every 3 weeks
 >- Postdocs + Research Scientists + Jose lunch, every 3 weeks
 >- Student Informal Prez w/ Postdocs, w/o Jose (1.5 hrs, 1 per mo)
+
+>_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
+>
+>- Lab meetings – Grad students and postdocs will be expected to lead (at least) one lab meeting/quarter. If materials will be discussed at lab meeting (i.e. paper, or draft) then these need to be sent around to everyone at least 5 working days prior to lab meeting. You are always expected to participate in and contribute to discussions during lab meeting.
 
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >

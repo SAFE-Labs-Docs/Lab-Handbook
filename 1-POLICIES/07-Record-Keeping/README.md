@@ -212,6 +212,15 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >We work with a variety of data types, including field observations, behavioral observations, molecular and genomic. It is imperative that you have multiple copies of your data in different locations. Imagine that the worst-case scenario is going to happen, because it very well might- your laptop will break, your external hard drive will fail, the building with your lab notebook will flood. You must back up your data to the cloud and ensure your data will not be lost due to an accident. This means taking pictures of handwritten data sheets, uploading these photos to the cloud and placing them in the lab shared drive. This means uploading raw sequencing data to NCBI (set the release date to the future so as not to release unpublished data) and having data on both an external hard drive and a UK/lab server. If you are collecting data in real time that at first exists in only one location, have a plan for how you will quickly back up those data on a regular (daily, if possible) basis. If you aren’t sure how to back up your data, ask!
 
+>_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
+>
+>- Keep a lab notebook. Every Amazon Warrior is required to have a hardcopy paper lab notebook. Anything that has to do with an experiment you run should be documented here.
+>- Pages should be dated and written in ink. Write down details of the experimental planning, scheduling, behavioral assay protocols, a priori hypotheses, outline of the projected steps of the analysis. Trust me, you will forget details and you may need to reference them after months or (several) years.
+>- The purpose of the lab notebook is to not only help you remember details of what you did and why months or potentially years later, but also as solid proof that we did the things the way we said we did.
+>- Know that at any moment, Kate may ask to see your lab notebook and she will expect it to be up to date, complete and well organized.
+>- Organize your lab notebook well – use tabs to start new sections. Write legibly. Keep a blank page at the beginning to fill in with Table of Contents.
+>- Upload photos of your lab notebook pages to the lab Box every month!
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• Lab book entries should be titled using the lab member’s initials followed by a number, e.g., JLP637: Alpha vs Omicron growth curve in PLSCR1 KO Huh-7.5 cells.

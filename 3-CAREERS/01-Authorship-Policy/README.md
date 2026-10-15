@@ -254,6 +254,12 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
 
 ### Canada
+>_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
+>
+>Authorship, and authorship order, is something that should be discussed early on in a project's life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we're talking about a manuscript, abstract, or poster. An "intellectual contribution" could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it's pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it's best to hash these sorts of things out early.
+>
+>Examples of important contributions to our work that that don't necessarily reach the threshold for authorship (but should always be acknowledged in a paper) are data collection and helping with figures. Students who contribute in these ways should be given opportunities to become more involved in order to get on a paper if they have the interest, time, and ability to, but that's not always going to be possible, which is also fine.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.

@@ -17,6 +17,11 @@ For international lab members, visa costs and processes can be a significant bar
 
 ## Examples
 
+### Denmark
+>_[NERDS-ITU_2026](https://nerds.itu.dk/joinus/)_:
+>
+>From non-EU countries: We are as happy to welcome visitors from non-EU countries. Unfortunately, due to Denmark’s strict rules regarding residence and work permits, you need to allow at least 3 months in advance for all the paperwork, and you will have to bear costs in the order of 400-1000 EUR. (See our ITU-internal document)
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

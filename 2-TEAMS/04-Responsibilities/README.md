@@ -207,6 +207,18 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >* When you rotate out, prepare hand‑off instructions so the next person can ramp up quickly.
 
 ### Canada
+>_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/onboarding/)_:
+>
+>1. Teaching/Explanation session - Experimenter provides Research assistant with information regarding the experiment and the data they are looking to collect. This will allow the RA to understand the point of the experiment.
+>
+>2. Research Assistant Shadowing - RA shadows a testing session conducted by the main experimenter. Here, the RA is expected to take notes on the data collection procedure and questions that the participant may ask.
+>
+>3. Practice with Main Experimenter - RA will run a practice data collection session on the main experimenter. This allows the RA to practice the script and allows the experimenter to correct any mistakes.
+>
+>4. Supervised Data Collection Session - The RA will conduct a data collection session on a real participant with the supervision of the main experimenter.
+>
+>5. Once comfortable, the RA can now collect data on their own! :)
+
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
 >
 >It is expected that during your time in the VORTEX Lab, you will have to learn some coding basics to push forward your research and run your statistics. Expectations vary depending on the level of the trainee. For instance, at minimum:

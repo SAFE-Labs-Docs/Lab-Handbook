@@ -480,6 +480,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >• Half-year meetings: every half year we have a meeting of whatever length needed, where we step back and talk about the bigger picture of your PhD. Not about data and experiments, but about your career track/wellbeing/plans/etc. This is a chance to identify/make needed corrections to the track of your education and our work together.
 
 ### Canada
+>_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
+>
+>We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.
+>
+>We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with.
+
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >We hold a 1.5 hour lab meeting every week. The weekly meeting consists of core lab members (Me, graduate students, postdocs and honours students, when possible). Occasionally, other members will be invited to attend as well. The purpose of these meetings is to discuss current projects, to engage in debate or discussion about topics in the literature, and to plan future studies. Mostly, the purpose of the lab meeting is to solve problems. We meet in room 5017 WIRB. I usually schedule lab meetings at a time that is convenient for the maximum number of people. This varies by term, and it may vary even by month. We don’t usually meet as often in the summer.

@@ -184,6 +184,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >Write and submit manuscripts. I strongly encourage collaboration, and a quick glance at our publications should show that this generally works well. On average I expect your time as a postdoc in the lab to generate ~2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.
 
+>_[SalzmanLab_2026](https://site.caes.uga.edu/salzmanlab/files/2025/02/Salzman-Lab-Expectations.pdf)_:
+>
+>I would like Ph.D. students to have submitted at least 1 first-author peer-reviewed paper for publication before I sign off on their dissertations. Two would be even better. These publications must be from research done while in our lab pursuing a PhD, not prior work.
+
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.

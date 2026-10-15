@@ -125,6 +125,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >I will write you the best letter of reference that I can, but it is up to you to make my job easy by being productive and conducting high-quality work; I will not say you are “exceptional” or “fantastic” unless you have earned such praise. I close all my letters of reference by saying “I certify that I am the sole and true author of this letter” and I will not ask you to draft the letter for me (though I will ask if there are specific things you think I should highlight in my letter, and I will do my best to convey those thoughts, using my own words, in my letter).
 
+>_[SalzmanLab_2026](https://site.caes.uga.edu/salzmanlab/files/2025/02/Salzman-Lab-Expectations.pdf)_:
+>
+>You can expect me to write letters of recommendation for you, given advance notice. If it’s a sort of letter I’ve never written before or the first time I’ve written a letter for you at all, please give me three weeks lead time because I need to find a 6-8 hour block of time to write you a good letter. After I have written you a letter for a particular type of application or scholarship, a week’s lead time is sufficient to ask me to send another (I will tailor the letter I already wrote).
+
 >_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Can-you-write-me-a-rec-letter-cadf815c27294f738dd56c161c8b43c6)_:
 >
 >Fill out the link below as soon as you know you are applying for a position. This will give me a hard prompt to start working on this.

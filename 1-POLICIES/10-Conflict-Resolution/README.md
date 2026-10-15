@@ -140,6 +140,10 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >
 >We will all try to communicate issues promptly with respect and professionalism. Then listen actively. If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps o Observations (I see…) o Feelings (I feel…) o Needs (I need…) o Requests (Would you be willing to …) Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions If a problem persists, we will consider inviting a mediator
 
+>_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>
+>If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Maureen. If you have an issue with Maureen, please reach out to another member of the psychology department who can intervene (this can be a senior lab member for smaller lab issues, or another faculty member or the department chair for more serious issues).
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Ensuring MsEE Lab is a welcoming, constructive working environment is part of the responsibilities of the principal investigator, and a crucial one at that. Pablo has completed conflict resolution training from the [Community Dispute Settlement Center](https://communitydispute.org/) in Cambridge, MA as a confidential conflict coach with the [MIT BE REFS](https://berefs.com/), where he gathered experience with interpersonal conflicts both between lab members and involving advisors. For these reasons, lab members are encouraged to bring issues in lab dynamics to him. However, he recognizes that power imbalances and his role as head of MsEE Lab may make this difficult. For this reason, consider these options:

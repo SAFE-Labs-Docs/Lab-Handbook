@@ -441,6 +441,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Updates: Every other week our research group meeting will be an “updates” meeting. These are opportunities for you to share what you’ve been thinking about over the week with others. I expect every group member to post a short “group update” on the slack channel before these meetings, which will help you to gather your thoughts about what you’d like to share with the group and also help identify overlap between your work and the expertise of others. Quite often, it leads to help where you’re stuck on a project! During the meeting, group members volunteer to go over their update and have others ask questions and provide feedback. These updates are NOT polished, professional talks – they are opportunities for informal, low-stakes collaborative feedback and help from our collective research group.
 
+>_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>
+>Weekly lab meetings will be focused on project presentations, going over new data or methods, and journal club discussions. Lab meetings will generally last no longer than 1.5 hours. Lab meeting plans and notes will be maintained in the #lab-meetings channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required, except for students earning course credit. This policy might change by semester depending on the number of students in the lab and their availability.
+>
+>During extended periods of working remotely, such as during the COVID-19 pandemic, we will also have regular lab “check-ins” to set up our goals for the week, encourage casual interactions, etc.
+
 >_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
 >
 >Undergraduates and high school students will meet with Dr. Kat for 15 minutes every other week. This can be increased as needed, or you can schedule an appointment for a longer discussion as needed. You are highly encouraged to meet more frequently with your direct mentor in the lab

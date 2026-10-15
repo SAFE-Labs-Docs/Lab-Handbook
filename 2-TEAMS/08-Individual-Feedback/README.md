@@ -91,6 +91,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >• Annual career development meeting: Each lab member will have an annual career meeting with the PI to discuss their Individual Development Plan (IDP). This meeting is an opportunity to reflect on career goals—whether academic, industry-related, or otherwise—and to identify actionable steps for progress. The IDP, prepared by the mentee, serves as a framework for this conversation and should include short- and longterm goals, current strengths and gaps, and a plan for progress.
 
+>_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>
+>Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in late summer each year to sketch out a strategic plan for the academic year that will keep you on track with your goals. At that time, we will also review your progress toward these goals.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, a one-on-one meeting with every lab member will be dedicated specifically to evaluating the state of the mentorship relationship. Both participants will discuss answers on [the last online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog)  and reevaluate the worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder, making whatever adjustments may be necessary.

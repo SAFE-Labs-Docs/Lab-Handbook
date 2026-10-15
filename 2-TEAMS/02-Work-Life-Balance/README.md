@@ -292,6 +292,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >It is okay to take a day off to decompress from time to time. However, if you will be out of town or take a longer break, please let me know so I won’t be worried about not having seen you in a while. Each lab member can usually take up to 3 weeks of vacation time each year. In addition, I don’t expect lab members to work between 12/15 and the first week of January. Please inform me your vacation plans before booking your trip.
 
+>_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>
+>It is expected that lab members will do most of their work from the lab. Full-time lab members can choose to work remotely 1-2 days a week, as long as this does not interfere with their research progress. Undergraduates are not eligible for remote work unless otherwise approved, and must be present in the lab for their work shifts. Anyone working remotely should plan to be available over Slack or for Zoom meetings during their working hours. Extended periods of working remotely should be approved ahead of time, and you’ll be expected to maintain regular hours if not taking PTO.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >You may take up to 4 weeks of vacation every year, i.e., 20 business days. This includes but is not limited to federal holidays, university holidays, or scheduled university recesses, such as winter break, spring break, etc. Please inform your teammates and me in advance of days you will be gone. I understand that emergencies will arise. In this case, please notify my as soon as possible. Updating your status on Slack is a good way to let your teammates know if you cannot come to the lab.

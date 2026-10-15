@@ -112,6 +112,10 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >Apply for grants/fellowships (USDA NIFA, NSF, LSRF, JGI, NIH, UCPP or others). Although I will only hire you if I can support you for at least one year (and ideally 2 years), it is in your best interest to get independent funding.
 
+>_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>
+>Apply for external funding (e.g., NRSA, K99). I will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
+
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >Talk with me about pursuing funding opportunities

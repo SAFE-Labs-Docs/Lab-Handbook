@@ -107,6 +107,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >If, after finishing the folder, you have additional requests for uploads, please email Crystall and add a row to the spreadsheet.
 
+>_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>
+>Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in some circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
+
 >_[MoreauLab_2026](https://www.moreaulab.entomology.cornell.edu/joinus)_:
 >
 >To request a letter of recommendation please ask me as far in advance as possible. For letters of recommendation it is helpful to me to have links to the opportunity, your updated CV, the proposal or at least a brief description of what you are proposing if I have not provided feedback on the proposal, the deadline my letter is to be submitted, and any important information about you or your abilities you would like me to amplify.

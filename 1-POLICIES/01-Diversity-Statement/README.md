@@ -92,6 +92,11 @@ Science is an international endeavour, which brings together people from many cu
 
 >We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
 
+>_[CarolinaAffectiveScienceLab_2026](https://affectivesciencelab.com/core-values)_:
+>
+>In our lab: We actively recruit and support the retention of all scientists. We recognize that doing research can take away time from other means of financial support and sponsor RA’s involvement in research through Federal Work Study, graduate students’ study via fellowships such as the National Science Foundation Graduate Research Fellowship or NIH F31 NRSA, and postdoc’s continued training through fellowships such as the National Science Foundation Postdoctoral Fellowship, NIH F32 NRSA, NIH F99/K00, or OSU President’s Postdoctoral Scholars Program. Please reach out to Dr. Lindquist if you would like to apply for one of these sources of support or if you have come across another that you are eligible for!
+>- We actively educate ourselves and update our practices to reflect the best practices for rigorous, replicable, transparent, and inclusive science and SAFE mentoring and training practices.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >Our lab, and Duke University at large, follows the university policies on equal opportunity and nondiscrimination, and we take them seriously. Everyone here is entitled to the same respect and the same opportunities. We're committed to ensuring everyone can succeed in their pursuit of the advancement of biomedical knowledge. Here's how we're putting that into practice:

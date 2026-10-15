@@ -246,6 +246,10 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
 >- [ ] Check all of the above with Keisuke.
 
+>_[IvesLab_2026](https://ives.labs.wisc.edu/pdf/Ives_Lab_guidelines.pdf)_:
+>
+>When leaving the lab, it is a good idea for both you and others in the lab to archive and leave a copy of all of your data. Nobody in the lab will use your individual data without your consent. But if you archive them, we will all know where they are.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >All lab members should write papers before leaving the lab (Barker, 2010) If a paper is submitted before a lab member leaves and it comes back requiring revisions, the first author or someone previously designated should make those changes and resubmit. If a paper is submitted before a lab member leaves but is then rejected, the person who rewrites the paper will become the first author (ideally this

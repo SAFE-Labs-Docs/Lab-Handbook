@@ -124,3 +124,7 @@ A clear onboarding process should not only ensure that lab members complete esse
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >New members should review the Handbook and communicate any questions, concerns, or suggestions to Pablo. Additionally, part of the onboarding process will include completing worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>(Mentor) Train the student on relevant skills needed. This is the upfront time cost from the mentor. Do a good and thorough job here, and you’ll be saving time later.  (Mentor) Introduce the student to everyone in the lab as soon as possible. Have each person give a brief overview of what they are working on. Even better, set up scheduled meetings (they can be as short as 10 minutes) between the student and everyone in the lab so they can introduce themselves and explain what they work on. By the end of the second week, they should know everyone.

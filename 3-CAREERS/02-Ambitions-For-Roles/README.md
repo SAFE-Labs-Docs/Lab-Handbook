@@ -64,6 +64,12 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
 
 ### United Kingdom
+>_Anonymous lab_:
+>
+>We do not believe that the journal Impact Factor is a good measure of article quality (see Brembs et al., 2013) and prefer to target journals where our work is likely to be read by the most appropriate audience. We generally aim to produce weighty articles (e.g., including multiple studies or experiments) rather than the maximum number of publications possible. We encourage the use of preprint servers (e.g., bioRxiv, medRxiv).
+>
+>We are conscious that publications are critical to career advancement but feel that quality is more important than quantity. However, as part of the wider support within [the lab], and given our focus on career development, we work with researchers at every level to ensure their CVs are progressing and are highly competitive. Academic staff and theme leads can advise more junior members of the group.
+
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_:
 >
 >The PhD thesis is a substantial body of work carried out over three years. A good series of PhD studies should produce at least one substantial journal article. Usually, a single “chapter” of the PhD includes the contents of one published or publishable paper. Such a chapter may contain a single experiment or a series of related experiments. A good PhD thesis in cognitive psychology typically contains at least three empirical chapters, plus an introduction chapter and a concluding chapter.
@@ -97,6 +103,11 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >I expect technicians to be our lab for 2 years, PhD students 4-5 years, and postdocs 4-6 years. Students and postdocs should at a minimum submit their first author paper and post it to bioRxiv before leaving the lab. If you can complete your publication in less than 4 years, you’re welcome to leave the lab then if you wish. All lab members will remain funded beyond these time ranges, provided they are still maintaining adequate progress. Establish your goals during the annual IDP meeting and keep track of your progress. I will provide feedback on your progress as needed. I expect you to keep on top of deadlines for your graduate program, conferences, fellowships, and trainings.
 
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/performance.html)_:
+>
+>Publish at least two papers on which you're first author.
+>	These papers should be submitted by the time you defend. Note, this is not the requirement of relevant UChicago doctoral programs, but I think it is an important minimal target.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
@@ -129,3 +140,7 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >There are [many strategies that we build in at each stage](https://mseelab.substack.com/p/what-does-a-phd-look-like) to maximize the positive feelings and minimize the negative ones. [More details on Substack: _"What does a PhD look like?"_](https://mseelab.substack.com/p/what-does-a-phd-look-like)
 
 >Cornell PhD students in the Graduate Field (program) of Chemical and Biomolecular Engineering typically graduate after completing five years in the PhD program, and although students at MsEE Lab may come from a variety of different Graduate Fields, we hold the same expectations for graduate students regardless of the Field they belong to. Students are advised to consult their Graduate Field Student Handbook ([e.g. the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) to make sure they fulfill any Field-specific requirements. Regardless of Field, it is our aim for each student to contribute to at least three projects during their time in the lab ([explained in more detail here](https://mseelab.substack.com/p/what-is-a-phd)), with the expectation that one of them leads to a first (or co-first) authored publication. PhD projects are selected in discussion with the student with this aim in mind. We aim to at least have this publication published as a preprint by the time the student leaves the lab.
+
+>_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/03-expectations.html)_:
+>
+>A graduate student who has done well leaves with at least two first-author publications: one a review or methods paper written in the early years, and one an original research paper. The ideal is one paper per aim, meaning three research papers alongside the initial review or methods article.

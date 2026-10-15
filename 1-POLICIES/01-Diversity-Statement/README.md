@@ -87,6 +87,13 @@ Science is an international endeavour, which brings together people from many cu
 
 >We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
 
+>_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
+>
+>Our lab, and Duke University at large, follows the university policies on equal opportunity and nondiscrimination, and we take them seriously. Everyone here is entitled to the same respect and the same opportunities. We're committed to ensuring everyone can succeed in their pursuit of the advancement of biomedical knowledge. Here's how we're putting that into practice:
+>- Holistic Recruitment and Retention: We evaluate prospective lab members on the whole picture (Young et al., 2021) of their experiences, drive, and potential. As a mentor, Dr. Chory strives to support and promote trainees at all levels based on their promise and enthusiasm.
+>- Access to Mentorship and Resources: We're committed to providing equal access to mentorship, resources, and opportunities for all lab members, regardless of their background or prior experiences. Good mentorship is often the difference between a student who finishes and one who does not, and we take that seriously for everyone in the group.
+>- Open Environment and Dialogue: We’re striving to create an environment where everyone feels welcome and can openly discuss their experiences and challenges. As such, Dr. Chory will be setting up regular check-ins and one-on-one meetings to stay connected.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Diverse communities are better equipped to adapt to change and solve unexpected challenges, [in biology](https://www.gutenberg.org/ebooks/1228) as in [science](https://doi.org/10.1073/pnas.1915378117), [business](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation.aspx), and [human societies](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse) at large. MsEE Lab encourages diversity and understands that its resilience as a community depends on its diversity. By increasing the breadth of our experience pool, we increase the breadth of problems we are aware of, questions we can tackle, [solutions we can develop](https://doi.org/10.1073/pnas.1915378117), and people we can communicate with.

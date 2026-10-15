@@ -111,3 +111,11 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 * Every lab member can travel to present at one conference per year. If you want attend more than one conference in a single year or travel to a conference without presenting something, discuss with me so we can determine how we can fund your travel in a way that’s fair to other lab members. These trips are fully funded; I only support travel if I can reimburse 100% of transportation, meals, and hotels.
 * Each lab member can attend 1 major external workshop during their time in lab (e.g. Neuromatch) with a tuition budget of about $1000 per person. Tuition for additional courses will be considered on a case-by-case basis.
+
+>_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Graduate-Student-Expectations-in-the-Kirby-Lab.pdf)_:
+>
+>Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>If you have something to present at a conference, like a talk or poster, I will do my best to pay for your travel. Exceptions to this policy include program reviews, in which all students involved in the project are generally expected to attend. Conferences are a valuable opportunity to network, stay up to date, and present your work. As such, they are a key part of your professional development. It costs about $1,000-$2,000 to send someone to a conference. All students and postdocs should share lodging with someone else. Possible exceptions to this rule can be made, but only if you consult with me first.

@@ -111,6 +111,33 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >	- Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
 >- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.
 
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
+>
+>If you stop working on a manuscript, so that someone else needs to do the submission, revision, or resubmission, your position as first author might change. The first author, in other words, not only needs to lead the work but also finish it. For example, if you leave the lab before a paper is accepted, you'll have the opportunity to continue working on it as first author when reviews are returned, but if you cannot do this promptly, others in the lab will be invited to take over. Someone else might become first author. We have an obligation to publish the work funded by grants and contracts.
+
+>_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Offboarding)_:
+>
+>Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI
+>    * PI reviews and approves or suggests revisions
+>* Code handed off to another RA, this code must be re-run by the receiving RA
+>* [Admin tasks](https://github.com/uchicago-bfi-gnlab/lab_manual_private/wiki/Lab-Admin-Tasks) handed off to another RA
+>* Work you are proud of
+>    * Record the backgrounder you are most proud of in examples
+>    * Record the issue ticket(s) you are most proud of by sending them to us in Slack
+>* Start thinking about your answers to our exit interview questions [here](https://docs.google.com/document/d/11lqyKwevhwoXUxEd1e9WaXJrtNU6ZPATy4VAVk_DImQ/edit) and make sure this exit interview has been scheduled.
+>* Fill out [this](https://docs.google.com/forms/d/1Cb3j-KGDGEKvK1VePjgtmMa2X8YJbVX75n0uXov_L5w/viewform?pli=1&pli=1&edit_requested=true) form with information on classes you took as an RP (if any), which will serve as a resource for future RPs.
+>* Add to [staff ids](https://docs.google.com/spreadsheets/d/1zKA0T7gz4h91qdSG_kZL3izV0iBqBeWl0gfcowp705Q/edit?gid=1851494083#gid=1851494083) a good email address to reach out at after you leave. Put this in the "past" tab.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>All lab members should write papers before leaving the lab (Barker, 2010) If a paper is submitted before a lab member leaves and it comes back requiring revisions, the first author or someone previously designated should make those changes and resubmit. If a paper is submitted before a lab member leaves but is then rejected, the person who rewrites the paper will become the first author (ideally this
+>
+>18 of 24 is the original first author). If a paper is left unfinished when a lab member leaves, the person who writes the paper and submits it becomes the first author.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>In general, please ask me for permission to share anything from our group that has not been published. This includes things that the group has produced, like fabrication recipes or tricks, special measure code, etc. This excludes things that only you have produced, like your private code folder, presentations, etc. (i.e., you can use or share these things as you see fit).  If you are going to work at a company, I do not expect that you would make such a request. I would also be hesitant to grant such a request for students moving on to big companies.  I will disable your software accounts (box, slack, OneNote, etc.) shortly after your last day.  Please delete all nicholgroupur and urqdots chrome profiles on your personal computers, and do not log in to any of the shared google accounts after you leave.  Make sure all lab notebooks (especially fab notebooks) and fab tools are in the lab before you leave.  Turn in your keys to the keys drawer before you leave.  If possible, please provide an email address that we can use to contact you in case questions arise.
+
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
 >

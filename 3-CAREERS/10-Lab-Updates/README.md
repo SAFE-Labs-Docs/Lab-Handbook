@@ -39,6 +39,10 @@ Lab members are often considering academia as a potential career. It informs tha
 
 ### United Kingdom
 
+>_Anonymous lab_:
+>
+>[The lab]’s management group (academic staff and theme leads) meets online (Teams) the first Monday of every month at 10am. General group issues, including the progress of projects and operational issues, are discussed. Attendance is required from [lab] Directors and theme leads, but optional to other members of [the lab]. If you have an issue that you would like the management group to discuss, you can come along and raise yourself or pass this to your theme lead who will be able to raise it on your behalf.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >Yearly state of the lab meeting: at the end of the year, I will give a lab management update to go over our spending, funding applications, achievements over the past year and the vision for the next one.
@@ -53,6 +57,16 @@ Lab members are often considering academia as a potential career. It informs tha
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
+
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
+>
+>We keep copies of funded and unfunded grants in the "Grant proposals" project on Asana.
+>Assume these grants are confidential and do not share them outside the lab.
+>Feel free to ask me about them if you have questions, and if you write a fellowship proposal, please add your submitted proposal (excluding the budget) to the project.
+
+>_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/05/Whats-the-point-of-lab-meeting.pdf)_:
+>
+>First, we will open every lab meeting with a general lab business discussion. This is an excellent time to bring up issues or points of information that would be useful for the whole lab. Some examples: learning about a new bug in the ordering system, noticing something being done incorrectly in the lab such as leaving the lids off the gel electrophoresis chambers, new info from the animal facility about how our colony will be cleaned/arranged. I will sometimes use this forum to announce things of general interest to the lab, such as: new organization systems, upcoming conferences, upcoming lab cleaning days, departmental news such as staff or leadership changes.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >

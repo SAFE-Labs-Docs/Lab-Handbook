@@ -128,6 +128,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 
 ### United Kingdom
 
+>_Anonymous lab_:
+>
+>We encourage all [lab] members to set boundaries on their work – typical working hours are 9.00 am to 5.00 pm, Monday to Friday. You may have a preference for different working hours, which can usually be agreed with your PI as appropriate. There is no particular dress code, beyond an expectation to be well presented (in particular if testing participants).
+>
+>[The university] has adopted a blended working model, with staff dividing their time between home and office working. Remote working options may be limited for some roles (e.g., where on-site data collection or teaching is required). We encourage staff to work from the office at least one day per week, as face-to-face interaction, and the relationships that grow from this, are central to developing and maintaining our cohesiveness. We encourage all members of [the lab] to work from the office on Wednesdays which is when we hold our lab group meeting.
+
 >_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_:
 >
 >The exact hours that members of the lab choose to work is up to them, but each lab member should be on campus
@@ -139,6 +145,16 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 > or simply write the email and save as a draft, then send later. Please give consideration to the
 > timing of the email with respect to what the recipient needs
 > to do, i.e. don't send an email at 17:59 which is needed for a 10:00 meeting the next day.
+
+>_[GrangeLab_2026](https://bookdown.org/JimGrange/lab_manual/communication.html)_:
+>
+>I do not respond to (and I try not to read) emails or Teams messages out of office hours (9am to 5pm Monday–Friday). Please factor this in if you are wanting me to do something (e.g., don’t send me a draft report to read for our Monday meeting at 4pm on a Friday!).
+>- I would encourage you to keep a work–life balance and switch your emails/Teams off over the weekend too if you are able.
+>- Sometimes I might deviate from this advice.
+>- I do sometimes work odd hours, so if on the rare occasion you receive a message from me outside of your normal working hours, PLEASE NOTE that I do not expect you to respond immediately. Just get to it when you are next in work mode.
+>- The School’s Communication Policy asks that I respond within 4 working days.
+>- Please factor this into the timing of your communications.
+>- (I usually respond MUCH faster than this.)
 
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_:
 >
@@ -177,6 +193,30 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >There are many reasons why you may not meet your own expectations, but I am an ardent advocate against the “just work harder” mindset. Your work pace may feel like the only thing you have control over, but working longer hours almost never gets to the root of the problem. It’s important to set boundaries so you don’t just work all the time. You cannot pour from an empty cup.
 
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/how-we-work.html)_:
+>
+>I will not judge your progress based on the hours you keep in the lab: what matters most is that you make substantive progress on the lab's goals.
+>I encourage you to figure out how you work best.
+>You thus have broad freedom to choose how you work, provided you communicate your plans to others and see the projects through.
+>But because we're human, and it's nice to see other, non-digitized human faces regularly, aim to spend at least three days a week (for most of the workday) in lab.
+>You don't have to communicate your schedule with me in advance, as long as you're around roughly this much and show up for meetings.
+>Undergrads and out-of-state lab members will have different arrangements, of course.
+
+>_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
+>
+>In general, we expect you to be working Monday through Friday for 9 hours per day (including a lunch break).
+>    * Usually we do a daily stand-up at 8:40AM where everyone discusses what they are working on and asks questions.
+>    * We typically have three in-person days per week. Arrive by standup (or 9am if standup is late) and stay until 4PM.
+>    * There is some flexibility in work hours based on your needs or work needs (e.g. nursing a build). Please let us know in advance if you need to adjust your schedule.
+>    * Occasionally, we will ask you to work longer than normal hours (evenings and weekends). However, longer hours are the exception rather than the norm in our lab and we will try to communicate clearly ahead of time when extra effort will be useful. We won't expect you to be on-site outside of normal business hours.
+>    * You are welcome to attend a seminar once or twice a week or audit a class, and usually can take a class for credit as well.
+>* Dates
+>    * Everyone working in our lab follows the Booth leave policy, which gives four weeks of vacation/personal leave per year (in addition to the [13 university holidays](https://humanresources.uchicago.edu/benefits/timeoff/vacationholidays/universityholidays.shtml)), regardless of whether you are employed through Booth or BFI. We encourage you to use this leave. You also have two weeks of sick leave.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>You may take up to 4 weeks of vacation every year, i.e., 20 business days. This includes but is not limited to federal holidays, university holidays, or scheduled university recesses, such as winter break, spring break, etc. Please inform your teammates and me in advance of days you will be gone. I understand that emergencies will arise. In this case, please notify my as soon as possible. Updating your status on Slack is a good way to let your teammates know if you cannot come to the lab.
+
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >
@@ -186,3 +226,11 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/02-lab-culture.md)_:
 >
 >Full-time research is essentially equivalent to a full-time job (i.e. ~40 hours/week, 5 days per week). A rough guideline for the PALM Lab is a 'hybrid model' where lab members are expected to spend at least three days of the week working on campus/in lab, and have the option to work either from home or in lab on the remaining days. The work hours themselves are largely flexible and dependent on the available spaces -- to ensure overlap between members in lab for collaboration and discussions, lab members are asked to have 10am to 3pm as part of their in-person hours. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (*The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.*)
+
+### Switzerland
+>_[AIDOSLab_2026](https://aidos.group/guide)_:
+>
+>As a general rule of thumb, all lab members should be available1 during normal European business hours, say from 10∶00–16∶00. This makes it possible for other groups to interact with us and greatly simplifies any collaborations. I will not blindly enforce this rule, but I
+>expect you to notify me if you are not available during a certain period of time. Moreover, as a token of respect to all other lab members, everyone should usually be present for the lab meetings.
+>
+>1 This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.

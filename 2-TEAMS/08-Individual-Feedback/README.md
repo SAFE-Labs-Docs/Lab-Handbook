@@ -61,6 +61,20 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >During our annual meetings, we will plan your goals, align them with your career path, and discuss what you can realistically achieve during the next year. 
 
+>_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
+>
+>Who Does Them: All members of the lab will provide progress reports, irrespective of career stage. Additionally, undergraduate students will also write up a report every 6 months (1-page), or at the end of their time in the lab. For undergraduate students and master students, a written progress report and 1:1 meeting is required for a research letter of recommendation from Dr. Chory.
+>- When We Do Them: To ensure you get the most out of this process, we will schedule a meeting once every six months to review your progress report together. These meetings will offer an opportunity for personalized feedback, questions, and guidance moving forward.
+>- How long should you spend on this?: Though it's important to make these reports comprehensive and well-structured, they shouldn't consume too much of your time. Ideally, spend no more than 1-2 day MAX on these reports every six months. They should be detailed but succinct, professional but not overly time-consuming. The first one will probably take the most time.
+
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/performance.html)_:
+>
+>There should be informal reviews at every weekly meeting.
+>The point is mutual feedback, i.e., we can discuss your progress and develop achievable goals for the next few days to years, and you can tell me if there are areas in which I can provide better help.
+>If you would like more formal progress reviews, let me know.
+>Please also let me know if you are ever worried about your progress.
+>Postdocs and salaried researchers will get formal annual reviews as required by the Biological Sciences Division, but they are really secondary to the regular meetings (i.e., there should be no surprises).
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, a one-on-one meeting with every lab member will be dedicated specifically to evaluating the state of the mentorship relationship. Both participants will discuss answers on [the last online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog)  and reevaluate the worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder, making whatever adjustments may be necessary.

@@ -93,6 +93,13 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >	- Do I think they would mesh well with our lab’s culture and dynamics?
 >	- Have them demonstrated growth and resilience in their prior work, showing a potential for growth and future scientific excellence?
 
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
+>
+>It's vitally important to decide *before* we meet a potential hire what criteria we should use to judge them: studies show that we often subconsciously rationalize biases by identifying criteria post hoc.
+>I think academics in particular are prone to discrimination because their self-identity is so predicated on objectivity.
+>It is useful to have a core, fixed set of questions or topics to discuss with different candidates.
+>This doesn't mean the conversation can't wander, but it promotes fair comparisons.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Applicants intending to join MsEE Lab will be interviewed by Pablo and all current long-term (non-undergraduate) lab members before any decisions are made. Prospective graduate students must apply to a Cornell Graduate Field, where they may be interviewed by Pablo and carry out a research rotation in the lab to consider joining. Other types of positions apply to Pablo directly. Postdoctoral candidates should expect to present their previous research in a talk, either remotely or in person, depending on lab finances and candidate location. All candidates should provide a CV and expect it to be shared with lab members. Pablo will gather feedback from all lab members individually and confidentially. Pablo will present the conclusions gained from this process and the resulting decision to the group. The timeline for this decision will be communicated to the applicant promptly.

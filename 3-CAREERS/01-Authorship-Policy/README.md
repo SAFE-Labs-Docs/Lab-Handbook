@@ -77,6 +77,12 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >For any group publication, group authorship should be agreed based on the value and volume of each person’s contribution, with more supervisory roles towards the end. Where an order between co-authors cannot clearly be resolved we will randomise the order.
 
+>_[GrangeLab_2026](https://bookdown.org/JimGrange/lab_manual/science.html)_:
+>
+>From 2020 onwards, in the lab we employ the CRediT (Contributor Roles Taxonomy) system for identifying author contributions on papers from the lab. Anyone who contributes one of the roles listed on CRediT will belisted as an author on the paper. The paper will then identify which authors fulfilled which roles according to CRediT.
+>
+>As principle investigator of the lab, I expect to be an author on all papers produced by lab members. But please note that I do not get automatic authorship; rather, my expectation is that you should involve me in your work to such a degree that I have earned authorship on the paper by engaging with at least one of the CRediT roles.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >According to the criteria recommended by the International Committee of Medical Journal Editors (ICMJE), to qualify for authorship, individuals must meet all the following conditions:
@@ -98,6 +104,25 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >We follow [ICMJE authorship guidelines](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two). Authorship is granted when the paper could not have happened without their contribution. This could be a substantial intellectual, data collection, analysis, or data sharing contribution. All authors are expected to contribute to manuscript writing, editing, and journal revisions.
+
+>_[AllisonAdolescentResearchLab_2026](https://www.med.unc.edu/pediatrics/adolresearch/wp-content/uploads/sites/1448/2025/10/Allison-Adolescent_Research_Lab_Manual.docx)_:
+>
+>Authorship is based on meaningful intellectual contribution. We will discuss expectations early (during our one-on-one meetings and/or project-specific meetings), revisit as needed as contributions evolve, and prioritize transparency on how authorship order is selected. I expect that all authors will meet the ICJME criteria for authorship. In the event that you have contributed to a project but do not meet authorship criteria, an acknowledgement in a manuscript or presentation would be appropriate to expect.
+
+>_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
+>
+>The "Passing the Baton" scenario: Imagine Student A starts a project, works on it for two years, and then graduates. Student B picks it up and needs three more years to complete the work. It's like a research relay race where both students have run their laps, and the project crosses the finish line thanks to their combined efforts. In this case, it's crucial to acknowledge and fairly attribute authorship to both students. However, when a student leaves the lab and doesn't continue working on the project, they naturally relinquish control over its direction. This is perfectly fine and sometimes passing the baton is the best career option for all involved.
+
+>_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
+>
+>Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:
+>1) contributed whole figures or panels independently, OR
+>2) substantially contributed to many figures or panels while working with someone else (typically the first author), OR
+>3) taken charge of revisions for a paper begun by a first author who is unwilling or unable to complete them. a. Depending on the nature and extent of the revisions, this may also be a case that warrants co-first authorship, or assumption of first author position.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>Generally, the student or postdoc who made the largest contribution to a piece of work will be the first author. Multiple students and postdocs can be co-first authors, though there is usually still a “first cofirst” author. If most of the supervision and responsibility for the project rests with me, I will be the last author and corresponding author. (Any questions about the paper should be directed to me, since such questions may arrive long after you have left.) Other authors on the paper should have made a substantial contribution to the work, such as fabricating the device, or performing a theoretical calculation. If a group member’s only contribution was fabricating the device that was used for an experiment, that group member will be an author on the first paper using the device. Subsequent experiments papers do not need to include that person as an author but can include them in the acknowledgments.
 
 ### Australia
 >_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_:
@@ -124,3 +149,16 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >* **Investigation** - The researcher was responsible for data collection of at least a third (1/3) of the sample size in any experiment. (Assistance with EEG preparation does not count towards this.)
 >* **Validation** - Conducted code review at least once, producing a report on the computational reproducibility of the results and experiment.
 >* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.
+
+### Switzerland
+>_[AIDOSLab_2026](https://aidos.group/guide)_:
+>
+>When submitting a paper to a machine learning venue, the order of authors should reflect their contribution and relevance for the project. Typically, this will mean that junior members, such as Ph.D. and graduate students, will be placed before more senior members. To
+>assess whether a person is qualified to be an author on a manuscript, we will follow a set of rules. Anyone listed on a paper as an author has to satisfy all of the following criteria:2
+>- 1. They have made substantial intellectual contributions to at least a subset of the work described in the manuscript.
+>- 2. They have participated in writing or revising the manuscript.
+>- 3. They are aware of the existence of the manuscript and of the intent to submit the manuscript to a certain venue.
+>- 4. They agree with the content of the manuscript and are willing to vouch for the correctness of the work.
+>
+>In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of
+>us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.

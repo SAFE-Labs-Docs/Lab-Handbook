@@ -100,6 +100,14 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ### United Kingdom
 
+>_Anonymous lab_:
+>
+>The content of the lab meetings runs on an 8-week cycle and comprises skill building, scientific and pastoral (goal reflection) sessions. One meeting every 8-weeks is a dual meeting with [another group in the School].
+>
+>These meetings provide an opportunity to meet and catch-up with other members of the group. All members of [the lab] are expected to attend and we ask that you do your best to protect this time to ensure your availability and attend in person where possible. All members are expected to lead or present at a lab meeting during their time in [the lab].
+>
+>Once per month, the lab meeting offers “feedback” sessions, where you can submit something (e.g., grant idea/application, job application, CV, paper) for discussion. These require materials to be sent one week in advance to give other group members time to read the submission. These are informal and supportive sessions designed to help you when dedicated feedback is needed. There is also an expectation that you will read and feedback on other people’s submissions where possible. If you would like to request support via a feedback session, email [the lab admin] or speak to your theme lead.
+
 >_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:
 >
 >Group meetings (weekly, ~90 minutes)
@@ -199,6 +207,30 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- **Topics:** These meetings are a good time to share personal and professional status updates; lay out future plans for the following week, month or year; share results; get verbal feedback on writing or figures you’ve shared with me in advance; or anything you want to bring up. Anything personal you share with me in our 1-on-1s is kept confidential.
 >- **Prep:** Think about how I can be most helpful in your goals. Do you want feedback on a plan? Guidance on where to start? Advice on a professional development topic? Anything you can share with me in advance can help me prepare, from a simple 1-sentence idea of what we’re discussing to a whole folder full of figures.
 
+>_[AllisonAdolescentResearchLab_2026](https://www.med.unc.edu/pediatrics/adolresearch/wp-content/uploads/sites/1448/2025/10/Allison-Adolescent_Research_Lab_Manual.docx)_:
+>
+>3.3.1. Lab or Team Meetings
+>One hour weekly virtual lab meetings provide space for 1) sharing progress, 2) getting feedback on lab procedures, data collection or analysis, presentations, or manuscripts, and 3) any other lab business. These will be scheduled with a recurring calendar hold and Zoom link at the beginning of each semester to account for changing schedules with courses and other responsibilities. Punctuality is expected for meetings and lab activities. Please notify me if you will be late or unable to attend. Our research coordinator or I will send an agenda 24 hours in advance using a live link with responsibility assigned to the team member leading that portion of the meeting. We expect that lab members will add additional items that need to be discussed during the meeting. We will also have one in-person gathering, at the end of the Fall semester and at the end of the Spring semester at a time that works best for the majority of team members. Because these are unique opportunities to meet and spend time in person, I expect lab members to make an effort to be there.
+>3.3.2. One-on-One Individual Meetings
+>I will meet with each lab member regularly (weekly to biweekly) for at least 30 minutes. When we begin working together, let’s set up a time for a scheduled recurring meeting. These meetings are to discuss your personal progress and any challenges you’re having with the research or in the lab, your professional development and goals, and any personal factors that might be impeding your progress.
+>3.3.3. As-Needed Meetings
+>Though we try to limit additional meetings, sometimes they may be necessary if we are in certain phases of projects (e.g., launching a new project, or discussing data interpretation).
+
+>_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
+>
+>I (Dr. Chory) maintain an open door policy to ensure accessibility for all lab members. If my personal calendar shows I'm not in a meeting, feel free to drop by to discuss any matters.
+>- 1:1 Meetings: 1:1 meetings are available upon request for anyone needing individual guidance on their project, career goals, or any concerns. To schedule a 1:1, lab members are encouraged to book a 1:1 meeting through the scheduling link provided in the lab portal, ensuring dedicated time for focused discussion.
+>- Science “Office Hours”: To support our collaborative and educational goals, 2 hours every week are dedicated to 'science office hours'. These hours are set aside for discussions on scientific literature, experimental design, data analysis, or any scientific inquiries.
+
+>_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/how-we-work.html)_:
+>
+>Every sixth or seventh week, if not presenting some nascent or ancillary project myself, I will suggest some papers to read critically or discuss as a lab.
+>I'll pick those papers at least a week in advance.
+>Everyone is expected to show up having read and critically thought about the papers.
+>Additionally, you might want to request people read a particularly important paper for a project-focused lab meeting.
+>
+>You're welcome to schedule additional meetings to discuss papers, give practice talks, etc., at any time yourself.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 
@@ -208,6 +240,28 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >3. The bulk of the lab meeting (45–60 minutes) consists of a lab member presenting an informal progress report on their research on a rotating schedule. These reports should succinctly introduce your project, highlight the main research questions, and focus on recent achievements and challenges. This allows for productive group discussions to advance your project. Progress report presentations are accessible via our lab’s shared resources.  Presenters should expect frequent questions and interaction.
 
 >**One-on-one meetings**: Pablo runs weekly one-on-one meetings with each lab member, typically lasting 45 minutes. These meetings are designed to support lab members in achieving their goals in scientific and career development, including the successful implementation of research projects. The structure of these meetings involves setting and reviewing goals for research projects and the lab member's career at MsEE Lab. Pablo will also ask for feedback on mentorship strategy. Pablo is also available for additional (or fewer) meetings upon request.
+
+>_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
+>
+>Once you start on a project, I will assign you a research subgroup, and you should plan to attend the weekly subgroup meetings for that group. You must present at least one slide about what you did in the past week, and at least one slide on what your goals for the next week are.
+
+>_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/07-communication.html)_:
+>
+>1:1 with the PI
+>
+>Weekly, 30 minutes. Every lab member has one. Come prepared.
+>
+>Lab meeting
+>
+>Weekly during the academic year, biweekly in summer. All lab members are expected to attend. At lab meeting, everyone is expected to come prepared to present on their own project, to listen carefully to others, to ask questions, and to propose next steps: for all projects, not only their own.
+>
+>Project meetings
+>
+>Held as needed, typically biweekly. Attendance is determined by project involvement. The same expectations apply: come prepared, listen, ask questions, propose next steps.
+>
+>Journal club
+>
+>Not currently in place, but under consideration. If you have a well-thought-out proposal for how to run this effectively, bring it to the PI.
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
@@ -224,3 +278,11 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >of what everyone else is doing, so that you know who to ask when you hit a
 >problem someone else has already solved, and so that the group spots overlaps
 >and connections between projects.
+
+### Switzerland
+>_[AIDOSLab_2026](https://aidos.group/guide)_:
+>
+>Notice that there are different kinds
+>of meetings with different modalities and goals. For instance, if we are collaborating closely, we will have regular one-on-one meetings. These meetings are time that belongs to you, and you can fill it with anything that comes to your mind. I might have some
+>direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to
+>help you get unstuck.

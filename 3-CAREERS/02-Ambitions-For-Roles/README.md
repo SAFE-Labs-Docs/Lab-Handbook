@@ -156,6 +156,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >A graduate student who has done well leaves with at least two first-author publications: one a review or methods paper written in the early years, and one an original research paper. The ideal is one paper per aim, meaning three research papers alongside the initial review or methods article.
 
+>_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
+>
+>A PhD dissertation is expected to be 3 first author published papers. A postdoc should aim to be publishing at least one first author paper a year, but this can be variable depending on the nature of the project(s). If you plan to seek a highly-competitive academic position at an R1 school, you will need to be both highly productive and publishing in the top journals, and so you should think of these guidelines as an absolute minimum (I can help you set appropriate goals and targets). Students who average more than 1 paper a year, and postdocs who average more than 2 papers a year, are doing well—especially if these are in good journals1.
+
 >_[RossIbarraLab_2026](https://rilab.ucdavis.edu/expectations.html)_:
 >
 >Write and submit manuscripts. I strongly encourage collaboration, and a quick glance at our publications should show that this generally works well. On average I expect your time as a postdoc in the lab to generate ~2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.
@@ -163,6 +167,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.
+
+>_[WarnickGroup_2026](https://www.scp.byu.edu/mers/docs/Research_Assistant_Handbook.pdf)_:
+>
+>Doctoral students recognize that developing scholarly products is their preeminent goal. They enthusiastically seek opportunities to present their work at professional conferences and publish their research findings in peer-reviewed venues; publishing one article per year is a minimum goal. Given that the average duration of doctoral programs completed by students in the department is about four years, a doctoral student should have at least four peer-reviewed publications, on average, at the time of program completion.
 
 >_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
 >

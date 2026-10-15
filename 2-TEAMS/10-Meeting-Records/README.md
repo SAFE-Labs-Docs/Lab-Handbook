@@ -67,6 +67,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >**1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member to follow up on any items and prepare for the next meeting.
 
+>_[JacksonResearchGroup_2026](https://cjacks04.github.io/compact-of-expectations/)_:
+>
+>**One-on-one meetings.** Jackson holds weekly one-on-one meetings with graduate students and postdocs except during travel or other unavoidable commitments. Trainees should arrive with organized summaries of project status, recent data or outputs, and planned next steps. Each trainee shares a Google Doc with Jackson to track weekly and long-term goals. These meetings are used for troubleshooting, interpretation, planning, general concerns, and career development.
+
 >_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
 >
 >I ask that my mentees meet with me regularly during the semester, and in advance of the meeting I recommend that you:

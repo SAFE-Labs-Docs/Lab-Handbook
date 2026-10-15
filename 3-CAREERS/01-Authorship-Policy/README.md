@@ -174,9 +174,25 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Generally, the student or postdoc who made the largest contribution to a piece of work will be the first author. Multiple students and postdocs can be co-first authors, though there is usually still a “first cofirst” author. If most of the supervision and responsibility for the project rests with me, I will be the last author and corresponding author. (Any questions about the paper should be directed to me, since such questions may arrive long after you have left.) Other authors on the paper should have made a substantial contribution to the work, such as fabricating the device, or performing a theoretical calculation. If a group member’s only contribution was fabricating the device that was used for an experiment, that group member will be an author on the first paper using the device. Subsequent experiments papers do not need to include that person as an author but can include them in the acknowledgments.
 
+>_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
+>
+>Coauthorship is earned by making an important intellectual contribution to someone else’s project (helping out with field or lab work is, emphatically, not enough). Examples of intellectual contributions include: contributing to the design of an experiment or field study; analyzing or visualizing data in a way that provides new insight; sharing code or insight that changes the message of the paper; preparing graphics or writing substantial portions of text; providing critical and constructive feedback on drafts (but note: editing for language and style, which changes the words but not the message, is not sufficient for coauthorship). Each year we will devote at least one lab meeting to discussing the general criteria for coauthorship.
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >In our lab, every member should be able to contribute to each other's projects without the expectation of a personal reward (see the lab motto at the top of this page). This is the basis of being good lab citizens and colleagues - helping with set up of an experiment, like starting cultures, or with taking out plates from incubators, does not constitutes a significant intellectual contribution to warrant an authorship on a paper. However, performing an actual experiment, interpreting results and providing useful troubleshooting or novel ideas in the context of the project, or analyzing data and putting together figures, things that either allow the project to be published or provide a significant intellectual contribution that allows the project to move forward, all of that deserves an authorship.
+
+>_[ShireyLab_2026](https://www.floridamuseum.ufl.edu/shirey-lab/lab-culture-conduct)_:
+>
+>Our Lab’s authorship policy is opt-out, meaning that individuals who have made significant contributions to the work have the option to remove themselves from authorship at any point in time. Those who have made significant contributions to the work are automatically included in the co-authorship line.
+>
+>Significant contributions can include any of the following:
+>- Significant curatorial or digitization work directly supporting the project.
+>- Wet lab or field work directly supporting the project.
+>- Development of analytical or data processing pipelines and workflows.
+>- Drafting, writing, and providing constructive feedback on manuscripts or other end products.
+>
+>Author order is typically decided by having an open conversation about effort spent on individual projects. Typically, the first author is the person who took the initiative to write the majority of the manuscript. The senior (last) author is typically the PI, although this need not always be the case. For example, postdocs or senior graduate students who spend time mentoring may be elevated to the senior authorship role.
 
 >_[VanderHeidenLab_2026](https://vanderheidenlab.mit.edu/our-values/)_:
 >

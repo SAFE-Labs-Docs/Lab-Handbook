@@ -293,6 +293,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 > I
 > will always make time to meet with you.
 
+>_[JacksonResearchGroup_2026](https://cjacks04.github.io/compact-of-expectations/)_:
+>
+>**Lab meetings.** Lab meetings are held once a week. Each semester, students are generally responsible for two to three presentations covering overall project goals, sub-aims, data, completed work, and planned work. Lab meetings are a space for troubleshooting and constructive scientific criticism. Agendas are managed through GitHub Projects or Notion.
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• Regular check-ins: The PI commits to regular one-on-one meetings (biweekly with students, monthly with staff and postdocs) and expects lab members to come prepared to discuss progress and concerns. These meetings are led by the lab member and are meant to encourage strategic thinking about ongoing and future work. Even when there’s little new data to show, it’s valuable to reflect on behind-the-scenes efforts, ideas in development, or challenges encountered. Using slides to structure the discussion is encouraged. The PI also welcomes feedback from lab members during these meetings to improve the lab experience.
@@ -354,6 +358,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >Journal club
 >
 >Not currently in place, but under consideration. If you have a well-thought-out proposal for how to run this effectively, bring it to the PI.
+
+>_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
+>
+>I will make myself available to meet with you at least once, for at least 30 minutes, each week. If you would like to meet more often or for longer, please ask. I will do my best to accommodate such requests. But, our meetings do not have to fill the entire 30 minutes, and if you tell me “I only need 5 minutes today,” that is totally fine. However, I will discourage you from cancelling more than one meeting in a row, as this is a red flag for me that something is not right.
 
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >

@@ -117,6 +117,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >Think ahead. Fellowship applications, residency programs, faculty searches, and industry positions all have deadlines that arrive faster than expected. Build in time for the PI to write something strong, which requires time to reflect on your work. Last-minute requests produce last-minute letters. You deserve better than that, and so does the person reading the letter.
 
+>_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
+>
+>I will write you the best letter of reference that I can, but it is up to you to make my job easy by being productive and conducting high-quality work; I will not say you are “exceptional” or “fantastic” unless you have earned such praise. I close all my letters of reference by saying “I certify that I am the sole and true author of this letter” and I will not ask you to draft the letter for me (though I will ask if there are specific things you think I should highlight in my letter, and I will do my best to convey those thoughts, using my own words, in my letter).
+
 >_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Can-you-write-me-a-rec-letter-cadf815c27294f738dd56c161c8b43c6)_:
 >
 >Fill out the link below as soon as you know you are applying for a position. This will give me a hard prompt to start working on this.

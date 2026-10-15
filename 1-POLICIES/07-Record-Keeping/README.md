@@ -102,6 +102,14 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >Collaborative research. Our lab group is collaborative, and your PI is a coinvestigator on all projects. We share viewing access to all protocols, data, research and results internally through OSF, Overleaf, and/or Google docs. When you begin your work in the lab, we will have a shared online document where we can share research plans, data, shared papers, and writing. You should expect to have a dedicated folder for your project where you share results, plans and progress, including shared meeting notes document for both agenda items to discuss, and benchmarks for short- and long-term goals. People working on projects funded by public funds are obligated to share data and scripts at the time of publication, and this shared repository will also act as a place to draft these open source final documents.
 
+>_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
+>
+>All members are expected to keep their data files, input decks, etc. in a file system that is organized and stored on one of the workstations in the lab. Personal laptops should not be used to store data. Critical results should be saved. README files should be used in directories to explain what is there, when the work was done, and anything else that would be useful to future members to understand and reproduce the results. All members are entitled to take a copy of all of their data when they leave the lab.
+
+>_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
+>
+>We work with a variety of data types, including field observations, behavioral observations, molecular and genomic. It is imperative that you have multiple copies of your data in different locations. Imagine that the worst-case scenario is going to happen, because it very well might- your laptop will break, your external hard drive will fail, the building with your lab notebook will flood. You must back up your data to the cloud and ensure your data will not be lost due to an accident. This means taking pictures of handwritten data sheets, uploading these photos to the cloud and placing them in the lab shared drive. This means uploading raw sequencing data to NCBI (set the release date to the future so as not to release unpublished data) and having data on both an external hard drive and a UK/lab server. If you are collecting data in real time that at first exists in only one location, have a plan for how you will quickly back up those data on a regular (daily, if possible) basis. If you aren’t sure how to back up your data, ask!
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• Lab book entries should be titled using the lab member’s initials followed by a number, e.g., JLP637: Alpha vs Omicron growth curve in PLSCR1 KO Huh-7.5 cells.
@@ -155,6 +163,15 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >1. Laser notebook : For laser alignment and laser maintenance
 >2. Data collection notebook (XUV and tUV/Vis separate notebooks): Data collected from the laser lab
 >3. Synthesis notebook : You are expected to thoroughly note down your experiments in your lab notebook and leave it when graduating.
+
+>_[WarnickGroup_2026](https://www.scp.byu.edu/mers/docs/Research_Assistant_Handbook.pdf)_:
+>
+>8. Label all data and plots clearly, including units for all axis labels, in every document you create. Include a title or caption that has the date, identifies what was being measured, and clearly describes where the data came from. Use a large font size so that text is legible when the plot is published in a thesis or paper.
+>
+>9. Keep your data files, codes, and other documents in a folder under your name, so other students know which files are yours, and to avoid lost files floating on computer drives.
+>10. Label files that are part of batches beginning with the date in this format: YYYY-MMDD, followed by a consistent project abbreviation, a descriptive but concise name, and indicators that distinguish the particular details of the simulation or measurement.
+>11. Save all of your project files in their proper places in our group folders or servers and keep the folders updated and organized. Design the folder structure(s) to reflect natural divisions in the data and to facilitate easy retrieval of files. Move out old file versions into a subdirectory so that the latest file versions can be easily located.
+>12. Back up electronic data in three places, two of which should be in different physical locations.
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:

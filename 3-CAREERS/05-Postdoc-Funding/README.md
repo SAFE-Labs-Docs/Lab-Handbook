@@ -71,6 +71,10 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >All positions are fully funded.
 
+>_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
+>
+>Students and post-docs in the lab have an expectation of being informed what projects are providing them with stipend support, the timelines for those projects, and any concerns. If a change in support is expected, students and post-docs should be given at least three months notice.
+
 >_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
 >
 >If I accept you to the lab, that means I commit to funding you. I always encourage

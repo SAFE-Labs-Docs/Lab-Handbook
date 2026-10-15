@@ -75,6 +75,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >Please also let me know if you are ever worried about your progress.
 >Postdocs and salaried researchers will get formal annual reviews as required by the Biological Sciences Division, but they are really secondary to the regular meetings (i.e., there should be no surprises).
 
+>_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
+>
+>Professor Dolbow will meet with all students and post-docs in the lab at least once a year to discuss progress on research and progress towards degree, expected timelines to completion, and etc. During these meetings, the members will discuss career aspirations, options, and goals and additional steps (as needed) to help meet them. These meetings will be held every May after classes end.
+
 >_[HollandGroup_2026](https://holland.chem.yale.edu/)_:
 >
 >I put a high value on feedback. For example, I have one-on-one meetings with students both before and after they present group meetings to go over presentation style, effective communication, research progress, and long-term goals; in addition, I encourage all students to discuss their Individual Development Plan and career goals with me at least once per year. Each New Year's, I have a discussion with each student where we discuss various areas for growth such as Lab Skills, Responsiveness, Curiosity, Presentations, Writing, Participation, Work Ethic, Teaching/Mentoring, Taking Charge of Project, Following Through on Plans, and Safety.
@@ -104,6 +108,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >  - How can I support you in that?
 >- Also let me know if you want me to think about answers to any questions.
 >- Funding plan during each end-of-year checkin
+
+>_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
+>
+>Prepare an annual “personal plan” that includes short, medium- and long-term goals, as well as specific milestones for the coming year. We will review your plan together at the start of each year, and you will conduct a self-evaluation at the end of each year, which we will review together.
 
 >_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
 >

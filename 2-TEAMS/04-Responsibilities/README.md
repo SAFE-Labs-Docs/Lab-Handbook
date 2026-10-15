@@ -204,6 +204,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >1. Learning new technical skills (e.g. programming)
 >2. Other career development opportunities
 
+>_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
+>
+>I expect that you will pursue research that has some overlap with my expertise and interests. Otherwise, I will not necessarily have the best perspective to guide you successfully. If your interests shift away from the core lab research, I expect that you will inform me and we can discuss options.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Our team may be composed of researchers with different roles at any given time: undergraduate students (whether enrolled at Cornell or visiting from elsewhere), graduate students at the Master's or PhD level, postdoctoral researchers, and research technicians or scientists. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. The responsibilities of different lab roles are shaped by the distinct kinds of goals the role might have.

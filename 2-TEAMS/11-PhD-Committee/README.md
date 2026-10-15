@@ -57,3 +57,8 @@ A PhD steering committee provides independent oversight of PhD student progress 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >PhD students should schedule yearly Thesis Committee meetings as outlined by their Graduate Field's Graduate Student Handbook. For more information on expectations, check your Field's handbook ([e.g., the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) and [MsEE Lab's mentorship philosophy statement](https://mseelab.org/mentorship.html).
+
+>_[UIGlacierDynamics_2026](https://github.com/tbartholomaus/uiglaciology/blob/master/content/4-UIdaho.md)_:
+>
+>## Before the end of each year in graduate school
+>- Hold a committee meeting, to update your committee on your progress, seek feedback on your work to date, and engage your committee in your entire professional development/trajectory.

@@ -87,3 +87,15 @@ Researchers moving Italy are entitled to a refund for accommodation of the first
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >The [Cornell Office of Global Learning](https://international.globallearning.cornell.edu/) provides services for international members of the Cornell community (such as Pablo). Support for the appropriate visa paperwork filing may be obtained through them.
+
+>_[UIGlacierDynamics_2026](https://github.com/tbartholomaus/uiglaciology/blob/master/content/4-UIdaho.md)_:
+>
+>- [Graduate admissions](graduateadmissions@uidaho.edu) will get in touch with you about issuing an I-20. Follow their instructions as quickly as possible.
+>- Once your I-20/equivalent has been issued, visit the [SEVP website](https://www.fmjfee.com/i901fee/index.html) and pay the I-901 SEVIS fee (even Canadians who do not have Visas). Remember to copy the record number and print off the proof of payment for when you cross the border and apply for your Visa.
+>Also fill in the [DS-160 form online](https://ceac.state.gov/genniv/). Make sure you select your country of permanent residence, and not simply the consulate closest to you or wherever you might be studying at the moment.
+>- Begin your pre-arrival checklist on [iVandal](https://www.ivandal.uidaho.edu/istart/controllers/start/StartEngine.cfm). You can submit your passport, visa, emergency contact info, address, etc. before arriving in the US.
+>*If you are Canadian, you do not complete the following steps:*
+>- At the end of the DS-160 process, you can go straight to scheduling an appointment for a visa interview at your country’s US consulate. Once again, do this as soon as possible (depending on the consulate, there can be long [waiting times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html).
+>- Before your appointment, print out all your documents in color. Your consulate will most likely send you a checklist; your passport, I-20, DS-160 confirmation page and 901-sevis fee receipt will definitely be needed. You will probably also need to bring printed ID-photos in a specific US format. Make sure to visit a photographer well in advance and tell them to use the US template.
+>- Make sure you get to your appointment well before the scheduled time, and be prepared to spend the rest of the day there. Most consulates won’t let you bring in electronics: they usually have a safe there for your phone but they don’t accept laptops, so leave it at home.
+>- Once issued, your visa allows you to enter the US one month before the date listed on your I-20 and offer letter. Make sure you arrive in the US before that date. However, you are only allowed to start working for the department after the listed date. This includes fieldwork unfortunately.

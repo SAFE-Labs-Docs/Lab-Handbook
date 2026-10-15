@@ -225,3 +225,27 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >　個別引用が不明瞭になる
 >
 >したがって、「1データセット＝1リポジトリ」を基本原則とする。
+
+### Austria
+>_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
+>
+>It is essential to maintain detailed, up-to-date records of daily activities. This includes:
+>
+>- Notes and sketches on ongoing projects.
+>- Progress on analyses.
+>- Logs of seminars attended, papers read, or other relevant activities.
+>
+>### Digital and Physical Notes
+>
+>- Use markdown-based notes in [Obsidian](https://github.com/rendeirolab/daily_notes) for digital documentation.
+>- Optionally, concatenate markdown notes and print them on sticky paper for inclusion in physical lab notebooks.
+>
+>## Shared OneDrive Folder
+>
+>The official platform for file sharing is the CeMM-provided OneDrive, accessible here: [Shared Documents](https://cemmat.sharepoint.com/sites/rendeirolab/Shared%20Documents).
+>
+>### Best Practices
+>
+>- Update the folder regularly, especially when reaching milestones such as paper submissions, talk presentations, or poster creations.
+>- Organize files in a compartmentalized manner by subject (e.g., figures, presentations, documents, notes).
+>- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.

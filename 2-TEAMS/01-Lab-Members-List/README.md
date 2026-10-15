@@ -70,3 +70,8 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Current and former lab members are [listed publicly on the lab website](https://mseelab.org/members.html).
+
+### Austria
+>_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
+>
+>Ask the departing team member whether they consent to be listed as alumni on the lab website.

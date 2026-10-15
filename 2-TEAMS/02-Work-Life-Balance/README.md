@@ -17,30 +17,26 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 
 ## Examples
 
-### Germany
->_[BodyBrainBehaviourLab_2026](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/biomag/BBB_LabHandbook_240313.pdf)_:
+### Australia
+>_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/02-lab-culture.md)_:
 >
->Working hours: There is no such thing as expected working hours in the group. In fact, we do not encourage long working hours and the weekend is time off work. Everyone’s life circumstances are different, so all group members should find a schedule and work routine that works best for them. Individual approaches have to be communicated clearly with the PI so that the time spent together in the lab can be fruitful for all group members. This includes group meetings, institute meetings, and project discussions, which should be attended in person if possible. You should not feel obliged to reply to any form of workrelated communication outside your own working hours, and should respect the boundaries set by your colleagues.
+>Full-time research is essentially equivalent to a full-time job (i.e. ~40 hours/week, 5 days per week). A rough guideline for the PALM Lab is a 'hybrid model' where lab members are expected to spend at least three days of the week working on campus/in lab, and have the option to work either from home or in lab on the remaining days. The work hours themselves are largely flexible and dependent on the available spaces -- to ensure overlap between members in lab for collaboration and discussions, lab members are asked to have 10am to 3pm as part of their in-person hours. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (*The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.*)
 
->_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
+### Belgium
+>_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >
->No one looks at you askance if you take breaks or have to work longer hours during periods of increased workload. No one has to be available on weekends.
->
->7. We are family-friendly.
->
->We make it possible to combine family and career. This means scheduling joint meetings at family-friendly times (i.e. especially not too late in the afternoon), children can be brought to work. If children/family members are sick or have problems, we are there for each other and, if necessary, stand in for colleagues who are affected. We respect the fact that family has priority over work performance!
+>Our job does not require many nine-to-five responsibilities, but we do encourage attending the department more than half the week during working hours. Other than our (lab) meetings and seminars, you should feel free to work when and where you please. However, we live in a society where most people work from nine to five, Monday to Friday. Outside those hours, many of us often prefer taking time for friends, family, hobbies, entertainment, or simply ourselves. As a lab, we will respect those hours when it comes to communicating and collaborating with others! We do this by trying to refrain from mailing over the weekend, or setting deadlines right after weekends or vacation days. Obviously, there is no shame in trying to reach a deadline over the weekend, or preferring to work during unusual hours, but it should definitely not be expected.
 
->_[OttLab_2025](https://torbenottlab.org/)_:
+### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
->- **Healthy Practices:** High commitment and productivity don’t equate to overwork. Lab members manage their productivity responsibly and are not expected to exceed 39.5 work hours per week regularly.
->- **Project Requirements:** Occasionally, projects require longer work hours such as for completing an experiment. Lab members commit to accommodate these work hours to successfully implement their projects.
->- **Flexibility:** Science’s inherent flexibility allows for personal scheduling outside core work hours (Mon-Fri 10am-4pm). The PI respects work preferences and encourages the full use of vacation days.
->- **Meetings and events:** Meetings will typically be during coure hours only. The PI avoids communication outside these hours unless urgent, respecting personal time. Lab members are not expected to be responsive outside core hours, in particular when using asynchronous media such as slack or email. Participation at social or networking events is encouraged but not mandatory.
->- **Additional Support Structures:** Lab members are referred to  [HGS mentoring](https://www.humboldt-graduate-school.de/en/services-en/Career-Development), the institute’s [mental health resources](https://www.humboldt-graduate-school.de/de/services/mental_health/mental_health), and [information](https://www.familienbuero.hu-berlin.de/de/en/familienbuero/information-for-families/phd-and-family/phd-and-family) on [supporting families](https://www.humboldt-graduate-school.de/en/services-en/doctorate-and-family-life).
+>Normal working hours in our lab are M-F 9am to 4pm, although you may expect some commitments on evenings and weekends depending on the type of research participants you are working with, and teaching schedules. Working from home is always an option on days when you don' t need to be physically present (e.g., for meetings, teaching, data collection). I recognize there are circumstances where it's necessary to work from home and there are other times when working from home is more productive for you. We try to be as accommodating as possible including using technology like teleconferencing.
 
->_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_:
+### Denmark
+>_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >
->You get 30 days of holiday a year, and I expect you to take it. Also though be mindful that you will in some cases need to plan around experimental work – it’s not reasonable to start growing plants then disappear for several weeks and miss sampling times, for instance. On the other hand in many cases it should be possible to ask someone else to look after your plants or ongoing experiments if necessary for a while, and definitely in emergencies. You can also think about doing a “favour exchange” with other students or postdocs in the group where e.g. you watch their plants and take samples for two weeks while they go on holiday, then they do the same for you. Try and make sure that you give back the same as you take from others though!
+>What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly
+>09:00 to 15:00) to facilitate mentorship, meetings and discussions. Please put it on the whiteboard and let Peter and Mie know if you plan to work from home or take time off for a full day or more so we can plan around it. Importantly, while you will need to work hard to be competitive for whatever you chose to do for your future career, you also need to find a consistent balance that goes well with not only your ambitions, but also your health and sanity – it’s a marathon, not a sprint.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -70,6 +66,31 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >- Remote working is possible, in accordance with CNRS and CBI's internal rules
 >- We have a number of holidays defined in our contracts and I expect everyone to enjoy all their holidays
 >- I might send emails outside of working hours (though teaching myself to avoid this); never feel obliged to reply to my emails outside of your working hours
+
+### Germany
+>_[BodyBrainBehaviourLab_2026](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/biomag/BBB_LabHandbook_240313.pdf)_:
+>
+>Working hours: There is no such thing as expected working hours in the group. In fact, we do not encourage long working hours and the weekend is time off work. Everyone’s life circumstances are different, so all group members should find a schedule and work routine that works best for them. Individual approaches have to be communicated clearly with the PI so that the time spent together in the lab can be fruitful for all group members. This includes group meetings, institute meetings, and project discussions, which should be attended in person if possible. You should not feel obliged to reply to any form of workrelated communication outside your own working hours, and should respect the boundaries set by your colleagues.
+
+>_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
+>
+>No one looks at you askance if you take breaks or have to work longer hours during periods of increased workload. No one has to be available on weekends.
+>
+>7. We are family-friendly.
+>
+>We make it possible to combine family and career. This means scheduling joint meetings at family-friendly times (i.e. especially not too late in the afternoon), children can be brought to work. If children/family members are sick or have problems, we are there for each other and, if necessary, stand in for colleagues who are affected. We respect the fact that family has priority over work performance!
+
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>- **Healthy Practices:** High commitment and productivity don’t equate to overwork. Lab members manage their productivity responsibly and are not expected to exceed 39.5 work hours per week regularly.
+>- **Project Requirements:** Occasionally, projects require longer work hours such as for completing an experiment. Lab members commit to accommodate these work hours to successfully implement their projects.
+>- **Flexibility:** Science’s inherent flexibility allows for personal scheduling outside core work hours (Mon-Fri 10am-4pm). The PI respects work preferences and encourages the full use of vacation days.
+>- **Meetings and events:** Meetings will typically be during coure hours only. The PI avoids communication outside these hours unless urgent, respecting personal time. Lab members are not expected to be responsive outside core hours, in particular when using asynchronous media such as slack or email. Participation at social or networking events is encouraged but not mandatory.
+>- **Additional Support Structures:** Lab members are referred to  [HGS mentoring](https://www.humboldt-graduate-school.de/en/services-en/Career-Development), the institute’s [mental health resources](https://www.humboldt-graduate-school.de/de/services/mental_health/mental_health), and [information](https://www.familienbuero.hu-berlin.de/de/en/familienbuero/information-for-families/phd-and-family/phd-and-family) on [supporting families](https://www.humboldt-graduate-school.de/en/services-en/doctorate-and-family-life).
+
+>_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_:
+>
+>You get 30 days of holiday a year, and I expect you to take it. Also though be mindful that you will in some cases need to plan around experimental work – it’s not reasonable to start growing plants then disappear for several weeks and miss sampling times, for instance. On the other hand in many cases it should be possible to ask someone else to look after your plants or ongoing experiments if necessary for a while, and definitely in emergencies. You can also think about doing a “favour exchange” with other students or postdocs in the group where e.g. you watch their plants and take samples for two weeks while they go on holiday, then they do the same for you. Try and make sure that you give back the same as you take from others though!
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
@@ -137,6 +158,14 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >I aim to schedule all meetings within regular work hours, and will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
 >
 >I expect all lab members to be in the office at least 3 days a week (often Mon/Tues/Thurs), during regular office hours (~10:00-17:00). If you are away or working remotely, please inform me and note this in the lab calendar. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant - please discuss with me, and make sure we document expectations (e.g. in a mentoring agreement).
+
+### Switzerland
+>_[AIDOSLab_2026](https://aidos.group/guide)_:
+>
+>As a general rule of thumb, all lab members should be available1 during normal European business hours, say from 10∶00–16∶00. This makes it possible for other groups to interact with us and greatly simplifies any collaborations. I will not blindly enforce this rule, but I
+>expect you to notify me if you are not available during a certain period of time. Moreover, as a token of respect to all other lab members, everyone should usually be present for the lab meetings.
+>
+>1 This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.
 
 ### United Kingdom
 
@@ -208,6 +237,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
 >
 >I will sometimes (rarely, I hope!) send emails or Slack messages outside of normal working hours. For the most part, I try to schedule emails and Slack messages to appear during your normal working hours. But sometimes I mess up – I hit send rather than schedule, or I forget to consider time zones or times of day. If I contact you outside of your working hours, I do not expect you to respond until you are back at work (ignore me!). I do not expect there to be cases when I suddenly and urgently need something from you over the weekend (e.g., for a grant deadline), but should I anticipate that happening, I will bring it up in advance so we can plan accordingly. All this said, I realize that being told you can ignore my messages might not take away the stress of seeing my messages if you check work email or Slack in the evenings or on weekends. If my off-hours messages are unwelcome and cause distress, please talk to me, and I will be better at not bothering you during your time off.
+
+>_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
+>
+>In general, every member of the team (particularly members who are not bound by class schedules anymore) should be actively at work for a duration that includes 11am to 3pm on weekdays, so that each of us will be able to overlap for a significant chunk of the workday while accommodating for individual schedules. (This is not to say you should only work 4 hours a day! And obviously, exceptions apply.) Your consistent presence during those times will lead to interactions and team-building, for the benefit of you and your labmates.
+>
+>Vacations: Along with the perks of a flexible work schedule is also the flexible vacation schedule, particularly for those who are not bound by coursework anymore. There are official policies from the University for paid vacation for staff and postdocs. For students, I would recommend taking at least 3-4 weeks of vacation a year to re-energize yourself for the long journey (but please ensure the vacation is not interfering with your required coursework). In all cases, please plan early and inform me when you are leaving, so we can plan your projects and deadlines around your time off and make sure you are progressing towards your research goals.
 
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/how-we-work.html)_:
 >
@@ -293,32 +328,3 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >Some people can work more; some can manage with less.
 >It is important to have some time for rest/leisure/extracurricular activities/hobbies/relationships, and so, generally, it is not advisable to work significantly more than 60 hours/week.
 >You should also be cognizant of burnout and whether you are really being productive during the time that you are investing.
-
-### Belgium
->_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
->
->Our job does not require many nine-to-five responsibilities, but we do encourage attending the department more than half the week during working hours. Other than our (lab) meetings and seminars, you should feel free to work when and where you please. However, we live in a society where most people work from nine to five, Monday to Friday. Outside those hours, many of us often prefer taking time for friends, family, hobbies, entertainment, or simply ourselves. As a lab, we will respect those hours when it comes to communicating and collaborating with others! We do this by trying to refrain from mailing over the weekend, or setting deadlines right after weekends or vacation days. Obviously, there is no shame in trying to reach a deadline over the weekend, or preferring to work during unusual hours, but it should definitely not be expected.
-
-### Australia
->_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/02-lab-culture.md)_:
->
->Full-time research is essentially equivalent to a full-time job (i.e. ~40 hours/week, 5 days per week). A rough guideline for the PALM Lab is a 'hybrid model' where lab members are expected to spend at least three days of the week working on campus/in lab, and have the option to work either from home or in lab on the remaining days. The work hours themselves are largely flexible and dependent on the available spaces -- to ensure overlap between members in lab for collaboration and discussions, lab members are asked to have 10am to 3pm as part of their in-person hours. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (*The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.*)
-
-### Switzerland
->_[AIDOSLab_2026](https://aidos.group/guide)_:
->
->As a general rule of thumb, all lab members should be available1 during normal European business hours, say from 10∶00–16∶00. This makes it possible for other groups to interact with us and greatly simplifies any collaborations. I will not blindly enforce this rule, but I
->expect you to notify me if you are not available during a certain period of time. Moreover, as a token of respect to all other lab members, everyone should usually be present for the lab meetings.
->
->1 This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.
-
-### Denmark
->_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
->
->What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly
->09:00 to 15:00) to facilitate mentorship, meetings and discussions. Please put it on the whiteboard and let Peter and Mie know if you plan to work from home or take time off for a full day or more so we can plan around it. Importantly, while you will need to work hard to be competitive for whatever you chose to do for your future career, you also need to find a consistent balance that goes well with not only your ambitions, but also your health and sanity – it’s a marathon, not a sprint.
-
-### Canada
->_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
->
->Normal working hours in our lab are M-F 9am to 4pm, although you may expect some commitments on evenings and weekends depending on the type of research participants you are working with, and teaching schedules. Working from home is always an option on days when you don' t need to be physically present (e.g., for meetings, teaching, data collection). I recognize there are circumstances where it's necessary to work from home and there are other times when working from home is more productive for you. We try to be as accommodating as possible including using technology like teleconferencing.

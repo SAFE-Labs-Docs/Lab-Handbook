@@ -16,6 +16,11 @@ English is the international language of science in the 21st century: proficienc
 
 ## Examples
 
+### Denmark
+>_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
+>
+>Feel free to speak any language with anyone around, but please switch to English in non-private conversations if anyone around does not speak your language. Keeping English as our working language will allow everyone to take part and contribute to our chats and discussions.
+
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel)_:
 >
@@ -104,8 +109,3 @@ English is the international language of science in the 21st century: proficienc
 >_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
 >
 >To provide the most inclusive environment in the lab, I expect everyone to communicate in English while in the lab, office space, or in other lab group settings. This has an added benefit of becoming more comfortable communicating in English (if it is not your mother tongue), which is crucial to modern-day science.
-
-### Denmark
->_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
->
->Feel free to speak any language with anyone around, but please switch to English in non-private conversations if anyone around does not speak your language. Keeping English as our working language will allow everyone to take part and contribute to our chats and discussions.

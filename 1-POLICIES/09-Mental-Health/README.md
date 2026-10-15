@@ -14,6 +14,11 @@ Thankfully, awareness and support for mental health issues within work environme
 
 ## Examples
 
+### Belgium
+>_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
+>
+>The main reason for setting up a lab philosophy document is to make things discussable, and provide a frame of reference for the insecurities and uncertainties we might have (I sure have them!). Academia can be a stressful environment. The competition can be fierce, and the expectations can be vague. We also each have a personal story that might sometimes feel less compatible with our professional life. If you experience negative feelings that affect your general wellbeing at work, you are encouraged to share those feelings with your PI (if considered helpful), but also with close colleagues, the faculty’s or department’s trust person, professional help, or anyone else that can be of help.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
@@ -62,7 +67,6 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >[Mental Health Advisory Service](https://www.liverpool.ac.uk/studentsupport/mental-wellbeing/mental-health-advisory-service/)
 
-
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
@@ -100,8 +104,3 @@ Thankfully, awareness and support for mental health issues within work environme
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >Josh will check in approximately monthly with you to ask about your well-being, e.g. stress level, optimism/pessimism about projects, etc. ❖ If someone in the group is having a really rough time, please let Josh know. He will keep your confidence and can step in to give the person more support.
-
-### Belgium
->_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
->
->The main reason for setting up a lab philosophy document is to make things discussable, and provide a frame of reference for the insecurities and uncertainties we might have (I sure have them!). Academia can be a stressful environment. The competition can be fierce, and the expectations can be vague. We also each have a personal story that might sometimes feel less compatible with our professional life. If you experience negative feelings that affect your general wellbeing at work, you are encouraged to share those feelings with your PI (if considered helpful), but also with close colleagues, the faculty’s or department’s trust person, professional help, or anyone else that can be of help.

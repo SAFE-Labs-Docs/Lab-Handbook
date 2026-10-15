@@ -17,6 +17,11 @@ Science is an international endeavour, which brings together people from many cu
 
 ## Examples
 
+### Belgium
+>_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
+>
+>We aim to create an environment that welcomes (or even celebrates) our different backgrounds. Unfortunately, there is a racial, gender, and LGBTQIA+ bias in academia, and most certainly in cognitive neuroscience. Women and people of color tend to be underrepresented, as P.I.’s, but also as speakers, reviewers, or committee members (this can be a helpful database for finding women in our field: Women in Cognitive Science - Networking Hubs). Recent studies even suggest that these same underrepresented minoritized researchers are often cited less in cognitive neuroscience (e.g., The extent and drivers of gender imbalance in neuroscience reference lists; Racial and ethnic imbalance in neuroscience reference lists and intersections with gender). It is important for us to be aware of those biases (e.g., homophily), and to discuss them and act on them whenever and wherever we see room for improvement! This concerns biases both on a global level (e.g., citation practices), as well as on a local level. Our lab has a zero-tolerance policy for harassment or discrimination of any kind.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -107,8 +112,3 @@ Science is an international endeavour, which brings together people from many cu
 >      - Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
 >       - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.
 >       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
-
-### Belgium
->_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
->
->We aim to create an environment that welcomes (or even celebrates) our different backgrounds. Unfortunately, there is a racial, gender, and LGBTQIA+ bias in academia, and most certainly in cognitive neuroscience. Women and people of color tend to be underrepresented, as P.I.’s, but also as speakers, reviewers, or committee members (this can be a helpful database for finding women in our field: Women in Cognitive Science - Networking Hubs). Recent studies even suggest that these same underrepresented minoritized researchers are often cited less in cognitive neuroscience (e.g., The extent and drivers of gender imbalance in neuroscience reference lists; Racial and ethnic imbalance in neuroscience reference lists and intersections with gender). It is important for us to be aware of those biases (e.g., homophily), and to discuss them and act on them whenever and wherever we see room for improvement! This concerns biases both on a global level (e.g., citation practices), as well as on a local level. Our lab has a zero-tolerance policy for harassment or discrimination of any kind.

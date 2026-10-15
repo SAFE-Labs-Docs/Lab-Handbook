@@ -116,3 +116,7 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
 >
 >I conduct a quarterly mutual assessment with each of my students. These exercises are four-fold symmetric: (i) the student assesses their own progress and performance over the last quarter; (ii) I provide feedback on their work; (iii) I assess my own performance as an advisor and researcher; (iv) the student provides feedback on how I could better support them.
+
+>_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/self-assessment/)_:
+>
+>In order to facilitate this process we designate one week each year, typically during the Spring Semester, where we will plan to look over your self-assessments and discuss them with you during your weekly meeting. We will give you a few weeks notice on when that week will be and encourage you to send us your self-assessments one week in advance of your meeting so that we have time to look it over and think about it. If you don't want to participate, just let us know.

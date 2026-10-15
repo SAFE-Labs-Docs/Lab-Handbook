@@ -17,6 +17,24 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 
 ## Examples
 
+### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>Under no circumstances are students ever expected to self-fund travel to a conference where they are presenting their work. However, please check with me prior to submitting your work to a conference to be certain I can fund your attendance. A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and your home department will generally also offer $250 per student per year (for students in psychology, find more information here). There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
+>
+>To maximize the experience and minimize expense, I may ask you to room share with other graduate students. This can create problems that I am unaware of due to issues that include specific privacy needs or concerns of harassment. If some room-sharing arrangements are not possible for you, please discuss it with me privately so that I can accommodate you.
+
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>7.1 Conference Funding A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and the Psychology Department also oﬀers $250 per presenting student, per year. There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
+>To maximize the experience and minimize expenses, please share a room with other graduate students.
+>Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
+>It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/07-funding-sources.md)_:
+>
+>The availability of lab funding will change year-to-year, although I value conference experience for graduate students and will try to fund at least one conference per year for graduate trainees (e.g., at minimum OEP or CSEP)
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
@@ -188,21 +206,3 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >Students should consult with Josh before applying to a conference. ❖ We aim to have students attend at least one conference by the end of their 3rd year, subject to having enough solid results to present. ❖ All conference funding will be provided. Students should apply for external conference funding (ex. WCC or department awards).
-
-### Canada
->_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
->
->Under no circumstances are students ever expected to self-fund travel to a conference where they are presenting their work. However, please check with me prior to submitting your work to a conference to be certain I can fund your attendance. A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and your home department will generally also offer $250 per student per year (for students in psychology, find more information here). There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
->
->To maximize the experience and minimize expense, I may ask you to room share with other graduate students. This can create problems that I am unaware of due to issues that include specific privacy needs or concerns of harassment. If some room-sharing arrangements are not possible for you, please discuss it with me privately so that I can accommodate you.
-
->_[MindaLab_2026](https://osf.io/download/arywg/)_:
->
->7.1 Conference Funding A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and the Psychology Department also oﬀers $250 per presenting student, per year. There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
->To maximize the experience and minimize expenses, please share a room with other graduate students.
->Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
->It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.
-
->_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/07-funding-sources.md)_:
->
->The availability of lab funding will change year-to-year, although I value conference experience for graduate students and will try to fund at least one conference per year for graduate trainees (e.g., at minimum OEP or CSEP)

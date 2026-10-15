@@ -46,6 +46,10 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >
 >Feedback goes in the other direction too: each student fills out an annual survey, and the aggregated results give me feedback. The goal of this anonymous survey is to empower my students to help me improve the group policies and to correct my own behavior. We also have "safety moments" and "diversity moments" at the beginning of all group meetings, where people can suggest improvements in how the lab works.
 
+>_[KampmannLab_2026](https://kampmannlab.ucsf.edu/node/631)_:
+>
+>This statement of our mission and values is a living document. At our annual retreats, we will review and update the statement as a community, and discuss concrete ways in which we can meet our goals and live up to our values.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 

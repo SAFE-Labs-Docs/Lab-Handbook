@@ -17,6 +17,11 @@ Career progression, grants, and competitive applications often require reference
 
 ## Examples
 
+### Canada
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>For all trainees: I will act as a professional / academic reference for you. This could be in the form of letters of reference for employment, for training opportunities, graduate school, grants, and awards. If you are seeking a letter of reference, please notify me as soon as possible and as far in advance as possible (several weeks or months). Please provide me with as much information as possible, including your CV, reference forms, reminders, etc. It can help to provide me with a list of things you would like me to mention in the letter. The more information I have, the better letter I can write for you. Please bear in mind that I may have several (many) other letters to write, including those for students outside the lab. As a rule, I will write your letter personally and ensure it arrives when and where it needs to.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
@@ -35,7 +40,6 @@ Career progression, grants, and competitive applications often require reference
 >Requests need to be made in writing and contain the following information: (a) type of position or event, (b) link to website, (c) deadline for reference letter, (d) any information about format of the letter, (e) how the letter has to be uploaded/sent, (f) any specific qualities or achievements you want me to highlight.
 >Send a reminder 4-6 days before the deadline.
 >A short notice from the PI can be expected when the letter has been submitted. If such a confirmation has not been received by the day before the deadline, it is the lab member’s duty to check in with the PI.
-
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
@@ -135,7 +139,11 @@ Career progression, grants, and competitive applications often require reference
 >
 >Students should give Josh two weeks notice before a letter of recommendation is due, should not be shy about reminding him as the deadline approaches..
 
-### Canada
->_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/letters-of-recommendation/)_:
 >
->For all trainees: I will act as a professional / academic reference for you. This could be in the form of letters of reference for employment, for training opportunities, graduate school, grants, and awards. If you are seeking a letter of reference, please notify me as soon as possible and as far in advance as possible (several weeks or months). Please provide me with as much information as possible, including your CV, reference forms, reminders, etc. It can help to provide me with a list of things you would like me to mention in the letter. The more information I have, the better letter I can write for you. Please bear in mind that I may have several (many) other letters to write, including those for students outside the lab. As a rule, I will write your letter personally and ensure it arrives when and where it needs to.
+>Provide us plenty of time, ideally at least two weeks (but don't not ask for a letter if it has to happen at the last minute, we'll figure out how to get it done). This is particularly important if it is the first time that we are writing this type of letter for you.
+>* Send a message that includes:
+>    * A link to the job/fellowship/award description
+>    * The date the letter is due
+>    * Details on how to submit the letters (typically either a link or an email address)
+>    * Anything you think is particularly important about the ad and/or that you'd like us to highlight.

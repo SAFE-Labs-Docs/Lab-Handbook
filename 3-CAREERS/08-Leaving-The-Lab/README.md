@@ -18,6 +18,29 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 
 ## Examples
 
+### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>I expect postdocs will be lead author on anything they produce in the lab. However, I will enforce a policy where they are expected to continue working on writing up and publishing research results after leaving the lab. If, six months after the end of data collection and leaving our lab, you are unable to continue working on publishing research projects, I or another lab member may step in and complete the write-up process. This might involve including new authors or changing order of authorship to reflect the contribution of people involved in completing the write-up process.
+
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>I review the Slack channels each year to remove users who are no longer with the lab. Honours students and RAs will typically be converted to a guest account for one year after they leave the lab and are deactivated two years later. Any trainee who wishes to stay on as a guest for longer is more than welcome, just let me know.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/04-policies.md)_:
+>
+>Another difficult situation commonly encountered by students is how to manage the publishing process after you have completed your degree and have moved onto new jobs or opportunities outside the academic environment. Most importantly, every opportunity will be given to lead graduate students to get first author publications resulting from their thesis work. The following guidelines are to help move this process forward and outlines contingency plans in the event this process does not become feasible:
+>* Prior to leaving the lab, a 'lingering publication plan' will be discussed in the exit interview;
+>* If a paper draft is not adequately prepared up to 3 years after the end of data collection, a conversation will be initiated to re-assign the project to a different student lead to expedite the publication;
+>* If a student willingly relinquishes responsibility to finish a paper, Jason will re-assign the project to a different student lead.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/10-offboarding.md)_:
+>
+>After leaving regular hours in the lab, it can be very difficult to find time to put the finishing touches and making major revisions after reviewer feedback. In light of this, before students leave the lab, we will arrange a personalized paper writing plan that works best for the student. A general approach is listed under the lab 'publishing-policy.md' document, which is subject to personalization depending on the student and scope of the project.
+>
+>### Exit Interview
+>Prior to leaving the lab, I will ask to have a final debrief meeting with you to review your experience working with the group.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
@@ -60,6 +83,43 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- Document workflows, protocols, or specific responsibilities.
 >- Return any physical keys to CogPsy secretariat.
 >- Schedule [exit interview](https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab) to review time in the lab, give mutual feedback, and discuss future plans.
+
+### Spain
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
+>
+>- [ ] You have discussed with the PI, well before your last day, how each of
+>      your projects will be handed over.
+>- [ ] Every project, `data/` included, has a final complete backup in the
+>      agreed place, and its README says where.
+>- [ ] Each README and lab notebook is up to date enough for someone else to
+>      continue the work without you.
+
+### Taiwan
+>_[PEARLab_2026](https://ewz9.github.io/lab_handbook/graduate)_:
+>
+>To ensure research continuity and reproducibility, the following must be completed:
+>
+>- Code must be properly organized and uploaded to the designated repository
+>- Documentation (README) must include environment setup, execution instructions, and dataset information
+>- All related materials (thesis files, slides, experimental results) must be archived
+>- The successor must be able to reproduce results independently
+>
+>---
+>
+>### Handover Criteria
+>
+>A handover is considered complete only if:
+>
+>- Code can be executed in a new environment
+>- Results are reproducible without additional explanation
+>- All materials are properly organized and archived
+>
+>---
+>
+>### Notes
+>
+>- Graduation requirements must be completed in sequence
+>- Students are expected to allocate sufficient time (1–2 weeks) for final organization and handover
 
 ### United Kingdom
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
@@ -199,36 +259,3 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >When a group member graduates, as a PhD or as a Master, the group member’s contributions should be celebrated in a group event. The group social chair should take the initiative in organizing this event. The group event may be a shared meal, a potluck, a board games party or any other appropriate activity. Regardless of how a group member exits the group, steps should be taken with cooperation from the departing group member to ensure that any useful skills or knowledge developed by said group member will remain available to the group. ❖ Before the group member physically leaves (ideally as soon as an exit is planned), the supervisor, the departing group member and any in house collaborator (e.g. co-authors on papers) should meet and agree on what needs to be documented in writing and what needs to be passed on in training. ❖ To ensure completeness, the written documents should be read and understood by the professor and continuing group members.
-
-### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
->
->- [ ] You have discussed with the PI, well before your last day, how each of
->      your projects will be handed over.
->- [ ] Every project, `data/` included, has a final complete backup in the
->      agreed place, and its README says where.
->- [ ] Each README and lab notebook is up to date enough for someone else to
->      continue the work without you.
-
-### Canada
->_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
->
->I expect postdocs will be lead author on anything they produce in the lab. However, I will enforce a policy where they are expected to continue working on writing up and publishing research results after leaving the lab. If, six months after the end of data collection and leaving our lab, you are unable to continue working on publishing research projects, I or another lab member may step in and complete the write-up process. This might involve including new authors or changing order of authorship to reflect the contribution of people involved in completing the write-up process.
-
->_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
->
->I review the Slack channels each year to remove users who are no longer with the lab. Honours students and RAs will typically be converted to a guest account for one year after they leave the lab and are deactivated two years later. Any trainee who wishes to stay on as a guest for longer is more than welcome, just let me know.
-
->_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/04-policies.md)_:
->
->Another difficult situation commonly encountered by students is how to manage the publishing process after you have completed your degree and have moved onto new jobs or opportunities outside the academic environment. Most importantly, every opportunity will be given to lead graduate students to get first author publications resulting from their thesis work. The following guidelines are to help move this process forward and outlines contingency plans in the event this process does not become feasible:
->* Prior to leaving the lab, a 'lingering publication plan' will be discussed in the exit interview;
->* If a paper draft is not adequately prepared up to 3 years after the end of data collection, a conversation will be initiated to re-assign the project to a different student lead to expedite the publication;
->* If a student willingly relinquishes responsibility to finish a paper, Jason will re-assign the project to a different student lead.
-
->_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/10-offboarding.md)_:
->
->After leaving regular hours in the lab, it can be very difficult to find time to put the finishing touches and making major revisions after reviewer feedback. In light of this, before students leave the lab, we will arrange a personalized paper writing plan that works best for the student. A general approach is listed under the lab 'publishing-policy.md' document, which is subject to personalization depending on the student and scope of the project.
->
->### Exit Interview
->Prior to leaving the lab, I will ask to have a final debrief meeting with you to review your experience working with the group.

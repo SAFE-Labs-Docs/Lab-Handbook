@@ -17,6 +17,32 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ## Examples
 
+### Canada
+>_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
+>
+>We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.
+>
+>We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with.
+
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>We hold a 1.5 hour lab meeting every week. The weekly meeting consists of core lab members (Me, graduate students, postdocs and honours students, when possible). Occasionally, other members will be invited to attend as well. The purpose of these meetings is to discuss current projects, to engage in debate or discussion about topics in the literature, and to plan future studies. Mostly, the purpose of the lab meeting is to solve problems. We meet in room 5017 WIRB. I usually schedule lab meetings at a time that is convenient for the maximum number of people. This varies by term, and it may vary even by month. We don’t usually meet as often in the summer.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/03-communications.md)_:
+>
+>Full group lab meetings occur weekly. The general format of lab meetings are:
+>* general announcements;
+>* research issues to be considered by the group;
+>* individual updates; and,
+>* a learning outcome for the group. The learning outcome will change week to week; for example: student data presentations, student practice presentations, journal club, career development, science development, science discussion, tutorial lecture/demonstration, etc.
+
+### Denmark
+>_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
+>
+>Weekly 1-on-1 meetings of 15-60 minutes as needed. This is for in-depth feedback and discuss results and future plans. If you send me a brief meeting agenda ahead the meeting, I will do my best to prepare accordingly.
+>• If my door is open (which it mostly is), feel free to come discuss/ask whatever needed. It is often much better to get the quick input in the moment than waiting for the weekly meeting.
+>• Half-year meetings: every half year we have a meeting of whatever length needed, where we step back and talk about the bigger picture of your PhD. Not about data and experiments, but about your career track/wellbeing/plans/etc. This is a chance to identify/make needed corrections to the track of your education and our work together.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -85,8 +111,6 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >**Semestral Appraisals**: We review the post/project's long-term progress and provide tailored feedback on work performance during semestral appraisals. This is also an opportunity to give Federico feedback about the experience of working in the lab, and discuss how to improve his support and supervision.
 
-
-
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
@@ -104,6 +128,30 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
 
+### Spain
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
+>
+>The whole group meets once a week. Each meeting has two parts:
+>
+>1. **A short update from every member**, about five minutes each: what you did
+>   this week, what worked, what didn't, what you are doing next.
+>2. **One longer presentation** by a single member on the status of their
+>   project. The long slot follows a rota, so everyone knows well in advance when
+>   their turn is. It is sometimes replaced by a journal club.
+>
+>**What the group meeting is for:** visibility. Everyone should have a rough idea
+>of what everyone else is doing, so that you know who to ask when you hit a
+>problem someone else has already solved, and so that the group spots overlaps
+>and connections between projects.
+
+### Switzerland
+>_[AIDOSLab_2026](https://aidos.group/guide)_:
+>
+>Notice that there are different kinds
+>of meetings with different modalities and goals. For instance, if we are collaborating closely, we will have regular one-on-one meetings. These meetings are time that belongs to you, and you can fill it with anything that comes to your mind. I might have some
+>direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to
+>help you get unstuck.
+
 ### United Kingdom
 
 >_Anonymous lab_:
@@ -113,6 +161,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >These meetings provide an opportunity to meet and catch-up with other members of the group. All members of [the lab] are expected to attend and we ask that you do your best to protect this time to ensure your availability and attend in person where possible. All members are expected to lead or present at a lab meeting during their time in [the lab].
 >
 >Once per month, the lab meeting offers “feedback” sessions, where you can submit something (e.g., grant idea/application, job application, CV, paper) for discussion. These require materials to be sent one week in advance to give other group members time to read the submission. These are informal and supportive sessions designed to help you when dedicated feedback is needed. There is also an expectation that you will read and feedback on other people’s submissions where possible. If you would like to request support via a feedback session, email [the lab admin] or speak to your theme lead.
+
+>_[DumbellLab_2026](https://dumbell-lab.com/blog/the-dumbell-lab-laboratory-handbook)_:
+>
+>Lab meetings are held weekly. Currently these happen on Monday 9am. If a team member is regularly unable to attend, the timing of this meeting can be changed on discussion with the whole group. These meetings are scheduled for 1 h but may not always last this long. This is an opportunity to discuss lab issues, experimental issues, data or to practice presentations. These meetings should be open and informal and it is important that all members are treated with respect and kindness to foster this open discussion.
 
 >_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:
 >
@@ -414,6 +466,13 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >* **Biweekly Joint Group Meetings** - Every other week during the academic year, we also convene with the [Panagiotopoulos group](https://scholar.princeton.edu/azpgroup/home) and the [Graves group](https://cbe.princeton.edu/people/david-graves) to share and discuss research with each other. Meetings are over lunch (provided by the PIs) and feature 1-2 junior researchers giving research informal presentations. The current schedule can be found [here](https://docs.google.com/spreadsheets/d/1vNKZ6YOeL1sGhxME7_955ZLrzBDTdK-aDdqdeGuwAc0/edit?usp=sharing)
 >* **Biweekly Journal Clubs** - Approximately every other week, we meet with members of the [Jacobs group](https://jacobs.princeton.edu/) for a detailed discussion and analysis of a research article. The article is selected (by myself and Prof. Jacobs) from a set of three articles proposed by the discussion leader. The discussion leader rotates each week, such that each junior researcher leads about once per year.
 
+>_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/lab-meetings/)_:
+>
+>### Problem-Solving Sessions
+>
+>* Purpose: To get feedback from the lab to address issues that are limiting progress. This could be getting feedback on statistical approaches, data collection issues, interpretation of results, computational challenges, or other activities. This is your chance to leverage the lab's collective knowledge to address challenges you are facing.
+>* Format: A presentation that presents a single focal issue that the leader needs feedback on. The presentation should be focused and no longer than 15 minutes (5 minutes of background, 5 minutes explaining the problem, 1-3 explicit questions - i.e., not 'what do you think?' - that you are asking the group).
+
 >_[WeisenseeLab_2026](https://sites.wustl.edu/weisensee/files/2025/09/Weisensee-mentoring-statement.pdf)_:
 >
 >For  our  weekly  meetings,  I  expect  you  to  prepare  ppt  slides or other documents to provide me with an update on your progress, struggles, and new ideas.  These  weekly  updates  can  include  (raw)  data,  graphs,  schematics,  plots,  images,  videos,  thoughts  in  bullet‐points,  etc..  Ideally,  you  also  include  a  brief  section  on  self‐reflection:  what  went  well,  what  didn’t,  why  did  it  go  well  or  not,  etc..
@@ -453,53 +512,3 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Significant scientific results: systems biology interpretation
 >- Relevence to our work: method benchmarking, study design, modeling, logic, etc?
 >- Limitations of this work
-
-### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
->
->The whole group meets once a week. Each meeting has two parts:
->
->1. **A short update from every member**, about five minutes each: what you did
->   this week, what worked, what didn't, what you are doing next.
->2. **One longer presentation** by a single member on the status of their
->   project. The long slot follows a rota, so everyone knows well in advance when
->   their turn is. It is sometimes replaced by a journal club.
->
->**What the group meeting is for:** visibility. Everyone should have a rough idea
->of what everyone else is doing, so that you know who to ask when you hit a
->problem someone else has already solved, and so that the group spots overlaps
->and connections between projects.
-
-### Switzerland
->_[AIDOSLab_2026](https://aidos.group/guide)_:
->
->Notice that there are different kinds
->of meetings with different modalities and goals. For instance, if we are collaborating closely, we will have regular one-on-one meetings. These meetings are time that belongs to you, and you can fill it with anything that comes to your mind. I might have some
->direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to
->help you get unstuck.
-
-### Denmark
->_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
->
->Weekly 1-on-1 meetings of 15-60 minutes as needed. This is for in-depth feedback and discuss results and future plans. If you send me a brief meeting agenda ahead the meeting, I will do my best to prepare accordingly.
->• If my door is open (which it mostly is), feel free to come discuss/ask whatever needed. It is often much better to get the quick input in the moment than waiting for the weekly meeting.
->• Half-year meetings: every half year we have a meeting of whatever length needed, where we step back and talk about the bigger picture of your PhD. Not about data and experiments, but about your career track/wellbeing/plans/etc. This is a chance to identify/make needed corrections to the track of your education and our work together.
-
-### Canada
->_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
->
->We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.
->
->We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with.
-
->_[MindaLab_2026](https://osf.io/download/arywg/)_:
->
->We hold a 1.5 hour lab meeting every week. The weekly meeting consists of core lab members (Me, graduate students, postdocs and honours students, when possible). Occasionally, other members will be invited to attend as well. The purpose of these meetings is to discuss current projects, to engage in debate or discussion about topics in the literature, and to plan future studies. Mostly, the purpose of the lab meeting is to solve problems. We meet in room 5017 WIRB. I usually schedule lab meetings at a time that is convenient for the maximum number of people. This varies by term, and it may vary even by month. We don’t usually meet as often in the summer.
-
->_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/03-communications.md)_:
->
->Full group lab meetings occur weekly. The general format of lab meetings are:
->* general announcements;
->* research issues to be considered by the group;
->* individual updates; and,
->* a learning outcome for the group. The learning outcome will change week to week; for example: student data presentations, student practice presentations, journal club, career development, science development, science discussion, tutorial lecture/demonstration, etc.

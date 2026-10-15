@@ -14,12 +14,93 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 
 ## Examples
 
+### Austria
+>_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
+>
+>It is essential to maintain detailed, up-to-date records of daily activities. This includes:
+>
+>- Notes and sketches on ongoing projects.
+>- Progress on analyses.
+>- Logs of seminars attended, papers read, or other relevant activities.
+>
+>### Digital and Physical Notes
+>
+>- Use markdown-based notes in [Obsidian](https://github.com/rendeirolab/daily_notes) for digital documentation.
+>- Optionally, concatenate markdown notes and print them on sticky paper for inclusion in physical lab notebooks.
+>
+>## Shared OneDrive Folder
+>
+>The official platform for file sharing is the CeMM-provided OneDrive, accessible here: [Shared Documents](https://cemmat.sharepoint.com/sites/rendeirolab/Shared%20Documents).
+>
+>### Best Practices
+>
+>- Update the folder regularly, especially when reaching milestones such as paper submissions, talk presentations, or poster creations.
+>- Organize files in a compartmentalized manner by subject (e.g., figures, presentations, documents, notes).
+>- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.
+
+### Canada
+>_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
+>
+>Every ongoing research project will have an associated OneDrive folder within a shared library for the lab. Please speak to me or the lab manager to be given access to the OneDrive shared library.
+>
+>Within this folder are subfolders for each aspect of the study from ethics to recruitment. If there are multiple studies attached to one ethics, there will be subfolders within the project folder indicating the project's title and the researchers name.If changes have been made to the study, these folders will need to be updated so that we have the most up-to-date information on how the study was conducted. This is to ensure that our studies are reproducible to the maximum extent we can manage.
+
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
+>How much detail is required in this record? There’s no perfect answer to that question, but the document should be clear enough and detailed enough so that if we revisit the project several years later, we should be able to ﬁnd where the manuscript is, where any relevant code is, and where the data is stored.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
 >All data and codes will be made available through public repositories, respecting the FAIR (findable, accessible, interoperable, reusable) data principles. A big part of ensuring that data are FAIR is by documenting all experiments, protocols, results etc… For this we use electronic labbooks and ensure their strict completion.
 
+### Japan
+>_[ShojiLab_2026](https://scrapbox.io/shoji-lab-survey/莊司研究室データセット公開マニュアル)_:
+>
+>莊司研究室におけるデータセット公開は、研究室共同 GitHub アカウントを基盤として運用する。
+>
+>各学生は、研究室 GitHub 組織配下に個別のデータセットリポジトリを作成する。
+>
+>その際、当該学生の GitHub アカウントをCollaborator として招待し、本人がコミットを行う。
+>
+>これにより：
+>
+>　リポジトリ管理履歴にデータセット作成者が明示される
+>
+>　データ取得時期が最終コミット時刻として記録される
+>
+>
+>
+>また、複数学生のデータを単一リポジトリに集約する運用は行わない。
+>
+>理由としては：
+>
+>　更新履歴が混在する
+>
+>　データ取得時期の追跡が困難になる
+>
+>　個別引用が不明瞭になる
+>
+>したがって、「1データセット＝1リポジトリ」を基本原則とする。
+
+### Spain
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
+>
+>Some things that make a notebook useful, wherever it lives:
+>
+>- Date every entry. Newest-first keeps the latest state at the top.
+>- Record *decisions* and *why*: "Discarded rep3: box too small, protein
+>  interacted with its periodic image at 40 ns." This is exactly the information
+>  a referee asks for and a successor needs.
+>- Record mistakes. A note like "the first 300K set used the wrong salt
+>  concentration and was deleted" saves the next person from repeating the mistake.
+
 ### United Kingdom
+>_[DumbellLab_2026](https://dumbell-lab.com/blog/the-dumbell-lab-laboratory-handbook)_:
+>
+>All members will be issued with a lab book on joining the lab. This remains property of the lab and is a lasting record of your work. Lab members are expected to keep a detailed record of all their work in the lab including any data analysis. Records of where data is kept must be included in this lab book. Each page of the lab book must have the date, experiment title, lab book number, page continued from/to completed, and signed by the lab member. From time to time these lab books will be audited by the group leader who will then sign the latest completed page of the book to approve the record of the work. Results should all be recorded in the lab book in clear and readable text, or should be cross referenced to the location of the file on the sharepoint.
+
 >_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_:
 >
 >All computers should be backed up. A set of two USB hard drives should be used as a daily automated back-up,
@@ -172,80 +253,3 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >10. Label files that are part of batches beginning with the date in this format: YYYY-MMDD, followed by a consistent project abbreviation, a descriptive but concise name, and indicators that distinguish the particular details of the simulation or measurement.
 >11. Save all of your project files in their proper places in our group folders or servers and keep the folders updated and organized. Design the folder structure(s) to reflect natural divisions in the data and to facilitate easy retrieval of files. Move out old file versions into a subdirectory so that the latest file versions can be easily located.
 >12. Back up electronic data in three places, two of which should be in different physical locations.
-
-### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
->
->Some things that make a notebook useful, wherever it lives:
->
->- Date every entry. Newest-first keeps the latest state at the top.
->- Record *decisions* and *why*: "Discarded rep3: box too small, protein
->  interacted with its periodic image at 40 ns." This is exactly the information
->  a referee asks for and a successor needs.
->- Record mistakes. A note like "the first 300K set used the wrong salt
->  concentration and was deleted" saves the next person from repeating the mistake.
-
-### Canada
->_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
->
->Every ongoing research project will have an associated OneDrive folder within a shared library for the lab. Please speak to me or the lab manager to be given access to the OneDrive shared library.
->
->Within this folder are subfolders for each aspect of the study from ethics to recruitment. If there are multiple studies attached to one ethics, there will be subfolders within the project folder indicating the project's title and the researchers name.If changes have been made to the study, these folders will need to be updated so that we have the most up-to-date information on how the study was conducted. This is to ensure that our studies are reproducible to the maximum extent we can manage.
-
->_[MindaLab_2026](https://osf.io/download/arywg/)_:
->
->Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
->How much detail is required in this record? There’s no perfect answer to that question, but the document should be clear enough and detailed enough so that if we revisit the project several years later, we should be able to ﬁnd where the manuscript is, where any relevant code is, and where the data is stored.
-
-### Japan
->_[ShojiLab_2026](https://scrapbox.io/shoji-lab-survey/莊司研究室データセット公開マニュアル)_:
->
->莊司研究室におけるデータセット公開は、研究室共同 GitHub アカウントを基盤として運用する。
->
->各学生は、研究室 GitHub 組織配下に個別のデータセットリポジトリを作成する。
->
->その際、当該学生の GitHub アカウントをCollaborator として招待し、本人がコミットを行う。
->
->これにより：
->
->　リポジトリ管理履歴にデータセット作成者が明示される
->
->　データ取得時期が最終コミット時刻として記録される
->
->
->
->また、複数学生のデータを単一リポジトリに集約する運用は行わない。
->
->理由としては：
->
->　更新履歴が混在する
->
->　データ取得時期の追跡が困難になる
->
->　個別引用が不明瞭になる
->
->したがって、「1データセット＝1リポジトリ」を基本原則とする。
-
-### Austria
->_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
->
->It is essential to maintain detailed, up-to-date records of daily activities. This includes:
->
->- Notes and sketches on ongoing projects.
->- Progress on analyses.
->- Logs of seminars attended, papers read, or other relevant activities.
->
->### Digital and Physical Notes
->
->- Use markdown-based notes in [Obsidian](https://github.com/rendeirolab/daily_notes) for digital documentation.
->- Optionally, concatenate markdown notes and print them on sticky paper for inclusion in physical lab notebooks.
->
->## Shared OneDrive Folder
->
->The official platform for file sharing is the CeMM-provided OneDrive, accessible here: [Shared Documents](https://cemmat.sharepoint.com/sites/rendeirolab/Shared%20Documents).
->
->### Best Practices
->
->- Update the folder regularly, especially when reaching milestones such as paper submissions, talk presentations, or poster creations.
->- Organize files in a compartmentalized manner by subject (e.g., figures, presentations, documents, notes).
->- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.

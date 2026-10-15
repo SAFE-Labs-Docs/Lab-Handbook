@@ -16,6 +16,65 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 
 ## Examples
 
+### Australia
+>_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_:
+>
+>Current standards for authorship (such as by the [International Committee of Medical Journal Editors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) and the [American Psychological Association](https://www.apa.org/research/responsible/publication)) require a writing contribution to the research publication. Instead, the PALM Lab believes that **all researchers contributing to a scientific publication should be recognized** ("a contributorship model"), and adopts the [Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/) to assign credit and authorship. CRediT lists 14 research roles that contribute to research outputs, listed below with brief explanations as how they might pertain to the PALM Lab:
+>
+>* **Conceptualization** - The **formulation** or evolution of overarching research goals and aims.
+>* **Data curation** - Data **management**, including generating metadata, cleaning and maintaining research data
+>* **Formal analysis** - Application of statistical, mathematical, and/or computational techniques to **analyse experimental data**.
+>* **Funding acquisition** - Acquisition of the financial support for conducting the research
+>* **Investigation** - **Conducting the experiments** for data collection
+>* **Methodology** - **Design** of the experiment
+>* **Project administration** - **Coordination** of the research activity
+>* **Resources** - **Provision** of any equipment
+>* **Software** - **Programming** and testing of experimental code.
+>* **Supervision** - **Oversight** for the research activity, including mentorship.
+>* **Validation** - **Verification** of the overall reproducibility of results/experiments.
+>* **Visualization** - **Preparation** of the published work, specifically data presentation.
+>* **Writing -- original draft** - Preparation of the initial draft.
+>* **Writing -- review and editing** - Critical review, commentary or revision.
+>
+>The standard for authorship on any research publication from the PALM Lab is to have adequate involvement in **at least one** of the above roles, with the following as minimum requirements:
+>
+>* **Investigation** - The researcher was responsible for data collection of at least a third (1/3) of the sample size in any experiment. (Assistance with EEG preparation does not count towards this.)
+>* **Validation** - Conducted code review at least once, producing a report on the computational reproducibility of the results and experiment.
+>* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.
+
+### Canada
+>_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
+>
+>Authorship, and authorship order, is something that should be discussed early on in a project's life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we're talking about a manuscript, abstract, or poster. An "intellectual contribution" could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it's pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it's best to hash these sorts of things out early.
+>
+>Examples of important contributions to our work that that don't necessarily reach the threshold for authorship (but should always be acknowledged in a paper) are data collection and helping with figures. Students who contribute in these ways should be given opportunities to become more involved in order to get on a paper if they have the interest, time, and ability to, but that's not always going to be possible, which is also fine.
+
+>_[MindaLab_2026](https://osf.io/download/arywg/)_:
+>
+>Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.
+>• You designed one or more experiments in the paper.
+>• You wrote the initial draft for a major section.
+>• You wrote the entire paper.
+>• You designed and carried out the analyses.
+>In many cases, you might help with projects, but the contribution is not quite enough to warrant inclusion as an author. The following are several examples.
+>• You helped to carry out data collection.
+>• You created the reference section, table, or figure.
+>15
+>
+>• You scored a test or created a data set.
+>• You helped to proofread or edit.
+>In these cases, you will be acknowledged by name in the paper.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/05-publishing-policy.md)_:
+>
+>* All authors must meet 3 criteria:
+>    1. Substantial contributions to one of:
+>        * Study conception/design: This includes authors who are no longer in the lab, but came up with the core idea
+>        * Acquisition of data: Individuals must be integral to the acquisition (e.g., would the study have been completed without you?). This includes collaborators who recruited, scheduled, or managed participants on a day-to-day basis. For example, entering LabChart comments does not qualify authorship, but taking care of the testing environment while a senior trainee operates the ultrasound does.
+>        * Analysis/Interpretation of data: By default, I expect the primary trainee to be the point-person, delegating analysis tasks to those best suited to the task. As this may largely be beyond the view of the PI, this fluid environment should be noted and identified in regular meetings for early transparency.
+>    2. Drafting/Reviewing the paper for important intellectual content: I expect all identified contributing authors from (1) to engage in the review process. This can be daunting for junior trainees out-of-field, but I encourage you to put in the effort to contribute in depth to a discussion point, and particularly the story-crafting element of the written work.
+>    3. Final approval of the version to be published: All authors should be aware when and where the final paper will be submitted. No surprises!
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -66,6 +125,19 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Whatever authorship scheme we settle on, I encourage using the [Credit scheme](https://credit.niso.org/) with additional detail to keep track of everybody's contributions.
 
+### Switzerland
+>_[AIDOSLab_2026](https://aidos.group/guide)_:
+>
+>When submitting a paper to a machine learning venue, the order of authors should reflect their contribution and relevance for the project. Typically, this will mean that junior members, such as Ph.D. and graduate students, will be placed before more senior members. To
+>assess whether a person is qualified to be an author on a manuscript, we will follow a set of rules. Anyone listed on a paper as an author has to satisfy all of the following criteria:2
+>- 1. They have made substantial intellectual contributions to at least a subset of the work described in the manuscript.
+>- 2. They have participated in writing or revising the manuscript.
+>- 3. They are aware of the existence of the manuscript and of the intent to submit the manuscript to a certain venue.
+>- 4. They agree with the content of the manuscript and are willing to vouch for the correctness of the work.
+>
+>In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of
+>us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
@@ -104,7 +176,6 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >The last author is usually the lead supervisor who secured funding and oversaw the research. Exceptions can be discussed and agreed upon.
 >
 >The Superlab is committed to mentoring and recognizing the contributions of students and trainees. When students make substantial contributions to a project, they will be offered authorship and mentorship on writing and publishing.
-
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
@@ -219,75 +290,3 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >- Close communication with the first author in revisions based on co-author feedback or responding to peer-reviewers.
 >- Double check article proofs after the first author for errors.
 >- Meet on a regular basis with the first author.
-
-### Australia
->_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_:
->
->Current standards for authorship (such as by the [International Committee of Medical Journal Editors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) and the [American Psychological Association](https://www.apa.org/research/responsible/publication)) require a writing contribution to the research publication. Instead, the PALM Lab believes that **all researchers contributing to a scientific publication should be recognized** ("a contributorship model"), and adopts the [Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/) to assign credit and authorship. CRediT lists 14 research roles that contribute to research outputs, listed below with brief explanations as how they might pertain to the PALM Lab:
->
->* **Conceptualization** - The **formulation** or evolution of overarching research goals and aims.
->* **Data curation** - Data **management**, including generating metadata, cleaning and maintaining research data
->* **Formal analysis** - Application of statistical, mathematical, and/or computational techniques to **analyse experimental data**.
->* **Funding acquisition** - Acquisition of the financial support for conducting the research
->* **Investigation** - **Conducting the experiments** for data collection
->* **Methodology** - **Design** of the experiment
->* **Project administration** - **Coordination** of the research activity
->* **Resources** - **Provision** of any equipment
->* **Software** - **Programming** and testing of experimental code.
->* **Supervision** - **Oversight** for the research activity, including mentorship.
->* **Validation** - **Verification** of the overall reproducibility of results/experiments.
->* **Visualization** - **Preparation** of the published work, specifically data presentation.
->* **Writing -- original draft** - Preparation of the initial draft.
->* **Writing -- review and editing** - Critical review, commentary or revision.
->
->The standard for authorship on any research publication from the PALM Lab is to have adequate involvement in **at least one** of the above roles, with the following as minimum requirements:
->
->* **Investigation** - The researcher was responsible for data collection of at least a third (1/3) of the sample size in any experiment. (Assistance with EEG preparation does not count towards this.)
->* **Validation** - Conducted code review at least once, producing a report on the computational reproducibility of the results and experiment.
->* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.
-
-### Switzerland
->_[AIDOSLab_2026](https://aidos.group/guide)_:
->
->When submitting a paper to a machine learning venue, the order of authors should reflect their contribution and relevance for the project. Typically, this will mean that junior members, such as Ph.D. and graduate students, will be placed before more senior members. To
->assess whether a person is qualified to be an author on a manuscript, we will follow a set of rules. Anyone listed on a paper as an author has to satisfy all of the following criteria:2
->- 1. They have made substantial intellectual contributions to at least a subset of the work described in the manuscript.
->- 2. They have participated in writing or revising the manuscript.
->- 3. They are aware of the existence of the manuscript and of the intent to submit the manuscript to a certain venue.
->- 4. They agree with the content of the manuscript and are willing to vouch for the correctness of the work.
->
->In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of
->us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
-
-### Canada
->_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
->
->Authorship, and authorship order, is something that should be discussed early on in a project's life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we're talking about a manuscript, abstract, or poster. An "intellectual contribution" could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it's pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it's best to hash these sorts of things out early.
->
->Examples of important contributions to our work that that don't necessarily reach the threshold for authorship (but should always be acknowledged in a paper) are data collection and helping with figures. Students who contribute in these ways should be given opportunities to become more involved in order to get on a paper if they have the interest, time, and ability to, but that's not always going to be possible, which is also fine.
-
->_[MindaLab_2026](https://osf.io/download/arywg/)_:
->
->Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.
->• You designed one or more experiments in the paper.
->• You wrote the initial draft for a major section.
->• You wrote the entire paper.
->• You designed and carried out the analyses.
->In many cases, you might help with projects, but the contribution is not quite enough to warrant inclusion as an author. The following are several examples.
->• You helped to carry out data collection.
->• You created the reference section, table, or figure.
->15
->
->• You scored a test or created a data set.
->• You helped to proofread or edit.
->In these cases, you will be acknowledged by name in the paper.
-
->_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/05-publishing-policy.md)_:
->
->* All authors must meet 3 criteria:
->    1. Substantial contributions to one of:
->        * Study conception/design: This includes authors who are no longer in the lab, but came up with the core idea
->        * Acquisition of data: Individuals must be integral to the acquisition (e.g., would the study have been completed without you?). This includes collaborators who recruited, scheduled, or managed participants on a day-to-day basis. For example, entering LabChart comments does not qualify authorship, but taking care of the testing environment while a senior trainee operates the ultrasound does.
->        * Analysis/Interpretation of data: By default, I expect the primary trainee to be the point-person, delegating analysis tasks to those best suited to the task. As this may largely be beyond the view of the PI, this fluid environment should be noted and identified in regular meetings for early transparency.
->    2. Drafting/Reviewing the paper for important intellectual content: I expect all identified contributing authors from (1) to engage in the review process. This can be daunting for junior trainees out-of-field, but I encourage you to put in the effort to contribute in depth to a discussion point, and particularly the story-crafting element of the written work.
->    3. Final approval of the version to be published: All authors should be aware when and where the final paper will be submitted. No surprises!

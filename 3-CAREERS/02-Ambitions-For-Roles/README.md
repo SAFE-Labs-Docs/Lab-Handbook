@@ -63,6 +63,21 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
 
+### Taiwan
+>_[PEARLab_2026](https://ewz9.github.io/lab_handbook/graduate)_:
+>
+>1. **Department Requirements**
+>   - Complete all coursework and meet official graduation criteria
+>
+>2. **Research Contribution**
+>   - Expected to participate in at least one publication (journal or conference)
+>   - Must demonstrate substantial contribution
+>
+>3. **Thesis**
+>   - Pass the oral defense
+>   - Complete all required revisions
+>   - Subject to advisor approval
+
 ### United Kingdom
 >_Anonymous lab_:
 >
@@ -167,6 +182,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.
+
+>_[Thrash_2026](https://thethrashlab.com/wp-content/uploads/2025/09/Thrash-Lab-personnel-expectations_7.pdf)_:
+>
+>Produce at least 3 first-author publications during your Ph.D. (excluding Genome Announcements).
 
 >_[WarnickGroup_2026](https://www.scp.byu.edu/mers/docs/Research_Assistant_Handbook.pdf)_:
 >

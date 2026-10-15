@@ -13,6 +13,22 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 
 ## Examples
 
+### Canada
+>_[McKinneyLab_2026](https://mckinneylab.weebly.com/lab-code-of-conduct.html)_:
+>
+>Respect everybody’s time. Be punctual and show up prepared for lab work/office work/meetings
+>- Ensure you keep both your workspace and communal spaces (lab, offices) clean and organized
+>- Keep the environment positive as much as possible
+>- Accept responsibility for mistakes that arise and take action to correct them
+>- Ask for permission before sharing any words, thoughts, or resources that other lab members have shared or provided through email, slack, conferences, etc.
+>- Be mindful of personal boundaries of others
+>- Make sure to coordinate schedules and shared bench space with other lab members before starting work in the lab
+>- As email or text-based communication can be misinterpreted (due to the lack of facial expression, or voice intonation), please ensure that communications are clearly kind and respectful.
+>- Respond to professional emails within a reasonable time frame (usually <24 hours) and copy Melissa on all project-related emails
+>- Have reasonable expectations regarding the completion of a task (lab, data analysis or written work) and establish realistic deadlines together
+>- Keep the group updated on your progress and the projects that you’re working on
+>- Ensure all data generated (lab notebooks, data files, r-code, manuscripts) are neat (legible for lab notebooks), organized, and properly backed up
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -101,7 +117,6 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >Everyone in the lab is expected to show integrity, accountability, and respect in all interactions and projects while upholding strong standards of scientific rigor and collaboration. This means things like listening to and valuing each other's perspectives, being on time for meetings, and staying engaged during presentations. We are all responsible for creating an inclusive, supportive environment—one that is free from discrimination or harmful behavior, especially related to gender, race, sexuality, or disability. Lab members should feel comfortable sharing their ideas, concerns, or feedback without fear of negative consequences. Psychological safety is a shared priority.
 >
 >We are trying to build a team that runs on self-motivation, curiosity, and a shared drive to do great science. I want people to feel excited about what they are working on and comfortable taking initiative. I am here to support, guide, and help clear the path when needed—but I also trust everyone to take ownership of their work and grow into their strengths.
-
 
 ### United States
 
@@ -200,19 +215,3 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >• Clarity.  Our goal when communicating ideas and results (i.e., through papers, presentations, group and one-on-one discussions) is NOT to look smart, but rather to communicate as clearly as possible.
 >
 >• Balance.  There is more to life than work. Although Ph.D. studies are demanding, I hope that you will maintain and nurture other outside interests and relationships.
-
-### Canada
->_[McKinneyLab_2026](https://mckinneylab.weebly.com/lab-code-of-conduct.html)_:
->
->Respect everybody’s time. Be punctual and show up prepared for lab work/office work/meetings
->- Ensure you keep both your workspace and communal spaces (lab, offices) clean and organized
->- Keep the environment positive as much as possible
->- Accept responsibility for mistakes that arise and take action to correct them
->- Ask for permission before sharing any words, thoughts, or resources that other lab members have shared or provided through email, slack, conferences, etc.
->- Be mindful of personal boundaries of others
->- Make sure to coordinate schedules and shared bench space with other lab members before starting work in the lab
->- As email or text-based communication can be misinterpreted (due to the lack of facial expression, or voice intonation), please ensure that communications are clearly kind and respectful.
->- Respond to professional emails within a reasonable time frame (usually <24 hours) and copy Melissa on all project-related emails
->- Have reasonable expectations regarding the completion of a task (lab, data analysis or written work) and establish realistic deadlines together
->- Keep the group updated on your progress and the projects that you’re working on
->- Ensure all data generated (lab notebooks, data files, r-code, manuscripts) are neat (legible for lab notebooks), organized, and properly backed up

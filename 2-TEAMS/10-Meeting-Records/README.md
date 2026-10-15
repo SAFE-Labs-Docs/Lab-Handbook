@@ -28,6 +28,15 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >All lab members are requested to send a short summary email to the PI after each 1o1 meeting. These can be bullet-point style but should contain concrete plans/agreements/outcomes. This format ensures that there’s a paper trail of what has been discussed and agreed on, but also that the PI and the lab member have the same understanding of the discussed matter.
 
+### Spain
+>_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
+>
+>- **The last five minutes produce a to-do list**: what you will do before the
+>  next meeting. The PI keeps these lists as a running, dated record, newest
+>  first.
+>- **The next meeting opens by reading that list back**: what got done, what
+>  didn't, and why.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
@@ -87,12 +96,3 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >Weekly one-on-one meetings will be held for each member when they join the lab. We have Thursdays as our 1-1 meeting day!
 >- Every member will be assigned one or two major projects.
 >- We track everyone's progressed on specific tasks using Trello. So we can generate "TODO" list on everyone's Trello project board after each one-on-one meeting, and we mark the tasks as "Done" by examing it on our next one-on-one meeting. We will break down a "big task" into multiple measureable "small tasks".
-
-### Spain
->_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
->
->- **The last five minutes produce a to-do list**: what you will do before the
->  next meeting. The PI keeps these lists as a running, dated record, newest
->  first.
->- **The next meeting opens by reading that list back**: what got done, what
->  didn't, and why.

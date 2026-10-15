@@ -19,6 +19,33 @@ A clear onboarding process should not only ensure that lab members complete esse
 
 ## Examples
 
+### Canada
+>_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/onboarding/)_:
+>
+>1. Read the [lab manual](https://ccmlab-ubc.github.io/lab-manual).
+> 2. Submit an Issue (click on Octocat in upper right of the lab manual) regarding the lab manual—i.e., provide a suggestion, comment, or raise a question. You need a [GitHub](https://github.com/) account in order to do this, so if you don’t have one, create one.
+> 3. Accept eventual invitation to join CCM Lab organization on GitHub.
+> 4. Complete [TCPS 2 training](http://tcps2core.ca/welcome) in order to be added to our human ethics protocol.
+> 5. Add yourself to eligible list of RISe researchers by following the Self-Registering steps at: [RISe Access](https://www.rise.ubc.ca/access-rise). Once an account is created, new users will receive their researcher numbers via email.
+> 6. Once your RISe account is created, let Hyosub know so he can add you to our study protocols.
+
+>_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
+>
+>At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:
+>* Expected response times for communications;
+>* Best ways to keep on top of drafts, applications, and meetings;
+>* Mentorship meeting frequency and structure;
+>* Working habits;
+>* Time off / vacations;
+>* Strategies to stay 'on time' for program milestones (proposal, committee meetings, defences);
+>* Teaching and volunteer interests;
+>* Career plans and goals (CIHR Individual Development Plans);
+>* Conference plan and funding expectations;
+>* Publishing and authorship expectations;
+>* Expectations to apply for external funding; and,
+>* Responsibility for research ethics.
+>In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -249,30 +276,3 @@ A clear onboarding process should not only ensure that lab members complete esse
 >1. Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
 >1. Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have webpage, they can help you make a page on our website.
 >1. Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
-
-### Canada
->_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/onboarding/)_:
->
->1. Read the [lab manual](https://ccmlab-ubc.github.io/lab-manual).
-> 2. Submit an Issue (click on Octocat in upper right of the lab manual) regarding the lab manual—i.e., provide a suggestion, comment, or raise a question. You need a [GitHub](https://github.com/) account in order to do this, so if you don’t have one, create one.
-> 3. Accept eventual invitation to join CCM Lab organization on GitHub.
-> 4. Complete [TCPS 2 training](http://tcps2core.ca/welcome) in order to be added to our human ethics protocol.
-> 5. Add yourself to eligible list of RISe researchers by following the Self-Registering steps at: [RISe Access](https://www.rise.ubc.ca/access-rise). Once an account is created, new users will receive their researcher numbers via email.
-> 6. Once your RISe account is created, let Hyosub know so he can add you to our study protocols.
-
->_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
->
->At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:
->* Expected response times for communications;
->* Best ways to keep on top of drafts, applications, and meetings;
->* Mentorship meeting frequency and structure;
->* Working habits;
->* Time off / vacations;
->* Strategies to stay 'on time' for program milestones (proposal, committee meetings, defences);
->* Teaching and volunteer interests;
->* Career plans and goals (CIHR Individual Development Plans);
->* Conference plan and funding expectations;
->* Publishing and authorship expectations;
->* Expectations to apply for external funding; and,
->* Responsibility for research ethics.
->In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.

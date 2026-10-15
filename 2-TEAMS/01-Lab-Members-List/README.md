@@ -15,10 +15,10 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 ## Examples
 
-### Germany
->_[OttLab_2025](https://torbenottlab.org/)_:
+### Austria
+>_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
 >
->Please find a list of past and current lab members here: https://torbenottlab.org/people/
+>Ask the departing team member whether they consent to be listed as alumni on the lab website.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -32,6 +32,11 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
 >The list of current and past lab members is available [here](https://cnidevolab.com/people/). The PIs email addresses are available [here](https://cnidevolab.com/contact/), while all lab members can be contacted through the institutional address composed as follows: name.surname[@ ]obs.banyuls.fr
+
+### Germany
+>_[OttLab_2025](https://torbenottlab.org/)_:
+>
+>Please find a list of past and current lab members here: https://torbenottlab.org/people/
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
@@ -70,8 +75,3 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Current and former lab members are [listed publicly on the lab website](https://mseelab.org/members.html).
-
-### Austria
->_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
->
->Ask the departing team member whether they consent to be listed as alumni on the lab website.

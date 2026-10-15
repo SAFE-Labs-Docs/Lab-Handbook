@@ -122,6 +122,10 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 >
 >ARFC has a google calendar. It has various scholarship, fellowship, and grant deadlines that group members might want to be aware of. It also is a great place for group meetings, outings, deadlines, etc.
 
+>_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
+>
+>Take your allotted vacation time to recharge and use the Institute calendar for scheduled meetings and reporting vacation/sick time so others can easily schedule meetings.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >Google Calendar:

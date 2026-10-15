@@ -84,6 +84,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.
 
+>_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
+>
+>You should take intellectual ownership of your projects by taking notes in meetings and sharing them with the project team afterward, making sure projects don't stall or fall through the cracks.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
 >We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.

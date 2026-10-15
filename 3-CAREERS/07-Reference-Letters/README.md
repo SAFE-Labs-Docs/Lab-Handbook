@@ -88,6 +88,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >I am happy to provide letters of recommendation to my trainees, students, and advisees when appropriate. Please provide me with your current CV/resume, information on the opportunities you are applying for (include pertinent dates and any important talking points I should bring up in my letter), the format my letter should take, and where my letter should ultimately be sent. For the most timely response, I require at least three weeks notice before new letters are due.
 
+>_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
+>
+>We can provide letters of reference that reflect your performance, skills, and interaction with the rest of the group, within two weeks.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >Letters of recommendation: Most fellowships require multiple letters of recommendation. As a professor, writing a strong, personalized, and heartfelt letter of recommendation is one of the most important things we do for our students. We take this responsibility seriously and want to ensure we do justice to each student's individuality and character. Therefore, it's crucial to communicate your intention to apply for a fellowship at least one month in advance (if not more) to all your letter writers, including Dr. Chory. This allows us the time and space to craft thoughtful letters that capture the essence of who you are as a person and a scientist, and why you deserve the opportunities that the fellowship can provide.

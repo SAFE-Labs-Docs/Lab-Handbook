@@ -155,6 +155,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >
 >It is your responsibility to work with Katy to identify a research topic, identify research milestones and goals, plan your timeline toward progress, plan for conference submissions, prepare for manuscript submissions, prepare for your thesis proposals and defenses, etc. Get a calendar, consider a task manager, create a GANTT chart… whatever works for you. If at some point it seems like you don’t have a plan, I will suggest all of these things.
 
+>_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
+>
+>Provide support for your development. Provide training in scientific project planning and execution, specific techniques and methods. Lab members usually attend at least one scientific course, conference, tutorial, or workshop per year and have membership in a society that benefits their work.
+
 >_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
 >
 >- Training:

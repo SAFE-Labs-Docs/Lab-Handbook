@@ -17,6 +17,17 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 
 ## Examples
 
+### Finland
+>_[CellMigrationLab_2026](https://cellmig.org/join-us/)_:
+>
+>Postdocs join us with their own fellowship. We help you choose a scheme, shape the project and write
+>the application. The main options are:
+>- Marie Skłodowska-Curie Postdoctoral Fellowships (European Commission)
+>- EMBO Postdoctoral Fellowships
+>- Human Frontier Science Program fellowships
+>- Finnish foundations, such as the Sigrid Jusélius Foundation
+> and the Finnish Cultural Foundation
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

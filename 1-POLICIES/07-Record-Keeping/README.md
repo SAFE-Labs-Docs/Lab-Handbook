@@ -191,6 +191,23 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >All members are expected to keep their data files, input decks, etc. in a file system that is organized and stored on one of the workstations in the lab. Personal laptops should not be used to store data. Critical results should be saved. README files should be used in directories to explain what is there, when the work was done, and anything else that would be useful to future members to understand and reproduce the results. All members are entitled to take a copy of all of their data when they leave the lab.
 
+>_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/records.md)_:
+>
+>If you didn’t document it, it didn’t happen.
+>- In two years, you’ll wish you had written more down.
+>
+>#### Guidelines:
+>
+>- Legible, in pen. You can either use a normal lab notebook or build a loose-leaf notebook in a binder.
+>- Enter information **directly** into the notebook [no paper towels :)].
+>- Properly introduce **and** summarize each experiment.
+>- Tape in any external results (graph printouts, etc.)
+>- Note where any electronic files associated with experiment are stored.
+>- Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures.
+>- Include calculations
+>- Keep up with the table of contents.
+>- Date and number each page.
+
 >_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
 >
 >We work with a variety of data types, including field observations, behavioral observations, molecular and genomic. It is imperative that you have multiple copies of your data in different locations. Imagine that the worst-case scenario is going to happen, because it very well might- your laptop will break, your external hard drive will fail, the building with your lab notebook will flood. You must back up your data to the cloud and ensure your data will not be lost due to an accident. This means taking pictures of handwritten data sheets, uploading these photos to the cloud and placing them in the lab shared drive. This means uploading raw sequencing data to NCBI (set the release date to the future so as not to release unpublished data) and having data on both an external hard drive and a UK/lab server. If you are collecting data in real time that at first exists in only one location, have a plan for how you will quickly back up those data on a regular (daily, if possible) basis. If you aren’t sure how to back up your data, ask!

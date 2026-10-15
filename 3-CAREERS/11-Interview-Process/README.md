@@ -22,6 +22,11 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ## Examples
 
+### Canada
+>_[BowdishLab_2026](https://www.bowdish.ca/lab/faq/)_:
+>
+>In general I will have very few “ready-funded” positions for post-docs. All interested post-docs will be required to find their own funding in the foreseeable future; however, if you are interested in working in my lab, you are welcome to contact me. You will be asked to present your current work to my group, meet with both me and my lab and I will require a c.v., statement of research interests, plan for obtaining external funding and references.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

@@ -126,6 +126,11 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >- If you observe a conflict between two other lab members, encourage one of them to speak with the other directly. If that isn’t possible, direct them to the senior postdoc, a PI, or another appropriate person.
 >- A mediator can be brought in at any point if it would help.
 
+>_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/lab-values.md)_:
+>
+>*Use constructive language in conflict.* Facilitate fruitful conversation by using phrases that focus on your experience, *not* assumptions about the other person. Phrases like "What I heard was..." and "When you said X, I felt Y..." provide new information to the other person (your experience) and invite conversation and clarification. In contrast, phrases like "You always say/do..." and "You are X" are assumptions and generalizations about the other person. This is unfair, shuts down conversation, and exacerbates conflict.
+>+ *Start one-on-one, but get help if needed.* To prevent harmful gossip, one should not bring others into the conflict unless needed. If the situation warrants, however, bringing in others can facilitate reconciliation.
+
 >_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
 >
 >Disagreements, misunderstandings, and conflicts within a group sometimes happen. Early and authentic communication are key to resolving issues and minimizing conflicts. If you have concerns about your interaction with me or with anyone else, please don’t hesitate to come talk with me.

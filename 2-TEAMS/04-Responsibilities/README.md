@@ -218,6 +218,14 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >
 >By the time you're done, you will have to know how to do statistics and plots in R, share your work with me using Rmarkdown, use Matlab scripts for data analyses, know enough Python to navigate presentation in PsychoPy, and make figures and posters using Adobe Illustrator or a similar graphics program. You will also preregister your experiments when appropriate (which it almost certainly will be) and share your data and analysis scripts publicly. The learning curve can be a little steep on these but it's well worth it. (If these aren't compatible with your goals or interests, my lab is probably not a good fit for you!)
 
+>_[SteinschneiderLab_2026](https://github.com/SteinschneiderLab/lab-manual/blob/main/professional-development.md)_:
+>
+>I am happy to provide support as you develop your programming skills. In particular, I will fund online training modules (e.g., [Data Camp](https://www.datacamp.com/)) if you want to pick up a new language. I also require that students use Git and Github for version control and to promote open science (see [open-science](open-science.md)).
+>
+>The lab often uses high performance computing (HPC) in support of our research. We have a local cluster (Hopper), and also use cloud resources (NSF ACCESS, Google Cloud, Amazon Web Services).
+>
+>I have compiled several tutorials and other useful materials in the [resources](resources) folder of the lab manual. Please start there and read through those materials as a starting place for training excercises.
+
 >_[Thrash_2026](https://thethrashlab.com/wp-content/uploads/2025/09/Thrash-Lab-personnel-expectations_7.pdf)_:
 >
 >Provide mentorship, guidance, and support to those who work in the lab, including, but not limited to, technical training for lab protocols and equipment, experimental design, project strategy and planning, manuscript preparation and submission, logistics, job searches, poster and oral presentations, teaching, letters of recommendation, and curriculum choices.

@@ -294,6 +294,11 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >I assume that, unless we have talked about it, I will be an author on papers coming out of the lab. This does not mean that you should add me on to papers as a courtesy; it means that I expect you to include me in the process of discussion and writing in a way that merits authorship. In other words, the same approach I take with you.
 
+>_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
+>
+>Generally, contributing to study design, running statistical analyses, and writing sections of the manuscript warrant authorship—running participants usually does not. Other lab members who help with a project in some meaningful way may be added to the author list as well. Although not required by APA, I expect students to contribute to some writing in a manuscript as part of authorship, so they develop their writing skills and learn about the publication process.
+>    Order of authorship will be discussed with everyone as soon as is reasonable (e.g., once roles have been outlined), but this may change depending on how responsibilities shift throughout the project. Either way, initial and subsequent discussions of authorship should include all named co-authors. If you have concerns about authorship, please bring it up with your project lead or me at any point.
+
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
 >Coauthorship is earned by making an important intellectual contribution to someone else’s project (helping out with field or lab work is, emphatically, not enough). Examples of intellectual contributions include: contributing to the design of an experiment or field study; analyzing or visualizing data in a way that provides new insight; sharing code or insight that changes the message of the paper; preparing graphics or writing substantial portions of text; providing critical and constructive feedback on drafts (but note: editing for language and style, which changes the words but not the message, is not sufficient for coauthorship). Each year we will devote at least one lab meeting to discussing the general criteria for coauthorship.

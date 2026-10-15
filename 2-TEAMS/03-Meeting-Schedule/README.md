@@ -467,6 +467,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Once you start on a project, I will assign you a research subgroup, and you should plan to attend the weekly subgroup meetings for that group. You must present at least one slide about what you did in the past week, and at least one slide on what your goals for the next week are.
 
+>_[POISLab_2026](https://www.notion.so/22b9e68b69b680639ce4eaa7e6939670)_:
+>
+>Lab meetings (~1 hour) are scheduled at the same time every week during the semester and are held in person in Lutz 440. Lab meetings are usually the only time all of us are gathered in person, so it’s our weekly chance to connect with and learn from each other—and grow as a lab community.
+>    Any lab member can set the agenda, but every meeting needs an agenda. Typically, the person who sets the agenda will run the meeting, but they can also invite a guest speaker based on a topic of their choosing. Leading is like being the moderator in a conference talk. You don’t have to create content, but you’re in charge of making sure the meeting is instructive. Meeting agendas should be posted on Notion at least 5 days ahead of the meeting time so lab members can prepare appropriately.
+>    Lab meetings follow a rotating list of topics based on a monthly schedule, starting from the first week of the month: Journal Club, Didactics, Project Discussion, and remaining weeks are “Wild Cards.” Lab members take turns to choose topics so that everyone has a chance to lead a meeting.
+
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/07-communication.html)_:
 >
 >1:1 with the PI

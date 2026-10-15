@@ -259,6 +259,29 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >Anyone conducting an independent research project should have a lab notebook for keeping track of discussions, experiments, and taking notes. You may also want to use an electronic notebook (e.g., Evernote) as your primary lab notebook, or to supplement a paper copy. The important thing is that you are keeping notes, and they are in one place.
 
+>_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
+>
+>Keep shared lab folders as organized as possible because different people will be accessing those files at different times (even after you leave the lab). For the same reason, include a README.txt in each project folder that includes information on the study, organization scheme of the folder, and links to any other information relevant to the project.
+>
+>Folder Structure
+>    Use the following structure (a template folder titled newProject is in Box):
+>    - /admin: for IRB-related documents, including approval letter, recruitment materials, and study protocol.
+>    - /analysis: for analysis scripts.
+>    - /data
+>      - /output: for processed data files and statistical output, including visualizations.
+>      - /raw: for raw (i.e., unprocessed) data. This is the dataset downloaded directly from the data collection platform and should never be modified directly. Create code for data cleaning for reproducibility.
+>    - /materials
+>      - /assessment: for self-report measures, diagnostic interviews, and other assessments.
+>      - /stimuli: for anything related to conducting (or replicating) the study, including qualitative interview questions, treatment materials, and experimental manipulation.
+>    - /refs: for any references or resources related to the project (e.g., articles from literature review).
+>    - /writing
+>      - /manuscript: for initial drafts of manuscript(s) related to the project.
+>      - /submission: for journal submission.
+>      - /conference: for conference abstracts, posters, and presentations.
+>
+>File Naming
+>    Use CamelCase and underscores for file naming. Avoid spaces because not all systems read spaces well. In addition, generally, files should use the following format: StudyName_ParticipantID_FileType_Date. That way, we know what study the file is related to, what content it contains, and how recent it is. If you see a file that is named differently, please correct it to this format for consistency and legibility.
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >There is no standard as whether it is a bound notebook, loose-sheet binders, or electronic files. You can use any, but please incorporate the following:

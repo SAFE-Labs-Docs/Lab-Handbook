@@ -125,3 +125,9 @@ Science is an international endeavour, which brings together people from many cu
 >      - Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
 >       - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.
 >       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
+
+>_[POISLab_2026](https://www.notion.so/22a9e68b69b68082a3a2d63a0e36f918)_:
+>
+>The POIS lab takes the stance that diversity, inclusion, and anti-oppression are axiomatically important and lab members are expected to demonstrate their commitment to these values through their language and behaviors. Thus, we are committed to:
+>    - Respecting others and all aspects of their identity by being mindful of our language, implicit assumptions, and actions.
+>    - Speaking up in response to discriminatory, inappropriate, offensive, or otherwise disparaging statements if doing so does not cause you harm (e.g., due to power differences, emotional burden). Sometimes, self-protection is necessary, and that’s OK. Speaking up does not always equate to confronting; it may entail asking the speaker to clarify their statement or speaking with them separately. Do this in a way that works for you, but doing nothing is taking a stance, and that’s not the side we want to be on if we care about human welfare.

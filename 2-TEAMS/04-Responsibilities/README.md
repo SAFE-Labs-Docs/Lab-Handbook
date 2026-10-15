@@ -218,6 +218,13 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >
 >By the time you're done, you will have to know how to do statistics and plots in R, share your work with me using Rmarkdown, use Matlab scripts for data analyses, know enough Python to navigate presentation in PsychoPy, and make figures and posters using Adobe Illustrator or a similar graphics program. You will also preregister your experiments when appropriate (which it almost certainly will be) and share your data and analysis scripts publicly. The learning curve can be a little steep on these but it's well worth it. (If these aren't compatible with your goals or interests, my lab is probably not a good fit for you!)
 
+>_[POISLab_2026](https://www.notion.so/22a9e68b69b680a9bfacdfdb4adc3bdd)_:
+>
+>Generally, you’ll start with simpler tasks (e.g., testing surveys, putting up flyers), then progress to more involved tasks (e.g., meeting participants, managing data) as you demonstrate competence. I’m hesitant to risk a poor study experience for a participant or mismanaged data, hence the task scaffolding.
+>    - You’ll be directly supervised by a graduate student or me. If you find yourself without a lab member you regularly check in with, please let me know. Part of this is for quality control, but the other part is making sure you’re developing the skills you need/want for the next step of your career.
+>    - Related to the point above, you should be receiving regular feedback from your lab supervisor. If you don’t know how you’re performing, please talk to your lab supervisor or me about it. It’s totally reasonable to expect your lab supervisor to give you regular feedback on what you’re doing well and what to work on.
+>    - Let your lab supervisor know what you want to get out of your RA experience. That will help them figure out what kinds of tasks and support to give you. For example, you might want to learn more about how to apply to a clinical psychology Ph.D. program or get feedback on your CV—great. Tell them that.
+
 >_[SteinschneiderLab_2026](https://github.com/SteinschneiderLab/lab-manual/blob/main/professional-development.md)_:
 >
 >I am happy to provide support as you develop your programming skills. In particular, I will fund online training modules (e.g., [Data Camp](https://www.datacamp.com/)) if you want to pick up a new language. I also require that students use Git and Github for version control and to promote open science (see [open-science](open-science.md)).

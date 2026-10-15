@@ -123,6 +123,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >At some point, you will likely ask me to write a letter of recommendation as you transition to your next position. I am happy to do this, because it is essential for your career development, and it is part of my job. Please follow the guidelines below. (If you do not, I will probably still write you a letter, but I will be grumpy about it, which is not something you want in your letter writer.)  Required o Ask me for the letter at least one month before the due date. o Provide me with a list of places and deadlines in a document. A checklist is very helpful. The emails I receive from the schools you are applying to get lost instantly in my inbox. o If you want me to read some of your application material, please send me your material at least two weeks before the deadline.  Optional, but helpful o Provide reminders 2 weeks, 1 week, and 1 day before the deadline.
 
+>_[POISLab_2026](https://www.notion.so/22b9e68b69b680a2b16ad37da3366760)_:
+>
+>To request a letter of recommendation, please complete an LOR request form. I generally encourage asking me if I’m willing to write you a letter before completing the form (partly as a courtesy and partly so you’ll know I have agreed to write you a letter before you spend time on the form), but if that is not feasible, you can complete the form directly.
+
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/09-leaving-the-lab.html)_:
 >
 >If you need a letter of recommendation, ask the PI. Ask early: at least several months before any deadline, with the deadlines stated clearly at the time of asking. Do not assume the PI knows what you need or when you need it by. Tell them directly, in writing, with specific dates.

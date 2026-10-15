@@ -312,6 +312,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >Even if you speak with me in person, it is important to document these requests (and my approval) over email so that we have a record. It is your responsibility to make sure this happens.
 
+>_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
+>
+>You don’t need to ask permission for time-off. However, it is your responsibility to get coverage for any time-bound tasks (e.g., participant tracking). Do this as far in advance as possible as a courtesy to whoever will be covering for you and at least 1 week in advance.
+
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
 >Take some vacation time now and then to maintain a healthy work-life balance. Some time off around Christmas and the New Year, and in the summer, is totally reasonable. If things are going well, and you’re making good progress on your projects, then you should reward yourself with additional vacation time. Generally I will leave it up to you to decide how much vacation is appropriate, but I will let you know if I think you are taking too much time off—I do expect both students and postdocs to treat their positions as fulltime jobs (2 months of vacation and no publications in a year = too much time off). If you’re going to be gone for more than a long weekend, please let me know (a calendar invite with the dates you are gone is ideal).

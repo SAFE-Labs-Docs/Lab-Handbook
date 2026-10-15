@@ -142,9 +142,18 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > funding through non-lab sources, you should discuss your options with
 > Jeremy.
 
+>_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
+>
+>Build independent external collaborations to help advance your scholarship goals, through networking, conference attendance, and regular attendance at department and campus seminars, colloquia, collaborator visits (talks, group meetings, dinners), and events, and learn from those to support building our scholarship.
+>- In return, I will provide to researchers, including students, funding for you to attend at least one national conference per year, help defray cost of any meals or transportation for events, and be sure to include you in opportunities to meet collaborators.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Graduate-Student-Expectations-in-the-Kirby-Lab.pdf)_:
 >
 >Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.
+
+>_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
+>
+>**I will encourage you to attend scientific/professional meetings.** I will not be able to cover all requests but you can generally expect to attend at least one major domestic conference per year, when you have material to present. Securing outside funding (e.g. a fellowship or travel award) will likely enable you to attend additional meetings, especially international meetings. I will work together with you to strengthen your presentation skills.
 
 >_[MoreauLab_2026](https://www.moreaulab.entomology.cornell.edu/joinus)_:
 >

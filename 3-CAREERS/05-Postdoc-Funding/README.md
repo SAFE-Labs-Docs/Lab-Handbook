@@ -77,6 +77,10 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 > students and postdocs to apply to fellowships—those help both me (by lowering the
 > financial burden) and you (by strengthening your CV).
 
+>_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
+>
+>Apply for grants/fellowships (USDA NIFA, NSF, LSRF, JGI, NIH, UCPP or others). Although I will only hire you if I can support you for at least one year (and ideally 2 years), it is in your best interest to get independent funding.
+
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >Talk with me about pursuing funding opportunities

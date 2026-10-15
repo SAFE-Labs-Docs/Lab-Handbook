@@ -297,6 +297,22 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >• Regular check-ins: The PI commits to regular one-on-one meetings (biweekly with students, monthly with staff and postdocs) and expects lab members to come prepared to discuss progress and concerns. These meetings are led by the lab member and are meant to encourage strategic thinking about ongoing and future work. Even when there’s little new data to show, it’s valuable to reflect on behind-the-scenes efforts, ideas in development, or challenges encountered. Using slides to structure the discussion is encouraged. The PI also welcomes feedback from lab members during these meetings to improve the lab experience.
 
+>_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
+>
+>### **Regular lab meetings**
+>1 hr - 90 min. [Link to Schedule](https://docs.google.com/document/d/1r4dQMmJVQT0ifgr75uaU7AIduoW6Vhva2ubeLwG4OtY/edit#)
+>
+>**Attendance** *Please show up by the start of the meeting*. If you are running behind, tell a labmate or post on Slack so we know that we can start without you. Attendance and participation is expected of full-time personnel and encouraged for undergraduates. (Obviously illnesses, doctor appointment, family issues, travel are valid reasons for missing a meeting). We will try to have lab meetings on Tues, Weds, or Thurs to provide flexibility for occasional long weekends. However, teaching/class schedules may coerce us onto M/F for some quarters, so try not to travel during lab meetings.
+>
+>If you are the presenter:
+>* *bring double-sided, stapled print-outs* for each member of the lab.
+>
+>**Changing the lab meeting schedule**. If a conflict arises and you cannot meet your presenter obligations, identify a labmate who is willing to switch days with you. Edit the schedule in the Google Doc and notify the lab of the change via Slack (linking the doc). You don't need to get permission from Tiffany. Just manage yourself and communicate the change to the team.
+>
+>**Meeting Format**
+>* **Lab business** (<5 min). Discuss routine lab issues like equipment and reagent needs/problems, shared responsibilities, upcoming events, new member introductions, safety training and discussions, etc. If any of this information can be broadcast/coordinated through Slack, we can have shorter in-person meetings.
+>* **Main Event** (~50 min). Meetings will be a Research Update or a Round-table.
+
 >_[ManningGroup_2026](https://mmanning.expressions.syr.edu/wp-content/uploads/2023/01/Manning-Research-Manual-January-2023.pdf)_:
 >
 >Updates: Every other week our research group meeting will be an “updates” meeting. These are opportunities for you to share what you’ve been thinking about over the week with others. I expect every group member to post a short “group update” on the slack channel before these meetings, which will help you to gather your thoughts about what you’d like to share with the group and also help identify overlap between your work and the expertise of others. Quite often, it leads to help where you’re stuck on a project! During the meeting, group members volunteer to go over their update and have others ask questions and provide feedback. These updates are NOT polished, professional talks – they are opportunities for informal, low-stakes collaborative feedback and help from our collective research group.

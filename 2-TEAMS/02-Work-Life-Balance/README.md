@@ -237,6 +237,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >* Dates
 >    * Everyone working in our lab follows the Booth leave policy, which gives four weeks of vacation/personal leave per year (in addition to the [13 university holidays](https://humanresources.uchicago.edu/benefits/timeoff/vacationholidays/universityholidays.shtml)), regardless of whether you are employed through Booth or BFI. We encourage you to use this leave. You also have two weeks of sick leave.
 
+>_[HollandGroup_2026](https://holland.chem.yale.edu/)_:
+>
+>Policies on vacation days are set by Yale (up to 30 days/year including University holidays). I ask that you be clear to me (and your labmates) when you will be away, by telling me ahead of time, by leaving an easy-to-interpret note on your desk, and by making sure that your group jobs will be covered in your absence.
+
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >You may take up to 4 weeks of vacation every year, i.e., 20 business days. This includes but is not limited to federal holidays, university holidays, or scheduled university recesses, such as winter break, spring break, etc. Please inform your teammates and me in advance of days you will be gone. I understand that emergencies will arise. In this case, please notify my as soon as possible. Updating your status on Slack is a good way to let your teammates know if you cannot come to the lab.

@@ -75,6 +75,10 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >- We collectively keep the inventory up-to-date to prevent duplicates. Order replacement inventory at least before we reach 2 week’s supply, to allow for shipping time.
 >- We have an annual lab clean-up in December that everyone is expected to participate in. We use this time to reorganize shared inventory, toss or rehome items no longer in use, and agree on where things should live.
 
+>_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
+>
+>Materials needs to conduct your research and improve your ability to do and communicate that research are first the responsibility of the lab to purchase and acquire, following UW purchasing policies. These policies require things such as preferred vendors and systems for some items and ensuring sale taxes exemption where required. Please work with me to identify those needs and we can purchase those. You will generally not be able to get reimbursed if you pay for them yourselves, except in emergency (e.g., last minute hardware store run in the field), which will require extra documentation. Depending on the item, sometimes we can acquire immediately and other times we need to wait for the right type of funds to be available. Please note, any items purchased by the lab remain property of the lab after you depart, including items like laptops, portable hard drives, field clothing, and textbooks, unless explicitly stated otherwise. If you would like to acquire something to keep after you depart, then that would be a case where it is appropriate to use your own personal funds.
+
 >_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
 >
 >a. If someone in the Kawahara Lab does not have a private office, then they are entitled to have a clean and distraction-free work area in at least one of the following shared spaces.

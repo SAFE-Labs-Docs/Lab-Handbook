@@ -35,6 +35,10 @@ We are all familiar with the experience of joining a new lab whilst still having
 >This will apply mostly to postdoc researchers joining the lab. I do understand this situation – I had to finish my PhD manuscripts during the first year of my postdoc. I support postdocs taking time to complete their previous work, which should not exceed ~25% of their schedule. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than one year; the first year is also the best time to do this, while the postdoctoral project is taking shape and taking off. If finishing previous work is expected to last longer than one year, postdoctoral researchers should delay the start of their position in the lab whenever possible.
 
 ### Germany
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>The PI expects the group member to responsibly dedicate as much time to finalizing previous commitments as they deem necessary as long as it does not interfere directly with essential lab-based activities and duties, or puts a disproportional strain on other members of the lab.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The PI and new lab members discuss during onboarding timelines and work hours allocated to finish previous work. 

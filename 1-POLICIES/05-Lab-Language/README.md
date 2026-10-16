@@ -39,6 +39,10 @@ English is the international language of science in the 21st century: proficienc
 >- French language courses are available via the CNRS or the University; do not hesitate to ask HR or colleagues about this.
 
 ### Germany
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>The lab language is English. Any professional conversation, oral and written, during work activities must be in English to remain inclusive to the very international scientific community of the CMCB and TU Dresden. However, it is important to be aware that a big chunk of university administration and bureaucratical procedures are conducted strictly in German (including many important documentations such as contracts, animal licenses, permits etc.). Administrative help is available to help with navigating these challenges. The University offers some assistance in learning the German language, which can also come in handy for integration into the wider Dresden community outside of the scientific bubble. Finally, everyone is of course free to converse in their native language whenever there is no risk of leaving people around you feeling excluded from participating in work-related activities.
+
 >_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
 >
 >The everyday language at our group is German and we encourage our non-German speaking employees to learn German. Of course we switch to English when we talk to our non-German speaking colleagues or discuss our science in a larger group. All teaching and therefore most teaching materials are in German. In team meetings, we usually have an English part for information relevant for all group members and a German part where only teaching or administrative stuff is discussed that is not relevant for all group members.

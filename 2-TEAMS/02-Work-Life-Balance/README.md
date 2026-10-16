@@ -86,6 +86,14 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >Working hours: There is no such thing as expected working hours in the group. In fact, we do not encourage long working hours and the weekend is time off work. Everyone’s life circumstances are different, so all group members should find a schedule and work routine that works best for them. Individual approaches have to be communicated clearly with the PI so that the time spent together in the lab can be fruitful for all group members. This includes group meetings, institute meetings, and project discussions, which should be attended in person if possible. You should not feel obliged to reply to any form of workrelated communication outside your own working hours, and should respect the boundaries set by your colleagues.
 
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>Working hours - total working hours are generally regulated by contracts in Germany and I expect people to adhere to them. We consider the core working hours to be from 9:00 - 16:00. This means that any mandatory activities like lab meetings, journal clubs, and seminars will only be scheduled within these times. Sometimes there are project-specific demands or responsibilities which require us to be in the lab longer on some days or outside of the core working hours as we work with live animals and some procedures take longer to do. There is no need for overwork and the PI expects people to compensate longer working days by reducing work on other days to balance it out. Please communicate this!
+>
+>Remote working - although the core of research work is laboratory-based and is best done in a team, there are a variety of tasks which can be done remotely and in isolation (such as reading, writing, data analysis on a computer, figure preparation etc). If you feel you can be more productive and carry out these tasks more efficiently at home, in a coffee place or on a beach than in the office then feel free to do that. Again - please communicate this!
+>
+>Vacations - the PI is a strong believer that time away from the lab is not only crucial for one's mental health but can also be an important source of inspiration and new ideas! Rest is thus taken very seriously. Everyone is expected to take their allocated vacation days and is not expected to come in on weekends or national holidays unless it is absolutely necessary (for example axolotl duties) or if they chose to work on these days and take a normal day off. Again - you guessed it - please communicate this!
+
 >_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
 >
 >No one looks at you askance if you take breaks or have to work longer hours during periods of increased workload. No one has to be available on weekends.

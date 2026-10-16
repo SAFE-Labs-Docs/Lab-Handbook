@@ -18,6 +18,10 @@ Lab members are often considering academia as a potential career. It informs tha
 ## Examples
 
 ### Germany
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>Transparency - this pillar is crucial for good communication, and good communication is the solution to 99% of problems we encounter in the lab. It relates not only to being transparent about our work, including insights gained, difficulties encountered, and any mistakes (errors are an integral part of learning and development), but also on the part of the PI to be as transparent as possible about the lab. This will be implemented by regular updates from the PI in the form of state-of-the-lab talks, which will include information on lab management, policies, budget, goals, failures, grant applications etc.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >At the annual retreat, I update the lab about the state of the lab, management challanges, grant and financial situations, and equipment. We also discuss how I or the team can address management challenges. 

@@ -99,6 +99,14 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >Please find important information about publishing (including authorships, open science policies, choice of journals) in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing).
 
 ### Germany
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>As a guide the following are typically accepted as “acknowledgement” level contributions rather than constituting authorship (though exceptions can be made)
+>- contributing a commonly available reagent/piece of equipment/animal material: we often ask the community for sharing a reagent or piece of equipment and that is considered collegial behaviour and there should not be an expectation of authorship-level contribution to a project. IF the reagent/animal material is difficult to obtain, has been made by the person themselves at their cost and time expense and effort, then it might be deemed an authorship-level contribution. If the person also helped you use the equipment in a way which requires scientific idea generation or analysis then it may also be deemed an authorship-level contribution.
+>- facility usage - there are clear guidelines at CMCB for paid facility usage and acknowledgement
+>- reading and commenting on a manuscript draft with no prior significant intellectual contribution to the project
+>- non-independent or routine experimental contributions. For example, if a rotation student is taught techniques and carries out standardized protocols, stainings, imaging, and figure prep or if a research technician conducts standard protocols at the request of the project leader and the results end up contributing to a publication, but there was no independent intellectual contribution to the design or analysis of the experiment, then that persons contribution will be acknowledged but they will not be an author on a publication. On the other side, if that person has an independent scientific idea for which experiment to perform or how to significantly improve an experimental procedure or has generated a large amount of data which is indispensable for the publication of a manuscript based on these results, they might be considered an author.
+
 >_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/science.html)_:
 >
 >We do not follow the common practice of automatically including the chair holder on the paper.

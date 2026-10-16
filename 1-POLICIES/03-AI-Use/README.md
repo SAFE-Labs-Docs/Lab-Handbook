@@ -59,6 +59,18 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >
 >Before using an external AI service, check that you have the right to upload the content; if unsure, ask the project lead.
 
+### Germany
+
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>People are getting more and more creative with finding applications for AI tools, therefore, rather than specifying what people can use it for, I find it easier to list the unacceptable uses.
+>- plagiarizing writing or art
+>- directly copying AI output with no verification or validation (facts, citations, code, logic)
+>- substituting reading of full journal articles with AI summaries (in the context of journal clubs or reading vital literature for the research)
+>- inputting sensitive data to AI tools lacking appropriate data-protection policies
+>
+>Reports, write-ups, and manuscripts really benefit from the human component in my opinion. Although I am not against the use of AI as a support tool it should not be used to fully replace you as an individual doing and writing about science or communicating with other humans.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

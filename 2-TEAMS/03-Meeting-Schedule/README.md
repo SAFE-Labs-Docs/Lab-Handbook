@@ -81,6 +81,20 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Internal and external seminars : Internal seminars at IGH are organized every Thursday at 11.30am, followed by pizzas. Attendance to the internal seminars is compulsory for all lab members. In addition to these internal seminars, external seminars are often organized at various times of the week. Keep an eye out for these external seminars and try to attend those related to your project.
 
 ### Germany
+>_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
+>
+>In the lab there is an expectation for active participation in the following types of regular activities (scheduled in the shared calendar):
+>- weekly lab meetings (rotating journal clubs, project discussions, joint group meetings and state-of-the-lab PI presentations)
+>- bi-weekly departmental seminars (CMCB life science and CRTD PhD/Postdoc seminars)
+>- regular one-to-one meetings with PI (the frequency of each will be adjusted to the needs and career level of individual lab members)
+>- team-building activities (e.g. lab retreats, outings, celebrations)
+>
+>Expectations for lab meetings and one-to-one meetings:
+>- please come prepared, whether you are presenting, discussing a paper at journal club or just wanting to discuss data, experimental design, troubleshooting, ideas, or specific requests (time-off, training/conference attendance). Some meetings can easily just be an email.
+>- do take notes - when discussing your projects it is important to make notes about what we discuss for your future reference. If there are specific deadlines, points or to-dos that we agree on it is good to have that in writing so that there are no misunderstandings at a later date
+>- lab meetings are expected to be casual, open, and free for the flow of ideas. The PI encourages everyone to ask questions and participate in discussions. For project presentations you need to include sufficient introduction for all lab members to be on the same page, the "why am I doing that?", information on experimental design, troubleshooting, failures, mistakes, and analysis strategies and not just polished results.
+>- journal clubs will have two formats - the mini and the in-depth. Mini JC will have every person from the lab giving a short 3-minute presentation of a chosen article of interest. In-depth JC will have one lab member presenting one publication or preprint in detail and encourage an exercise in critical thinking by examining the results, methodology and interpretations of that paper. Ideally those will be of some relevance to the group.
+
 >_[LMUPsychologicalMethods_2026](https://labhandbook.psy.lmu.de/environment.html)_:
 >
 >In addition to informal exchange opportunities, such as the daily lunch in the Mensa, there is a 30-minute chair meeting Thursdays at 2 pm during the lecture period on a fortnightly basis. Here, organisational topics and questions relating to teaching are discussed. During the lecture-free period, we also use this meeting from time to time to discuss our teaching vision and direction in more depth. If, as a project member, you don’t have time to take part in these teaching-related meetings due to your own project tasks, it’s perfectly okay if you opt out of the meetings. In principle, however, anyone who has time is welcome to get involved, even if they have no formal teaching commitments.

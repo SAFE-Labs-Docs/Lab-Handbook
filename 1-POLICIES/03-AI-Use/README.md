@@ -59,6 +59,20 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >
 >Before using an external AI service, check that you have the right to upload the content; if unsure, ask the project lead.
 
+### Denmark
+
+>_[EmbodiedComputationGroup_2026](https://www.the-ecg.org/lab-book/pages/13-data-and-ethics/)_:
+>
+>## Record AI assistance accurately
+>
+>Keep a note of the tools used, the tasks they assisted with, the data they could access and the verification you performed. Use that record when preparing the manuscript's disclosure, following the journal's instructions.
+>
+>For example, if accurate:
+>
+>> We used Claude Code (Anthropic) to assist with analysis code. The authors reviewed the implementation and checked it using simulated data and independent calculations.
+>
+>Only claim that no participant data entered the model if you have established that this is true. Do not copy a disclosure that describes checks you did not perform.
+
 ### Germany
 
 >_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:

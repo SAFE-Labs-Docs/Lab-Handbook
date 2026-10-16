@@ -146,6 +146,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >Publish at least two papers on which you're first author.
 >	These papers should be submitted by the time you defend. Note, this is not the requirement of relevant UChicago doctoral programs, but I think it is an important minimal target.
 
+>_[DaviesLab_2026](https://sites.bu.edu/davieslab/files/2026/10/Davies_Lab_Mentoring_Compact_2026.pdf)_:
+>
+>It is generally expected that students pursuing a doctoral degree will author three first-author journal papers (i.e. three dissertation chapters) and for postdocs, the general expectation is one publication a year stemming from your postdoc research. Importantly, this number is dependent on the scientist, the publication/review process, and overall career goals of the scientist.
+
 >_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
 >
 >Given that the PhD signifies capability to independently conduct independent research, it is expected that students have completed the full paper publication process prior to graduation. (All students from this research group have had at least one chapter in print and at least one more submitted at the time of the dissertation defense, and more than half have had at least three chapters in print.)

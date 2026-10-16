@@ -266,6 +266,28 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >
 >I expect that you will pursue research that has some overlap with my expertise and interests. Otherwise, I will not necessarily have the best perspective to guide you successfully. If your interests shift away from the core lab research, I expect that you will inform me and we can discuss options.
 
+>_[McNeilGroup_2026](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2015/06/Group-Manual-October-2026.pdf)_:
+>
+>Here we suggest some year-specific goals for graduate students because it is oftentimes difficult to assess your progress because there are few concrete milestones in graduate school. It’s easy to feel like an imposter when you don’t know how to assess yourself.
+>
+>Year 3
+>
+>Start thinking about your future career and explore different career paths. Attend career workshops and give informational interviews. Start networking with people who have this career, as their advice and support will be really helpful.
+>
+>Attend different professional development activities. The university and department put on a lot of events for resume building, public speaking, scientific writing, etc.
+>
+>Continue attending seminars and reading the literature!
+>
+>Attend an external conference (ACS) and present your work.
+>
+>Get involved with grant-writing, paper-writing, and/or helping write a Perspective or Review article.
+>
+>Mentor an undergraduate or a rotation student.
+>
+>Post-docs
+>
+>Don’t be afraid to try new things! You are supposed to grow a ton during your postdoc time so look for opportunities to develop new skills and research directions.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Our team may be composed of researchers with different roles at any given time: undergraduate students (whether enrolled at Cornell or visiting from elsewhere), graduate students at the Master's or PhD level, postdoctoral researchers, and research technicians or scientists. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. The responsibilities of different lab roles are shaped by the distinct kinds of goals the role might have.
@@ -290,6 +312,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >The lab often uses high performance computing (HPC) in support of our research. We have a local cluster (Hopper), and also use cloud resources (NSF ACCESS, Google Cloud, Amazon Web Services).
 >
 >I have compiled several tutorials and other useful materials in the [resources](resources) folder of the lab manual. Please start there and read through those materials as a starting place for training excercises.
+
+>_[SUMMITLab_2026](https://sites.bu.edu/summitlab/values/mentorship-values/)_:
+>
+>Training: Conducting research on adolescent substance use is complex as it requires training in developmental theory, developmental methods, addiction science, addiction research methodology, treatment research including studying mechanisms of behavior change, diversity science, and advanced longitudinal quantitative methods. I am committed to providing hands on training experiences in these areas to all of my mentees.
 
 >_[Thrash_2026](https://thethrashlab.com/wp-content/uploads/2025/09/Thrash-Lab-personnel-expectations_7.pdf)_:
 >

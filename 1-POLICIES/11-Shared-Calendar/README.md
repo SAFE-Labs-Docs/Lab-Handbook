@@ -149,6 +149,10 @@ SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by main
 > holidays, etc.). All
 > full-time lab members should request write access.
 
+>_[McNeilGroup_2026](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2015/06/Group-Manual-October-2026.pdf)_:
+>
+>To keep track of everyone's dates, there is a shared Google calendar. You should write your initials on the date(s) you will be taking off AND what vacation day that is for you (e.g., 10/20 2027).
+
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Expectations.html)_:
 >
 >You must enter days you are planning to be absent in the calendar for the lab/group that you belong to (e.g., the NVSL or the GreenDroid group).

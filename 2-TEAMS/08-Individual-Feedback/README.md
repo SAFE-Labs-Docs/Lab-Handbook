@@ -81,6 +81,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >The PL and GSR are responsible for the GSR’s  goal & milestone setting for the year and monthly check-ins. If the PL has any concerns regarding the GSRs progress, the PL will conduct a  mid-year evaluation and/or schedule a conversation with the FS before the end of the semester.
 >Each Spring, the GSR will submit a self-evaluation that will be utilized during their annual evaluation with their FS. The purpose of the annual evaluation is to showcase growth as well as to create goals for next year. Afterwards, the GSR will be invite to submit an anonymous program evaluation to help improve CTML’s GSR program.
 
+>_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
+>
+>All members are expected, on joining, to develop an individual development plan (IDP) with Dan. Even if this exercise feels silly or foreign, please consider it seriously, as it will be a useful tool for setting expectations in the mentor-mentee relationship. IDPs will be reviewed and revised at least annually.
+
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
 >Professor Dolbow will meet with all students and post-docs in the lab at least once a year to discuss progress on research and progress towards degree, expected timelines to completion, and etc. During these meetings, the members will discuss career aspirations, options, and goals and additional steps (as needed) to help meet them. These meetings will be held every May after classes end.
@@ -138,6 +142,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[SnyderGroup_2026](https://drive.google.com/file/d/1BchgsHCwpaEqxYKdwQkdqXjgIRpKtM6c/view)_:
 >
 >As a new group, one feature we are trying to implement within our group is a feedback mechanism system. A questionnaire will be filled out and discussed with Ben. This will serve as a professional way to discuss with Ben regarding his mentoring style and any goals members have in mind. It is important to understand that graduate school is not only about publications, but an opportunity to bolster one’s toolkit for future endeavors. These meetings will occur at the end of every semester and should not be viewed as performance reviews, but rather as opportunities to seek out and provide structured feedback to ensure continued success.
+
+>_[SUMMITLab_2026](https://sites.bu.edu/summitlab/values/mentorship-values/)_:
+>
+>In line with this approach, I use Individual Development Plans (IDPs). IDPs contain mentees’ unique goals for each academic year, opportunities for self-assessment of skills and documenting progress towards their goals. The use of IDPs ensures that myself and my mentee have a mutual understanding of their goals and a tool to track their progress towards their goals. I will have set meetings with my mentees at least every six months to review their IDPs and ensure that we are hitting agreed upon benchmarks to meet their goals.
 
 >_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
 >

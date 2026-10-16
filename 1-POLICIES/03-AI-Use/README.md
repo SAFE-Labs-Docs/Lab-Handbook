@@ -144,6 +144,15 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >* as everything, *document*: before you start using AI, document the tool version, document how & why you use it, save your prompts. You will need this information.
 >* disclosure: write an AI statement to disclose your use of generative AI, to be included in any resulting publication.
 
+>_[BenjaminChungLab_2026](https://jadebc.github.io/lab-manual/using-generative-ai-to-code.html#disclosing-use-of-generative-ai-in-research)_:
+>
+>Lab members must disclose GenAI use in research at four points:
+>
+>1. Within the lab, to Jade using the [Benjamin-Chung Lab AI Use in Research Documentation Form](https://docs.google.com/forms/d/e/1FAIpQLScphiuDTkUXH0RVFFuj-I4KqgmxXP796MfV9mLeQ2uY8k9mgA/viewform?usp=publish-editor)
+>2. To collaborators, whenever their data or materials are involved
+>3. To journals, at time of submission (see below)
+>4. To funders, when their policies require it.
+
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/ai-policy.html)_:
 >
 >All AI use must be disclosed if used for research/external products (i.e., anything that will be used or viewed outside the lab).

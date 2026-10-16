@@ -482,6 +482,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >We typically use lab meetings to get feedback on new research ideas or a manuscript in progress, practice for an upcoming talk, or discuss a paper. Grad students, postdocs, and thesis students are required to present in lab meetings regularly. RAs are not required to do so, but they can give a project idea or a good suggestion for a discussion topic.
 
+>_[DaviesLab_2026](https://sites.bu.edu/davieslab/files/2026/10/Davies_Lab_Mentoring_Compact_2026.pdf)_:
+>
+>A goal of reading one publication per week is a minimum standard and as a lab we will help you meet this goal by running a weekly ‘News’ meeting where you will be expected to briefly present the article you read. Each member of the lab will do the same and this allows us, as a lab, to remain on top of research advances in our field. It is very important that you actually carefully read the publication so that you are confident presenting the article in a meaningful way. This will also help facilitate better science communication skills. If you miss a week, that is excusable; however, if you continue to not present a paper or do so in only a cursory level, we will discuss whatever barriers are preventing your participation.
+
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/expectations-gradStudent.html)_:
 >
 >One-on-one meetings are 45-min, weekly meetings between each trainee and me.
@@ -590,6 +594,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >_[ManningGroup_2026](https://mmanning.expressions.syr.edu/wp-content/uploads/2023/01/Manning-Research-Manual-January-2023.pdf)_:
 >
 >Updates: Every other week our research group meeting will be an “updates” meeting. These are opportunities for you to share what you’ve been thinking about over the week with others. I expect every group member to post a short “group update” on the slack channel before these meetings, which will help you to gather your thoughts about what you’d like to share with the group and also help identify overlap between your work and the expertise of others. Quite often, it leads to help where you’re stuck on a project! During the meeting, group members volunteer to go over their update and have others ask questions and provide feedback. These updates are NOT polished, professional talks – they are opportunities for informal, low-stakes collaborative feedback and help from our collective research group.
+
+>_[McNeilGroup_2026](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2015/06/Group-Manual-October-2026.pdf)_:
+>
+>Research group meetings occur every week. (See the McNeil Group “Shared Drive” Group Meeting Schedule folder for the schedule.) Each member of the presenting subgroup has 30 min to present something that they want to discuss. Students should think carefully about how to use this time. Do you want us to help you troubleshoot an experiment? Do you need help with planning what experiments to do next? Do you want a second opinion on your data analysis and interpretation? Do you think your project should switch directions? Then the student should craft a short (but polished) slide presentation with all necessary information to accomplish their goal.
 
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >

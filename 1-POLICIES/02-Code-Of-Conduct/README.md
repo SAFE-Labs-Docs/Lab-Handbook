@@ -196,6 +196,12 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 > including both personal spaces (e.g. desks) and shared
 > areas (couch, sink, testing rooms, etc.).
 
+>_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
+>
+>Respect must be shown to all others at all times. The lab will not tolerate hurtful or disrespectful speech or behavior of any kind. No member shall feel harassed because of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
+>
+>Research is an inherently changing process - we are *all* learning at all times. It is the duty of members of the lab of every level to create and maintain a supportive lab and learning culture. All members are expected encourage and entertain questions from anyone, no matter what prior you bring to the question or the person.
+
 >_[McMahonLab_2026](https://mcmahonlab.wisc.edu/lab-mission/)_:
 >
 >Be engaged and contribute to the broader mission of the lab. This includes paying attention, asking questions, and providing feedback during lab meetings; reading other lab members’ writing; assisting with big field/lab projects that require many hands; sharing (meta)data; and sharing expertise.
@@ -205,6 +211,12 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- Create, practice, and refine science communication products (papers, presentations, outreach materials) in a space that allows for imperfection and growth.
 >- Continue to grow, learn, work hard, and be curious. This includes learning how to be an effective scientist/engineer, about each others’ projects, about your discipline(s) and its norms, and about each other.
 >- Respect the fact that the lab is financed almost exclusively by taxpayer dollars. Spend funds wisely and in a way that would not embarrass Trina if she gets called to testify in front of the US Congress.
+
+>_[McNeilGroup_2026](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2015/06/Group-Manual-October-2026.pdf)_:
+>
+>Everyone – regardless of race, ethnicity, gender, sexuality, age, nationality, religion, ability, or socioeconomic status – is welcomed, valued, and respected within our group. We believe that everyone has something unique to contribute to the group. We will celebrate successes, and at the same time, we will recognize that we are all here to learn and learning involves making mistakes. We aim to separate the mistakes from the people making them and to collectively learn from them.
+>
+>Respectful dialogue is expected at all times. We feel empowered to speak up when a community member isn’t upholding these core values. We are all here to learn, grow, thrive, and support each other.
 
 >_[TowneGroup_2026](https://me.engin.umich.edu/people/faculty/aaron-towne/mentoring-plan)_:
 >

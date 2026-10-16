@@ -88,6 +88,16 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >You should take intellectual ownership of your projects by taking notes in meetings and sharing them with the project team afterward, making sure projects don't stall or fall through the cracks.
 
+>_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
+>
+>Mentor and mentee are to write down timelines for expected development together and trade versions. Progress (scientific and professional) is evaluated on fixed schedules, as written by the mentee; both provide constructive feedback in writing so it can be referenced. We have regular meetings, with formal meeting agendas, and shared documentation of meeting notes.
+>
+>Bi-weekly Meeting agendas have the following four sections:
+>1. Overall goal: this is a goal that is unlikely to change on a week to week basis, but seeing it is a reminder of what the mid-range goal is
+>2. Weekly Goal Status: what your weekly goals were from last time, and whether they happened
+>3. Weekly Goals: Goals for the upcoming week
+>4. How Dan can help: What i can do to make weekly goals that were missed, or upcoming ones, happen.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
 >We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.

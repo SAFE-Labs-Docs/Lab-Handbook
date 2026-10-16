@@ -369,6 +369,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 > you are a part-time employee, try to put in your
 > in-lab hours during the 1–4 PM window when possible.
 
+>_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
+>
+>The lab does not have hours. Science does not sleep. But you, lab member, do need to sleep.
+>
+>You are also encouraged and expected to take time away from the lab - vacation, personal, mental health days. The reasons for a short (one day) absence need not be made public, but any absence should be on the Denman Lab shared calendar as soon as it is scheduled. Planned longer absences should be discussed with Dan at least two weeks beforehand, and again added to the shared calendar.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
 >In general, we expect you to be working Monday through Friday for 9 hours per day (including a lunch break).

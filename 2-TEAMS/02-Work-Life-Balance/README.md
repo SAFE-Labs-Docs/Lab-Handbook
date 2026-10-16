@@ -237,6 +237,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >- Please factor this into the timing of your communications.
 >- (I usually respond MUCH faster than this.)
 
+>_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
+>
+>Holidays: we all get the same amount of holiday, 27 days, plus university closure days. I don’t need advance notice of this, just make sure you fill in the holiday request form through myPGR. If you’re going on holiday, make sure you have arranged for someone to take care of any animal cultures you have running – this is your responsibility. I will try to give you advanced notice of my holidays, but I also sometimes just decide to take days off last minute, it’s fine for you to do this too.
+
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_:
 >
 >I shut my work email off when I’m not working and sometimes also when I am concentrating on writing. I do not receive any auto-notifications to my personal devices about email or Teams messages, ever. I advise everyone to do the same. My assumption is that you will receive messages at some time on every work day when you have explicitly planned to attend to them, not that you will be always on-call. You should not imagine that receiving an email from me means that I expect you to instantly answer it. You are never obliged to answer me at night or on weekends even if you receive something from me after hours.

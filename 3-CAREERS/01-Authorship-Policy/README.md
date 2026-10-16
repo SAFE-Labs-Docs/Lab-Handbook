@@ -196,6 +196,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >As principle investigator of the lab, I expect to be an author on all papers produced by lab members. But please note that I do not get automatic authorship; rather, my expectation is that you should involve me in your work to such a degree that I have earned authorship on the paper by engaging with at least one of the CRediT roles.
 
+>_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
+>
+>If someone has contributed something to a paper then they should be a named author, with their contribution clearly stated within the paper, following the CRediT guide: CRediT author statement | Elsevier. This includes undergraduate students and technicians. You should check with me about what a contribution looks like, before offering someone authorship. For example, someone feeding your animals whilst you’re on holiday isn’t a contribution, but someone carrying out an extra experiment for you would be. Finally, you should never submit a paper or pre-print without prior approval of all authors.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >According to the criteria recommended by the International Committee of Medical Journal Editors (ICMJE), to qualify for authorship, individuals must meet all the following conditions:

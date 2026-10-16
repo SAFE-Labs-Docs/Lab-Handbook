@@ -313,6 +313,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >A monthly walk to a coffee shop or similar, replacing a regular meeting. These encourage smaller 2-3 person conversations that don’t happen easily in a full group.
 
+>_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
+>
+>Epi groups meetings: the lab meeting is ran in a “scrum” format and is shared with the Mallon group. A scrum is where everyone presents a very short list of; what they have been up to during the last week, what they plan to do during the next week and any problems they have. This is not to “check you’re working”, the purpose of this is to help you plan your time and make sure you don’t get stuck for too long on a problem. One person each week also presents either; some new results, a paper or something else interesting. I expect you to attend and let me know in advance if you can’t make it. If you cannot present in your allocated slot, it is your responsibility to swap with someone else.
+
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/lab-meetings-and-communication.html)_:
 >
 >During term time, meetings take place on most Thursdays, 13:00-14:30. Location varies: see Teams calendar for details.

@@ -158,6 +158,13 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >Students in the Lien Lab are required to attend the annual biomedical meeting (held between February and March) in National Defense University or poster exhibition and competition (held June) in YM University before obtaining their Master or PhD degrees.
 
 ### United Kingdom
+>_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
+>
+>It is up to you to decide what training you need and what conferences you would like to go on. I can recommend various courses and conferences depending on your interests. You will have a certain budget as part of your PhD specifically for this, it is for you to manage as you see fit. However, I can help you apply for society funding to cover as much as possible, enabling you to save your PhD travel money for a ‘big conference’ – with travel, accommodation, registration etc. these can be about £2000-£2500. One suggested idea if you’re planning a career in academia:
+>- Year 1: training course in a key skill you need
+>- Year 2: one national conference and one smaller training course or extra conference
+>- Year 3: one big international conference (Europe, USA, Australia etc.) – this is best saved until the end of your PhD as they’re a good place to network for jobs and there will likely only be enough budget to do one of these
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >I encourage all lab members to participate in conferences and courses. If you find a conference or course that interests you, please feel free to discuss the possibility of attending with me. 

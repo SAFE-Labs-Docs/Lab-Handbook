@@ -116,6 +116,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[KitazakiLab_2026](https://sites.google.com/view/kvpl-kitazakilab/for-students)_:
 >
 >B4の最後あるいはM1のうちに1−2回国内会議あるいは国際会議で研究成果を発表することが一般的です。そして、これまでに所属した学生の半分以上が在学中に国際会議で研究発表をしています。年に2回以上発表した学生も少なくありません。
+>
+>_English translation:_
+>
+>It is common to present research results once or twice at a domestic or international conference by the end of the fourth undergraduate year (B4) or during the first year of the master's (M1). More than half of the students in the lab so far have presented at an international conference while enrolled, and quite a few have presented twice or more in a year.
 
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full document is still under construction, but as an example some snippets are provided here:

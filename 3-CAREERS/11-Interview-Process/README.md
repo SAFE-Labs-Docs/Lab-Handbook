@@ -55,6 +55,30 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ### Japan
 
+>_[MitsumeLab_2026](https://www.kz.tsukuba.ac.jp/~mitsume/info/for-students)_:
+>
+>本研究室では非常に多岐にわたる研究テーマを展開しているので、研究室配属の際には例年、合同の説明会は行わず、研究室の全体的な内容は全て動画の形式 (本ページの下部に動画リンクがあります) で公開します。この、研究室のコンセプト・運営方針を伝える「動画コンテンツ」に加えて、各学生さんたちが興味のある研究内容を説明するために個別面談 (30分くらい。友人含め2〜4人程度であれば同時参加可。対面・オンラインの双方対応可) を行います。この個別面談は配属に必須となるので、できる限りフェーズ1開始前までに 3 の個別面談を済ませるようにしていただければと思います。ただし、個別面談は配属の優先度には関係しない (GPA のみで判断) ので、研究内容に興味があれば、気軽にご参加ください。また、個別面談では博士課程への進学とそれに際する給与待遇等を含む、大学院進学や将来のキャリアプランに関しても質問してもらって OK です。
+>
+>希望者が枠数を超えた場合の配属基準
+>
+>個人的には学業成績 (受動的な知識のインプット) と研究適性 (能動的なインプットとアウトプット) はかなり別競技だと思っていますが、公正な配属を実現する上で、客観的かつ定量的な指標が必要だと思いますので、学類の原則に従いGPA のみで判断します。
+>
+>その他、研究室体験・相談のためのコンテンツ
+>
+>slack 上の三目研所属学生による相談窓口: 三目研究室では slack というビジネス向けチャットツールを用いて、研究室所属メンバーとのコミュニケーションを行っています。この slack の中に、学生さん向け相談窓口のチャンネル ( #_lab_introduction ) を作成しました。このチャンネルは三目が見れない設定にしており、所属学生 (卒研生・大学院生) のみが参加していますので、学生さん視点からみた客観的な研究室の様子を知ることができると思います。気軽に質問してみてください。
+>
+>_English translation:_
+>
+>Because our lab covers a very wide range of research topics, we do not hold a joint information session at lab allocation each year. Instead, everything about the lab as a whole is published as videos (the video links are at the bottom of this page). In addition to this "video content", which explains the lab's concept and how it is run, we hold individual meetings (about 30 minutes; 2-4 people, including friends, can join together; in person or online) to explain the research topics each student is interested in. This individual meeting is required for allocation, so please try to complete it before Phase 1 begins if at all possible. However, the individual meeting has no bearing on allocation priority (which is decided by GPA alone), so if you are interested in the research, feel free to come along. In the individual meeting you are also welcome to ask about going on to graduate school and about future career plans, including doctoral study and the salary and support that come with it.
+>
+>Allocation criteria when applicants exceed the number of places
+>
+>Personally, I think academic grades (passive input of knowledge) and research aptitude (active input and output) are quite different contests, but fair allocation needs an objective and quantitative measure, so, following the college's rules, the decision is made on GPA alone.
+>
+>Other content for experiencing the lab and asking questions
+>
+>Consultation channel on Slack run by Mitsume Lab students: the Mitsume Lab uses Slack, a business chat tool, to communicate with lab members. In this Slack we have created a consultation channel for prospective students (#_lab_introduction). The channel is set up so that Mitsume cannot see it, and only the lab's students (undergraduate thesis students and graduate students) are in it, so you can get an objective picture of the lab from a student's point of view. Feel free to ask questions.
+
 >_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/お問い合わせ/審査手順)_:
 >
 >**1. 書類審査**

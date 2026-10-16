@@ -155,6 +155,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >実験を中心にする研究室ですので，卒業，修了するためには，平均して平日1日あたり6時間程度の研究（実験含む）が必要です。基本的には，大学にある実験設備で実験を行いますが，文献調査やプログラミング，データ解析は自宅で行っている学生もいます。大学にも机やコンピュータは1人1セット用意しますので，自分の傾向に合わせて大学でも自宅でも研究ができます。ただし、学部生は基本的に研究室で対面で研究してもらいます。
 >
 >もちろん、休暇は自由に取れます。ただし、安全管理のために休暇中であることは教えてください。
+>
+>_English translation:_
+>
+>As this is an experiment-centred lab, graduating or completing a degree needs, on average, about 6 hours of research (including experiments) per weekday. Experiments are mainly done with the experimental facilities at the university, but some students do literature searches, programming and data analysis at home. Everyone has their own desk and computer at the university, so you can do research at the university or at home, whichever suits you. However, undergraduates mainly do their research in person in the lab.
+>
+>Of course, you are free to take holidays. However, for safety management, please let us know when you are on holiday.
 
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_

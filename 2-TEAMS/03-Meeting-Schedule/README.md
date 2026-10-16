@@ -143,6 +143,14 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ### Japan
 
+>_[InuzukaLab_2026](https://mail.soec.nagoya-u.ac.jp/~inu/lab/groundrule.pdf)_:
+>
+>報告の持ち時間は１５分（超過時間は打ち切り）です．１５分は国際会議での標準的な報告時間ですので，ポイントを絞ればどんな研究も１５分内で報告できるはずです．報告は研究室メンバー全員の人生の時間を奪う行為ですので，十分に準備してください（一度は発表練習をしてから望んでください．進捗がない人は，報告をパスしてください）．報告者以外の方は，目上（教授）だろうが目下だろうが，他人の研究には遠慮なく批判・コメントをし，研究室というチームで良い研究ができるように心掛けてください．正しいか否かだけで判断されるのが学問の素晴らしいところです．研究に上下関係は不要です．
+>
+>_English translation:_
+>
+>Each report is allowed 15 minutes (anything over is cut off). Fifteen minutes is the standard talk length at international conferences, so if you focus on the key points, any research can be reported within 15 minutes. A report takes up time from the lives of every lab member, so prepare thoroughly (do at least one practice run before you present. If you have made no progress, skip your report). Everyone other than the presenter, whether senior (the professor) or junior, should feel free to criticise and comment on others' research, and help the lab work as a team to do good research. The wonderful thing about scholarship is that things are judged only on whether they are right. There is no place for hierarchy in research.
+
 >_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
 >
 >【ゼミ】
@@ -170,6 +178,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >毎週月曜のお昼に10-30分のオンライン全員ミーティング（昼mtg）を行っています。これは研究室内での状況共有が第一の目的です。毎週1回、対面でのゼミを行い、輪講，論文紹介，学会で見聞きした研究の紹介，自分の研究発表の練習などをしています。なお，対面ゼミ以外では必ず研究室に居なければいけないコアタイムはありません（ただし、学部4年生は原則として研究室で対面で研究をしてもらいます）。もちろん、研究室に来て実験をしなければ卒業することは難しいと思います（研究テーマや方法にもよります）。
 >
 >研究の定例mtgは週に1回のペースです。1対1あるいは上級生や他の教員，テーマによっては他大学や海外の研究者も入れて2-4人くらいで行います。今はほとんどオンラインです。研究の進捗がない場合でも参加し、状況を話し合います。ただし、毎週や毎月の進捗レポートの義務はありません。
+>
+>_English translation:_
+>
+>Every Monday at lunchtime we hold a 10-30 minute online meeting for everyone (the lunch meeting). Its main purpose is to share what is happening in the lab. Once a week we hold an in-person seminar, with reading groups, paper presentations, introductions to research seen or heard at conferences, practice for presenting your own research, and so on. Apart from the in-person seminar, there is no core time when you must be in the lab (although, as a rule, fourth-year undergraduates do their research in person in the lab). Of course, I think it would be difficult to graduate without coming to the lab to do experiments (depending on the research topic and methods).
+>
+>Regular research meetings take place about once a week. They are one-to-one, or with around 2-4 people including senior students, other faculty and, depending on the topic, researchers from other universities or abroad. At the moment they are mostly online. You attend even when there has been no progress, and we discuss how things are going. However, there is no obligation to write weekly or monthly progress reports.
 
 >_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
 >

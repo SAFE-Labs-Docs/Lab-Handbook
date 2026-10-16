@@ -147,6 +147,18 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >Postdocs / technicians: The [Mobility office of SISSA](https://www.sissa.it/research/research-funding-and-international-relations-office) is responsible to help new researchers and technicians, especially if they come from abroad. 
 
+### Japan
+
+>_[ItoLab_2026](https://ito-hiro.sakura.ne.jp/graduate_seminar/admission/)_:
+>
+>そのうえで、本学への進学を決意された場合は、研究生として入学するまでに、こちらで指定した日本語の社会学の教科書を使って、日本人の学生とのレッスンを受けます（もちろん料金などは発生しません）。まず、教科書に登場する重要語句について、その内容と自分で考えた具体例を日本語でまとめてもらいます。1章ごとに完成したら、メールで送ってもらいます。内容や日本語表現が不正確なところを指摘しますので、さらに修正して再提出してもらいます。それでも修正しきれていない箇所は、正答例を教えます。
+>
+>研究生として来日後は、学部のさまざまな社会学の講義やゼミに参加してもらうとともに、入学前に読んでもらっていた教科書を使って、次の課題に取り組んでもらいます。その際には、チューターの日本人学生から指導や助言（最大40時間）を受けることもできます。
+>
+>_English translation:_
+>
+>Once you have decided to enrol at our university, you will take lessons with a Japanese student before you begin as a research student (a non-degree pre-enrolment status common at Japanese universities). The lessons use a Japanese sociology textbook that I assign, and they are free of charge. First, you will summarise in Japanese the key terms that appear in the textbook, explaining what each term means and giving examples you have thought of yourself. Each time you complete a chapter, you will send your summary to me by email. I will point out anything inaccurate in the content or in your Japanese, and you will revise and resubmit it. If some points still need correcting after that, I will show you a model answer. After you arrive in Japan as a research student, you will attend a range of sociology lectures and seminars in the faculty, and you will work on further assignments using the textbook you read before enrolling. During this period, you can also receive guidance and advice from a Japanese student tutor for up to 40 hours.
+
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full onboarding document is still under construction, but as an example some snippets are provided here:
 > 

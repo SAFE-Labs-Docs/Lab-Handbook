@@ -132,6 +132,21 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
 
+### Israel
+
+>_[TiroshLab_2026](https://github.com/tiroshlab/lab-book/blob/master/04-joiningAndLeavingProtocol.Rmd)_:
+>
+>1. Ask Yael Lepek to pool your userID to this department and connect you to any services you may need to use (at least WEXAC and email will be necessary, and RSA very useful), note, if you have userID in other department, pooling you will erase your old server folder.
+>2. Ask Yael to add you to the lab dropbox.
+>3. Order a computer – available options are found at the [DIS site](http://www.weizmann.ac.il/DIS/computing-hardware/pc/windows-laptops) Check with Itay before ordering.
+>4. Natali Yikne supplies the network cable, opens the network connection point near to your desk and makes your registration to the internet - for that, you will have to supply your ETHERNET code (found on the Ethernet outlet) and the computer’s MAC address.
+>5. Ask Itay to get the lab google calendar so you can update and know future plans.
+>6. If you’re a foreigner, go to the FGS for help to set up banking and insurance.
+>7. Also as a foreigner you can [arrange housing through the visiting scientist centre](http://www.weizmann.ac.il/vs/).
+>8. Provide your bank account to Yael so you can get paid.
+>9. After registering you will get emails about doing a medical checkup, lab safety introduction and having your photo taken so you can get a Weizmann badge.
+>10. Instructions for setting up EVPN so that you can access the server and other Weizmann resources remotely can be found here: https://www.weizmann.ac.il/WIT/remote-connection-f5-client-vpn-windows-10
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

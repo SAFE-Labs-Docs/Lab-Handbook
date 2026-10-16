@@ -83,6 +83,12 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >For PhD students I will make sure you have the opportunity to attend at least one international conference and one local conference during your PhD, and for postdocs at least one conference per year. Please note that I expect you to apply for any available scholarship options or funding support that would enable you to attend. This is sometimes offered through the conference itself, sometimes by societies (e.g the German Plant Breeding society) and sometimes by external funding (e.g. DAAD). Conference attendance is also dependent on whether you have anything to present: in most cases first-year PhD students probably won’t have sufficient results yet for this, although I may make an exception for a once-in-four-years conference depending on circumstances. If you attend a conference I will also expect you to be able to give an oral presentation, not just present a poster. In both cases though the presentation should be sent to me in advance to check before submission, as should the conference abstract (at least 1-2 weeks before). Oral presentations should also be practiced within our research group beforehand.
 
+### Israel
+
+>_[TiroshLab_2026](https://github.com/tiroshlab/lab-book/blob/master/11-budgets.Rmd)_:
+>
+>Additionally, PhD students and postdocs have travel allowances. PhD students receive \$2000 for travel following submission of their research proposal and \$2250 following submission of their interim report. For postdocs, the annual allowance is \$2000 yearly and the calendar year starts on 1 October.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

@@ -380,6 +380,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >It is okay to take a day off to decompress from time to time. However, if you will be out of town or take a longer break, please let me know so I won’t be worried about not having seen you in a while. Each lab member can usually take up to 3 weeks of vacation time each year. In addition, I don’t expect lab members to work between 12/15 and the first week of January. Please inform me your vacation plans before booking your trip.
 
+>_[KindsvaterLab_2026](https://kindsvater.fishwild.vt.edu/about-the-lab/)_:
+>
+>We can’t succeed scientifically and professionally without hard work, but this does not mean we must have a culture of overwork, where personal time and wellbeing are not valued.
+>
+>If you are struggling with your workload, or frustrated with your progress toward your goals, then you are in an unsustainable position. I can’t solve every problem for you, but I can help you identify strategies for sustainable work habits to prevent or rectify these situations. The whole point of mentoring is that no one has to do it alone.
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >Lab holidays will be a superset of federal and NYU holidays.

@@ -84,6 +84,10 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >We all work to be healthy and happy. Whether it's retooling your expectations of yourself, tackling your [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (we have all been there), or, heck, considering the importance of therapy (even Prof. Byrnes engages in it!), let's talk about it. It's the most important thing.
 
+>_[KindsvaterLab_2026](https://kindsvater.fishwild.vt.edu/about-the-lab/)_:
+>
+>My primary focus is on your wellbeing. If something is going on with you, I’d like to know about it sooner rather than later, especially if it involves someone else in the lab. That being said, we all have a right to our private lives, and boundaries are healthy. If you need extra help with mental health or other specific challenges, I will be happy to help you identify resources for professional help.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Mental well-being is crucial for personal and professional success, especially given the [prevalence of mental health challenges in academia](https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed regular work hours. If you feel comfortable, Pablo encourages you to discuss any personal challenges that may affect your work during one-on-one meetings. If you need additional support, we encourage you to consider the following resources:  

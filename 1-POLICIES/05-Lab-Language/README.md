@@ -23,6 +23,11 @@ English is the international language of science in the 21st century: proficienc
 >
 >The ULB’s working language is French. While some documentation and communication from the institution is bilingual (French and English), oftentimes resources are only available in French. We encourage lab members to use a translation plugin on their browser to deal with this, and in case of confusion we are there to help. It is important to note that mastery of the French language is expected for promotion to fully tenured professor at the ULB, and that internal meetings such as faculty meetings can be conducted fully in French.
 
+### Brazil
+>_[CompGeoLab_2026](https://www.compgeolab.org/manual/communication.html)_:
+>
+>**Language:** Since not everyone speaks Portuguese, we **use English** in our group chat, group meetings, and GitHub so that everyone can participate. In individual meetings or group meetings with no international participants, we **use Portuguese**.
+
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >

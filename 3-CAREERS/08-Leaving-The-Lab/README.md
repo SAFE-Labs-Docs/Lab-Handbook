@@ -25,6 +25,13 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >Recognizing that individuals may leave the lab for various reasons, it is important to discuss plans as early as possible—preferably at least six months before the intended departure. This approach helps ensure a smooth transition, with the final months focused on the handover of any necessary knowledge and data to maintain documentation, continuity, and completion of ongoing projects. As a final step before departure, an exit interview will be organized, conducted privately with a colleague (e.g., a SAFE lab network associate). This interview provides departing lab members an opportunity to discuss their reasons for leaving and offer constructive feedback based on their experiences.
 
+### Brazil
+>_[CompGeoLab_2026](https://www.compgeolab.org/manual/join.html)_:
+>
+>**What if you change your mind?**
+>
+>In the lab, we believe that your career comes first. Leo already has a degree and a stable job. So your needs come first. This means that if at any point you change your mind and want to pursue another project or work under someone else's supervision, then you are free to do so within reason (for example, FAPESP scholarships are not so easily changed once started). Leo will do everything he can to help in this transition and provide honest advice.
+
 ### Canada
 >_Anonymous lab_:
 >

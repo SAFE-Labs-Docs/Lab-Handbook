@@ -16,6 +16,21 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ## Examples
 
+### Brazil
+>_[CompGeoLab_2026](https://www.compgeolab.org/manual/expectations.html)_:
+>
+>**PhD students**
+>
+>- **Be independent** in coming up with your research topics and ideas for what to do next. Many of these will be tied to the lab's ongoing projects but this is the time to start thinking for yourself.
+>- **Help junior members** in their research and studies.
+>- **Study broadly**, beyond your research topic. A PhD is a wonderful time to explore different topics, research fields, career pathways, and ideas. Good ways to do this are watching seminars (both in and out of the department), talking to your fellow PhD students, reading papers/blogs from other fields, and attending talks/posters at large conferences.
+>
+>**Postdocs**
+>
+>- **Lead your project** and be on top of any logistics and organization that is required to undertake it. Postdocs are independent researchers and taking on responsibilities like this are very beneficial for getting an academic position later on.
+>- **Mentor** junior lab members and complement the support that Leo provides.
+>- **Help in teaching and outreach** efforts of the lab. This does not mean teaching a full course or replacing Leo in any capacity. It means providing a lecture or two about your expertise in a course, leading a short workshop, helping Leo organize outreach, etc. All of these are very good things to have on a CV when applying for an academic job.
+
 ### Canada
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/onboarding/)_:
 >

@@ -42,6 +42,17 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >* **Validation** - Conducted code review at least once, producing a report on the computational reproducibility of the results and experiment.
 >* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.
 
+### Brazil
+>_[CompGeoLab_2026](https://www.compgeolab.org/manual/authorship.html)_:
+>
+>- **We do not view authorship as a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game)**.
+>- Authorship in publications should be explicitly discussed between everyone involved **as early as possible**, ideally as soon as a project starts.
+>- Projects that lab members bring with them **do not** automatically confer authorship rights to either Leo or other lab members.
+>- However, if work is conducted on them during the course of being present in the lab, acknowledgments would be appreciated (funding acknowledgments are necessary).
+>- Projects that are collaborated on between lab members confer authorship to those directly involved, whether that collaboration is intellectual, technical, or data sharing. For example, writing code to support analysis or simulation would confer authorship.
+>- Sharing information during group meetings does not automatically confer authorship.
+>- If material intellectual contributions (i.e., new directions, solutions to problems, specific and directed project ideas) are made by lab members, that would confer authorship.
+
 ### Canada
 >_Anonymous lab_:
 >

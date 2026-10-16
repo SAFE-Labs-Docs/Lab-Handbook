@@ -35,6 +35,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- **Paper Approval**: The selected paper must be relevant to the lab's research and approved by the PI before the meeting.
 >- **Presentation**: During the session, the group presents the paper to the lab, highlighting key findings, methodologies, and implications, followed by a group discussion.
 
+### Brazil
+>_[CompGeoLab_2026](https://www.compgeolab.org/manual/communication.html)_:
+>
+>- **Group meetings:** We will have weekly group meetings for quick updates from everyone, general discussion, announcements, interesting papers, etc. These meetings are important to keep everyone in the lab aware of what each of us are doing.
+>- **Individual meetings:** We aim to have *short* weekly, bi-weekly, or monthly (depending on your preference) individual meetings to discuss project status, personal and professional goals, work through problems, and to build a good supervisor-student relationship.
+
 ### Canada
 >_Anonymous lab_:
 >

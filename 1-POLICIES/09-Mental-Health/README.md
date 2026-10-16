@@ -25,6 +25,15 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >You can find help outside of the ULB as well. For medical help, you can contact your personal health insurance. The [Platforme Bruxelloise pour la santé mentale](https://santementale.brussels/) can be consulted for various issues such as drug addiction, immigration issues and psychological trauma. There is also a Flemish equivalent active in Brussels called the [CAW](https://www.caw.be/locaties/caw-brussel-vzw/).
 
+### Brazil
+>_[CompGeoLab_2026](https://www.compgeolab.org/manual/health.html)_:
+>
+>- [Hospital Universitário](https://www.hu.usp.br/): The campus hospital is excellent, has a walk-in service and provides free medical for the university community.
+>- [CEPE USP](https://cepe.usp.br/): The university sports center is full of free activities that you can sign up for and has a large range of pools and fields that also be used.
+>- [Clinica Odontológica](https://sau.usp.br/clinica-odontologica/): The São Paulo campus also has a free dental health service for the community.
+>- [Ministério da Saúde - Suicídio (Prevenção)](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao): The ministry of health website has resources for suicide prevention and how to get help with mental health issues.
+>- [Centro de Valorização da Vida](https://cvv.org.br/): Offers a 24h help line by phone, chat, email, and in-person (the closest center to campus is in [Pinheiros](https://www.google.com/maps/place/R.+Cerro+Cor%C3%A1,+792+-+21+-+Vila+Romana,+S%C3%A3o+Paulo+-+SP,+05061-100/@-23.5401302,-46.7049922,19.29z/data=!4m5!3m4!1s0x94ce57d3e451c08b:0x28663176a7d2cad5!8m2!3d-23.5397673!4d-46.7047116?entry=ttu)).
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

@@ -217,6 +217,12 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >After you have met all the criteria and feel that you are ready to pursue this opportunity, <u>it is your responsibility to set up a meeting with the Lab Coordinator and Dr. Petersen</u>, and to determine what types of responsibilities and projects you would like to lead.
 >You should be prepared to come to this meeting with a thought-out idea of what projects and roles you are interested in given these new responsibilities and privileges.
 
+>_[HenryLab_2026](https://thehenrylab.squarespace.com/lab-compact/undergraduatelabcompactdetail)_:
+>
+>New undergraduate researchers should join the lab during the January IAP period or during the summer months. This allows for adequate time for focused training in experimental methods, safety, and data management before fully integrating into ongoing research projects.
+>
+>Students are paired with a graduate student or postdoctoral mentor who will provide day-to-day guidance, while the PI ensures that each student’s experience contributes meaningfully to their academic and professional development.
+
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/LabManagerResponsibilities.md)_:
 >
 >## 1. Lab Management (40% effort)

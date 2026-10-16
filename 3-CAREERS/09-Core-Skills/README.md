@@ -52,6 +52,19 @@ Researchers often focus on scientific progress and neglect the development of co
 >
 >Seek out technical and career development training opportunities as fits your needs. Everyone can benefit from courses, workshops, books, and lectures, regardless of career stage. If there is a topic you’d like me to teach, please request it as a workshop topic for our third Monday lab meeting slot. I encourage you to make use of the lab library. I support all career paths and encourage you to explore multiple career options and seek training towards your identified goal. However, be selective about choosing training that most effectively suits your needs. Your time is finite, and research should be your main focus.
 
+>_[HenryLab_2026](https://thehenrylab.squarespace.com/lab-retreats)_:
+>
+>Our annual lab retreats create dedicated time to step away from day-to-day experiments, reflect on how we work together, and strengthen the habits that make us better scientists.
+>
+>Each retreat focuses on a theme relevant to the lab's growth. This archive captures the ideas, practices, and commitments we want to carry forward — and gives new lab members a way to understand how our scientific culture has developed over time.
+>
+>**2026 Inaugural Henry Lab Retreat**
+>
+>**Rigor Before Results: Becoming Independent Scientific Thinkers**\
+>**August 17–19, 2026 · Bethel, Maine**
+>
+>The inaugural Henry Lab Retreat focused on how we think, communicate, and work as scientists. Rather than giving polished research presentations, we used current experiments and real scientific problems to practice rigorous experimental design, troubleshooting, scientific storytelling, and peer feedback.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Once per month, the lab will gather for a training session focused on a specific skill or topic. These will be led by one or more lab members experienced in the skill, possibly (but not necessarily) including Pablo. Topics will be chosen based on interest expressed by lab members, and can range across summaries of new discoveries (similar to a paper discussion/journal club), overviews of unfamiliar fields, workshops on new experimental or computational techniques, science communication and writing skills, and career development opportunities. These meetings are open to all members of the School of Chemical and Biomolecular Engineering (CBE) and the wider Cornell community.

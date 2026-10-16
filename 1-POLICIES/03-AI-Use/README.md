@@ -229,6 +229,27 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >
 >APS, NSF, and NIH all have guidelines about appropriate use of AI. The primary concerns are the following.  An AI cannot be held responsible for any errors. As such, it cannot be credited with authorship. This means that any errors introduced through the use of AI, such as plagiarism or incorrect calculations or citations, are the responsibility of the human authors.  Any information you upload to an AI is effectively in the public domain. At a minimum, it means you cannot upload confidential documents like papers or proposals that you are reviewing, for example. However, it also means that the draft of the paper you just uploaded for editing is no longer confidential. My current guidance is the following:  Substantial parts of papers should not be uploaded to an AI before publication.  If you use an AI for any part of the writing process, please let me know.
 
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>When it comes to scientific writing, below are not acceptable and acceptable uses of generative AI tools in the lab:
+>
+>Not-acceptable uses:
+>- First draft of a scientific manuscript
+>- First draft of a grant proposal
+>- First draft of an abstract or summary.
+>- Literature search, without independent verification. It is OK to use AI to enhance your own search but remember that AI tools are prone to hallucinating references. You should always read the references AI suggests (or any references you cite).
+>- Anything that involves uploading identifying information. WSU Executive Policy 8 prohibits the inclusion of legally protected or regulated data (e.g., proprietary, personally identifiable information, HIPAA, FERPA) in queries provided to generative AI platforms.
+>
+>Acceptable uses:
+>- Brainstorming/outlining
+>- Summarization (e.g., shortening length of an abstract)
+>- Enhanced writing and editing (e.g., grammar checks)
+>- Filling of pre-formatted forms or tables
+>- Critical feedback of human-written first draft.
+>- Code debugging.
+>
+>I require disclosure of the use of AI in manuscripts and grant proposals in writing by email to me before submission, with an explanation of what tool was used and what for. Several journals now require disclosure at submission as well. If this disclosure is found not to be honest or violate any of the provisions set above (e.g. if hallucinated references are found in the manuscript text), it will be considered scientific misconduct and may lead to removal from the manuscript authorship list or withdrawal of the grant proposal.
+
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/research/ai_policy.html)_:
 >
 >AI tools may be used for any part of the research process except for the drafting of narrative text for manuscripts or grant proposals. Lab members are expected to manually draft all of the text that they put into a paper or proposal; no copying and pasting of text directly from an LLM is allowed without explicit discussion and agreement.

@@ -120,6 +120,48 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >- 出願時に必要な研究計画書は、事前に指導教員が確認します。
 >- 入試の詳細については、情報理工学位プログラムWebページの入試情報を随時確認してください。
 >- 大学院入試に合格し、入学後、正式に本研究室への配属となります。
+>
+>_English translation:_
+>
+>**1. Document screening**
+>
+>- Applicants are screened on the basis of the documents submitted.
+>- Whether or not you are accepted, Suzuki will contact you with the result in due course.
+>- For those who pass the document screening, we will arrange a date for the second stage (interview and presentation).
+>
+>**2. Interview and presentation (in Japanese)**
+>
+>- Only for those who pass the first stage (document screening).
+>- Content (about 30 minutes to 1 hour in total)
+>    - [Presentation (about 15-30 minutes)]
+>        - Please give a talk of about 10-20 minutes using slides. Including questions, we expect it to take about 15-30 minutes.
+>        - Please include the following in your slides:
+>            - Self-introduction
+>            - Research you have done so far
+>            - Future research plans
+>            - Anything else you would like to highlight
+>    - [Interview (about 15-30 minutes)]
+>        - Questions and answers about what is in your submitted documents
+>        - Check of communication skills in Japanese
+>            - We put a lot of weight on the Japanese communication skills needed for research and for discussions in the lab.
+>- Location and preparation
+>    - As a rule, held in a meeting room at the University of Tsukuba.
+>        - Held online (Zoom etc.) only when it is difficult to come in person, for example because you live overseas.
+>    - If in person, please bring a laptop, ready to connect with an HDMI cable.
+>    - Dress is up to you. Everyday clothes are fine (no need to wear a suit etc.).
+>    - You don't need to bring the documents you have already submitted.
+>- Results
+>    - Once all applicants have been assessed, Suzuki will contact you with the result in due course, whether or not you are accepted.
+>- If the lab gives you provisional approval to join the lab
+>    - Please complete the application procedure for your chosen programme and status yourself, by the deadline.
+>    - If you need a reference number for the online application, Suzuki will give you one. It may take a few days to be issued.
+>
+>**3. Graduate entrance exam (only for those applying to graduate school)**
+>
+>- If you apply to the graduate entrance exam to join this lab, you need Suzuki's provisional approval to join the lab in advance.
+>- The research plan needed for the application is checked by the supervisor in advance.
+>- For details of the entrance exam, please check the admissions information on the Degree Programs in Computer Science web page.
+>- After passing the entrance exam and enrolling, you are formally assigned to this lab.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:

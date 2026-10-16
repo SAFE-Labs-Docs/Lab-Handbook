@@ -139,6 +139,22 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >- Record mistakes. A note like "the first 300K set used the wrong salt
 >  concentration and was deleted" saves the next person from repeating the mistake.
 
+### Switzerland
+
+>_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_06)_:
+>
+>MS OneNote for Project Documentation
+>
+>Just like a traditional paper lab notebook, documentation here must be clear, complete, and auditable - this helps protect your work and ensures our research maintains the highest standards.
+>
+>All project-relevant decisions, design choices, and analysis choices must be documented clearly and comprehensibly, such that any collaborator can easily reconstruct the logic of an experiment and its analysis.
+>
+>We ask you to record what you did, how you did it, and the outcomes. This includes experiments, analyses, scripts, and major decisions.
+>
+>### Notebook structure
+>
+>Each project has a dedicated notebook with a standard structure. MS has made it impossible to save notebooks as a file so you must follow the following convoluted procedure to make your own: Open [this example notebook](https://1drv.ms/o/c/698e9eed515b4cdf/Et9MW1Htno4ggGmBAAAAAAABq7g0_OBummuRChpg61eIKg?e=kdgGBx) and go to edit \> in Desktop App. Once the notebook is open there, copy all the sections to your own new OneNote notebook by right-clicking and selecting "Copy Section to…". If you feel this does not meet your needs, agree on the improvements you plan to make with Alexis and customise as needed.
+
 ### United Kingdom
 >_[DumbellLab_2026](https://dumbell-lab.com/blog/the-dumbell-lab-laboratory-handbook)_:
 >

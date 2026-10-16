@@ -49,6 +49,10 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >3.  If external involvement would be beneficial, contact your mentor (if a post doc) or your secondary advisor (if a PhD student).
 >4. If none of the above steps feel appropriate, raise the issue with [UCL Report & Support](https://report-support.ucl.ac.uk/).
 
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/vision_values)_:
+>
+>If you notice someone being harassed, or are harassed yourself, tell Steve immediately. If Steve is the cause of your concern, then have a word with your Head of Department or another trusted faculty member.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >If you are comfortable doing so, please raise the issue with me during our 1-to-1 meetings. I encourage you to bring the problem up as early as possible to ensure we can resolve this in a timely manner. If you don't feel like you can bring it up with me, you can informally:

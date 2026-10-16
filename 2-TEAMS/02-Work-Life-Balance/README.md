@@ -207,6 +207,34 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >1 This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.
 
+>_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_05)_:
+>
+>Single-day absences (personal days, long weekends): At least 2 weeks’ advance notice
+>
+>Multi-day absences (holidays, conferences, extended leave): At least 4 weeks’ advance notice.
+>
+>For complex projects that involve collaborators (or assistants, technicians, physicists) in data collection and time-bound processes, coordination for holidays should begin as soon as possible and 2 months’ notice would be desirable.
+>
+>Before submitting a request, please discuss with your team collaborators and direct supervisors to clarify:
+>
+>Whether your absence affects any deliverables or deadlines
+>
+>Who will cover ongoing responsibilities during your absence
+>
+>What needs to be handed off, paused, or delegated
+>
+>Once you've coordinated with your team, please send an email to Alexis with:
+>
+>Subject line: Time Off Request – [Your Name] – [Dates] Include:
+>
+>Dates of absence
+>
+>Your availability (fully offline or partially reachable)
+>
+>Outcome of team discussion (e.g., "Task XY coverage confirmed by XX")
+>
+>Reason for absence (conference, medical, holiday, etc.)
+
 ### United Kingdom
 
 >_Anonymous lab_:
@@ -240,6 +268,12 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >
 >Holidays: we all get the same amount of holiday, 27 days, plus university closure days. I don’t need advance notice of this, just make sure you fill in the holiday request form through myPGR. If you’re going on holiday, make sure you have arranged for someone to take care of any animal cultures you have running – this is your responsibility. I will try to give you advanced notice of my holidays, but I also sometimes just decide to take days off last minute, it’s fine for you to do this too.
+
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/mentoring)_:
+>
+>We DO NOT expect you to... ...respond immediately to emails, especially if sent at unusual times. Email is an asynchronous medium, so set your own boundaries.
+>
+>...work over weekends and holidays. There are rare exceptions where we are facing a deadline for a conference, talk, or paper revision, or need to collect imaging data, but even then you should feel free to discuss what is feasible and appropriate.
 
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_:
 >

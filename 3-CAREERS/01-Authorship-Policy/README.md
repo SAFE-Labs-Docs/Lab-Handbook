@@ -173,6 +173,12 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of
 >us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
 
+>_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_08)_:
+>
+>Your notebooks as evidence: Documenting your work serves as important evidence of your contributions to projects. Your weekly reports, project updates, and documented analyses all contribute to the record of your scientific involvement.
+>
+>Decision support: When authorship decisions are unclear or disputed, I will use weekly reports and notebook documentation to help make fair decisions based on the actual contributions made to the work.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

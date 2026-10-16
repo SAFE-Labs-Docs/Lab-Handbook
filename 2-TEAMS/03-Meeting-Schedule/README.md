@@ -317,6 +317,22 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Epi groups meetings: the lab meeting is ran in a “scrum” format and is shared with the Mallon group. A scrum is where everyone presents a very short list of; what they have been up to during the last week, what they plan to do during the next week and any problems they have. This is not to “check you’re working”, the purpose of this is to help you plan your time and make sure you don’t get stuck for too long on a problem. One person each week also presents either; some new results, a paper or something else interesting. I expect you to attend and let me know in advance if you can’t make it. If you cannot present in your allocated slot, it is your responsibility to swap with someone else.
 
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/lab)_:
+>
+>Steve aims to have 1-to-1 meetings with all senior lab members (PhD students and postdocs) on a regular (weekly or biweekly) basis. Sarah will set these up taking into account availability. It is often useful if you can send any documents related to the meeting (slides with figures, drafts of writing, code, etc) the night before the meeting so that Steve can get a headstart on thinking through the problem with you.
+>
+>Outside of this, Steve's door is always open and he is keen for people to drop by to chat.
+>
+>### Other meetings
+>
+>The ICN hosts weekly seminars during term time at 315pm on Mondays in B01. These speakers cover the full range of cognitive neuroscience and ICN GLs rotate responsibility for inviting and hosting the speakers. If there are speakers you would be keen to invite, please let Steve know.
+>
+>The MetaLab runs the Consciousness Club meetings where guest speakers from a range of disciplines come to discuss all things consciousness- and metacognition-related. These meetings are usually held at 11am every Wednesday on Zoom.
+>
+>Every Friday at 2pm the FIL holds "Project Presentations" - presentations of future projects that will use neuroimaging resources at 12 Queen Sq. This is a great opportunity to see what other groups are planning, and to learn about issues affecting both experimental design and neuroimaging data acquisition and analysis.
+>
+>Immediately after Project Presentations at 315pm there is the "Brain Meeting" seminar, with a mix of both internal and external spakers. These are valuable meetings and all MetaLab members are expected to attend each week during term time. These can take up most of Friday afternoon so plan accordingly!
+
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/lab-meetings-and-communication.html)_:
 >
 >During term time, meetings take place on most Thursdays, 13:00-14:30. Location varies: see Teams calendar for details.

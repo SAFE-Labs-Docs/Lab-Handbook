@@ -62,6 +62,10 @@ We are all familiar with the experience of joining a new lab whilst still having
 >
 >It is completely normal for researchers, particularly postdoctoral researchers, to join the lab while still having outstanding work from their previous position, and I support lab members taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last more than 6 months. If finishing previous work is expected to last longer than this, it may be more sensible to delay the start of their position in the lab if possible. In general, time spent on previous work should not exceed 25% (although this will naturally vary over time).
 
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/vision_values)_:
+>
+>One caveat to the above is that if a substantial time period passes without a paper being completed after someone leaves the lab (after 2-3 years of finishing data collection), then we may need to reassign the project to a new first author. The policy here is to prevent rare and useful data from remaining unpublished, while giving a healthy window for writing the paper to the person who initially led the project.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >When people abandon projects that are subsequently re-opened, or when people come up with ideas during their time in the Superlab, but don't carry those ideas to fruition until after they've left the lab, there is some inherent ambiguity about how to deal with authorship and collaboration.

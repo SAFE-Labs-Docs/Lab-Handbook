@@ -152,6 +152,20 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >Master's or BSc students are also encouraged to attend conferences if they have work to present - please discuss plans with me in advance.
 
+### Switzerland
+
+>_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Guidelines/Rules-in-Brief)_:
+>
+>One of the perks of academia is occasional travel to share findings, collaborate and network. Unfortunately, traveling is not free, and has to be funded somehow. Decisions on travel should be taken with an eye on your core work and on financial constraints. Here are the main cases:
+>
+>* **Invitation:** Your travel costs are borne in full by your host.
+>
+>* **Conference/Workshop:** Borne from project funding.
+>
+>* When employed on a project, the expectation is one international conference per year, alternating Europe and non-Europe. Attendance at local and national conferences such as SSN can usually be covered. Typically, attendance can only be funded if you have an accepted presentation.
+>
+>* **Training:** Attendance at paid courses can sometimes be supported. They should be directly relevant to your work and should not replicate content available locally.
+
 ### Taiwan
 >_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
 >
@@ -164,6 +178,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >- Year 1: training course in a key skill you need
 >- Year 2: one national conference and one smaller training course or extra conference
 >- Year 3: one big international conference (Europe, USA, Australia etc.) – this is best saved until the end of your PhD as they’re a good place to network for jobs and there will likely only be enough budget to do one of these
+
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/lab)_:
+>
+>Let Steve know if you want to attend a conference, apply for a (travel) grant, or give a talk - the answer is often yes, but it’s good to discuss well in advance, particularly if funding is needed. A general rule is that funding for conference attendance requires presenting work you have worked on within the lab, typically when projects are nearing completion. Steve will make sure that his travel schedule is in the lab calendar, so that you will know when he is around to meet.
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >

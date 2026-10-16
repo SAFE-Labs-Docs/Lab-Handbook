@@ -116,6 +116,34 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >- [ ] Each README and lab notebook is up to date enough for someone else to
 >      continue the work without you.
 
+### Switzerland
+
+>_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_11)_:
+>
+>Transfer all code repositories to lab Git if they were developed privately
+>
+>Lab notebooks stay with the lab - ensure you have clear documentation of your work in a notebook
+>
+>Create a "final notebook entry" that documents clearly: (1) state of the project, (2) results, (3) log of all code repos and data on the project. This should allow any lab member to quickly pick up the project
+>
+>Ensure data is backed up and held at the lab (we need to hold raw data for at least 10 years after publication). Please get a hard drive from the lab and ensure data is backed up on 2 sites (server/hard drive)
+>
+>Provide a list of papers you plan to wrap up, and timelines (but hopefully all are done!)
+
+>_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_08)_:
+>
+>When leaving the lab with unfinished manuscripts you must be aware of the following considerations:
+>
+>Authorship reflects relative contributions to the final published work. If you're departing before publication, your continued authorship position depends on the nature of required revisions (see also point above). As a general rule, try to complete major analyses and prepare the most complete version of the manuscript possible before departing.
+>
+>Minor, writing-based, revisions or small analyses easily completed by others typically allow you to retain first authorship.
+>
+>However, note that major revisions requiring substantial new analyses and methodological changes, or significant pivots in the manuscript or major editing (not an exhaustive list) may shift the contribution balance and potentially affect authorship order (see above).
+>
+>If you do not want to pursue the revisions or cannot commit to the full publication process, the work will need to be completed by others, which will affect authorship order.
+>
+>While I will make every effort to include departing authors meaningfully, understand that authorship is ultimately determined by final contributions to the published work, and this uncertainty is an inherent risk of leaving with incomplete (aka unpublished) projects.
+
 ### Taiwan
 >_[PEARLab_2026](https://ewz9.github.io/lab_handbook/graduate)_:
 >

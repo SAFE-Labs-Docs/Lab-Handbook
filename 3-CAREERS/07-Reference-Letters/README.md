@@ -69,6 +69,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >For his part, Pip will write, and personalize all reference letters. When appropriate (e.g. for a Masters project where the student works closely with a postdoc) Pip may write the letter in collaboration with a lab member, and co-sign the letter with them.
 
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/mentoring)_:
+>
+>If you need a letter of reference, or other more substantial feedback (eg on a grant application), please give a heads-up a few weeks in advance (e.g. as soon as you know that you’re applying for something). Steve can then block off time to go over your work and give timely feedback.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

@@ -87,6 +87,21 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >    2. Drafting/Reviewing the paper for important intellectual content: I expect all identified contributing authors from (1) to engage in the review process. This can be daunting for junior trainees out-of-field, but I encourage you to put in the effort to contribute in depth to a discussion point, and particularly the story-crafting element of the written work.
 >    3. Final approval of the version to be published: All authors should be aware when and where the final paper will be submitted. No surprises!
 
+### Denmark
+
+>_[LNN-UCPH_2026](https://lnn-ucph.github.io/LNN-UCPH-Handbook/lab_philosophy.html)_:
+>
+>In line with the ICMJE recommendations on *Defining the Role of Authors and Contributors*, authorship should be based on the following four criteria:
+>
+>1. **Substantial contributions** to the conception or design of the work, or to the acquisition, analysis, or interpretation of data; **AND**
+>2. **Drafting the work** or revising it critically for important intellectual content; **AND**
+>3. **Final approval** of the version to be published; **AND**
+>4. **Accountability** for all aspects of the work, ensuring that any questions related to accuracy or integrity are appropriately investigated and resolved.
+>
+>Importantly, we consider substantial contributions to data acquisition or analysis alone to be sufficient for authorship on the primary project manuscript, provided that criteria 2–4 are also met.
+>
+>The sharing of data, however, is **not** considered sufficient for authorship; in such cases, appropriate credit should instead be given by citing a data descriptor and/or dataset DOI. Authorship *is* appropriate when the dataset owner provides substantial intellectual input into the research or when required by a data use agreement.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

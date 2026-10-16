@@ -47,6 +47,10 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >Work-From-Home Policy: Our lab is first and foremost a place of daily interaction — asking questions, exchanging ideas, and giving each other feedback are central to how we work and grow as a team. Wet lab projects require in-person presence by nature, and for safety reasons it is strongly preferred that more than one person be present in the lab at all times. That said, we recognize that some phases of a project are more computational in nature, or require focused, uninterrupted time for writing, data analysis, scholarship applications, or manuscript preparation. In those cases, lab members may elect to work from home, provided they indicate their absence in the shared lab calendar using the “WFH” label. Anyone working from home is expected to remain reachable on Microsoft Teams throughout the day to respond to questions from other lab members. Hybrid participation in lab meetings can be accommodated, but the presenter must be notified in advance. Lab members who need to work from home more than one day per week, or on a recurring basis, should first discuss this arrangement with Thibault. Finally, work-from-home days are not a substitute for personal time off — unplanned absences should be recorded as such (see below).
 
 ### Denmark
+>_[LNN-UCPH_2026](https://lnn-ucph.github.io/LNN-UCPH-Handbook/lab_philosophy.html)_:
+>
+>Our lab is embedded in different institutions and in general we need to follow the rules set by them regarding working remotely. But in general we support working from home a day a week and also when you travel home in order to give you the possibility to avoid e.g. holiday traffic and reduce travel costs for you.
+
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >
 >What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly

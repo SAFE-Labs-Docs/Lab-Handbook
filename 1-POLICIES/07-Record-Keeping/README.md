@@ -60,6 +60,22 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >All data and codes will be made available through public repositories, respecting the FAIR (findable, accessible, interoperable, reusable) data principles. A big part of ensuring that data are FAIR is by documenting all experiments, protocols, results etc… For this we use electronic labbooks and ensure their strict completion.
 
 ### Japan
+>_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
+>
+>【実験ノート／スペクトル】
+>
+>実験ノートは専用ノートを使用する。実験ノートの付け方は別紙。
+>
+>スペクトルには全て固有の番号を振る。コンピューターのファイル名はこの番号に対応するようにつける。実験ノートからもスペクトルからも互いが参照できるようにしておく。実験ノートとスペクトルは卒業時に全てまとめて研究室に残すので、普段から整理をしておくこと。
+>
+>_English translation:_
+>
+>[Lab notebooks / spectra]
+>
+>Use a dedicated notebook for your lab notes. How to keep the lab notebook is described on a separate sheet.
+>
+>Give every spectrum its own unique number, and name the computer files to match this number. Make sure the lab notebook and the spectra can each be traced from the other. Lab notebooks and spectra are all left with the lab when you graduate, so keep them organised day to day.
+
 >_[ShojiLab_2026](https://scrapbox.io/shoji-lab-survey/莊司研究室データセット公開マニュアル)_:
 >
 >莊司研究室におけるデータセット公開は、研究室共同 GitHub アカウントを基盤として運用する。
@@ -87,6 +103,29 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >　個別引用が不明瞭になる
 >
 >したがって、「1データセット＝1リポジトリ」を基本原則とする。
+>
+>_English translation:_
+>
+>At the Shoji Lab, dataset publication is run on the lab's shared GitHub account.
+>
+>Each student creates their own dataset repository under the lab's GitHub organisation.
+>
+>The student's own GitHub account is invited as a Collaborator, and the student makes the commits themselves.
+>
+>This means that:
+>
+>- the dataset's creator is shown in the repository history
+>- the time the data were collected is recorded as the time of the last commit
+>
+>We also do not combine several students' data in a single repository.
+>
+>The reasons are that:
+>
+>- the update histories get mixed together
+>- it becomes hard to track when the data were collected
+>- individual citation becomes unclear
+>
+>So "one dataset = one repository" is our basic principle.
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:

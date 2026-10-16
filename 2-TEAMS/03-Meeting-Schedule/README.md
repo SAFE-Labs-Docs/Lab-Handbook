@@ -143,6 +143,28 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ### Japan
 
+>_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
+>
+>【ゼミ】
+>
+>予定は別表の通り。全員出席のこと（単位対象）。ゼミでは必ず質問する。あるいは意見を述べる。質問しないのは発表者に対して失礼な振る舞いである。
+>
+>- 研究報告：前回からの研究の進捗状況報告。詳細別紙。
+>- 文献紹介（雑誌会）：自分の興味のある分野の論文を紹介する。詳細別紙。
+>- 学会報告：学会に出席したら興味を持った発表を紹介する。詳細別紙。
+>- Current Journal：最近の論文を３分以内で紹介する。詳細別紙。
+>
+>_English translation:_
+>
+>[Seminar]
+>
+>The schedule is in a separate table. Everyone attends (it counts for credit). In the seminar, always ask a question or give an opinion. Not asking questions is rude to the presenter.
+>
+>- Research report: progress on your research since the last report. Details on a separate sheet.
+>- Literature presentation (journal club): present a paper in a field you are interested in. Details on a separate sheet.
+>- Conference report: after attending a conference, present the talks you found interesting. Details on a separate sheet.
+>- Current Journal: present a recent paper in under 3 minutes. Details on a separate sheet.
+
 >_[KitazakiLab_2026](https://sites.google.com/view/kvpl-kitazakilab/for-students)_:
 >
 >毎週月曜のお昼に10-30分のオンライン全員ミーティング（昼mtg）を行っています。これは研究室内での状況共有が第一の目的です。毎週1回、対面でのゼミを行い、輪講，論文紹介，学会で見聞きした研究の紹介，自分の研究発表の練習などをしています。なお，対面ゼミ以外では必ず研究室に居なければいけないコアタイムはありません（ただし、学部4年生は原則として研究室で対面で研究をしてもらいます）。もちろん、研究室に来て実験をしなければ卒業することは難しいと思います（研究テーマや方法にもよります）。
@@ -152,6 +174,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
 >
 >毎週月曜9時から研究室全体でオンラインミーティングを行っています。ひとりずつ「先週の進捗や課題」と「今週何をやるつもりなのか」について手短に報告してもらいます。それを元にして、その週のマシンタイムを調整したり、今後の研究室の予定を確認します。全体ミーティングは決して長引かせず、合計1時間で終了することを心がけています。ひとりあたりの発表時間は5分程度しかないので、要点を押さえて的確に報告してもらう必要があります。それぞれの報告内容を聞いて、詳しいディスカッションが必要だと判断したら個別の対面ミーティングをどんどん設定します。
+>
+>_English translation:_
+>
+>Every Monday from 9:00 the whole lab holds an online meeting. Each person briefly reports on "last week's progress and problems" and "what they plan to do this week". Based on this, we adjust that week's machine time and check upcoming lab plans. We make a point of never letting the whole-lab meeting drag on, and aim to finish within an hour in total. Each person only has about 5 minutes, so reports need to be concise and to the point. If, after hearing a report, we decide a detailed discussion is needed, we readily set up individual face-to-face meetings.
 
 >_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
 >

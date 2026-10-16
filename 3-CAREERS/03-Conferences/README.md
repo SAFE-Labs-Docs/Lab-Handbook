@@ -101,6 +101,18 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 
 ### Japan
 
+>_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
+>
+>【学会】
+>
+>学会に参加したい場合は奨励する。参加した以上はできるだけ多くの発表を聞く。院生には参加費と交通費を全額補助する。
+>
+>_English translation:_
+>
+>[Conferences]
+>
+>If you want to attend a conference, you are encouraged to. Once you are there, listen to as many talks as you can. Graduate students' registration and travel costs are covered in full.
+
 >_[KitazakiLab_2026](https://sites.google.com/view/kvpl-kitazakilab/for-students)_:
 >
 >B4の最後あるいはM1のうちに1−2回国内会議あるいは国際会議で研究成果を発表することが一般的です。そして、これまでに所属した学生の半分以上が在学中に国際会議で研究発表をしています。年に2回以上発表した学生も少なくありません。

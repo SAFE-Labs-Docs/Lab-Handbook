@@ -49,6 +49,16 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >
 >Personal laptop: Same rules as for postdocs apply. 
 
+### Japan
+
+>_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
+>
+>ガラス器具を割ったらすぐに注文する。直せるものは直す。原則として全ての器具は共通で使う。何らかの理由で自分で占有したい器具があれば、最小限認める。
+>
+>_English translation:_
+>
+>If you break glassware, order a replacement straight away. Repair what can be repaired. As a rule, all equipment is shared. If for some reason you want to keep a piece of equipment for your own use, this is allowed to a minimal extent.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

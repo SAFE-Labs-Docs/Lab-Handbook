@@ -78,6 +78,26 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ### Japan
 
+>_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
+>
+>【係】
+>
+>- 液体窒素・溶媒 Ｂ４
+>- 宴会・娯楽 Ｍ１
+>- 実験室の管理・廃溶媒 Ｍ２
+>- 研究機器 Ｄ・柴田
+>- 注文・依頼測定 木原
+>
+>_English translation:_
+>
+>[Duties]
+>
+>- Liquid nitrogen and solvents: B4 (fourth-year undergraduates)
+>- Parties and recreation: M1 (first-year master's students)
+>- Lab management and waste solvent: M2 (second-year master's students)
+>- Research instruments: D (doctoral students) and Shibata
+>- Ordering and external measurement requests: Kihara
+
 >_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
 >
 >Is prior knowledge necessary? There is no particular requirement for prior knowledge. After being assigned to the lab, there is a weekly “study meeting” in addition to the seminar, where faculty members and seniors provide a comprehensive lecture on the basic knowledge necessary for research.

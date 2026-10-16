@@ -294,6 +294,26 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.
 
+>_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook#9-conferences)_:
+>
+>- All conference attendance decisions are dependent on the financial situation in the lab, which can change rapidly
+>- Priority is given to Postdocs, PhD students, and students with independent funding sources.
+>- Postdocs and PhD students should aim to attend one conference per academic year.
+>
+>**How to sign up for a conference**
+>
+>- Dr. LaBella must pre-approve any conference travel in which you will present lab research or utilize lab funds
+>- Travel authorizations must be set up as soon as possible through our financial administrators.
+>- When possible, all purchases must be made on the department purchasing card through a financial administrator.
+>
+>**Expectations for conference attendance**
+>
+>- You will adhere to the University, lab, and conference codes of conduct. Failure to do so may result in removal from the lab.
+>- You will prepare for the conference in a timely manner. If you consistently fail to meet preparation deadlines and/or this results in missing conference deadlines, you may lose support to attend future conferences.
+>- You will attend at least 80% of the conference presentations. Social and networking events are optional but highly encouraged.
+>- Attendance at plenary talks takes priority over other events or talks.
+>- You will report back on what you learned at the conference in a follow-up meeting
+
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >
 >- Conferences – assuming the lab has money, each grad student and postdoc will be funded to attend at least one academic conference per year. If an undergrad has taken a large role in a project and would like to attend, then this is also a possibility. Conferences are fun, but don’t forget that they are professional too. You are expected to use your time wisely at the conference (see relevant talks, meet new people, etc). You’ll be expected to give a summary of the cool things you learned/saw at a conference after you return

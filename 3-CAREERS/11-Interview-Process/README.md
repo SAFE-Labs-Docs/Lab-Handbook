@@ -195,6 +195,10 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >    - Offered the position
 >    - Notified they were not suitable for the role
 
+>_[GallianoLab_2026](https://gallianolab.org/how-we-operate/)_:
+>
+>We are a small group, we share equipment, resources and office space, and frankly we spend more time with each other than with our families: we have to gel as a team. Nobody expects lifelong friendships to emerge (but kudos if they do), however being great co-workers is a must. Therefore, every person who wants to join the lab for a substantial period of time (postgrads, postdocs, long-time visitors) will be interviewed by all lab members.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

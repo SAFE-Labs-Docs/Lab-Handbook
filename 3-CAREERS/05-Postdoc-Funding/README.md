@@ -17,6 +17,12 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 
 ## Examples
 
+### Canada
+
+>_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
+>
+>Agreed upon research programs of graduate students and post-docs will be funded by Njal to the level required to complete them, barring unforeseen circumstances including loss of grant funding and substantial increases in costs.
+
 ### Finland
 >_[CellMigrationLab_2026](https://cellmig.org/join-us/)_:
 >
@@ -90,6 +96,10 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >1. It helps to crystalise their project approach and hypotheses
 >2. Fellowships are valuable additions to a researcher’s CV
 >3. It can provide additional funding for professional activities (e.g. travel)
+
+>_[GallianoLab_2026](https://gallianolab.org/?page_id=110)_:
+>
+>At any time, if you are interested in our science and would like to discuss applying for fellowships (e.g., EMBO, HFSP, Wellcome Trust Early Careeer Awards, Cambridge Herchel Smith, Branco Weiss, DFG, L’Oréal-UNESCO, EU Marie Curie), email Elisa ideally one year before your proposed start date.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

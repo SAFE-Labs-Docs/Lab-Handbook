@@ -136,6 +136,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- When changing priorities, communicate this to others whose work is affected.
 >- Model the group’s values: share problems and incomplete work openly, ask for help, and show that this is how we work at all levels.
 
+>_[GallianoLab_2026](https://gallianolab.org/how-we-operate/)_:
+>
+>Participating in at least one public engagement event is mandatory for all lab members, but really, nobody wants to stop at one. It is fun to talk to the public about neurons and smells, and it is actually a great way to improve our communication skills (and artistic ones, if making neurons out of pipe cleaners counts as art).
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.

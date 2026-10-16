@@ -45,6 +45,10 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >To ensure a smooth transition, let Thibault know as soon as possible when you will be leaving. When you leave the lab, we expect you to clean out all your possessions, reagents and samples. Some reagents can be passed to other lab members. Some important samples can be stored in a communal space (e.g. freezers). If you work with tissue culture cells, be sure to reduce and compact your number of samples in the liquid nitrogen tank leaving 2 samples per important cell lines (discuss which ones with Thibault in advance) and discard the unnecessary ones – update the online database accordingly. Please make sure you organize your labbook notes, samples, and data so that others can follow your work and that all your data is properly saved & backed up. Please remember to return keys to the lab. Typically, lab member will continue to have access to lab digital resources for a 3-12 month period after their departure.
 
+>_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
+>
+>Support includes providing advice, letters of reference and connections, and lab alumni can expect this support for at least a few years, and often many years.
+
 >_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
 >
 >As a research supervisor, I am therefore generally only interested in engaging and investing in research that is publishable in the international peer-reviewed scientific literature. An exception is research that forms a pilot- or exploratory study. Accordingly, I ask students to commit to seeing publications through to completion, whether the students intend to pursue research careers or not. This commitment usually requires time after graduation, for which I will make every effort to compensate you.

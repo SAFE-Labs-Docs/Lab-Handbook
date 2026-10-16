@@ -57,6 +57,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
 >It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.
 
+>_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
+>
+>The costs (registration, accommodation, transportation, but not food or per diems) up to $1000 of at least one national meeting per year for all graduate students will be covered if you have original research to present that I helped you with, just ask before booking.
+
 >_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
 >
 >As a student or postdoc, you can generally expect to be supported to attend conferences when you have something new and substantial to present. Exceptions include the occasional local/regional meeting and the Annual Meeting of the Northwest Glaciologists (one Friday and Saturday every October), where all students are expected to attend every year the meeting is within driving distance, and give talks after their first year. MSc students making steady research progress should generally attend one important conference in their final year (e.g. AGU Fall Meeting). PhD students should generally attend one important conference per year (e.g. AGU, EGU, an IGS symposium) once substantial research progress has been made.

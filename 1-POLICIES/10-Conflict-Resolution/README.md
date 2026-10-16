@@ -17,6 +17,12 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 
 ## Examples
 
+### Canada
+
+>_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
+>
+>If you have a concern about me and my behaviour, you can tell me and we can discuss it; if you're not comfortable doing so, you can also discuss anything related to my supervision confidentially and in private with the Center for Graduate Student Mentorship
+
 
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:

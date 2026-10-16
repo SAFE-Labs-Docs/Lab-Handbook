@@ -70,6 +70,10 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 
 >Notes and results of this meeting are communicated in writing to all lab members by Pablo.
 
+>_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
+>
+>Just like science, our group is also a work in progress, and we continuously strive to improve our community and activities via continuous feedback between members. PIs at the NeuroAI Center will send students and postdocs out for dinner once a year to discuss and provide feedback on lab practices and culture. This feedback will be the basis for a group meeting discussion about lab practices and culture. The PIs will be responsible for incorporating this feedback into our lab practices and philosophy.
+
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/environment/survey.html)_:
 >
 >In order to ensure that the environment remains welcoming and productive for everyone, we will conduct a yearly survey of lab members regarding the lab environment (link to example). This survey will be completed at the end of the Spring Quarter (in June).

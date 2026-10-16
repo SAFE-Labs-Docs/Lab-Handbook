@@ -32,6 +32,15 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 >- We turn off unused equipment when prolonged downtime is forecasted, if possible and not detrimental to the instruments
 
 ### Germany
+>_[ConservationBiogeographyLab_2026](https://biogeo.pages.cms.hu-berlin.de/website/responsible_travel/)_:
+>
+>Regarding travel, we therefore commit to the following four principles:
+>
+>- Evaluating the necessity of every trip – and making it worthwhile. We are highly selective when deciding on trips and substitute them with online meetings wherever possible. If we take trips, we make them worthwhile. This can include making less frequent, but longer trips (e.g., fieldwork), combining travels (e.g., fieldwork and a conference), or waiting a year to attend a conference (e.g., a conference in Europe vs. overseas).
+>- Using more sustainable modes of transportation. The vast majority of travel-related emissions our lab produces are through flying (e.g., >90% in 2017-2019). We commit to avoiding air travel, wherever possible, by replacing short-haul flights with other modes of transportation and by being particularly cautious when deciding on long-haul flights (that cause the majority of our travel emissions).
+>- Monitoring and documenting our climate impacts. To help inform our decisions about future travel and to be transparent, we are monitoring our travel-related emissions and publish them annually on our website. Our goal is to reduce our overall per-capita emissions.
+>- Offsetting unavoidable emissions. For all unavoidable trips that are longer than >250km, we commit to carry out offsetting. We realize that offsetting is the least effective way of reducing our climate impact of our travelling, emphasizing the importance of the first two points.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.

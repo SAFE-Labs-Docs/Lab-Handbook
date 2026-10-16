@@ -175,9 +175,13 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >毎週月曜9時から研究室全体でオンラインミーティングを行っています。ひとりずつ「先週の進捗や課題」と「今週何をやるつもりなのか」について手短に報告してもらいます。それを元にして、その週のマシンタイムを調整したり、今後の研究室の予定を確認します。全体ミーティングは決して長引かせず、合計1時間で終了することを心がけています。ひとりあたりの発表時間は5分程度しかないので、要点を押さえて的確に報告してもらう必要があります。それぞれの報告内容を聞いて、詳しいディスカッションが必要だと判断したら個別の対面ミーティングをどんどん設定します。
 >
+>隔週木曜10時から2時間かけて、1人の担当者が自分が最近興味を持った文献(1-3編程度)について研究室メンバー全員に向けて詳細に解説します。プレゼンテーション能力の向上も意図しています。参加者全員の時間を2時間奪うことになるので、担当者は参加者全員にとって有意義な時間になるように質の高い発表をしてもらう必要があります。参加者は基本的なことから専門的なことまでどんどん質問します。年に2,3回ほど担当が回ってきて、その都度パワーポイントで約30枚程度の準備が必要です。発表は日本語でもOKですが、資料は英語で用意します。
+>
 >_English translation:_
 >
 >Every Monday from 9:00 the whole lab holds an online meeting. Each person briefly reports on "last week's progress and problems" and "what they plan to do this week". Based on this, we adjust that week's machine time and check upcoming lab plans. We make a point of never letting the whole-lab meeting drag on, and aim to finish within an hour in total. Each person only has about 5 minutes, so reports need to be concise and to the point. If, after hearing a report, we decide a detailed discussion is needed, we readily set up individual face-to-face meetings.
+>
+>Every other Thursday from 10:00, for two hours, one person presents 1-3 papers they have recently been interested in, in detail, to the whole lab. It is also meant to improve presentation skills. Since it takes two hours of everyone's time, the presenter needs to give a high-quality talk that makes it worthwhile for all. Participants ask lots of questions, from basic to specialist. Each person's turn comes round 2-3 times a year, and each time needs about 30 PowerPoint slides. Presentations can be in Japanese, but the slides are prepared in English.
 
 >_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
 >

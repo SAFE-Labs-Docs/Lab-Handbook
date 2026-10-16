@@ -202,6 +202,16 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >At the start of a new project, the student or post-doc taking on the lead role can expect to be first author and corresponding author (talk to Mariam about it if you aren’t sure). Mariam will typically be the last author, unless the project is primarily under the guidance of another PI and Mariam is involved as a secondary PI – then Mariam will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it off to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first-authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
 
+>_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/authorship-policy/)_:
+>
+>We use the four [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) criteria as a helpful guide for expectations. In general, authors complete/agree to all four of the below items:
+>- substantial contributions to conception/design or data;
+>- drafting or critical revision;
+>- final approval; and
+>- accountability for the work.
+>
+>Proofreading, brainstorming, and routine technical help normally earn acknowledgements, not authorship; these are things lab members provide each other without any expectation of authorship.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >The "Passing the Baton" scenario: Imagine Student A starts a project, works on it for two years, and then graduates. Student B picks it up and needs three more years to complete the work. It's like a research relay race where both students have run their laps, and the project crosses the finish line thanks to their combined efforts. In this case, it's crucial to acknowledge and fairly attribute authorship to both students. However, when a student leaves the lab and doesn't continue working on the project, they naturally relinquish control over its direction. This is perfectly fine and sometimes passing the baton is the best career option for all involved.

@@ -193,6 +193,16 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >	- Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
 >- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.
 
+>_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/leaving-the-lab/)_:
+>
+>When you graduate or move on, the goal is simple: leave your work findable, reproducible, and easy for the next person to pick up. Start about a month before you go. Everyone follows the core steps below; graduate students have a few extra around the thesis.
+>
+>## Archive your data
+>
+>- **Create a folder with your name** in the BIRD Lab Box folder, under the People folder for your role, and upload everything you created or gathered for the projects you worked on.
+>- **Organize it clearly.** If you worked on more than one project, give each its own folder under your name.
+>- **Add a `README`** (`.txt`, `.md`, or `.docx`) explaining what the data is and how to use it. Letting others know what you uploaded and how to use it matters as much as the data itself.
+
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
 >
 >If you stop working on a manuscript, so that someone else needs to do the submission, revision, or resubmission, your position as first author might change. The first author, in other words, not only needs to lead the work but also finish it. For example, if you leave the lab before a paper is accepted, you'll have the opportunity to continue working on it as first author when reviews are returned, but if you cannot do this promptly, others in the lab will be invited to take over. Someone else might become first author. We have an obligation to publish the work funded by grants and contracts.

@@ -176,6 +176,12 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >Lab notes: Students are expected to maintain a daily record of their research. Some days it may make sense to handwrite notes in a physical notebook, while other days the most efficient record keeping method might be to take typed notes with interleaved screenshots. Students should maintain both a dedicated physical notebook for written record keeping and a dedicated Box folder to store digital notes (save, e.g., as Word documents). These notes must be sufficiently well-organized such that a future lab member can reasonably follow your prior work.
 
+>_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/data-management/)_:
+>
+>The lab's shared Box folder is the system of record for all data, documents, photos, and videos. UC Davis provides it with unlimited storage, and it keeps a version history of recent changes. Work out of Box so your files are backed up at all times.
+>
+>Once a month, back up your Box data to an external lab hard drive. Keeping a second copy off the cloud is your responsibility as much as the PI's.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >You should treat GitHub as a digital version of a “lab notebook”

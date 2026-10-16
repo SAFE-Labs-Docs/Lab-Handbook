@@ -37,6 +37,28 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >- Individuals maintain ownership and responsibility for the interpretation, use and accuracy of generated outputs
 >- Ensure that AI generative tools are not saving your data and using that to train its models
 
+### China
+
+>_[EMITLab_2026](https://emit-lab.github.io/EmitLab-Wiki-Public/communication/writing)_, translated from Chinese:
+>
+>6. AI-assisted writing
+>
+>AI tools can help to:
+>- structure arguments;
+>- improve language and expression;
+>- check consistency of terminology;
+>- turn existing facts into abstracts, figure legends or response outlines.
+>
+>But all AI output must be checked by the author, who is responsible for:
+>- numbers, units and sample IDs;
+>- facts and citations;
+>- the strength of conclusions;
+>- whether any limitations have been left out;
+>- whether the AI has made anything up;
+>- the accuracy and completeness of the final submitted text.
+>
+>Before using an external AI service, check that you have the right to upload the content; if unsure, ask the project lead.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

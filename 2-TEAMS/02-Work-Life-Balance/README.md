@@ -258,6 +258,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >- Graduate Assistants earn paid vacation, with scheduling "subject to the approval of the supervisor" (from [GAPP](https://hr.wisc.edu/policies/gapp/#leave-benefits)). I expect you to discuss your vacation schedule in advance.
 
+>_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/time-off-vacation/)_:
+>
+>You're encouraged to take vacation throughout the year. Most members take three to four weeks a year, cumulatively. Your formal leave accrual follows your UC Davis appointment and any applicable union contract (see HR). The lab's stance is simple: use your time. If you're not using your time off, we'll probably encourage you to schedule at least a staycation to recharge.
+
 >_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
 >
 >In general, every member of the team (particularly members who are not bound by class schedules anymore) should be actively at work for a duration that includes 11am to 3pm on weekdays, so that each of us will be able to overlap for a significant chunk of the workday while accommodating for individual schedules. (This is not to say you should only work 4 hours a day! And obviously, exceptions apply.) Your consistent presence during those times will lead to interactions and team-building, for the benefit of you and your labmates.

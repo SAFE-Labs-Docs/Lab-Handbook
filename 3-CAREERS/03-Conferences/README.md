@@ -169,6 +169,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >Mariam will fund up to two conferences a year if you are presenting, more if some are regional and do not require overnight stays or air travel. Typically, she can fund conferences within North America. Mariam typically does not fund conference travel if you wish to attend but are not presenting; the exception is regional conferences (like the Bay Area Memory Meeting). Reimbursable expenses include membership and submission fees, registration fees, poster printing fees, travel and lodging, and per diem. Reimbursements are capped at maximum ~$2,000 for multi-day conferences that require overnight stays and air travel, and less for conferences that do not require air travel. Ask Mariam how much she can reimburse before making your travel arrangements, and plan accordingly
 
+>_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/conferences/)_:
+>
+>**If you're first author on a lab paper that year,** the lab will typically fund **one** relevant conference per calendar year (subject to available funds).
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >If you are presenting your work from the lab (i.e., you

@@ -62,6 +62,10 @@ Lab members are often considering academia as a potential career. It informs tha
 >
 >At some point, you will likely be asked to provide a figure or two for a grant Mariam is writing, and/or provide feedback on the grant. You are entitled to read any grant Mariam has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see her vision for the lab in the years ahead. Ask Mariam to see any of her grants.
 
+>_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/work-expectations/)_:
+>
+>We're transparent about funding. Each fall, Christina gives a State of the Lab update on the lab's funding, major initiatives, and plans for the year ahead. Ask anytime about your appointment, support, or future funding. All salaries are overseen by MAE financial officers and follow UC Davis union agreements.
+
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
 >
 >We keep copies of funded and unfunded grants in the "Grant proposals" project on Asana.

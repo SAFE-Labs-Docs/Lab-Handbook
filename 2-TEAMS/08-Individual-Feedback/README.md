@@ -143,6 +143,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >I conduct a quarterly mutual assessment with each of my students. These exercises are four-fold symmetric: (i) the student assesses their own progress and performance over the last quarter; (ii) I provide feedback on their work; (iii) I assess my own performance as an advisor and researcher; (iv) the student provides feedback on how I could better support them.
 
+>_[TurnbaughLab_2026](https://turnbaughlab.ucsf.edu/culture)_:
+>
+>Inspired by Angela DePace and the NIH guidelines, I meet with each lab member at the start of each year to discuss notable accomplishments and challenges in the past year. Each of us comes prepared with a pre-written set of ideas and together we plan our strategy for the coming year. We also focus on opportunities for further improving our lab culture and the broader UCSF work environment.
+
 >_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/self-assessment/)_:
 >
 >In order to facilitate this process we designate one week each year, typically during the Spring Semester, where we will plan to look over your self-assessments and discuss them with you during your weekly meeting. We will give you a few weeks notice on when that week will be and encourage you to send us your self-assessments one week in advance of your meeting so that we have time to look it over and think about it. If you don't want to participate, just let us know.

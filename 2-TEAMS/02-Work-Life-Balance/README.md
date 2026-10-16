@@ -367,6 +367,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >- Don’t tell me you are going on vacation, ask me if it’s ok. Invariably, I will say, “yes”. But if vacations become too frequent given your work commitments and progress, we may need to have a longer discussion
 >- Please put when you will be away on the lab Google calendar
 
+>_[SilvermanLab_2026](https://silverman.chemistry.illinois.edu/links/Silverman_lab_expectations.pdf)_:
+>
+>I ask that when a graduate student is planning to be away from lab for several days or more, especially on days when the graduate student would otherwise ordinarily be present in lab, whenever possible please notify me in advance. It is most helpful to do so in the form of notifying me, “For my time off, I’m planning that my last full day in lab will be <date 1>, and my first full day back in lab will be <date 2>”. Among other considerations, such advance notice is helpful for (a) ensuring continuity in your research plans, and (b) informing our subsequent discussions about how other lab members, e.g., undergraduates, will be mentored during your absence.
+
 >_[SnyderGroup_2026](https://drive.google.com/file/d/1BchgsHCwpaEqxYKdwQkdqXjgIRpKtM6c/view)_:
 >
 >Ben will not track the hours you work. He expects that you will know when to work hard. He also expects that there will be times for decompressing, where the pace of things slows down a bit. In the end, you may have some fantastically productive 30-hour weeks, and some frustratingly unproductive 80-hour weeks. A minimum expectation is that you are present in lab during most of the regular working hours (9:00 AM – 5:00 PM). This will maximize your chance of having insightful discussions with your colleagues and helps ensure a safe working environment (working late into the night in lab and working alone in lab that have safety risks associated with them are both strongly discouraged). What you do beyond that is up to you. Do not overextend yourself, however. Ben is of the firm belief that working 65+ hour weeks is unsustainable.

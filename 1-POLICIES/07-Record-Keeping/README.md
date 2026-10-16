@@ -305,6 +305,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >- Please upload protocols, presentations, or other important data to the Lab drive where it would be available to other members.
 >- VERY IMPORTANT: prior to leaving for vacation or an extended period of time, write a summary for all the experiments you've done so far. Especially, highlight where you are and what you need to do next. This will be greatly useful for when you come back, believe me!
 
+>_[SilvermanLab_2026](https://silverman.chemistry.illinois.edu/links/Silverman_lab_expectations.pdf)_:
+>
+>I expect each lab experiment to be assigned a specific lab notebook entry number (e.g., JQS3087 for notebook 3 of lab member with initials JQS, page 87) at the time that experiment is initiated, rather than using placeholder values (e.g., JQS30XX) with the intention to update the placeholders “later”, because that updating typically never actually happens. Lab experiments that are initiated close in time can be continued in the notebook on a nonconsecutive page simply by writing, e.g., “see page 89” at the bottom of page 87 when a different experiment is begun on page 88.
+
 >_[SweedlerLab_2026](https://sweedler-lab.chemistry.illinois.edu/images/Sweedler_Group_Expectations.pdf)_:
 >
 >“Good Laboratory Practices” and I require notebooks to be used. For data, cross reference to the actual file locations. The notebooks are required to stay in the group (which is a requirement for most of our federal funding). Your data cannot live on the instrument it was collected on and so needs to be backed up to at least two locations. We have a current SOP on these details.

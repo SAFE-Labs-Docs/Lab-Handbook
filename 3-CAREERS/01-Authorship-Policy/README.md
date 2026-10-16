@@ -202,6 +202,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >At the start of a new project, the student or post-doc taking on the lead role can expect to be first author and corresponding author (talk to Mariam about it if you aren’t sure). Mariam will typically be the last author, unless the project is primarily under the guidance of another PI and Mariam is involved as a secondary PI – then Mariam will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it off to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first-authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
 
+>_[BahlaiLab_2026](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)_:
+>
+>If you made a meaningful intellectual, analytical, methodological, writing, or data contribution to a project, I believe we should generally err on the side of inclusion and recognition rather than exclusion- collaborative works between lab members, undergrad assistants, and external collaborators are encouraged. Authorship is not pie, giving a slice to others that contributed to the work does not deplete anyone else's slices. For authors in the middle of the list, I aim to balance contribution with equity. Contributions matter, but I also recognize that opportunities, confidence, seniority, and structural barriers are not distributed equally. Following principles similar to those outlined by [Liboiron and colleagues](https://civiclaboratory.nl/2016/05/23/equity-in-author-order/), authorship discussions should be transparent, collaborative, and attentive to fairness as well as productivity.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/authorship-policy/)_:
 >
 >We use the four [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) criteria as a helpful guide for expectations. In general, authors complete/agree to all four of the below items:
@@ -215,6 +219,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >The "Passing the Baton" scenario: Imagine Student A starts a project, works on it for two years, and then graduates. Student B picks it up and needs three more years to complete the work. It's like a research relay race where both students have run their laps, and the project crosses the finish line thanks to their combined efforts. In this case, it's crucial to acknowledge and fairly attribute authorship to both students. However, when a student leaves the lab and doesn't continue working on the project, they naturally relinquish control over its direction. This is perfectly fine and sometimes passing the baton is the best career option for all involved.
+
+>_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
+>
+>It is recognized that the list of authors may include individuals who make a limited, yet important contribution to the project. For example, an individual who proposes a critical idea or contributes essential skills in a substantive way (e.g., takes on a specialized analysis). Authorship should not be expected for more standard contributions such as ideas that come out during lab meeting or sharing expertise in particular analyses.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >

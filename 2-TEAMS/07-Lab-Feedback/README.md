@@ -42,6 +42,10 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >- Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
 >- Every December, we assess the state of the lab through an anonymous culture survey to be completed by every lab member. This is an opportunity for you to give me feedback and to shape the lab culture. I present the results, solicit ideas for improvement next year, and follow-up on what suggestions are implemented and by whom.
 
+>_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
+>
+>One lab member will have the chore of coordinating mentorship plans and feedback for research assistants working in the lab. As part of this lab chore, a survey should be administered to all RAs once/semester and a review of the cumulative results of the survey should be discussed at one lab meeting each year.
+
 >_[HollandGroup_2026](https://holland.chem.yale.edu/)_:
 >
 >Feedback goes in the other direction too: each student fills out an annual survey, and the aggregated results give me feedback. The goal of this anonymous survey is to empower my students to help me improve the group policies and to correct my own behavior. We also have "safety moments" and "diversity moments" at the beginning of all group meetings, where people can suggest improvements in how the lab works.

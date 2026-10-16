@@ -68,6 +68,16 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 > 
 > Even when an advertised postdoctoral position is fully funded via the lab funds, Federico will require all postdocs to apply for funding and fellowships when accepting a position, if eligible. This is for three reasons: it helps to crystalise their project approach and hypotheses; its demonstrates independence in a researcher’s CV; it can provide additional funding for professional activities (e.g. travel).
 
+### Japan
+
+>_[InoueGroup_2026](https://sites.google.com/view/isao/home/join-us/postdoc-fellowship)_:
+>
+>A typical preparation process is as follows. You contact me with your CV and research idea. We discuss whether the research fit is strong enough. If we both decide to proceed, we choose the appropriate JSPS call. AIST starts the internal pre-registration and screening process. You prepare the JSPS application forms (FORM 2), especially the research proposal. I prepare the host-side parts (FORM 1) of the application. You arrange a recommendation letter from your current or former supervisor. AIST checks and submits the final application to JSPS. JSPS reviews the application and announces the result. If selected, we prepare your visit to AIST.
+
+>_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
+>
+>Currently, we are only able to consider candidates who have secured their own funding or are actively applying for external fellowships. In light of the large volume of inquiries we receive asking simply if a postdoctoral position is available without any information on funding, we have decided not to respond to such emails. One example of an external fellowship is the JSPS Postdoctoral Fellowships program, offered by the Japan Society for the Promotion of Science to international postdoctoral researchers. We are willing to support those who plan to apply for this program and join us. If you are interested in this opportunity, please send your academic CV to Prof. Mizuno for consideration. Please note that acceptance into this highly competitive program is dependent on the situation and may not be granted in all cases.
+
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
@@ -134,6 +144,10 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >- Complete and keep up to date your Individual Development Plan (IDP)
 >- Contracts are renewed each year depending on progress towards these goals
 >- My goal will be to give you three months notice if funding is short or I think it is time for you to move on
+
+>_[SchumerLab_2026](https://schumerlab.com/lab-values-and-expectations/)_:
+>
+>Apply for fellowships and grants that you are eligible for, this will help on the job market! Apply for jobs when you’re ready, it’s a good idea to talk with your mentors about when this is and will be dependent on your specific career goals. If you have independent funding, plan to talk to Molly about your plans about one year before your funding ends.
 
 >_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
 >

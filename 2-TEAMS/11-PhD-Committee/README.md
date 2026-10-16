@@ -50,6 +50,18 @@ A PhD steering committee provides independent oversight of PhD student progress 
 >
 >Thesis committee policies are set by the graduate programs.
 
+>_[BahlaiLab_2026](https://github.com/BahlaiLab/Policies/blob/master/Committee_expectations.md)_:
+>
+>Department rules say you should meet with them all together at least once a year, but it certainly doesn't hurt to meet more often than that (okay it might, if you're not using your time well- but we'll cover that in this section).
+>
+>Committee meetings are initiated by, and generally led by the student. They are for you to update your committee about where you are, get advice about next steps, and practicing talking about your work (and committee meetings are in addition to particular program meetings which are held for very particular milestones- candidacy exams, prospectus, and the like, though sometimes meetings are combined for efficiency).
+>
+>The main things you need to think about when putting together a committee meeting are scheduling, establishing goals of the meeting, and providing information to update your committee on the progress of the project.
+
+>_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
+>
+>Graduate students are strongly encouraged to avail themselves of the cognitive neuroscience area guidelines to have annual meetings with their dissertation committee. Area heads do not always do a good job monitoring this, so students may have to take charge in making sure the meeting occurs. Ivry is available to assist as needed in ensuring these meetings occur.
+
 >_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
 >
 >The thesis committee should be convened prior to the Winter Quarter of the PhD student’s second year. The student is expected to consult closely with the advisor about the composition of the committee. The student is encouraged to keep in mind that the advisor has considerable experience with the committee process, and with the individual faculty in the Department. The thesis committee conducts the Qualifying Exam; meets annually with the student to discuss research progress, research plans, coursework, and professional/career goals; and conducts the Oral Exam (i.e., “dissertation defense”) and the evaluation of the written dissertation. Members of the thesis committee may in some cases also be research collaborators, and may also serve as mentors and/or letter writers for applications.

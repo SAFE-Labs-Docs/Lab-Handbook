@@ -99,6 +99,12 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 > 
 > Research assitants, master's students and undergraduates are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with Federico. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.
 
+### Japan
+
+>_[KitazakiLab_2026](https://sites.google.com/view/kvpl-kitazakilab/for-students)_:
+>
+>B4の最後あるいはM1のうちに1−2回国内会議あるいは国際会議で研究成果を発表することが一般的です。そして、これまでに所属した学生の半分以上が在学中に国際会議で研究発表をしています。年に2回以上発表した学生も少なくありません。
+
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full document is still under construction, but as an example some snippets are provided here:
 > 
@@ -172,6 +178,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/conferences/)_:
 >
 >**If you're first author on a lab paper that year,** the lab will typically fund **one** relevant conference per calendar year (subject to available funds).
+
+>_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
+>
+>All members are entitled to attend one conference/workshop per year. While it is anticipated that the person will present at the conference, it is not essential. However, when no presentation is made, or for workshops, the lab member should first obtain approval from Ivry. Conference/workshop expenses covered include travel, lodging, registration, poster production costs, and a reasonable per diem. Lab members are responsible for procuring travel tickets in timely manner to be economical and act responsibly on expenses. C. Lab members can request support to attend additional conferences/workshops. These require approval in advance from Ivry who will take into consideration value for professional development as well as the lab member’s overall annual budget request for the academic year. In some cases, expenses related to additional travel may result in a hybrid model (partial coverage), depending on priority/expense of conference. D. Lab members who contribute to their own funding (e.g., extramural fellowship) will receive priority to attend additional conferences/workshops. This is one “perk” of obtaining fellowships.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >

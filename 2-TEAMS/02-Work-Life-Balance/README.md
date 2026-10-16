@@ -148,6 +148,14 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >**Vacation**: I anticipate all lab members taking a minimum of 30 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this.
 
+### Japan
+
+>_[KitazakiLab_2026](https://sites.google.com/view/kvpl-kitazakilab/for-students)_:
+>
+>実験を中心にする研究室ですので，卒業，修了するためには，平均して平日1日あたり6時間程度の研究（実験含む）が必要です。基本的には，大学にある実験設備で実験を行いますが，文献調査やプログラミング，データ解析は自宅で行っている学生もいます。大学にも机やコンピュータは1人1セット用意しますので，自分の傾向に合わせて大学でも自宅でも研究ができます。ただし、学部生は基本的に研究室で対面で研究してもらいます。
+>
+>もちろん、休暇は自由に取れます。ただし、安全管理のために休暇中であることは教えてください。
+
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_
 >
@@ -276,6 +284,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >But because we're human, and it's nice to see other, non-digitized human faces regularly, aim to spend at least three days a week (for most of the workday) in lab.
 >You don't have to communicate your schedule with me in advance, as long as you're around roughly this much and show up for meetings.
 >Undergrads and out-of-state lab members will have different arrangements, of course.
+
+>_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
+>
+>Lab members should notify Ivry of extended (minimum of 1 week) vacation plans, preferably providing one month’s notice. This is not required for vacations/personal leaves of less than a week. C. When relevant, lab members are required to log their vacation/personal leave time on their timecards and are expected to use all of their official vacation/personal leave each calendar year. They should inform Ivry if they anticipate any carryforward since this may impact lab budgeting. D. Ivry will be responsible for reaching out to any lab member if there are concerns about absenteeism. E. Ivry will keep the lab informed of his vacation plans and what availability he will be able to provide when on vacation.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >

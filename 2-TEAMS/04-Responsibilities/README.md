@@ -76,6 +76,14 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >
 >Our team is composed by researchers with different roles: postdocs, PhD students, Research Assistants undergraduate students. Expectations for each role, and what they can expect from other lab members, is detailed in the table at this [link](https://rossilab.iit.it/lab-culture). The table is meant as a guide, not a limitation: exceptions will happen (e.g. sometimes a principle project can be collaborative, rather than independent; a productive research assistant or an undergraduate may contribute to writing a paper), but this guide will be accurate in most cases: please discuss with Federico if you have any questions of concerns about it.
 
+### Japan
+
+>_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
+>
+>Is prior knowledge necessary? There is no particular requirement for prior knowledge. After being assigned to the lab, there is a weekly “study meeting” in addition to the seminar, where faculty members and seniors provide a comprehensive lecture on the basic knowledge necessary for research.
+>
+>What about English proficiency? English proficiency is not a requirement at present, but it is essential for advancing research. After being assigned to the lab, faculty members will provide direct guidance according to the student’s wishes.
+
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).
 > 

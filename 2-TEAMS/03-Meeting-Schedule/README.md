@@ -141,6 +141,22 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >**Semestral Appraisals**: We review the post/project's long-term progress and provide tailored feedback on work performance during semestral appraisals. This is also an opportunity to give Federico feedback about the experience of working in the lab, and discuss how to improve his support and supervision.
 
+### Japan
+
+>_[KitazakiLab_2026](https://sites.google.com/view/kvpl-kitazakilab/for-students)_:
+>
+>毎週月曜のお昼に10-30分のオンライン全員ミーティング（昼mtg）を行っています。これは研究室内での状況共有が第一の目的です。毎週1回、対面でのゼミを行い、輪講，論文紹介，学会で見聞きした研究の紹介，自分の研究発表の練習などをしています。なお，対面ゼミ以外では必ず研究室に居なければいけないコアタイムはありません（ただし、学部4年生は原則として研究室で対面で研究をしてもらいます）。もちろん、研究室に来て実験をしなければ卒業することは難しいと思います（研究テーマや方法にもよります）。
+>
+>研究の定例mtgは週に1回のペースです。1対1あるいは上級生や他の教員，テーマによっては他大学や海外の研究者も入れて2-4人くらいで行います。今はほとんどオンラインです。研究の進捗がない場合でも参加し、状況を話し合います。ただし、毎週や毎月の進捗レポートの義務はありません。
+
+>_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
+>
+>毎週月曜9時から研究室全体でオンラインミーティングを行っています。ひとりずつ「先週の進捗や課題」と「今週何をやるつもりなのか」について手短に報告してもらいます。それを元にして、その週のマシンタイムを調整したり、今後の研究室の予定を確認します。全体ミーティングは決して長引かせず、合計1時間で終了することを心がけています。ひとりあたりの発表時間は5分程度しかないので、要点を押さえて的確に報告してもらう必要があります。それぞれの報告内容を聞いて、詳しいディスカッションが必要だと判断したら個別の対面ミーティングをどんどん設定します。
+
+>_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
+>
+>What is the seminar like? The seminar is held once a week (on Friday afternoons for the 2022 academic year), and several students present their research progress in English or Japanese. In addition, there are lectures from faculty members or seniors on how to conduct research and basic optical technology. Sometimes, we also practice presenting at academic conferences. Every time, everyone is required to participate in discussions and express their opinions. Until midway through the 2022 academic year, the seminar was held online, but now it is held in person.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

@@ -176,6 +176,20 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >Lab notes: Students are expected to maintain a daily record of their research. Some days it may make sense to handwrite notes in a physical notebook, while other days the most efficient record keeping method might be to take typed notes with interleaved screenshots. Students should maintain both a dedicated physical notebook for written record keeping and a dedicated Box folder to store digital notes (save, e.g., as Word documents). These notes must be sufficiently well-organized such that a future lab member can reasonably follow your prior work.
 
+>_[BahlaiLab_2026](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md)_:
+>
+>Data used in support of the project must be:
+>- [ ] Saved in an appropriate, non-proprietary format with accompanying metadata
+>- [ ] In a public archive, or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
+>- [ ] Linked and briefly described in the project README
+>
+>## Code
+>Code used or developed in support of the project must be:
+>- [ ] Well commented and complete
+>- [ ] On Github, in the public project repository
+>- [ ] Described in the README- what does each file do, what language was used, etc
+>- [ ] Tested! can at least one other person (but more is better) make your analysis go on a different computer?
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/data-management/)_:
 >
 >The lab's shared Box folder is the system of record for all data, documents, photos, and videos. UC Davis provides it with unlimited storage, and it keeps a version history of recent changes. Work out of Box so your files are backed up at all times.

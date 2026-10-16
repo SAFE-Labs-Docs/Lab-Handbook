@@ -193,6 +193,12 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >	- Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
 >- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.
 
+>_[BahlaiLab_2026](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)_:
+>
+>Authorship expectations do not expire when someone graduates, changes institutions, or otherwise leaves the lab. Contributions remain contributions, and authorship should continue to reflect the work people have done regardless of where they are currently employed. However, research projects also carry obligations. If a project remains inactive for an extended period after a student or researcher leaves, I may choose to move the project forward so that the work, data, and resources invested in it can continue to contribute to science (see open science policy above). As a general guideline, projects that have seen no substantial progress for approximately one year may be considered inactive.
+>
+>In these situations, original contributors will continue to receive appropriate authorship credit for their contributions. However, if additional personnel undertake substantial work to complete, analyze, write, or publish the project, authorship order may be revisited to reflect those new contributions. In particular, taking responsibility for advancing an orphaned project to publication may warrant changes in author order, including first authorship where appropriate. My goal is not to take projects away from people, but to ensure that valuable research does not remain unpublished indefinitely- that hurts all of us! Whenever possible, these discussions will occur openly and collaboratively before any changes are made.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/leaving-the-lab/)_:
 >
 >When you graduate or move on, the goal is simple: leave your work findable, reproducible, and easy for the next person to pick up. Start about a month before you go. Everyone follows the core steps below; graduate students have a few extra around the thesis.

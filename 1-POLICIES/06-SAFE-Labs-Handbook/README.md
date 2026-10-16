@@ -19,6 +19,11 @@ This consists of three required steps:
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>Our labs follow the [SAFE handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook), a set of public commitments on how a research group is run: how we work together, how careers are supported, and what every member can expect. This page is the version we commit to.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

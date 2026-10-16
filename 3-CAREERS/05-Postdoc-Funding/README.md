@@ -17,7 +17,16 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>At ULB, similarly to [FNRS](https://www.frs-fnrs.be/en/documents-utiles-rh), salaries for postdoctoral researchers are determined by a national [scale system](https://estimations.ulb.ac.be/baremes.htm) and will scale with seniority (scale 530 + seniority, multiplied by current index for salaries - index also found [here](https://www.frs-fnrs.be/en/documents-utiles-rh)). Nevertheless, some fellowships can be higher.
+
 ### Canada
+
+>_[GribbleLab_2026](https://labmanual.gribblelab.org/08_specific-expectations.html)_:
+>
+>You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc) when you are eligible to do so. Typically an initial contract is for one or two years of support from my research grants. In some cases this may be extended but this is highly dependent on circumstance, budget, etc.
 
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
 >

@@ -16,6 +16,13 @@ English is the international language of science in the 21st century: proficienc
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>The working language in the lab is English. All meetings and work-related conversations should be conducted in English. For interpersonal conversations, we encourage to use the language most inclusive to those present.
+>
+>The ULB’s working language is French. While some documentation and communication from the institution is bilingual (French and English), oftentimes resources are only available in French. We encourage lab members to use a translation plugin on their browser to deal with this, and in case of confusion we are there to help. It is important to note that mastery of the French language is expected for promotion to fully tenured professor at the ULB, and that internal meetings such as faculty meetings can be conducted fully in French.
+
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >

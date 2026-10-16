@@ -22,6 +22,12 @@ Science is an international endeavour, which brings together people from many cu
 >
 >We aim to create an environment that welcomes (or even celebrates) our different backgrounds. Unfortunately, there is a racial, gender, and LGBTQIA+ bias in academia, and most certainly in cognitive neuroscience. Women and people of color tend to be underrepresented, as P.I.’s, but also as speakers, reviewers, or committee members (this can be a helpful database for finding women in our field: Women in Cognitive Science - Networking Hubs). Recent studies even suggest that these same underrepresented minoritized researchers are often cited less in cognitive neuroscience (e.g., The extent and drivers of gender imbalance in neuroscience reference lists; Racial and ethnic imbalance in neuroscience reference lists and intersections with gender). It is important for us to be aware of those biases (e.g., homophily), and to discuss them and act on them whenever and wherever we see room for improvement! This concerns biases both on a global level (e.g., citation practices), as well as on a local level. Our lab has a zero-tolerance policy for harassment or discrimination of any kind.
 
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>We are a multidisciplinary team of researchers with backgrounds in computer science, mathematics, biology and medicine. We value this diversity in thought, and furthermore we strive to create an environment that is diverse in cultural, socio-economic, gender and geographical backgrounds.
+>
+>Accordingly, we strive for a psychologically safe environment, where differing points of view are valued. We look out for the mental health of our team and discourage toxic and discriminatory behavior. At onboarding, we review the institutional rules for parental leave and discuss any other needs. To facilitate these goals, we implement the [SAFE handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook).
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

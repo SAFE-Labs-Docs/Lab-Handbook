@@ -17,6 +17,11 @@ Lab members are often considering academia as a potential career. It informs tha
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>**We will give updates on project writing, spending/grants, and lab recruitment during lab meetings.**
+
 ### Germany
 >_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
 >

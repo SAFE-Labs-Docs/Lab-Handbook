@@ -27,6 +27,14 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >Our job does not require many nine-to-five responsibilities, but we do encourage attending the department more than half the week during working hours. Other than our (lab) meetings and seminars, you should feel free to work when and where you please. However, we live in a society where most people work from nine to five, Monday to Friday. Outside those hours, many of us often prefer taking time for friends, family, hobbies, entertainment, or simply ourselves. As a lab, we will respect those hours when it comes to communicating and collaborating with others! We do this by trying to refrain from mailing over the weekend, or setting deadlines right after weekends or vacation days. Obviously, there is no shame in trying to reach a deadline over the weekend, or preferring to work during unusual hours, but it should definitely not be expected.
 
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>**Working hours are 9am to 5pm**, but are flexible within reasonable limits. Some of the secretary work starts earlier. Some meetings (e.g. with North-American collaborators) might end later. Lab members should not expect replies to non-urgent emails/messages outside of work hours.
+>
+>Since individual preferences vary, we do expect lab members to be flexible with these hours when scheduling their own time.  The **“core” hours**, around which flexibility is accepted, are **10am to 4pm**. We expect lab members to be considerate of the core hours when scheduling meetings, or training, while maintaining flexibility when possible.
+>
+>Full lab members should be **onsite during the core working hours from Tuesday to Friday** (also see next section on remote working). This helps to ensure we regularly interact in-person and benefit from the expertise and community provided by working in a research group. This is a requirement for every week and it should be the norm.
+
 ### Canada
 >_Anonymous lab_:
 >

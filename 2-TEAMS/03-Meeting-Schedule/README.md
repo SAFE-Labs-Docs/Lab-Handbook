@@ -17,6 +17,24 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>Lab meetings are held weekly on Thursdays at 10 AM, unless otherwise announced. Each meeting follows this structure:
+>
+>1. **Presentation**: A different lab member presents their work or results for 30–40 minutes.
+>2. **Round Table Discussion**: Every lab member has up to 5 minutes to share updates on their projects, discuss challenges, or seek feedback.
+>
+>Any changes to the schedule will be communicated in advance.
+>
+>**Journal Club**
+>
+>The Journal Club takes place once a month and provides an opportunity for collaborative learning and discussion.
+>
+>- **Team Selection**: Groups of 3–4 members are formed to choose a paper for presentation.
+>- **Paper Approval**: The selected paper must be relevant to the lab's research and approved by the PI before the meeting.
+>- **Presentation**: During the session, the group presents the paper to the lab, highlighting key findings, methodologies, and implications, followed by a group discussion.
+
 ### Canada
 >_Anonymous lab_:
 >
@@ -33,6 +51,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.
 >
 >We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with.
+
+>_[GribbleLab_2026](https://labmanual.gribblelab.org/12_lab-meetings.html)_:
+>
+>Sometimes we also attend the Pruszynski lab meeting, or the Diedrichsen lab meeting, depending upon who is presenting and what is being presented. We should regard the three labs as one cohesive unit, and we should feel free to attend each other's lab meetings optionally when there is something of interest being presented.
+>
+>We also meet together with the Pruszynski lab and the Diedrichsen lab for a shared "superlab" meeting & journal club. The exact time & location may change from year to year. You should regard attendance at these as mandatory, unless you have a class that is scheduled in conflict.
 
 >_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
 >
@@ -656,6 +680,19 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
 >I will make myself available to meet with you at least once, for at least 30 minutes, each week. If you would like to meet more often or for longer, please ask. I will do my best to accommodate such requests. But, our meetings do not have to fill the entire 30 minutes, and if you tell me “I only need 5 minutes today,” that is totally fine. However, I will discourage you from cancelling more than one meeting in a row, as this is a red flag for me that something is not right.
+
+>_[RobertsLab_2026](https://robertslab.github.io/resources/Lab-Communication/)_:
+>
+>On a **biweekly** cadence (\~1.5 hours), all members discuss activities since the last meeting, planned work for the next two weeks, and project blockers. **Goals** are set each meeting and reported on at the next. Graduate students also meet one-on-one with Steven on this cadence; see [Environment and Expectations](https://robertslab.github.io/resources/Environment-and-Expectations/#graduate-students).
+>
+>**Weekly Science Hour (optional)**
+>
+>**Fridays** — casual time to hang out and sometimes tackle science as a group (debugging scripts, interpreting analyses or figures, longer conceptual discussions). Optional, but highly encouraged.
+>
+>**Other meetings**
+>
+>-   **Practice presentation meetings** (as needed): Before conferences or symposia, schedule extra time for a practice talk and feedback (e.g. \~1 hour for a 15-minute talk).
+>-   **Targeted topic meetings** (as needed): When a subset of the lab agrees a focused session would help.
 
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >

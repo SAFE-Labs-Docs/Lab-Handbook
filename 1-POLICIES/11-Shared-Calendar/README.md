@@ -18,6 +18,11 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>We share dates for e.g. lab meetings, conferences, and personal vacations in the calendar “GRP_IRIBHM Computational”. We expect some notice for announcing personal vacations. A rough guideline is one week notice at least, and a longer notice period if you will be away for a long time. You should plan out your vacation days to not interfere with your and other’s work, for example, not at the same time as an important conference or an important deadline. Or if you have running wet lab experiments, they should not be affected. Extended working from home periods should also be marked on the calendar. If you are unavailable due to a medical issue, you should (if you are able) mark yourself as “absent” on the calendar, a justification to the whole team is not needed.
+
 ### Canada
 
 >_[BHKLab_2026](https://github.com/bhklab/handbook/blob/main/docs/General/Communications/bhklab_calendar.md)_:

@@ -18,6 +18,13 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>Mentorship and support are provided to lab members to help secure the next career step. Job and grant applications, along with preparation for subsequent interviews, require significant time and effort, up to one year before the end of the contract. Typically, after mutual agreement during one-on-one meetings, up to 25% of work time may be dedicated to this endeavor.
+>
+>Recognizing that individuals may leave the lab for various reasons, it is important to discuss plans as early as possible—preferably at least six months before the intended departure. This approach helps ensure a smooth transition, with the final months focused on the handover of any necessary knowledge and data to maintain documentation, continuity, and completion of ongoing projects. As a final step before departure, an exit interview will be organized, conducted privately with a colleague (e.g., a SAFE lab network associate). This interview provides departing lab members an opportunity to discuss their reasons for leaving and offer constructive feedback based on their experiences.
+
 ### Canada
 >_Anonymous lab_:
 >
@@ -362,6 +369,12 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >In general, please ask me for permission to share anything from our group that has not been published. This includes things that the group has produced, like fabrication recipes or tricks, special measure code, etc. This excludes things that only you have produced, like your private code folder, presentations, etc. (i.e., you can use or share these things as you see fit).  If you are going to work at a company, I do not expect that you would make such a request. I would also be hesitant to grant such a request for students moving on to big companies.  I will disable your software accounts (box, slack, OneNote, etc.) shortly after your last day.  Please delete all nicholgroupur and urqdots chrome profiles on your personal computers, and do not log in to any of the shared google accounts after you leave.  Make sure all lab notebooks (especially fab notebooks) and fab tools are in the lab before you leave.  Turn in your keys to the keys drawer before you leave.  If possible, please provide an email address that we can use to contact you in case questions arise.
+
+>_[RobertsLab_2026](https://robertslab.github.io/resources/Offboarding/)_:
+>
+>When you leave the [Roberts Lab](https://faculty.washington.edu/sr320) — graduating, finishing a postdoc or appointment, wrapping up an undergraduate position, or moving on for any reason — the goal is simple: **your work stays usable by the lab, and you leave with copies of everything that is yours to keep.**
+>
+>Use this page as a checklist. Start **2–4 weeks before your last day** so nothing depends on access you no longer have. Work through it with Steven, and check items off as you go.
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >

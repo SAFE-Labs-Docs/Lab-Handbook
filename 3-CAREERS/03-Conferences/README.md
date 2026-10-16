@@ -17,6 +17,15 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>Each postdoctoral researcher and PhD student typically has a budget to attend conferences every year, the amount of which depends on the funding scheme. For those full lab members without funding for conferences, the lab will try and cover their costs on a case-by-case basis to be discussed with the supervisors.
+>
+>Lab members are **expected to submit an abstract** when attending events (where applicable), at least for a poster, ideally for oral presentations.
+>
+>Typically, both PhD students and postdoctoral researchers are expected to attend **at least one scientific event every year**.
+
 ### Canada
 >_Anonymous lab_:
 >
@@ -39,6 +48,18 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >- In general keep costs low in a reasonable way as it adds up quickly as a group! If you do this, I can send more of you to more conferences! If in doubt though, ask!
 >
 >**Note: Do not assume that your travel can be funded—please ask me before committing to anything!**
+
+>_[GribbleLab_2026](https://labmanual.gribblelab.org/16_conference-travel.html)_:
+>
+>Generally our model is that to attend a conference, your research project should be sufficiently developed such that it makes sense to present a poster or give a talk. This is something that we will decide together.
+>
+>We generally do not submit "prospective" abstracts in which we promise either data or findings that we do not already have obtained at the time of submitting the abstract.
+>
+>**By the abstract submission deadline, we must have enough data collected, and enough analysis complete, that we are very confident in the results and findings.**
+>
+>This can be challenging because often deadlines for abstracts are many months in advance of the conference itself. That said, learning to work backward from firm deadlines is an essential skill, not just in grad school, but in any career. Conference deadlines provide a concrete target to plan around, and can be a useful forcing function for making steady progress on a project. Treating these dates seriously, and building in buffer time for the unexpected, is good practice for navigating the many real-world deadlines you will encounter throughout your professional life.
+>
+>We often attend [SFN](https://www.sfn.org/meetings) and [NCM](https://ncm-society.org/) each year. If there is another meeting or meetings that you would like to attend, that is a possibility, budget permitting. Typically trainees attend 1 major meeting per year.
 
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >

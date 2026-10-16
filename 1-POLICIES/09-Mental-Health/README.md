@@ -19,6 +19,12 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >The main reason for setting up a lab philosophy document is to make things discussable, and provide a frame of reference for the insecurities and uncertainties we might have (I sure have them!). Academia can be a stressful environment. The competition can be fierce, and the expectations can be vague. We also each have a personal story that might sometimes feel less compatible with our professional life. If you experience negative feelings that affect your general wellbeing at work, you are encouraged to share those feelings with your PI (if considered helpful), but also with close colleagues, the faculty’s or department’s trust person, professional help, or anyone else that can be of help.
 
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>The ULB has different [mental health services](https://www.ulb.be/en/campus-life/healthcare-and-well-being). Staff members can get counseling through [SSM](http://www.ssmulb.be/) (the website is only in French, but there is English speaking staff).In case of accessibility needs, the [ULB staff page](https://portail.ulb.be/fr/aides-bien-etre-et-avantages/accessibilite-pour-toutes-et-tous) has information.
+>
+>You can find help outside of the ULB as well. For medical help, you can contact your personal health insurance. The [Platforme Bruxelloise pour la santé mentale](https://santementale.brussels/) can be consulted for various issues such as drug addiction, immigration issues and psychological trauma. There is also a Flemish equivalent active in Brussels called the [CAW](https://www.caw.be/locaties/caw-brussel-vzw/).
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

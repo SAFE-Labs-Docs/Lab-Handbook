@@ -17,6 +17,11 @@ Researchers often focus on scientific progress and neglect the development of co
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>**A dedicated session during our annual lab retreat will cover training and outcomes of core skills.**
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

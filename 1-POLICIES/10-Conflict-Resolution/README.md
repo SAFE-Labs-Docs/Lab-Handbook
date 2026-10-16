@@ -17,6 +17,11 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>The first, and easiest, course of action is to attempt to talk it out with the person involved. If the issue persists, it can be brought up privately to your PI or, if applicable (e.g. a conflict with your PI), to a member of your PhD thesis committee.
+
 ### Canada
 
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:

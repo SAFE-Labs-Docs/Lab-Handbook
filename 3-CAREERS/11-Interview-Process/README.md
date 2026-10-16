@@ -22,6 +22,11 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>**We will interview candidates with 2 PIs whenever possible. The same procedure and a predefined set of questions is used for all candidates.**
+
 ### Canada
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/faq/)_:
 >

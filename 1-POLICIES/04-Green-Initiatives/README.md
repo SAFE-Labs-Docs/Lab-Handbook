@@ -15,6 +15,15 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>Before making travel plans, we encourage lab members to consult the ULB’s [incentive programs for green travel](https://portail.ulb.be/fr/actualites/institution/la-politique-de-voyages-responsables-entre-en-application). For conferences attended as a group, we typically make a group purchase.
+>
+>We encourage lab members to take advantage of the ULB’s [incentives for sustainable commuting](https://portail.ulb.be/en/campus-life/home-work-campus-commuting-expenses) (e.g. cycling and public transport). Recipients of FNRS grants can also receive compensation, information can be found under the [HR documents](https://www.frs-fnrs.be/en/documents-utiles-rh) section.
+>
+>Regarding lab equipment, there are institute-wide internal rules and guidelines to follow. Typically, we encourage members to reuse, share and donate equipment when possible. For this purpose, the institute-wide mailing list can be used.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

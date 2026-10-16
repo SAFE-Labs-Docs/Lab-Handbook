@@ -14,6 +14,12 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 
 ## Examples
 
+### Belgium
+>_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
+>
+>- An **annual lab feedback**
+>    - Takes place during our yearly lab retreat at the end of the year, in the Fall. This dedicated time is used to reflect on and discuss major topics impacting the lab.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

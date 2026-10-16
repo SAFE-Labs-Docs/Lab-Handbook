@@ -366,6 +366,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >File Naming
 >    Use CamelCase and underscores for file naming. Avoid spaces because not all systems read spaces well. In addition, generally, files should use the following format: StudyName_ParticipantID_FileType_Date. That way, we know what study the file is related to, what content it contains, and how recent it is. If you see a file that is named differently, please correct it to this format for consistency and legibility.
 
+>_[RobertsLab_2026](https://robertslab.github.io/resources/Lab-Notebooks/)_:
+>
+>An online lab notebook is **required** for all lab members. Entries should be organized by date in reverse chronological order and **updated daily**. Document so that you or a stranger could reproduce the work years later.
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >There is no standard as whether it is a bound notebook, loose-sheet binders, or electronic files. You can use any, but please incorporate the following:

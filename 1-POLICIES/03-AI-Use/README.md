@@ -84,6 +84,15 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >
 >Generative AI may never be used for original writing, including papers, presentations, applications, and peer review. Generative AI may be used to suggest minor edits, like reducing word counts or simplifying language. The results should be thoroughly proof-read and edited.
 
+### Spain
+
+>_[BartomeusLab_2026](https://bartomeuslab.com/2026/06/15/genai-lab-guidelines/)_:
+>
+>We do not prioritize speed. Earning a PhD is learning how to do science. How to write code, how to write an introduction. This implies doing it yourself and not delegating your tasks.
+>- When the benefits of AI for a particular task are clear, we select the right tool (e.g. Google Scholar Labs for references) and use it with care. This often implies cautious prompts that are as specific as possible, and not broad task delegation. e.g., explain to me why this fails > fix this line of code > write me code that does X.
+>- Be upfront. Discuss early the expected genAI usage for a given project with all co-authors, and ensure everyone is comfortable with the plan. Disclose substantial AI use in all our outputs. If we use it, we explain it. This is transparency. Exceptions can be small grammatical edits by e.g., Grammarly, and small technical questions, but any paragraph, code, or image generated should be credited.
+>- We take responsibility for checking all AI outputs. It is our duty to fact-check AI work, from ensuring the code is functional, the references exist and say what the AI claims, or the suggested text corrections do not change the intended meaning. In a nutshell, we take full responsabiliyty of the tools we use.
+
 ### United Kingdom
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >

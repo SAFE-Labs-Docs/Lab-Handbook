@@ -75,6 +75,12 @@ Contact details can be found in our extended version of the Lab Handbook.
 >
 >If you observe behavior inconsistent with this Code of Conduct, report it to the group leader (dongwookgo@korea.ac.kr). If the issue involves the group leader, contact Prof. Yosep Kim (yosep9201@gmail.com), who is the Ombudsperson for GO-Lab. Confidentiality and anonymity will be maintained to the fullest extent possible, and all violations will be addressed promptly and fairly. When necessary, we will seek guidance from Korea University’s Center for Human Rights and Gender Equality (https://humanrights.korea.ac.kr/). In cases of discrimination or harassment, we enforce a Zero Tolerance Policy, addressing matters immediately through official university channels and the Center for Human Rights and Gender Equality.
 
+### Spain
+
+>_[BartomeusLab_2026](https://bartomeuslab.com/2024/04/06/code-of-conduct/)_:
+>
+>If you feel uncomfortable in any situation, or you see potentially uncomfortable situations for other people, speak up directly (we cultivate a culture of open honest feedback) or report it if you don’t feel secure to speak up in public. For reporting abusive behaviors, or any other doubt related to this issue, please write to Virginia Dominguez or Ignasi Bartomeus. Only these persons will have access to the information, and it will never be shared in any form without the explicit consent of the denouncer. We understand that some situations might be not easy, especially when one is in an unstable position or is starting to work in a certain field. Therefore, our commitment is to help the denouncers and maintain their anonymity.
+
 ### United Kingdom
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >

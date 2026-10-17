@@ -96,7 +96,7 @@ Researchers moving Italy are entitled to a refund for accommodation of the first
 
 >_[UIGlacierDynamics_2026](https://github.com/tbartholomaus/uiglaciology/blob/master/content/4-UIdaho.md)_:
 >
->- [Graduate admissions](graduateadmissions@uidaho.edu) will get in touch with you about issuing an I-20. Follow their instructions as quickly as possible.
+>- [Graduate admissions](mailto:graduateadmissions@uidaho.edu) will get in touch with you about issuing an I-20. Follow their instructions as quickly as possible.
 >- Once your I-20/equivalent has been issued, visit the [SEVP website](https://www.fmjfee.com/i901fee/index.html) and pay the I-901 SEVIS fee (even Canadians who do not have Visas). Remember to copy the record number and print off the proof of payment for when you cross the border and apply for your Visa.
 >Also fill in the [DS-160 form online](https://ceac.state.gov/genniv/). Make sure you select your country of permanent residence, and not simply the consulate closest to you or wherever you might be studying at the moment.
 >- Begin your pre-arrival checklist on [iVandal](https://www.ivandal.uidaho.edu/istart/controllers/start/StartEngine.cfm). You can submit your passport, visa, emergency contact info, address, etc. before arriving in the US.

@@ -520,7 +520,7 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 
 >_[SilvermanLab_2026](https://silverman.chemistry.illinois.edu/links/Silverman_lab_expectations.pdf)_:
 >
->I ask that when a graduate student is planning to be away from lab for several days or more, especially on days when the graduate student would otherwise ordinarily be present in lab, whenever possible please notify me in advance. It is most helpful to do so in the form of notifying me, “For my time off, I’m planning that my last full day in lab will be <date 1>, and my first full day back in lab will be <date 2>”. Among other considerations, such advance notice is helpful for (a) ensuring continuity in your research plans, and (b) informing our subsequent discussions about how other lab members, e.g., undergraduates, will be mentored during your absence.
+>I ask that when a graduate student is planning to be away from lab for several days or more, especially on days when the graduate student would otherwise ordinarily be present in lab, whenever possible please notify me in advance. It is most helpful to do so in the form of notifying me, “For my time off, I’m planning that my last full day in lab will be &lt;date 1&gt;, and my first full day back in lab will be &lt;date 2&gt;”. Among other considerations, such advance notice is helpful for (a) ensuring continuity in your research plans, and (b) informing our subsequent discussions about how other lab members, e.g., undergraduates, will be mentored during your absence.
 
 >_[SnyderGroup_2026](https://drive.google.com/file/d/1BchgsHCwpaEqxYKdwQkdqXjgIRpKtM6c/view)_:
 >

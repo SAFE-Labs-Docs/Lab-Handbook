@@ -334,7 +334,7 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >	- LabArchives ELN: List Keisuke as Administrator for your notebook(s). Give access to your personal email for continued access after your Pitt account expires.
 >	- Other digital notebooks: Export all entries as Word or PDF documents to your folder in the Ishihara lab NAS.
 >	- Physical notebooks: Physical notebooks stay in the lab. Make a personal copy by scanning relevant pages.
->- [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
+>- [ ] Move your name to the almuni section in [LabMembers.md](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
 >- [ ] Check all of the above with Keisuke.
 
 >_[IvesLab_2026](https://ives.labs.wisc.edu/pdf/Ives_Lab_guidelines.pdf)_:

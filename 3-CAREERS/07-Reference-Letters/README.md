@@ -158,7 +158,7 @@ Career progression, grants, and competitive applications often require reference
 >
 >In general, please give Dr. Rose at least 4 weeks notice when requesting a letter, and more time than that when possible. If the deadline is sooner than 4 weeks, she may not be able to write the letter, particularly during times of the year when she receives a high volume of letter requests.
 >
->Job candidates should request access to the Lab [job tracking template](docs.google.com/spreadsheets/d/1EB3ozh96kzLu2QrHafjwadsYlWjmF0NX6iM8BjLwzE4), make a copy, fill in details specific to your search, and invite Dr. Rose to the document.
+>Job candidates should request access to the Lab [job tracking template](https://docs.google.com/spreadsheets/d/1EB3ozh96kzLu2QrHafjwadsYlWjmF0NX6iM8BjLwzE4), make a copy, fill in details specific to your search, and invite Dr. Rose to the document.
 
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >

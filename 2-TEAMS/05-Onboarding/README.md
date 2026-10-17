@@ -349,7 +349,7 @@ A clear onboarding process should not only ensure that lab members complete esse
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd)_:
 >
 >1. Read the [GCRG Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
->2. If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.qmd) (also has some useful postdoc-related resources)
+>2. If you're a PhD student, check out Malin's [Notes on a PhD Degree](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd) (also has some useful postdoc-related resources)
 >1. Read the [GCRG Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 >1. Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a key for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
 >1. Make a [GitHub](https://github.com/) account if you don't have one already.

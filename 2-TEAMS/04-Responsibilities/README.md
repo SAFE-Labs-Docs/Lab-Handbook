@@ -362,11 +362,11 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 >_[SteinschneiderLab_2026](https://github.com/SteinschneiderLab/lab-manual/blob/main/professional-development.md)_:
 >
->I am happy to provide support as you develop your programming skills. In particular, I will fund online training modules (e.g., [Data Camp](https://www.datacamp.com/)) if you want to pick up a new language. I also require that students use Git and Github for version control and to promote open science (see [open-science](open-science.md)).
+>I am happy to provide support as you develop your programming skills. In particular, I will fund online training modules (e.g., [Data Camp](https://www.datacamp.com/)) if you want to pick up a new language. I also require that students use Git and Github for version control and to promote open science (see [open-science](https://github.com/SteinschneiderLab/lab-manual/blob/main/open-reproducible-research.md)).
 >
 >The lab often uses high performance computing (HPC) in support of our research. We have a local cluster (Hopper), and also use cloud resources (NSF ACCESS, Google Cloud, Amazon Web Services).
 >
->I have compiled several tutorials and other useful materials in the [resources](resources) folder of the lab manual. Please start there and read through those materials as a starting place for training excercises.
+>I have compiled several tutorials and other useful materials in the [resources](https://github.com/SteinschneiderLab/lab-manual/tree/main/resources) folder of the lab manual. Please start there and read through those materials as a starting place for training excercises.
 
 >_[SUMMITLab_2026](https://sites.bu.edu/summitlab/values/mentorship-values/)_:
 >

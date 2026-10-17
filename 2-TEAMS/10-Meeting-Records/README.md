@@ -84,6 +84,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>Meetings are most efficient and valuable when there is an agenda and we can follow up on past progress. You’re in charge of your project so you will set the agenda. You must upload your agenda to your Individual Meeting folder on Box at least 24 hours before your scheduled bi-weekly meeting. The agenda should be titled “YYYYMMDD_agenda_initials,” and follow the format outlined in the attachment “Individual Meeting Agenda.” If you do not upload an agenda in a timely manner, your meeting will be rescheduled. You should take notes on the agenda during our meeting, which should be uploaded within 24 hours after the meeting.
+
 >_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
 >
 >You should take intellectual ownership of your projects by taking notes in meetings and sharing them with the project team afterward, making sure projects don't stall or fall through the cracks.

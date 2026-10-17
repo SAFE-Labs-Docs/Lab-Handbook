@@ -245,6 +245,13 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >In these situations, original contributors will continue to receive appropriate authorship credit for their contributions. However, if additional personnel undertake substantial work to complete, analyze, write, or publish the project, authorship order may be revisited to reflect those new contributions. In particular, taking responsibility for advancing an orphaned project to publication may warrant changes in author order, including first authorship where appropriate. My goal is not to take projects away from people, but to ensure that valuable research does not remain unpublished indefinitely- that hurts all of us! Whenever possible, these discussions will occur openly and collaboratively before any changes are made.
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>If you leave the lab with unpublished work, you should talk to Annika about whether you plan to continue to work with her to write it up and manage experiments needed for revision after leaving, or if the final project write-up and revisions should be reassigned to another lab member. In this case, we will revisit authorship questions to determine whether you will retain first authorship, or if the lab member who completes the publication will become first author. This will depend on how much more needs to be done to get the research into a publishable form.
+>
+>- Have an exit meeting with the lab manager in which you go over your catalogs and the location of all stocks/reagents in the catalogs.
+>- Have an exit meeting with Annika where you go over your lab notebooks and backed up data and complete an exit survey about your time in the lab. If you will be continuing to finish up manuscript revisions or collaborating with Annika in your next position, this is also the time to finalize plans and timelines for this work.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/leaving-the-lab/)_:
 >
 >When you graduate or move on, the goal is simple: leave your work findable, reproducible, and easy for the next person to pick up. Start about a month before you go. Everyone follows the core steps below; graduate students have a few extra around the thesis.

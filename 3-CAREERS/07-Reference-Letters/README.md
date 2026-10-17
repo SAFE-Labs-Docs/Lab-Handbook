@@ -88,6 +88,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >If you need a letter, notify Mariam as soon as possible with the deadline (see Deadlines for guidance), your CV, and relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements.
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>You can count on Annika to write you a letter if you have been in the lab for at least one full academic year. Exceptions will be made for students and postdocs applying for fellowships shortly after starting in the lab. If you need a letter, notify Annika of the deadline as soon as possible – two weeks’ notice is a minimum, particularly if this is the first letter I am writing for you. I cannot guarantee timely submission of letters with less than two weeks’ notice. If you will need multiple letters, such as for graduate school applications, please provide a table of all applications, deadlines, and submission instructions/links as early as you can. In order to write you the strongest possible letter, I will need information from you. For all letters, you must provide (1) your CV; (2) a list of other referees; (3) instructions for the contents of the letter (a link is fine); and (4) submission instructions. If you are an undergraduate or graduate student, please also provide your most recent unofficial transcript. If the letter is for a grant, provide your specific aims page. If the letter is for a new position, please include the job description and any additional supporting material you will be submitting (such as transcripts, research or teaching statements, test scores, etc.).
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/recommendation-letters/)_:
 >
 >To request one, follow these guidelines:

@@ -247,6 +247,10 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >Mariam will fund up to two conferences a year if you are presenting, more if some are regional and do not require overnight stays or air travel. Typically, she can fund conferences within North America. Mariam typically does not fund conference travel if you wish to attend but are not presenting; the exception is regional conferences (like the Bay Area Memory Meeting). Reimbursable expenses include membership and submission fees, registration fees, poster printing fees, travel and lodging, and per diem. Reimbursements are capped at maximum ~$2,000 for multi-day conferences that require overnight stays and air travel, and less for conferences that do not require air travel. Ask Mariam how much she can reimburse before making your travel arrangements, and plan accordingly
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>Annika’s goal is to be able to fund one meeting or conference per trainee per year (after at least one year in the lab). Conferences are expensive – about $2500 per attendee for a domestic conference, which comes from grant funds. All lab members are expected to seek out and apply for other travel and registration funding opportunities, including through societies, conferences, and the university. Additionally, all lab members must use the most economical means of travel and seek to minimize meeting and accommodation costs by registering early and taking advantage of discounted or shared lodging.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/conferences/)_:
 >
 >**If you're first author on a lab paper that year,** the lab will typically fund **one** relevant conference per calendar year (subject to available funds).

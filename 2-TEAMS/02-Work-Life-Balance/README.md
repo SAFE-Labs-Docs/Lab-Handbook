@@ -338,6 +338,10 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >- Graduate Assistants earn paid vacation, with scheduling "subject to the approval of the supervisor" (from [GAPP](https://hr.wisc.edu/policies/gapp/#leave-benefits)). I expect you to discuss your vacation schedule in advance.
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>My main concern is that you are getting your work done. If you find that you are more productive with certain tasks at home, you may work from home (WFH) occasionally. You may only WFH on days when you do not have meetings, planned experiments, or supervisory responsibilities. Except for emergencies, working from home requires prior approval by Annika, requests must be accompanied by a WFH plan in your Box folder. When working from home, you should be responsive via email and lab Slack. By 10 am on each day working from home, you must have a document entitled “YYYYMMDD WFH Goals” in your Box folder with specific goals for the day. At the end of your workday (or by midnight), you must update the document with your progress on each goal. All WFH products should be available for my review. They need not be in the same Box folder, but the WFH goal document should clearly identify where in Box I can find the most up-to-date written drafts, Origin projects, Excel worksheets, etc. Failure to set and meet realistic goals on WFH days will result in revocation of WFH privileges.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/time-off-vacation/)_:
 >
 >You're encouraged to take vacation throughout the year. Most members take three to four weeks a year, cumulatively. Your formal leave accrual follows your UC Davis appointment and any applicable union contract (see HR). The lab's stance is simple: use your time. If you're not using your time off, we'll probably encourage you to schedule at least a staycation to recharge.

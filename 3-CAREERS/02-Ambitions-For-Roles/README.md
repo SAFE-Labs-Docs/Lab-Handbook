@@ -222,6 +222,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.
 
+>_[SHUTTLELab_2026](https://shuttlelab.engin.umich.edu/lab-member-expectations/)_:
+>
+>All lab members are expected to serve as the lead author for at least one conference paper per year. For conference abstracts, Aaron expects to have a draft at a minimum of 3 days prior to the deadline. For the full conference paper, he expects to have a complete draft at a minimum of 2 weeks prior to the deadline. For journal articles with deadlines (this case is pretty rare), he expects to have a complete draft at a minimum of 6 weeks prior to the deadline. This allows Aaron the time to give you written constructive feedback while also leaving you with enough time to incorporate my feedback in time.
+
 >_[Thrash_2026](https://thethrashlab.com/wp-content/uploads/2025/09/Thrash-Lab-personnel-expectations_7.pdf)_:
 >
 >Produce at least 3 first-author publications during your Ph.D. (excluding Genome Announcements).

@@ -54,6 +54,20 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >At the end of your program, you will be asked to organize, document and post all files relevant to your work on the NAS with a copy delivered to me. All data and research output will be considered our collective property, unless otherwise stated (see INTELLECTUAL PROPERTY). Field books and notes are considered property of the project, not personal.
 
+>_[TemporalEcologyLab_2026](https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/wheredatacodelive/_READMEwheredatacodelive.md)_:
+>
+>WhereDataCodeLive is an important part of data management in the Temporal Ecology Lab; it's basically where we keep notes on the files that make up each project and keep track of when data will be made public following the rules in the lab data management plan (see tempeco_DMP.pdf).
+>
+>**How do I complete my wheredatacodelive?**
+>
+>Great question! Please copy the markdown (.md) in ZeTemplate/ZeTemplate.md (https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/wheredatacodelive/ZeTemplate/ZeTemplate.MD) and update it for EACH of your projects in the lab. More details are in tempeco_DMP.pdf.
+>
+>wheredatacodelive files should be stored in the labgit in the wheredatacodelive folder.
+>
+>**I have been asked to check someone else's file, how do I do that?**
+>
+>Notes on what to check for in a good wheredatacodelive project file are in wheredatacodelive_notes.txt
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -245,6 +259,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >- [ ] Described in the README- what does each file do, what language was used, etc
 >- [ ] Tested! can at least one other person (but more is better) make your analysis go on a different computer?
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>You are expected to catch up on your lab notebook at least biweekly, and we may consult notebooks during individual or project group meetings. Your ELN is for documenting daily work. Each day you work in lab should have some note of what you did that day. You should plan fly crosses in your notebook, document genotyping gel results, blots, etc. If you prefer writing things out on paper, you may use your paper lab notebook and include a photo in your ELN with a short description for searchability–this is easily accomplished using the smartphone app. All raw data is stored on the Waksman Share Drive (see separate section) – only metadata, representative data and summary plots need to be in your ELN. The file path to raw data must be noted in your ELN for every experiment that generates data files, and metadata must also be stored with raw data (in addition to being in your ELN).
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/data-management/)_:
 >
 >The lab's shared Box folder is the system of record for all data, documents, photos, and videos. UC Davis provides it with unlimited storage, and it keeps a version history of recent changes. Work out of Box so your files are backed up at all times.
@@ -286,6 +304,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
 >
 >We work with a variety of data types, including field observations, behavioral observations, molecular and genomic. It is imperative that you have multiple copies of your data in different locations. Imagine that the worst-case scenario is going to happen, because it very well might- your laptop will break, your external hard drive will fail, the building with your lab notebook will flood. You must back up your data to the cloud and ensure your data will not be lost due to an accident. This means taking pictures of handwritten data sheets, uploading these photos to the cloud and placing them in the lab shared drive. This means uploading raw sequencing data to NCBI (set the release date to the future so as not to release unpublished data) and having data on both an external hard drive and a UK/lab server. If you are collecting data in real time that at first exists in only one location, have a plan for how you will quickly back up those data on a regular (daily, if possible) basis. If you aren’t sure how to back up your data, ask!
+
+>_[KalantryLab_2026](https://docs.google.com/document/d/1eyzD0XEeNR5zxahjrrJdHCjowNSiQVOb/edit)_:
+>
+>As a matter of lab policy, you are asked to use UM’s electronic lab notebook to record all your raw and processed data. You are also asked to share the electric notebook with Sundeep, who will refer to the lab notebook to examine raw and processed data. I cannot stress how important it is to develop good habits to record the details of your experiments. A thoroughly documented record of your experiments is a sign of - and contributes to - the clarity of your thoughts.
 
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >

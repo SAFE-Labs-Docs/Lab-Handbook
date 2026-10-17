@@ -16,6 +16,16 @@ A PhD steering committee provides independent oversight of PhD student progress 
 
 ## Examples
 
+### Canada
+>_[TemporalEcologyLab_2026](https://github.com/temporalecologylab/labgit/blob/master/expectations/gradstudents/tempeco_timelines.tex)_:
+>
+>**A few things to remember:**
+>
+>1. Your thesis (for MSc and PhD) will be a combination of manuscript chapters. Focus on these are your goal. You can then combine them with a short intro and conclusions to form your full ‘thesis.’ My focus is on your manuscript chapters; I am less concerned about your introduction and conclusion, since few people will ever read those (though some of your committee members may be more focused on these). You also need to pass critical hurdles depending on your degree, such as proposal approved by committee and quals passed. These are major goals to include also.
+>2. Remember that I need to review and approve most things you produce and will share with your committee. This includes your proposal, any chapter drafts and the short talk (10-20 minutes) you give at the start of any committee meeting.
+>3. Assume a 2-week turnaround time for me to review most written things and that I will review outlines and drafts a minimum of 3-6 times on average before being ready to move on to the next step (e.g., going from outline to writing or going from draft to submission to your committee).
+>4. Plan to get feedback from the lab, including me, on your committee meeting talk 3-4 weeks before the meeting.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

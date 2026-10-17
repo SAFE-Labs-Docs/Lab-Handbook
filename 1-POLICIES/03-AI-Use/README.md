@@ -48,6 +48,10 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >
 >However, in our lab it is not appropriate to use AI tools to perform the intellectual work that lies at the heart of our work as scientists. This includes synthesizing ideas from the literature, generating research questions or hypotheses, critically evaluating papers, drafting the content of a research paper, or grant proposal, or formulating arguments and interpretations. These kinds of tasks are precisely what you are here to learn to do, as scientists in training.
 
+>_[TemporalEcologyLab_2026](https://github.com/temporalecologylab/labgit/blob/master/expectations/genAI_labguidelines.tex)_:
+>
+>**If you use genAI to help you write code, you must add a comment to your code file whenever you copy and paste in code from genAI and briefly explain how you used it.** Examples include ‘f(x) copied from Claude [model name and version]’ or ‘I wrote original code, but used PurpleUnicorn to update the parameters.’ I recommend you make sure it’s clear where the pasted code starts and stops, and include the model and version name somewhere as you may be asked for it in journal submission.
+
 ### China
 
 >_[EMITLab_2026](https://emit-lab.github.io/EmitLab-Wiki-Public/communication/writing)_, translated from Chinese:

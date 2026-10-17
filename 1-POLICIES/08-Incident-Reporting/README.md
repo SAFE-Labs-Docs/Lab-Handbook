@@ -18,6 +18,13 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 
 ## Examples
 
+### Canada
+>_[TemporalEcologyLab_2026](https://github.com/temporalecologylab/labgit/blob/master/expectations/values_aspirations.tex)_:
+>
+>To change, update, report problems or serious violations of this code of conduct, please contact lab leader Lizzie Wolkovich. She aims to treat most concerns/reports/requests confidentially, though be aware that she is obligated to report certain forms of misconduct to others, so feel free to ask about confidentiality first.
+>
+>If you are not comfortable contacting Lizzie, another place to look for help is UBC’s [Equity and Inclusion Office](https://equity.ubc.ca/). Other possible points of contact include the [Office of the Ombudsperson](https://ombudsoffice.ubc.ca/). If you are concerned about harassment or bullying, see [UBC’s Harassment and Bullying Policies](https://bullyingandharassment.ubc.ca/resources/).
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

@@ -426,6 +426,10 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 >
 >Author order is typically decided by having an open conversation about effort spent on individual projects. Typically, the first author is the person who took the initiative to write the majority of the manuscript. The senior (last) author is typically the PI, although this need not always be the case. For example, postdocs or senior graduate students who spend time mentoring may be elevated to the senior authorship role.
 
+>_[UCSFDecisionLab_2026](https://decisionlab.ucsf.edu/handbook/authorship.html)_:
+>
+>Involvement of more junior colleagues requires planning at the outset of drafting. In my experience, the most feasible drafting roles for RCs and students include: writing parts of the Methods and Results, creating figures/tables, and organizing references. Reserving a paragraph or a figure for a junior colleague to contribute, even if it’s something the first author could have done, can be a way of ensuring that RCs or students who deserve credit for their intellectual contributions (e.g., of acquiring or analyzing data) also fulfill drafting criteria for authorship.
+
 >_[VanderHeidenLab_2026](https://vanderheidenlab.mit.edu/our-values/)_:
 >
 >We aim for all intellectual and experimental effort to be fairly reflected in manuscript authorship. This is typically done through informal conversations between the project’s primary contributor(s), collaborating lab members, and Matt. Ultimately, the first author(s) and Matt make decisions surrounding authorship. Importantly, an individual’s position in the lab does not affect one’s ability to be an author, and everyone who makes a meaningful contribution is included as author. We also extend authorship to personnel in core facilities who make significant intellectual contributions.

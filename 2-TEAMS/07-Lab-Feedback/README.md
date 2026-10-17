@@ -83,3 +83,7 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/environment/survey.html)_:
 >
 >In order to ensure that the environment remains welcoming and productive for everyone, we will conduct a yearly survey of lab members regarding the lab environment (link to example). This survey will be completed at the end of the Spring Quarter (in June).
+
+>_[SHUTTLELab_2026](https://shuttlelab.engin.umich.edu/lab-member-expectations/)_:
+>
+>The information provided on this page was developed in collaboration with group members and is a living document. We annually review and edit our mission, values, and responsibilities together and come to a consensus that includes listening to and respecting everyone’s input. Anyone in the group may suggest and lead discussion on these topics, which may generate updates in the lab values and policies.

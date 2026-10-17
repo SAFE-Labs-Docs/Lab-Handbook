@@ -292,6 +292,10 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >You will receive notifications in Slack as each step completes. If any issues arise during the process, Jeremy will reach out to help resolve them.
 
+>_[KalantryLab_2026](https://docs.google.com/document/d/1eyzD0XEeNR5zxahjrrJdHCjowNSiQVOb/edit)_:
+>
+>Rotation students are considered full members of the lab and are expected to actively and fully participate in lab meetings, journal clubs, and other lab events. Rotation students are typically paired with a graduate student or research staff, who will serve as a point of daily contact for any questions you may have. At the start of your rotation, we will discuss your expectations and goals and devise a rotation plan together.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >New members should review the Handbook and communicate any questions, concerns, or suggestions to Pablo. Additionally, part of the onboarding process will include completing worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder.

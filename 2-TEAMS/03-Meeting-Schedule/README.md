@@ -445,6 +445,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >We may have joint lab meetings with other faculty — these may be combined with our weekly lab meeting or an additional meeting. We will also use lab meetings (or ad-hoc scheduled meetings) to prepare for conference presentations and give feedback on job talks or other external presentations.
 
+>_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
+>
+>Journal clubs are a classic one-presenter-one-paper model in which you will present slides with background, selected figures from your chosen paper, and critical analysis. Your presentation should be about 45 minutes excluding time for questions. You can present a classic paper in the field, or a current paper. The presenter should place the paper PDF in the week’s Box folder at least 5 days before journal club. Everyone must read the paper and be prepared with comments and questions. If Annika gets the feeling that papers aren’t being read in advance, she may ask for comments and questions to be submitted in Box the morning of journal club.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/meetings/)_:
 >
 >During the academic year, we meet every week with a mix of research updates, lab upkeep meetings, and professional development.
@@ -592,6 +596,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >- Student + Jose lunch, every 3 weeks
 >- Postdocs + Research Scientists + Jose lunch, every 3 weeks
 >- Student Informal Prez w/ Postdocs, w/o Jose (1.5 hrs, 1 per mo)
+
+>_[KalantryLab_2026](https://docs.google.com/document/d/1eyzD0XEeNR5zxahjrrJdHCjowNSiQVOb/edit)_:
+>
+>We hold weekly journal clubs where we typically review a recently published paper. When reading papers, if you don’t understand the background of the paper take the time to look up and read papers or relevant sections of the papers that are referenced in the introduction. We also hold weekly data sharing lab meetings, which are held jointly with Dr. Jacob Mueller’s lab. Both the journal club and the data sharing meetings last 1 – 1.5 hrs.
 
 >_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
 >

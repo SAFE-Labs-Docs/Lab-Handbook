@@ -264,6 +264,10 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >A PhD dissertation is expected to be 3 first author published papers. A postdoc should aim to be publishing at least one first author paper a year, but this can be variable depending on the nature of the project(s). If you plan to seek a highly-competitive academic position at an R1 school, you will need to be both highly productive and publishing in the top journals, and so you should think of these guidelines as an absolute minimum (I can help you set appropriate goals and targets). Students who average more than 1 paper a year, and postdocs who average more than 2 papers a year, are doing well—especially if these are in good journals1.
 
+>_[RobustRoboticsGroup_2026](https://aeroastro.mit.edu/wp-content/uploads/2021/10/AdvisingPhilosophy.Roy_.2021.pdf)_:
+>
+>I expect everyone to publish on average a novel conference paper each year, although this is not a requirement and research does require patience. I place a premium on the writing process, and I engage substantially with each student and postdoc in the writing and revising process to produce the best papers we can. I also take seriously the software development process as part of training, and expect everyone’s software to live on after they have completed their degrees.
+
 >_[RossIbarraLab_2026](https://rilab.ucdavis.edu/expectations.html)_:
 >
 >Write and submit manuscripts. I strongly encourage collaboration, and a quick glance at our publications should show that this generally works well. On average I expect your time as a postdoc in the lab to generate ~2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.

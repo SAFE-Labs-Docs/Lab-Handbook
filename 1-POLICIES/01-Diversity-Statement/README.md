@@ -151,3 +151,7 @@ Science is an international endeavour, which brings together people from many cu
 >The POIS lab takes the stance that diversity, inclusion, and anti-oppression are axiomatically important and lab members are expected to demonstrate their commitment to these values through their language and behaviors. Thus, we are committed to:
 >    - Respecting others and all aspects of their identity by being mindful of our language, implicit assumptions, and actions.
 >    - Speaking up in response to discriminatory, inappropriate, offensive, or otherwise disparaging statements if doing so does not cause you harm (e.g., due to power differences, emotional burden). Sometimes, self-protection is necessary, and that’s OK. Speaking up does not always equate to confronting; it may entail asking the speaker to clarify their statement or speaking with them separately. Do this in a way that works for you, but doing nothing is taking a stance, and that’s not the side we want to be on if we care about human welfare.
+
+>_[RobustRoboticsGroup_2026](https://aeroastro.mit.edu/wp-content/uploads/2021/10/AdvisingPhilosophy.Roy_.2021.pdf)_:
+>
+>I actively welcome researchers of all identities into the group, and am very supportive of creating a space for the lab members to raise and discuss relevant DEI topics in robotics, including a regular time in our weekly group meetings, and a review every semester of our DEI activities as a group.

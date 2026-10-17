@@ -132,9 +132,9 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 >_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
 >
->Is prior knowledge necessary? There is no particular requirement for prior knowledge. After being assigned to the lab, there is a weekly “study meeting” in addition to the seminar, where faculty members and seniors provide a comprehensive lecture on the basic knowledge necessary for research.
+>Is prior knowledge required? No specific prior knowledge is required. In addition to the weekly seminar, students attend a weekly study session after joining the lab, where Prof. Mizuno and senior students provide lectures covering the fundamental knowledge needed for research.
 >
->What about English proficiency? English proficiency is not a requirement at present, but it is essential for advancing research. After being assigned to the lab, faculty members will provide direct guidance according to the student’s wishes.
+>Is English proficiency required? English proficiency is not a prerequisite for joining the lab, but it becomes increasingly important as research progresses. Prof. Mizuno provides individual guidance according to each student’s needs and preferences.
 
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).

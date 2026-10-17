@@ -255,7 +255,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 >_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
 >
->What is the seminar like? The seminar is held once a week (on Friday afternoons for the 2022 academic year), and several students present their research progress in English or Japanese. In addition, there are lectures from faculty members or seniors on how to conduct research and basic optical technology. Sometimes, we also practice presenting at academic conferences. Every time, everyone is required to participate in discussions and express their opinions. Until midway through the 2022 academic year, the seminar was held online, but now it is held in person.
+>What are the weekly seminars like? Seminars are held in person once a week (usually on Friday mornings), with several students presenting their research progress in English or Japanese. Prof. Mizuno and senior students also give lectures on research methods and the fundamentals of optical technologies. Conference presentation practice is sometimes included as well. All students are expected to participate actively in discussions and share their opinions.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:

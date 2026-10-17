@@ -89,6 +89,10 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >- For recurring mistakes, we arrange additional training and escalate to a supervisor as necessary.
 >- We give kudos to someone who has corrected a prior mistake.
 
+>_[DossGollinLab_2026](https://dossgollin-lab.github.io/culture/expectations.html)_:
+>
+>If you are stuck, overwhelmed, or failing to meet a goal, communicate this early. “I tried X and it failed” is data; silence is a black box. We can fix a failed experiment, but we cannot fix a problem we don’t know exists.
+
 >_[GureckisLab_2026](https://todd.gureckislab.org/2026/03/06/genaipolicy)_:
 >
 >If you discover that AI-assisted work in a submitted or published paper contains an error — a hallucinated citation, a bug in AI-generated code, a fabricated statistic — report it immediately. This lab will always prioritize correcting the scientific record. Issuing prompt corrections and retractions earns more respect in the field than hiding errors. Prompt correction is not a failure; undisclosed error is.

@@ -103,6 +103,16 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >- Master students / interns: Master theses last for at least 9, ideally 12 months. The main purpose of a thesis is for the student to learn one or more practical techniques, to understand all steps of a scientific project, to get insights into analysis of data, and to practice scientific writing and figure making, as well as scientific communication. The actual content and output are less important. However, if a student contributes a relevant data set which is included in a publication, they will certainly be granted authorship as detailed in the CRediT Taxonomy guidelines. 
 >- Technicians: Technicians’ contracts may be more variable and depend on needs and agreements. If technicians’ contributions fulfill the CRediT Taxonomy guidelines, they will be authors on papers.
 
+### Japan
+
+>_[MitsumeLab_2026](https://www.kz.tsukuba.ac.jp/~mitsume/info/for-students)_:
+>
+>具体的には、三目研究室では「研究者としての良いキャリア形成の観点から、博士進学可能性のある学生のテーマは、論文化がある程度見えているテーマに設定する」ことを徹底しているというのが理由です。本音としては、研究者・科学者を目指す人にこそ、即座に結果が出るかが全く見えない極度にチャレンジングな研究をしてもらいたい、という想いがありますし、私自身もそういう研究者を目指していますが、学生さんの人生を預かる仕事でもあるので、現状はこのような方針で進めています。
+>
+>_English translation:_
+>
+>Specifically, the reason is that at our Lab, we are very strict that "from the viewpoint of developing a good career as a researcher, the themes of students who have the potential to go on to a doctoral course should be set to themes that have some degree of visibility to publish journal papers." My true intention is to have those who aspire to become researchers and scientists do extremely challenging research in which immediate results are not at all visible, and I myself aim to become such a researcher, but since it is my job to take care of students' lives, this is the policy we are currently following.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

@@ -36,6 +36,16 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 >2. If this is not possible, please raise the issue by consulting HGS Conflict Consultation [here](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text).
 >3. If none of the above steps fare appropriate, raise the issue with the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html).
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/prevention-of-sexual-harassment/)_:
+>
+>This is an informal policy document, and when a complaint is made, it is appropriate that it then be handed over to the Sexual Harassment Complaint Committee of IISc (http://www.iisc.ac.in/icash). Since the volunteers may not be employees of the committee, it has to pass to the PI or a senior student member. Since most employees and volunteers are likely to be in field when any untoward incident occurs, please follow the chain of command to make complaints. Complains may be lodged either verbally or in written. In field, please pass on your complaints to the Team Leader / PI directly.
+>
+>If the complaint is against the team leader, please pass on your complaint to Vishwesha Guttal (VG) at Bangalore. If you are unable to reach them, please complaint to any member of the team that you trust, who will then relay the information to VG. If the scenario is severe, please leave field and come to the nearest town, and call VG. All travel and stay expenses will be borne by the project.
+>
+>If the complaint is against VG, please lodge complaint with the CES Workplace Wellness Committee of the CES (or at a higher level at IISc).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

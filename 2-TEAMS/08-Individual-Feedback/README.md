@@ -37,6 +37,12 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >The PI and team members commit to providing open and fair feedback on each other’s performance at least once per year. Feedback is encouraged throughout the year and is never understood as personal criticism but as a constructive way to promote personal and scientific growth and foster a healthier work environment. 
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/expectation-from-students/)_:
+>
+>Seek critical feedback on your progress from me – once in three months in the initial stages for a PhD student, later on, it can be more spread out. But do it at least once a year. You should also talk anyone else you deem fit — for example with your committee members. If you do not ask for critical feedback, no one will offer you.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

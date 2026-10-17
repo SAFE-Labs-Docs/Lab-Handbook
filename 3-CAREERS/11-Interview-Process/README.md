@@ -92,6 +92,17 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >- Prior experience in programming will help, though not essential (MS Word and Google Chrome do not count as programming experience).
 >- The focus of the interview will be on your ability to think and learn, and motivation to carry out a research project. We shall try to ask you certain questions whose answers you are not expected to know. What we are interested in is not the correct answer, but your efforts to arrive at a good solution. Since we want to know how you reason out things, it might be a good idea to think aloud so that we know the way you are thinking.
 
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/)_:
+>
+>Before you contact us
+>
+>- Read Science in our lab and the General FAQ.
+>- Explain why this lab—and the particular research questions—interest you.
+>- Briefly describe your background, relevant skills, and what you hope to learn.
+>- Where the application form is requested, complete it and send an email as well.
+>
+>Generic emails may not receive a response.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

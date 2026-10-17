@@ -152,6 +152,28 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/new-student-orientation/)_:
+>
+>Collect a letter from the adviser stating your appointment and duration. This serves as your proof of employment. Also useful for opening a bank account. Here is the template letter that you can download, modify, print and take signature from your adviser.
+>
+>Formal appointment
+>
+>If you are formally appointed as Project Assistant / Project Trainee / JRF / SRF, then check with the adviser on paperwork. You will need to submit your CV and photocopies of the latest degree certificate and marks cards.
+>
+>Bank account
+>
+>For project assistant/trainee positions, open an account in SBI or Canara Bank of IISc – if you already don’t have an account in either of these banks. You will need your appointment letter as proof of your address and perhaps one or two photographs to open the account. Fill the form online before going to the branch office on campus. You will be asked to provide your account number once the formal appointment letter arrives from the administration.
+>
+>IISc security/ID card
+>
+>Take the “letter of employment” from the adviser to the finance and account office in front of JRD Tata library, pay the fee of id card (Rs.25), with this receipt go to the security office (near Prakruti) along with two stamp size photos, to get your IISc id card.
+>
+>Access to Library
+>
+>If you want access to Biological Sciences Divisional Library (located on 1st floor of Biological Sciences Building), go to the library with your appointment letter (#1 above), fill some forms, and get adviser’s signature. Submit the form. The library has an excellent collection of books related to ecology, evolution and conservation (including mathematical ecology books).
+
 ### Israel
 
 >_[TiroshLab_2026](https://github.com/tiroshlab/lab-book/blob/master/04-joiningAndLeavingProtocol.Rmd)_:

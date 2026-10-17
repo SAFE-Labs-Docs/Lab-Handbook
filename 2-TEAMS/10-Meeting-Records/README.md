@@ -40,6 +40,18 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >Prepare a written agenda for each 1-on-1 meeting with the PI. Document and summarize meetings afterwards on Notion (see Notion for details), highlighting short- and medium turm action items. 
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/navigating-ug-masters-thesis-successfully/)_:
+>
+>Ensure one meeting per week with adviser
+>
+>- Ensure at least one meeting per week with PhD student/postdoc mentor
+>- Record keeping: Use slack Canvas to write weekly updates and message the adviser:
+>- Progress over last one week
+>- Discussion points in the Meeting
+>- Plan for the next week.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

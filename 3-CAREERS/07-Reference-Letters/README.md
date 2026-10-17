@@ -42,6 +42,18 @@ Career progression, grants, and competitive applications often require reference
 >
 >The PI committs to providing recommendation letters at each lab member's request (requested with at least 2 week’s notice).
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/2018/08/13/advise-on-requesting-recommendation-letters/)_:
+>
+>First, do write a short note (via email, and NOT messaging apps) requesting if the person you think is suitable to write a letter is willing to do so. When you do so, state the purpose of your application, attach your cv and mention the deadline.
+>
+>- In general, write at least a few weeks ahead of the deadline and clearly state what is the deadline. If the deadline is very short – you can still write, but be aware that many mentors may decline even if they feel you are a fantastic candidate.
+>
+>Once I have agreed to send you the letter:
+>
+>- If it’s a graduate school application season, send a list of university, department, their respective deadlines, the program (PhD vs Masters), etc all in a single email. I usually request students to create a google spreadsheet and share all the relevant information via a (editable) link, so that it can be easily updated by both of us.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

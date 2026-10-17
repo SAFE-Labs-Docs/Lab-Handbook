@@ -55,6 +55,18 @@ Science is an international endeavour, which brings together people from many cu
 >
 >We are committed to creating a social environment that is **collaborative, friendly, non-judgemental and inclusive**. We are a diverse and international team, and our goal is to foster a culture of belonging where we celebrate our differences, learn from each other and grow as scientists and human beings together. We want everyone in our team to feel supported as scientists and individuals, and as such, we model our behaviour as colleagues and mentors to be empowering and to create a working space that is safe and free from any type of harassment and discrimination on the basis of gender, age, class, ethnicity, country of origin, belief, disability or neurodiversity[\*](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645) status. When we witness any of these harassing or discriminating behaviours, we are active bystanders[\*](https://web.mit.edu/bystanders/definition/index.html). We critically reflect our ability to accomplish this, and seek training to upskill.
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-general-issues/)_:
+>
+>1) Do you have a diversity statement?
+>
+>We strive to achieve diversity of people in the lab. We strongly encourage members from underprivileged and underrepresented groups in Indian science to apply to our lab.
+>
+>2) Do you encourage international students to apply?
+>
+>Yes, absolutely. We have had one intern from France who even published a paper with us (reference). Take a look at the following website to know the procedure, including deadlines for applications (which are often not the same as the deadline for Indian nationals).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/team)_:
 >

@@ -90,6 +90,19 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >
 >All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, being timely for meetings, and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment. 
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/expectation-from-students/)_:
+>
+>You are an important member of the lab. Your academic performance and general behaviour have an impact not only on you but also on your peers and even your adviser. So try to make the best of your experience as well adding value to the lab by your presence.
+>
+>- Treat all other lab members, junior or senior, with respect even when you disagree. Disagreements are common among lab members when discussions happen, but dissent, disagreements should not lead to personal conflicts and disrespecting other members.
+>- Be helpful and be kind to everyone around.
+>- Follow our lab/institutes policies on Academic integrity, IISc code of conduct, Sexual harassment, Workplace harassment, Field ethics, Field safety, etc. Be aware of various avenues for conflict resolution and complaints.
+>- Take note of leave policy and working hours. While it is flexible, in general, you are expected to be available during work-hours in the lab. Discuss if you prefer something else with me if they help your style and productivity.
+>- Take initiatives to make the lab fun and a better place for everyone.
+>- Take care of your health. Seek doctors/professionals’ help to improve your physical health and mental well-being. Talk to me if you need contacts.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

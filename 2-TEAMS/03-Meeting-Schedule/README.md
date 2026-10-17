@@ -147,6 +147,17 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >We have journal club currently after lab meeting on Mondays via Zoom, this is compulsory for senior researchers / postdocs, PhD and MSc students and optional for everyone else. The current format is that 3 – 5 selected people each week present a paper of their choice (in about 10 minutes or so). Dr. Mariana Baez is responsible for the journal club schedule.
 >- We have a group seminar currently on Thursdays at 11 am via Zoom, this is compulsory for postdocs, PhD and MSc students and optional for everyone else. Dr. Fei He is responsible for the seminar schedule.
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/expectation-from-students/)_:
+>
+>Set goals: short-term (1 day, 1 week), medium-term (1 – 3 months)and long-term goals (6 months – 1 year).
+>
+>- Assess progress towards your goals. By yourself, by the adviser, by lab-members, thesis-committee members, etc.
+>- Present your progress in lab meetings at least twice a year, but preferably more.
+>- Seek regular meetings with me on progress towards each of these.
+>- Frequency of meetings varies a lot from student to student. Once a week is strongly recommended. Not every meeting need to be long; even 5-10 minute meetings are fine. If you haven’t met with goals, progress and plan for more than a month — do it now!
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

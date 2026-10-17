@@ -99,6 +99,14 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >We want to constrain the [“researcher degrees of freedom”](https://doi.org/10.3389/fpsyg.2016.01832) in analyses by carefully specifying analytic strategies prior to data analysis. We avoid “research waste” and in the case of negative results, we will publish them. We prioritise quality over quantity in producing the data and in the publication of results. In case of mistakes in already published work, we acknowledge these mistakes and work to correct them.
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/code-and-data-sharing-policy-tee-lab/)_:
+>
+>Specifics of code and data sharing: All students will create a Git-Hub login and are invited to the lab git-hub account (https://github.com/tee-lab). They create a private repository for the ongoing project within the lab git-hub account (with no licence, with all rights reserved); in some cases, an ongoing project may also be made Public with open access license.
+>
+>The project lead is encouraged to use features of git version control and directly update on git-hub. Alternatively, they can manually upload the latest codes at least once a month. This will also serve as a back up.
+
 ### Japan
 >_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
 >

@@ -99,6 +99,12 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >
 >Our team is composed by researchers with different roles: postdoctoral researchers, graduate students, undergraduate (Master or Bachelor) students and research assistants. These roles, which may correspond to different career stages and seniority, typically come with different duties, responsibilities and expectations. These will be discussed at hiring and onboarding. Typically, postdocs and graduate students are expected to independently carry out research projects ranging from experimental work to data analysis and paper writing, as well as take part at the lab’s and institute’s regular meetings (see below). Postdocs are additionally expected to assist the PI in writing grants and reviewing papers. Graduate students will receive a larger degree of training and supervision, for example, via the Humboldt Graduate School (see below). Undergraduates and research assistants are not expected to independently carry out projects and will be supervised by a graduate student or postdoc. All full-time lab members are expected in helping to maintain the lab’s infrastructure and animal colonies. 
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-science-at-teelab/)_:
+>
+>I also involve students in reviewing journal papers that I often get asked to review. I also involve students in my grant proposal writing — this will involve some boring work (formatting!) as well as intellectually demanding work (putting together ideas, writing some drafts/sections, making figures, etc). On grants that PIs write, there is no scope for acknowledging students in any meaningful way; moreover many students contribute to overall grant directly and indirectly – so acknowledging only specific individuals makes little sense. Therefore, when students contribute substantially, they are encouraged to put the assistance they offer for both peer-review and grant writing on their CV. The grant, if awarded, will help the research being conducted in the lab and not meant to any specific individual.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

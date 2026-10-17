@@ -146,6 +146,18 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >This encompasses a **supportive environment** among lab members with no discrimination against any physical and/or mental impairments. In addition, **constructive feedback** is provided to support each other, and conflicts are mediated in an appropriate manner. We are flexible to accommodate people with families and make family-friendly arrangements.
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-general-issues/)_:
+>
+>4) Do you expect students to be available during non-work hours?
+>
+>In general, I dont have such an expectation. I do sometimes email lab members at non-work hours, with the typical expectation that they respond when they begin their next work day. The only exception to this is when there are pressing/unavoidable deadlines like a grant proposal submission, etc; even in such cases, I try my best to avoid inconvenience to students.
+>
+>5) What are working hours in the lab?
+>
+>Official IISc working hours are (approximately) from 8:30 am to 5:30 pm. In our lab, students manage their own work-hours and thus, varies from student to student. In general, I would like that students are available during working hours. Key thing to note is to have substantial overlap with working hours of everyone else (for example, if your work hours are from 7pm to 7am, its a problem but if its from 11 am to 8 pm, its okay!).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

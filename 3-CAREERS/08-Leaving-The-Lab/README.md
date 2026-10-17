@@ -91,6 +91,12 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >
 >The PI accommodates a lab member preparing for their next position towards the end of their time at the lab such as grant writing or preparing interviews after discussing timelines and remaining workload together. There can be various reasons for deciding to leave the lab, and some may need to do so before their projects are complete. Lab members should discuss their plans with the PI as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. The PI will conduct an exit interview to discuss the reasons for leaving and provide constructive feedback based on their experience and agree on a plan to finalize projects, if applicable. 
 
+### India
+
+>_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-science-at-teelab/)_:
+>
+>You can work on whatever you want after you leave lab. If you think that it’s too close to some ideas we have already discussed in the lab, it is a good idea to discuss those ideas with me; there may be possibilities for future collaborations. To the extent possible, for PhD students/postdocs who have invested a lot in certain direction of research, my aim is to give them priority on what they want to do next after leaving lab. Some of it may, however, be contingent on expectations from grant proposals that we may have submitted or other ongoing projects of students. So feel free to discuss.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

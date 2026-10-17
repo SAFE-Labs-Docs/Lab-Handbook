@@ -42,6 +42,10 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >There is no formal system for tracking vacation, but you should let [the PI] know when you will be out of the office for longer than 1 day, and record these absences in the lab Days Away spreadsheet.
 
+>_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
+>
+>These goals of ours are supported by our hard work and integrity. Hard work means spending the hours in the bench when that’s where we need to be, but not avoiding the hard work that is thinking, reflecting, reading, writing and planning. Without being thoughtful it is not possible to work smart, only hard, and working without thinking saps creativity, drive and energy. Our hard work often requires sacrifice and the understanding of our friends and family but it does not compromise our family obligations. To show our loved ones how much we appreciate their support of our work we invite them to our lab events and make sure that they understand why our work is important.
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >You are entitled to vacation, unless you are part-time or co-op staff, in which case you may be paid extra in lieu of vacation as per the BC labour regulations. UVic (and NSERC) suggests three weeks off a year. I also shut down the lab on Christmas Eve and between Christmas and New Year (these days do not count as part of your three weeks). You should tell me about planned vacations well in advance, and add them to the calendar. Also, remind me of vacations approximately one week before you leave. You should keep track of the days you have taken for vacation.
@@ -185,6 +189,17 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >As this is an experiment-centred lab, graduating or completing a degree needs, on average, about 6 hours of research (including experiments) per weekday. Experiments are mainly done with the experimental facilities at the university, but some students do literature searches, programming and data analysis at home. Everyone has their own desk and computer at the university, so you can do research at the university or at home, whichever suits you. However, undergraduates mainly do their research in person in the lab.
 >
 >Of course, you are free to take holidays. However, for safety management, please let us know when you are on holiday.
+
+>_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
+>
+>週の初めの朝に全員で揃うということは、生活習慣を整えるためにも重要視しています。夜型の生活を送りたい人は松永研究室には向いていません。朝起きて日の光を浴びて、夜しっかり眠る生活を心がけてください。
+>
+>月曜ミーティングが終わったら、早速その週の研究の始まりです。自宅が近い人は自宅で朝ミーティングを終えてから物性研へ来る人もいますし、遠方の人は月曜ミーティング開始に間に合うように物性研へ来る人もいます。それぞれの判断にお任せしています。コアタイムも特に設けていませんが、研究室メンバーの大まかなスケジュールはwebカレンダーで共有しています。連絡がない限りは平日日中は物性研に来ていることを想定しているので、休みを取る際は必ず連絡してください。
+>
+>_English translation:_
+>
+>I place importance on everyone gathering in the morning at the start of the week, also in order to keep a regular lifestyle. People who want to live a night-owl lifestyle are not suited to the Matsunaga lab. Please try to live by getting up in the morning, getting sunlight, and sleeping properly at night.
+>Once the Monday meeting is over, the week's research starts right away. Some people who live nearby finish the morning meeting at home and then come to ISSP, while people who live far away come to ISSP in time for the start of the Monday meeting. This is left to each person's judgment. We do not set any particular core time either, but the members' rough schedules are shared on a web calendar. Unless told otherwise, we assume you are at ISSP during weekday daytime, so please always let us know when you take time off.
 
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_

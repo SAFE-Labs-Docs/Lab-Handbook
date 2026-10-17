@@ -152,6 +152,22 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >It is common to present research results once or twice at a domestic or international conference by the end of the fourth undergraduate year (B4) or during the first year of the master's (M1). More than half of the students in the lab so far have presented at an international conference while enrolled, and quite a few have presented twice or more in a year.
 
+>_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
+>
+>機会が人を育てるという信念のもと、学生が外部発表する機会を積極的に作っています。少々粗削りでもどんどん発表しましょう。質疑応答の時間に質問への答えに窮してしまっていても、「共同研究者ですが」と言って割って入ることは松永はしません。もちろん事前の発表練習は入念にやりますし、質疑が不十分のまま終わったら終了後に質問者と別途議論する機会も設けますが、発表本番の質疑の時間はすべての回答を発表者に一任します。厳しい質問も自力で乗り切ってください。
+>
+>学会では、会場での質疑応答だけでなく、休憩時間や懇親会での会話がとても貴重なものになります。研究室内のメンバーだけでなく外部の人たちとどんどん話して、研究のことやそれ以外のことでも積極的に情報交換してください。知り合いの輪を広げることは研究生活を楽しむ重要なコツだと思います。
+>
+>博士課程学生やスタッフの場合は国際会議の発表経験を積むことも非常に重要です。そのためにも、出張費用となる研究費を自分自身で獲得するという意識を若いうちから持っていてもらいたいと思っています。
+>
+>_English translation:_
+>
+>Based on the belief that opportunities help people grow, we actively create opportunities for students to present their work externally. Even if it is a little rough, let's present as much as we can. Even if a student is at a loss for an answer during the question-and-answer time, Matsunaga does not cut in by saying "I am a collaborator." Of course, we rehearse the presentation carefully beforehand, and if the Q&A ends inadequately we arrange a separate opportunity to discuss with the questioner afterwards, but during the actual Q&A we leave all answers to the presenter. Please get through difficult questions on your own.
+>
+>At conferences, not only the Q&A in the session room but also conversations during breaks and at the reception are very valuable. Talk a lot with people outside as well as lab members, and actively exchange information about research and other matters. I think widening your circle of acquaintances is an important tip for enjoying research life.
+>
+>For doctoral students and staff, gaining experience presenting at international conferences is also very important. For that reason, I want you to have the awareness from a young age that you should obtain research funds for travel costs yourself.
+
 ### Netherlands
 > _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full document is still under construction, but as an example some snippets are provided here:
 > 

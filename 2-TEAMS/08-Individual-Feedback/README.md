@@ -16,6 +16,11 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 ## Examples
 
+### Canada
+>_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
+>
+>Personal ambition: Ambitious labs need ambitious people. To encourage this we set concrete goals that are challenging but not impossible to obtain (e.g. publish a first author paper, win a poster award, learn a new technique, get a faculty position) and support one another as we work towards them. We encourage one another to ‘dream big’ and to make the transition from calling oneself a student to calling oneself a scientist, colleague and mentor. We acknowledge that a PhD is not a ticket to a faculty position or a life in academia but rather a degree in leadership that can be used in government, industry, teaching, law, medicine, and on occasion, academia. As such everyone in the lab must reflect on what they want from their career and actively work to obtain the skills they need to get there.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -30,6 +35,19 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >All lab members have 1o1 meetings with the PI as illustrated in the section "Regular meetings". In addition, at the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
+
+### Japan
+>_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
+>
+>月曜ミーティングの欄で書いた通り、研究の中身や進め方に関する具体的な議論のために個別ミーティングを頻繁に行います。研究以外のことでもどんどん相談に来てください。メールでもOKです。松永はメールの返信はかなり速い方だと思います。他の様々な仕事よりも研究室内のやりとりをできる限り優先していますので、遠慮なく個別に相談や議論を持ちかけてください。
+>
+>研究で詰まっていることへの解決策がすぐ松永から得られるとは限りません。特に博士課程学生やスタッフの場合、自身の研究については松永よりも詳しくなっているはずなので、議論の際に松永はむしろ質問する側に回ることの方が多いです。それに答えながら、どう課題をクリアするか、研究をどう進めてどうまとめていけばよいのかを考えていってください。
+>
+>_English translation:_
+>
+>As written in the Monday meeting section, we hold individual meetings frequently for concrete discussion of the content and conduct of research. Please come to consult us about things other than research too. Email is fine as well. I think Matsunaga is rather quick at replying to email. Because I prioritise exchanges within the lab over my various other tasks as far as possible, please do not hesitate to bring individual consultations or discussions to me.
+>
+>You will not necessarily get a solution from Matsunaga straight away for what you are stuck on in your research. Especially for doctoral students and staff, who should know more about their own research than Matsunaga, in discussions Matsunaga is more often the one asking the questions. While answering them, please think about how to overcome the problem and how to proceed with and wrap up the research.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
@@ -60,6 +78,14 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >During our annual meetings, we will plan your goals, align them with your career path, and discuss what you can realistically achieve during the next year. 
+
+>_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
+>
+>- You can expect regular one-on-one meetings with me to update on research progress and plan the next steps. Generally you can plan for a one-hour weekly meeting, and can always email or slack me to request additional meetings.
+>- You can expect that I will assist with brainstorming, writing, and improving postdoc or graduate fellowship applications, travel grants, or other grant applications.
+>- You can expect that I will proofread and contribute significantly to the writing of any abstracts and manuscripts stemming from your research in the lab.
+>- You can expect an opportunity to practice, possibly more than once, any talk you will be presenting at conferences or other venues. I will also be happy to provide feedback on the structure and content of the slides prior to the practice talk.
+>- You can expect to discuss with me your future career goals or other issues you may have. We can tailor the training plans according to these career goals. You can expect these conversations to take place in a safe space and in a confidential manner if you would like.
 
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
@@ -116,6 +142,13 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, a one-on-one meeting with every lab member will be dedicated specifically to evaluating the state of the mentorship relationship. Both participants will discuss answers on [the last online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog)  and reevaluate the worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder, making whatever adjustments may be necessary.
+
+>_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
+>
+>- Respect work/life boundaries and not expect responses outside of regular working hours (except under agreed-upon deadlines).
+>- Provide opportunities for regular one-to-one meetings with each trainee, including regular in-depth discussion about career goals and strategies for achieving them.
+>- Encourage trainees to apply for funding and train them on grantsmanship.
+>- Be timely and constructive in providing feedback.
 
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd)_:
 >

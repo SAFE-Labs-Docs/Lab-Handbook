@@ -99,6 +99,10 @@ Thankfully, awareness and support for mental health issues within work environme
 >
 >We all work to be healthy and happy. Whether it's retooling your expectations of yourself, tackling your [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (we have all been there), or, heck, considering the importance of therapy (even Prof. Byrnes engages in it!), let's talk about it. It's the most important thing.
 
+>_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
+>
+>Well-being First: Academic life can be grueling, from feeling like an imposter to endless deadlines to repeated failures. Your health and well-being, both mentally and physically, are more important than your research. This means you should set aside some time outside of working hours to do things you enjoy, be it exercising, watching spectator sports, seeing your family, or getting involved in your community. If you would like to discuss any issues, I am happy to listen. I will fully acknowledge what you would like to share in a safe and private space. I will also be happy to adjust immediate and long-term goals that will assist your situation, and reassess these goals as you progress. My job is to advise and mentor you, not to evaluate you.
+
 >_[KindsvaterLab_2026](https://kindsvater.fishwild.vt.edu/about-the-lab/)_:
 >
 >My primary focus is on your wellbeing. If something is going on with you, I’d like to know about it sooner rather than later, especially if it involves someone else in the lab. That being said, we all have a right to our private lives, and boundaries are healthy. If you need extra help with mental health or other specific challenges, I will be happy to help you identify resources for professional help.

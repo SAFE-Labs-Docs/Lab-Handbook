@@ -269,6 +269,10 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >Once a month, back up your Box data to an external lab hard drive. Keeping a second copy off the cloud is your responsibility as much as the PI's.
 
+>_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
+>
+>Reproducibility: All developed methods, analytic pipelines and finalized results of your analysis should be well-documented. This is not just for scientific rigor, but also for training and as a service to your labmates. Other members of the lab will appreciate detailed records of what you have tried that failed (and what you have tried that succeeded), so that they can learn from your experience. You will also come to appreciate the fact that others will not need to constantly bug you with questions. We will try our best to post preprints of original research to preprint servers (like biorxiv), and post codes to online repositories (like GitHub), but even just a set of neatly kept READMEs on the lab server will go a long way to document your hard work.
+
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >You should treat GitHub as a digital version of a “lab notebook”
@@ -283,6 +287,21 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
 >All members are expected to keep their data files, input decks, etc. in a file system that is organized and stored on one of the workstations in the lab. Personal laptops should not be used to store data. Critical results should be saved. README files should be used in directories to explain what is there, when the work was done, and anything else that would be useful to future members to understand and reproduce the results. All members are entitled to take a copy of all of their data when they leave the lab.
+
+>_[GureckisLab_2026](https://todd.gureckislab.org/2026/03/06/genaipolicy)_:
+>
+>**Code**
+>
+>- All analysis code must be published, not merely available upon request.
+>- Repositories must include the verification and testing scripts from Section 3, so reviewers and readers can see what checks were performed.
+>- Where AI tools generated substantial portions of code, note this in comments or the README.
+>- Code must be documented well enough for another lab member to run it on the original data and reproduce reported results.
+>- Except in exceptional cases, generative model output should not be a primary method of analysis — e.g., using an LLM to classify open-ended responses instead of writing a classifier.
+>
+>**Data**
+>
+>- Raw data (subject to IRB and participant privacy constraints) must be deposited in a public repository (OSF, GitHub, Zenodo, or equivalent) at the time of submission.
+>- Preprocessing and exclusion scripts must be included. Avoid unpublished intermediate processing steps.
 
 >_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/records.md)_:
 >

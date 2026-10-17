@@ -22,6 +22,12 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >[the PI] and other lab members will support you in navigating the peer-review process, including journal selection, responses to reviewers, and payment of publication costs.
 
+>_[BowdishLab_2026](https://www.bowdish.ca/lab/faq/)_:
+>
+>Criteria are as follows: 1) Thesis students must have applied lab experience. This may take the form of applied courses (e.g. Biochem 2L06, Inquiry in Biochemical Techniques) or in prior lab experience. Unfortunately the pace in my lab is not suitable for students who do not have basic lab experience (i.e. pipetting, making molar solutions, DNA & protein electrophoresis). 2) You must take 3rd & 4th year immunology courses either prior to or concurrent with your thesis project. I expect that undergraduate students will be a productive member of my team and an integrated member of our department. As such, they are expected to participate at lab meetings, attend departmental seminars and think critically about their research.
+>
+>I do not accept volunteers in the lab. My philosophy is that if you are doing valuable work for me then you deserve to get paid/get academic credit for that work and if you are not doing valuable work, then you should not be in the lab. Undergraduate volunteers can’t contribute enough time to do anything other than washing up or filling tip boxes, which is not a valuable contribution to my research or your c.v.. Because I have a large lab and am actively involved in mentoring my own and other trainees, I do not have the time to effectively supervise volunteers and I would rather students have a good experience in another lab. Under rare circumstances I will host individuals who want to learn a specialized skill or technique on a volunteer/collaborative basis.
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >As a guideline of what is expected, masters students should publish 1-2 conference papers (or perhaps 1 conference, 2 workshops papers) during their two years in the group; phd students should aim for 3 conference (with at least one of these expanding to a journal) and perhaps some workshop papers earlier in their career); postdoc should be participating on several papers a year (and leading at least 1-2 papers).
@@ -201,6 +207,19 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >There are [many strategies that we build in at each stage](https://mseelab.substack.com/p/what-does-a-phd-look-like) to maximize the positive feelings and minimize the negative ones. [More details on Substack: _"What does a PhD look like?"_](https://mseelab.substack.com/p/what-does-a-phd-look-like)
 
 >Cornell PhD students in the Graduate Field (program) of Chemical and Biomolecular Engineering typically graduate after completing five years in the PhD program, and although students at MsEE Lab may come from a variety of different Graduate Fields, we hold the same expectations for graduate students regardless of the Field they belong to. Students are advised to consult their Graduate Field Student Handbook ([e.g. the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) to make sure they fulfill any Field-specific requirements. Regardless of Field, it is our aim for each student to contribute to at least three projects during their time in the lab ([explained in more detail here](https://mseelab.substack.com/p/what-is-a-phd)), with the expectation that one of them leads to a first (or co-first) authored publication. PhD projects are selected in discussion with the student with this aim in mind. We aim to at least have this publication published as a preprint by the time the student leaves the lab.
+
+>_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
+>
+>Trainees will
+>
+>- Be curious and motivated about their research project.
+>- Strive to cultivate their own creative ideas about research approaches and directions, beyond what their PI recommends.
+>- Develop a thorough understanding of the background literature related to their project and how their own work fits in with it.
+>- Be responsible for their own schedule and setting their goals.
+>- Devote at least as much effort to their work as a student or postdoc as they would to any other full-time job.
+>- Apply for their own funding in cases where they are eligible.
+>- Be proactive about asking for the help they need to succeed.
+>- Do the very best work they can and be aware and communicative of what they need to be happy, fulfilled, and successful.
 
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/03-expectations.html)_:
 >

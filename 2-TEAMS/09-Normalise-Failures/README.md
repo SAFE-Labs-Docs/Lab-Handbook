@@ -35,6 +35,15 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >
 >At present, we do not hold dedicated annual lab-wide meetings focused on normalizing failures. However, normalizing failure is actively integrated into our daily interactions and regularly addressed during weekly lab meetings or 1-to-1 meetings, where past and present challenges — including those experienced by the PI — are openly discussed.
 
+### Japan
+>_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
+>
+>わからないことは遠慮せず、周囲に質問しましょう。「これくらいのことは自分で解決できないと恥ずかしいんじゃないか」と躊躇う必要はありません。初歩的な内容を質問すると、質問された側にとってもきちんと説明するためにはよく考えを整理しないといけないので非常に良い経験になります。逆にわからないままじっとしていると周りからの助けは得られません。どんどん質問して、松永含む他のメンバーと積極的に関わってください。
+>
+>_English translation:_
+>
+>Do not hesitate when you do not understand something; ask the people around you. There is no need to hesitate thinking "isn't it embarrassing if I can't solve something like this myself?" When you ask about elementary content, it is also a very good experience for the person asked, because to explain it properly they have to organise their thinking carefully. Conversely, if you stay still without understanding, you will not get help from those around you. Ask lots of questions and actively engage with the other members, including Matsunaga.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
@@ -54,6 +63,10 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >
 >- Failure is a part of science, and mistakes are a part of learning. Being transparent about both helps us move our research and ourselves forward. Keeping them buried leads at best to missed learning opportunities and at worse to scientific misconduct. I want to hear about your obstacles, failures, and mistakes frequently so we can correct course together.
 >- Every year in April, we have a “Mishap Recap” meeting to recount our failures and mistakes together. Bring your experimental flops, rejected grant applications, coding bugs, and your own personal missteps in your work. We’ll share strategies for overcoming setbacks, document lessons learned, and celebrate honesty and accountability.
+
+>_[GureckisLab_2026](https://todd.gureckislab.org/2026/03/06/genaipolicy)_:
+>
+>If you discover that AI-assisted work in a submitted or published paper contains an error — a hallucinated citation, a bug in AI-generated code, a fabricated statistic — report it immediately. This lab will always prioritize correcting the scientific record. Issuing prompt corrections and retractions earns more respect in the field than hiding errors. Prompt correction is not a failure; undisclosed error is.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >

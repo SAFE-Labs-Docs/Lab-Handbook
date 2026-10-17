@@ -83,6 +83,19 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >Other content for experiencing the lab and asking questions
 >
 >Consultation channel on Slack run by Mitsume Lab students: the Mitsume Lab uses Slack, a business chat tool, to communicate with lab members. In this Slack we have created a consultation channel for prospective students (#_lab_introduction). The channel is set up so that Mitsume cannot see it, and only the lab's students (undergraduate thesis students and graduate students) are in it, so you can get an objective picture of the lab from a student's point of view. Feel free to ask questions.
+>
+>When you contact us, it would be helpful if you could send us a summary of your current research and a presentation of the research plan you would like to pursue in the doctoral program. We would then like to have you present this information in an interview and discuss it with you to create a concrete research plan.
+>
+>In addition, we would like to train doctoral students who are proficient in both of the following two basic abilities:
+>
+>- Deep mathematical understanding of some numerical analysis method (skills to design a new analysis method)
+>- Deep understanding of some real-world science and engineering problems (skills to devise solutions to new engineering problems)
+>
+>We hope to be able to design a theme that takes into account the skills you have acquired so far. However, it is also possible to design doctoral research in the direction of becoming a specialist in either of these areas, so we would appreciate it if you could consider your desired skill acquisition policy.
+>
+>In addition, our policy is basically to pay doctoral students a salary (up to 200,000 yen per month) as research assistants. Although the salary is less than at U.S. universities, we aim to create an environment in which students can freely conduct research with fewer obligations (work that must be performed as an RA) than at U.S. universities.
+>
+>When we meet with you at the interview, please let us know whether or not you wish to pursue a researcher career (i.e., whether or not you wish to enter a doctoral course). This information will not be used to determine whether or not you will be assigned to a laboratory, but will be used as a reference when considering your research theme after entering the program.
 
 >_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/お問い合わせ/審査手順)_:
 >

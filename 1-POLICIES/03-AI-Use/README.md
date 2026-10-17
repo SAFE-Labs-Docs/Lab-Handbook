@@ -215,6 +215,18 @@ The use of AI tools (e.g., large language models, code-generation tools, image g
 >_[HewittLab_2026](https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html)_:
 >
 >Writing and verbal communication are core research skills we need to practice. All paper first drafts must be written without AI. Lab communication must follow the first-follow-up rule: lab members should know enough details about the code, experiments, and presentations they give to answer a reasonable first follow-up question from a labmate without checking with their AI assistant.
+>
+>**Write the first draft without AI.**
+>
+>Writing is thinking and helps clarify one's understanding. Further, empirically, the anchoring effect of AI writing is too strong, even if a human provides substantial edits afterward.
+>
+>The human first draft is also very helpful for ensuring that students know the math they're presenting. It's often not until I write up math in LaTeX for the first time that I realize some detail I'd been glossing over in my head or as I take scratch notes about the idea. If a model generates the math from the code that was vibecoded, those potentially critical details are just never interrogated. If the lab member writes out the math and then looks at the code and it implements something different, then it's a great find of a potential bug or miscommunication!
+>
+>**Be ready for the first follow-up.**
+>
+>A lab member must be ready to answer a first follow-up question from a lab member (including me) about the work they're presenting, without referencing their AI assistant.
+>
+>Of course, there are questions I can't answer about my code or research. When does garbage collection happen in the Python code that runs my model? Interesting question. I have no idea; I've given up on that level of knowledge of my code. This point of policy handles this concern nicely, however—I don't have to be able to answer any question about the experiments I've run, just those that my (reasonable, cooperative) labmates are genuinely curious about. As a lab (and, starting with me,) we set the expectations for what kinds of details are critical to our research and what we expect each other to know. It takes time to understand what follow-up questions are; this is part of the process of learning in the lab. So, junior students are given time to figure out these conventions.
 
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Kirby-lab-AI-policy.pdf)_:
 >

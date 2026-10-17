@@ -191,9 +191,21 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >報告の持ち時間は１５分（超過時間は打ち切り）です．１５分は国際会議での標準的な報告時間ですので，ポイントを絞ればどんな研究も１５分内で報告できるはずです．報告は研究室メンバー全員の人生の時間を奪う行為ですので，十分に準備してください（一度は発表練習をしてから望んでください．進捗がない人は，報告をパスしてください）．報告者以外の方は，目上（教授）だろうが目下だろうが，他人の研究には遠慮なく批判・コメントをし，研究室というチームで良い研究ができるように心掛けてください．正しいか否かだけで判断されるのが学問の素晴らしいところです．研究に上下関係は不要です．
 >
+>**１．研究指導時間**
+>
+>２ヵ月に１度の頻度で，博士課程，修士課程，研究生，副指導学生，進学希望者等を交えた「大学院合同演習」を開催しています．この合同演習は，学生以外でも見学できます．見学希望者には開催日と場所をお教えしますので，犬塚まで連絡してください（現在はオンラインで，偶数月・最終金曜日の１８：００～の開催です）．特に社会人学生は，受験前に必ず事前見学をして，求められるレベルを確認してください．入学に向けた相談があれば，終了後に承ります．
+>
+>大学院生への指導時間は，年間を通して金曜の１８：００～２２：００を，原則として空けてあります（定例ゼミも同時間帯です）．研究相談や調査設計，論文修正等，まとまった時間が必要な場合は，この時間帯を予約してください．
+>
 >_English translation:_
 >
 >Each report is allowed 15 minutes (anything over is cut off). Fifteen minutes is the standard talk length at international conferences, so if you focus on the key points, any research can be reported within 15 minutes. A report takes up time from the lives of every lab member, so prepare thoroughly (do at least one practice run before you present. If you have made no progress, skip your report). Everyone other than the presenter, whether senior (the professor) or junior, should feel free to criticise and comment on others' research, and help the lab work as a team to do good research. The wonderful thing about scholarship is that things are judged only on whether they are right. There is no place for hierarchy in research.
+>
+>**1. Supervision time**
+>
+>Every two months we hold a "joint graduate seminar" with doctoral and master's students, research students, co-supervised students, prospective applicants and others. People other than students can also observe this joint seminar. For those who wish to observe, we will tell you the date and place, so please contact Inuzuka (it is currently held online, from 18:00 on the last Friday of even-numbered months). Working-adult students in particular must observe beforehand, before taking the entrance exam, to check the level required. If you want to consult about enrolling, we will take your questions after the session ends.
+>
+>As a rule, time for supervising graduate students is kept free from 18:00 to 22:00 on Fridays throughout the year (the regular seminar is held in the same slot). If you need a block of time for research consultation, survey design, paper revisions and the like, please reserve this slot.
 
 >_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
 >

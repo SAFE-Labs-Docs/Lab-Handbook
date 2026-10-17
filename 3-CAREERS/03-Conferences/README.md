@@ -333,6 +333,13 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >- You will attend at least 80% of the conference presentations. Social and networking events are optional but highly encouraged.
 >- Attendance at plenary talks takes priority over other events or talks.
 >- You will report back on what you learned at the conference in a follow-up meeting
+>
+>**Publishing, Presenting & Posting**
+>
+>- Any research you conduct as a part of the LaBella lab is supported by both Dr. LaBella and funding sources like the NIH. Therefore, any research you present, post online, publish, or share must be approved by Dr. LaBella.
+>- Publishing, presenting, and posting include scientific conferences, UNC Charlotte resources, social media, personal websites, and more.
+>- Failure to obtain approval from Dr. LaBella for sharing research in the lab can lead to removal from the lab.
+>- The reasoning behind this is multifactorial. Sharing unpublished work can lead to competition for publication. This also gives Dr. LaBella the opportunity to provide insights and perspectives that you may have yet to consider. Moreover, it allows for a cohesive message to emerge from the lab.
 
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >

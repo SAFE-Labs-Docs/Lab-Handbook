@@ -91,6 +91,14 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >
 >All data and codes will be made available through public repositories, respecting the FAIR (findable, accessible, interoperable, reusable) data principles. A big part of ensuring that data are FAIR is by documenting all experiments, protocols, results etc… For this we use electronic labbooks and ensure their strict completion.
 
+### Germany
+
+>_[TSCNLab_2026](https://tscnlab.github.io/LabHandbook/background/MissionStatement_2024.09.02_v1.4.html)_:
+>
+>Our mission is to perform **robust and reproducible research**. We achieve this goal through various actions, including documentation of program code and analysis steps, preregistration of experiments, internal replication, and data and code reviews. We establish naming conventions for files and we write standard operating procedures (SOPs) for experiments, data collection and -management, data storage and for analysis. We respect subjects’ privacy, therefore we collect pseudonymized or anonymized data whenever possible.
+>
+>We want to constrain the [“researcher degrees of freedom”](https://doi.org/10.3389/fpsyg.2016.01832) in analyses by carefully specifying analytic strategies prior to data analysis. We avoid “research waste” and in the case of negative results, we will publish them. We prioritise quality over quantity in producing the data and in the publication of results. In case of mistakes in already published work, we acknowledge these mistakes and work to correct them.
+
 ### Japan
 >_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
 >

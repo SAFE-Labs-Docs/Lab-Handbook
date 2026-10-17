@@ -140,6 +140,12 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >
 >You get 30 days of holiday a year, and I expect you to take it. Also though be mindful that you will in some cases need to plan around experimental work – it’s not reasonable to start growing plants then disappear for several weeks and miss sampling times, for instance. On the other hand in many cases it should be possible to ask someone else to look after your plants or ongoing experiments if necessary for a while, and definitely in emergencies. You can also think about doing a “favour exchange” with other students or postdocs in the group where e.g. you watch their plants and take samples for two weeks while they go on holiday, then they do the same for you. Try and make sure that you give back the same as you take from others though!
 
+>_[TSCNLab_2026](https://tscnlab.github.io/LabHandbook/background/MissionStatement_2024.09.02_v1.4.html)_:
+>
+>We acknowledge that working in academia poses threats to well-being and work-life balance. We consider this a major challenge that we address. We are committed to our work without losing sight of our well-being. Accordingly, we value a **healthy work-life balance**. Employees are allowed to design their own working schedule and can work from home by arrangement. During holiday time, employees are not expected to be involved in work-related matters, including responding to emails and messages. Our team is encouraged to engage in **self-care and hobbies** in their free time. Moreover, stress-reducing activities, such as yoga, meditation, and/or exercise, are supported during working hours. We encourage people to take sick leave when necessary, including for mental health issues and to protect each other. We actively participate in team events, such as health days and fun runs.
+>
+>This encompasses a **supportive environment** among lab members with no discrimination against any physical and/or mental impairments. In addition, **constructive feedback** is provided to support each other, and conflicts are mediated in an appropriate manner. We are flexible to accommodate people with families and make family-friendly arrangements.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

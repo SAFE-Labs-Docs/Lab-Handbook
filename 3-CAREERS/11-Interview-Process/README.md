@@ -22,6 +22,15 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ## Examples
 
+### Austria
+
+>_[TongGroup_2026](https://github.com/tonggroup/website/tree/main/src/data/join/faq)_:
+>
+>A strong initial email is short and specific. Please include: (1) a one-paragraph statement of why you are interested in the group and which of our research areas you'd like to work on; (2) your CV; (3) for PhD and postdoc applicants, a 1–2 page research statement; (4) the names and contact details of 1–2 references; and (5) if relevant, links to code or papers you have authored. Generic emails sent to many labs are easy to spot and rarely successful — please tell us specifically what you want to work on and why.  
+>
+>**Do I need a computer science or math background to join?**  
+>No. While many of our researchers come from computer science, math, or physics, we are actively interested in working with people who bring other skillsets — for example, wet-lab biology, chemistry, bioinformatics, scientific computing, engineering, or design. Different perspectives make the group stronger, and many of our most impactful projects come from the collision of distinct backgrounds. If you are excited about the research and bring something different to the table, we want to hear from you.  
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
@@ -49,6 +58,39 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >As much as possible, hiring should not depend on personal biases such as the applicant's name or appearance or other personal characteristics. We strive to minimize such biases by using pre-defined job advertisement and recruiting processes and making hiring decisions based on a selection committee. 
+
+### India
+
+>_[PopulationBiologyLab_2026](https://pbl.acads.iiserpune.ac.in/join-us/for-phd-students)_:
+>
+>What kind of an interview will I face? What are you looking for in a prospective candidate?
+>
+>All students who wish to work with me are expected to be familiar with the topics mentioned below. Look them up in basic text books / internet if you need to brush up your memory before the interviews. Essentially this is the syllabus for the interview:
+>
+>1. Basic mathematics and statistics
+>    - basic concepts in probability (e.g. independence, mutual exclusivity etc.)
+>    - basic statistics: mean, standard deviation, confidence interval, standard error, statistical significance (p- or α- value; applied to difference between 2 measured means), etc.
+>    - simple functions: e.g. linear, quadratic, exponential, logarithmic, normal (bell) curve
+>    - areas of standard shapes, volumes of standard solids; units of measurement; conversion between units
+>2. Basics of evolution and ecology
+>    - Darwinian theory
+>    - Basic Mendelian genetics
+>    - Basic population genetics (Hardy-Weinberg, Genetic drift, Inbreeding)
+>    - Basic population dynamics models (logistic, Lotka-Volterra prey-predation and competition model)
+>    - Basic logic of conservation biology
+>3. A topic of your choice from your Masters – (thoroughly!) to evaluate your ability to grasp a subject in depth
+>4. Your masters thesis – thoroughly!
+>    - overview of the basic idea and objectives
+>    - methodology - with focus on why you did what you did
+>    - instruments: underlying principles, method of use, actual measurements and derived quantities
+>    - results (including statistical significance of the same)
+>    - shortcomings, suggested improvements, future lines of work
+>5. Why do you want to join my research group (beyond "I like ecology/evolution")
+>
+>Other things to note
+>
+>- Prior experience in programming will help, though not essential (MS Word and Google Chrome do not count as programming experience).
+>- The focus of the interview will be on your ability to think and learn, and motivation to carry out a research project. We shall try to ask you certain questions whose answers you are not expected to know. What we are interested in is not the correct answer, but your efforts to arrive at a good solution. Since we want to know how you reason out things, it might be a good idea to think aloud so that we know the way you are thinking.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:

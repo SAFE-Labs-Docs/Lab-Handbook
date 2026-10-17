@@ -24,6 +24,13 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >
 >- Apply for fellowships and grants (e.g., an ARC DECRA, an NHMRC Investigator Grant, a UNSW Scientia Postdoctoral Fellowship, or equivalent). Writing grants is an excellent exercise for finding direction in your research and identifying gaps in your training. It will also give you greater autonomy in the lab, help your CV, and help the lab (by freeing up funds and modelling the process for other students). Please see Bridget early about identifying grant mechanisms to target and for example applications.
 
+### Austria
+
+>_[TongGroup_2026](https://github.com/tonggroup/website/blob/main/src/data/join/faq/funding.md)_:
+>
+>**Is funding guaranteed for the full PhD?**  
+>Yes. PhD positions in the group are fully funded for the expected duration of the PhD (typically 3–4 years) through Aithyra, which is funded by the Boehringer Ingelheim Foundation. You do not need to secure your own funding to join as a PhD student. Postdoc positions are similarly fully funded. Visiting researchers may be funded by Aithyra for strong candidates, and we can also assist with invitation letters for those with their own sabbatical support.  
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
@@ -73,6 +80,15 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >Available funding depends on current grants and project goals and will be discussed with each researcher during hiring and onboarding. In general, funding for graduate students and postdoctoral researchers is available for at least 3 years. Typically, I will ask postdocs and graduate students, where appropriate, to apply for funding. I guide and support the grant writing process. This helps to crystalise their project approach and hypotheses, are valuable additions to a researcher's CV, and can provide additional funding for professional activities (e.g. travel).
+
+### India
+
+>_[PopulationBiologyLab_2026](https://pbl.acads.iiserpune.ac.in/join-us)_:
+>
+>IISER-P does not pay for salaries of project assistants. Hence there are two options:
+>
+>- Students with fellowships (NET, ICMR, etc.) : Many students have their own fellowships but do not wish to join for PhD straightaway. They tend to spend a year or so gathering work experience, before making up their mind about doing a PhD. Please note that the Biology division of IISER-Pune does not encourage the admission of such students.
+>- Students without fellowships : Such students can only be taken under various projects. Thus the number of such posts would wax and wane with the number of projects in the lab. Please keep checking our FB page for latest announcements.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:

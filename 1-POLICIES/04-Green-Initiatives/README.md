@@ -57,6 +57,14 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 >Recycling: To minimize the environmental impact of lab waste, we avoid mixing lab waste and regular waste. We recycle regular waste according to local regulations.
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment and lighting.
 
+>_[TSCNLab_2026](https://tscnlab.github.io/LabHandbook/background/MissionStatement_2024.09.02_v1.4.html)_:
+>
+>We commit to sustainability and sustainable research practices built on reducing and reusing. This includes **reducing CO₂ emissions, reducing waste (paper, food, plastic, ...) and reusing resources**. We achieve this by a variety of means:
+>
+>We aim to share instruments and repair old instruments instead of buying new devices. We encourage reducing (paper, plastic) waste and ask our institutions to switch to digital forms. We aim to make our code efficient and test it, use sustainable computing practices, and share code and data. In the long run, we intend to include sustainability and sustainable research practices in our teaching and aim to work on a sustainability-related topic within our field for 1 out of 5 student projects.
+>
+>Where possible and feasible, we commit to commuting by foot, bike or public transport and choose local or online conferences over long-distance ones that require flights. We consider the carbon footprint of our activities and consider these prior to deciding whether to attend a conference. We reduce waste in general and paper waste by sharing printed articles and books. At events that we organise, we provide vegetarian catering options and encourage low-carbon travel options.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

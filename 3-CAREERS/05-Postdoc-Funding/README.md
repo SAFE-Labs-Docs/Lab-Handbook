@@ -17,6 +17,13 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 
 ## Examples
 
+### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>**Postdocs**
+>
+>- Apply for fellowships and grants (e.g., an ARC DECRA, an NHMRC Investigator Grant, a UNSW Scientia Postdoctoral Fellowship, or equivalent). Writing grants is an excellent exercise for finding direction in your research and identifying gaps in your training. It will also give you greater autonomy in the lab, help your CV, and help the lab (by freeing up funds and modelling the process for other students). Please see Bridget early about identifying grant mechanisms to target and for example applications.
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >

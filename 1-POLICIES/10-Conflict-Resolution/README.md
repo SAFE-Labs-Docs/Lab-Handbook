@@ -180,6 +180,10 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >Disagreements, misunderstandings, and conflicts within a group sometimes happen. Early and authentic communication are key to resolving issues and minimizing conflicts. If you have concerns about your interaction with me or with anyone else, please don’t hesitate to come talk with me.
 >- If you wish a conversation to remain confidential, please be sure to indicate that at the start of the conversation. I will endeavor to respect this request, and if I am unable to do so I will let you know.
 
+>_[LohmannLab_2026](https://web.uri.edu/gso/wp-content/uploads/sites/916/Code-of-Conduct_Lohmann-Lab2.pdf)_:
+>
+>Members of the community who violate these rules - no matter how much they have contributed to the Lohmann lab, or how specialized their skill set - will be approached by Dr. Lohmann. If inappropriate behavior persists after a discussion with Dr. Lohmann, the contributor will be asked to discontinue their participation in Lohmann lab projects.
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >Despite our best efforts, conflicts or tensions can arise. Primarily, I hope that we can resolve conflicts and tensions directly with each other, by de-escalating, listening to each other, and taking a step back from what caused the conflict.

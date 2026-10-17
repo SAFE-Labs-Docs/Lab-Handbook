@@ -16,6 +16,23 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 
 ## Examples
 
+### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>**Lab Managers**
+>
+>- Collect data for the ongoing group projects in the lab.
+>- Manage the lab's data backup and ensure backups happen on a consistent, documented schedule (see Section on Data Access & Management).
+>- Optional: work on your own research (developed with Bridget's help) — a review paper, analysis of an existing dataset, a study within the group project, or another project outside it.
+>- Create research and lab protocols.
+>- Train new lab members on research and lab protocols.
+>- Monitor adherence to research and lab protocols.
+>- Hire, train, mentor, and assess progress of undergraduate research assistants, including setting them up with lab access, making sure they're properly onboarded, and making sure they're added to the ethics approvals for the projects they're working on.
+>- Schedule and manage the work of undergraduate research assistants.
+>- Maintain human research ethics applications for the lab (writing them, renewing them via the annual/periodic reporting UNSW's HREAP process requires), archive old consent forms, and keep required paperwork up to date and organised.
+>- Maintain the lab website and wiki, update the lab manual, add lab events to shared calendars, manage the lab's shared drive, and check and respond to the lab's shared email/inbox.
+>- Give new lab members access to the wiki, GitHub, shared calendars, and add their experiments to the shared drive.
+
 ### Brazil
 >_[CompGeoLab_2026](https://www.compgeolab.org/manual/expectations.html)_:
 >
@@ -218,6 +235,15 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >writing, psychological theories), we can make these explicit goals and try to
 >orient your time here around them.
 
+>_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
+>
+>**Research Collaboration**
+>
+>- We establish clear to-dos and expectations at the beginning of a project and divide tasks explicitly.
+>- We build in flexibility, understanding that unanticipated things will come up.
+>- We hold regular check-ins so that troubleshooting happens together rather than alone.
+>- We shift roles as needed, keeping the workload balanced and avoiding overloading any one person.
+
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/lab-manual.html)_:
 >
 >Below are the eligibility criteria for advancement in lab:
@@ -277,6 +303,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >1. Learning new technical skills (e.g. programming)
 >2. Other career development opportunities
 
+>_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
+>
+>Mentor Role: Mentors are expected to understand the career and training goals of mentees and clearly communicate expectations toward meeting those goals. They should also help mentees understand the role of their specific projects in the larger research aims of the lab, and introduce mentees to other Florida Museum of Natural History (FLMNH) students and faculty to help with networking and to provide context for their position in the larger aims of the museum. Mentors should establish regular meetings with mentees to discuss progress, assist with barriers or problems, provide guidance and access to resources for professional development (especially for postdoctoral mentees), and help keep mentees engaged with their project, with the lab, and with other students and faculty at the McGuire Center.
+
 >_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
 >
 >Established training procedures in the lab for equipment and proteomics pipeline: watch (watch an experienced person), do (with supervision of an experienced person), teach (teach another, less-experienced person)
@@ -318,6 +348,10 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
 >
 >By the time you're done, you will have to know how to do statistics and plots in R, share your work with me using Rmarkdown, use Matlab scripts for data analyses, know enough Python to navigate presentation in PsychoPy, and make figures and posters using Adobe Illustrator or a similar graphics program. You will also preregister your experiments when appropriate (which it almost certainly will be) and share your data and analysis scripts publicly. The learning curve can be a little steep on these but it's well worth it. (If these aren't compatible with your goals or interests, my lab is probably not a good fit for you!)
+
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>Laboratory managers / research assistants must keep more regular hours and are expected to be in laboratory 5 days a week (excluding vacations, doctor appointments, family issues, etc.) as other lab members often depend on them. For students, I understand having to be away for classes, but show up to the laboratory on a regular basis when you don’t have those obligations. To encourage laboratory interaction, try to be in most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 10am and 3pm. Everyone must attend weekly lab meetings and weekly 1-1 meetings unless they are canceled for unforeseen circumstances.
 
 >_[POISLab_2026](https://www.notion.so/22a9e68b69b680a9bfacdfdb4adc3bdd)_:
 >

@@ -86,3 +86,9 @@ We are all familiar with the experience of joining a new lab whilst still having
 >_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
 >
 >Allow you to spend some of your work time finishing up revisions of papers from your prior lab experience; however, unless you are funded by a fellowship, remember that you also have a full-time obligation to the funding source paying for your time so this should be kept reasonable; ask Anne for boundaries.
+
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, I will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, I will also re-assign the project to another individual. Authorship will be re-assigned accordingly. This policy is here to prevent data from remaining unpublished but is meant to give priority to the person who collected the data initially.
+>
+>You are not allowed to work on data you collected in previous laboratories in the time you are being paid to work in this lab. Publication of results from other PIs cannot take priority over your results from this lab, they are not paying your salary, I am.

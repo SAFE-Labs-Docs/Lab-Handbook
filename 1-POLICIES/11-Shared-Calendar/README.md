@@ -29,6 +29,17 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >
 >Mark any BHKLab events that BHK is not attending as "Free" rather than "Busy". Mark away-time events (e.g., vacation, conference travel, or other absences) as "Free". These settings keep everyone's availability accurate and avoid scheduling conflicts.
 
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/Basics/LabCommunicationGuidelines.md)_:
+>
+>**Lab Calendar**
+>
+>- The Lab Calendar is used to coordinate the scheduling of studies and meetings for the lab. It is important to check the lab calendar prior to scheduling participants to avoid double-booking two studies using the same technology at the same time.
+>
+>**Basic Rules for Using the Lab Calendar:**
+>- **Updating the Calendar:** Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
+>- **Event Details:** Label the event with the study name and ensure you have allotted the correct amount of time for the study. Add relevant notes if necessary.
+>- **Collaborative Editing:** All lab members have access to edit the calendar; do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

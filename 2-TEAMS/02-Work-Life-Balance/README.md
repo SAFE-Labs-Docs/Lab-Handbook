@@ -18,6 +18,12 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 ## Examples
 
 ### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>- Working in developmental populations means work times need to be flexible. If you are collecting data or recruiting participants, you may be expected to work some weekends and holidays. We will share that burden as evenly as possible, and where this applies to paid staff, hours will be tracked and managed in line with your employment conditions (see Hours below) — talk to Bridget or the lab manager about time-in-lieu arrangements before, not after, taking on extra hours.
+>- Outside of data collection and recruitment, you are not expected to work or come into the lab on weekends or holidays, and you are not expected to stay late at night.
+>- You are expected to get your work done to a high standard, in whatever time of day best suits your work style. That said, being in lab some of the time is important for the lab and for morale, so you shouldn't work remotely all of the time.
+
 >_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/02-lab-culture.md)_:
 >
 >Full-time research is essentially equivalent to a full-time job (i.e. ~40 hours/week, 5 days per week). A rough guideline for the PALM Lab is a 'hybrid model' where lab members are expected to spend at least three days of the week working on campus/in lab, and have the option to work either from home or in lab on the remaining days. The work hours themselves are largely flexible and dependent on the available spaces -- to ensure overlap between members in lab for collaboration and discussions, lab members are asked to have 10am to 3pm as part of their in-person hours. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (*The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.*)
@@ -226,6 +232,19 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >I expect all lab members to be in the office at least 3 days a week (often Mon/Tues/Thurs), during regular office hours (~10:00-17:00). If you are away or working remotely, please inform me and note this in the lab calendar. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant - please discuss with me, and make sure we document expectations (e.g. in a mentoring agreement).
 
+### South Korea
+>_[GOLab_2026](https://go-lab.korea.ac.kr/code-of-conduct)_:
+>
+>**Work-Life Balance**
+>
+>- Choose your preferred work schedule freely (35-40 hours/week). However, being on campus between ‘core hours’ (10:00–16:00) is recommended for efficient collaboration.
+>- Take vacations (15 days/year as per the Korean Labor Standards Act) without requiring approval from the PI. However, sharing your vacation plans in advance is encouraged for better team coordination.
+>- Utilize sick leave or mental health days as needed, with the option to notify the group retrospectively.
+>- Respect colleagues’ personal time by limiting non-urgent communications outside of working hours (after 6:00 PM, weekends, holidays, and during their leaves), when one is not expected to promptly reply.
+>- Minimize last-minute requests to reduce stress for others.
+>- Avoid overcommitting to tasks to prevent burnout, take regular breaks, and prioritize self-care.
+>- Discuss work-life balance concerns openly with the PI to find effective solutions.
+
 ### Switzerland
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
@@ -357,6 +376,17 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >
 >My main concern is that you are getting your work done. If you find that you are more productive with certain tasks at home, you may work from home (WFH) occasionally. You may only WFH on days when you do not have meetings, planned experiments, or supervisory responsibilities. Except for emergencies, working from home requires prior approval by Annika, requests must be accompanied by a WFH plan in your Box folder. When working from home, you should be responsive via email and lab Slack. By 10 am on each day working from home, you must have a document entitled “YYYYMMDD WFH Goals” in your Box folder with specific goals for the day. At the end of your workday (or by midnight), you must update the document with your progress on each goal. All WFH products should be available for my review. They need not be in the same Box folder, but the WFH goal document should clearly identify where in Box I can find the most up-to-date written drafts, Origin projects, Excel worksheets, etc. Failure to set and meet realistic goals on WFH days will result in revocation of WFH privileges.
 
+>_[BenjaminChungLab_2026](https://jadebc.github.io/lab-manual/communication-and-coordination.html)_:
+>
+>One benefit of the academic environment is its schedule flexibility. This means that lab members may choose to work in the early morning, evening, or weekends. That said, we do not expect lab members to respond outside of business hours (unless there are special circumstances).
+>
+>**Slack**
+>
+>- Use Slack for scheduling, coding related questions, quick check ins, etc. If your Slack message exceeds 200 words, it might be time to use email.
+>- Use channels instead of direct messages unless you need to discuss something private.
+>- Please make an effort to respond to messages that message you (e.g., @jade) as quickly as possible and always within 24 hours.
+>- If you are unusually busy (e.g., taking MCAT/GRE, taking many exams) or on vacation please alert the team in advance so we can expect you not to respond at all / as quickly as usual and also set your status in Slack (e.g., it could say “On vacation”) so we know not to expect to see you online.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/time-off-vacation/)_:
 >
 >You're encouraged to take vacation throughout the year. Most members take three to four weeks a year, cumulatively. Your formal leave accrual follows your UC Davis appointment and any applicable union contract (see HR). The lab's stance is simple: use your time. If you're not using your time off, we'll probably encourage you to schedule at least a staycation to recharge.
@@ -457,6 +487,14 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >(Note that graduate students, postdocs, and staff scientists are given more flexibility in their hours, provided they make sufficient progress on their projects. This flexibility does not extend to other paid positions because we need to maintain a consistent lab presence for scheduling, supporting undergrads, interacting with other staff, and so on.)
 >
 >Even if you speak with me in person, it is important to document these requests (and my approval) over email so that we have a record. It is your responsibility to make sure this happens.
+
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>- Work the hours you need to work to get stuff done. However, remember that if you are a state employee you are expected to clock in the weekly hours stipulated by your contract and turn in your timesheets through workday.
+>
+>Hours: Being in the laboratory is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home (e.g., your bed or Netflix). That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (at least, but not restricted to, 40 hours/week) and show up to the laboratory. My primary concern is that you get your work done, so if you find that you are more productive at home, feel free to work at home occasionally, especially if you are writing grants or manuscripts. If you have no meetings, and no other obligations that day, it might be a good day to work at home – you can attend meetings virtually sometimes as well. But you can’t do this all the time, and I expect to see everyone in the laboratory on a regular basis, especially for lab meetings and 1-1 meetings (unless a situation prevents this from happening).
+>
+>I am often asked how many hours a student/post-doc is expected to work. There is no easy answer, as what matters is your productivity, particularly in the form of good scientific papers. However, if you informally survey the faculty in academia, most will tell you that they worked more than 40 hours/week in graduate school (including time working from home/writing outside of official work hours). No one told us to work those hours, but we enjoyed what we were doing enough to want to do so. You were all admitted to the lab because you expressed the ambition of becoming a scientist.
 
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
 >

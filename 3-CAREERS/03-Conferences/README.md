@@ -379,6 +379,16 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 >
 >Anyone presenting a poster should circulate an initial version to all authors at least one week before the printing deadline. Use the lab Adobe Illustrator template so that our posters have a consistent look to them. If this is your first time using Illustrator, make sure to leave plenty of extra time so you can learn how to use the software.
 
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>If you plan to present your work at a conference, you must obey the following rules when it comes to travel reimbursement:
+>
+>- You are required to present new work at a conference (unless it is a local/regional one). I may present the same work again at another meeting if I am invited too. If you want to present the same work again at a different conference, you need to check with me.
+>- You are responsible for submitting the WSU travel request form completed, with estimates of travel costs to Kris, for review a minimum of 1 month from the early registration date.
+>- I will cover one trip per person per year (in addition to small regional conferences that do not require travel). I require that you apply to a travel fellowship or otherwise contribute in some form to reduce your conference fees (if you don't get a fellowship, it is OK, it is the effort that matters). Please cc Kris and me when you apply. If you obtain your own funding, you will be able to travel to more conferences than once a year.
+>- If your trip exceeds $2000 (or $2500 if international), I will not cover per diems or baggage fees (I must watch out for the financial health of the lab to make sure you have the resources you need to do your work).
+>- You are required to share a hotel room with another colleague. If you want your own room, you will need to cover the difference.
+
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/publication/conferences.html)_:
 >
 >The laboratory will generally fund the attendance of members to at least one conference per year, pending funding availability.

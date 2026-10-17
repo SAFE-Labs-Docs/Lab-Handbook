@@ -16,6 +16,19 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 
 ## Examples
 
+### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>- Be honest with yourself and others. This means that if you notice a mistake, however embarrassing, admit it, correct it, and move on.
+>- Check everything several times. Then get someone else to check it. Then check it again. It's ok to make mistakes, but mistakes shouldn't be because of carelessness or rushed work.
+
+### Canada
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/labMembers/newMembers.md)_:
+>
+>**ERRORS WILL OCCUR!**
+>
+>Don't worry: everyone makes mistakes. If you think you have made an error, please check with us as soon as possible. If you are sure that you have made an error, please call it to our attention as soon as you can. Including flawed data in our studies is very problematic.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -63,6 +76,18 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >
 >- Failure is a part of science, and mistakes are a part of learning. Being transparent about both helps us move our research and ourselves forward. Keeping them buried leads at best to missed learning opportunities and at worse to scientific misconduct. I want to hear about your obstacles, failures, and mistakes frequently so we can correct course together.
 >- Every year in April, we have a “Mishap Recap” meeting to recount our failures and mistakes together. Bring your experimental flops, rejected grant applications, coding bugs, and your own personal missteps in your work. We’ll share strategies for overcoming setbacks, document lessons learned, and celebrate honesty and accountability.
+
+>_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
+>
+>**When Mistakes Happen**
+>
+>- We normalize mistakes.
+>- We know that no one knows everything, especially when they are just starting out.
+>- We treat mistakes as learning opportunities.
+>- We use thoughtful language when offering a correction.
+>- We are accountable and own up to our own mistakes.
+>- For recurring mistakes, we arrange additional training and escalate to a supervisor as necessary.
+>- We give kudos to someone who has corrected a prior mistake.
 
 >_[GureckisLab_2026](https://todd.gureckislab.org/2026/03/06/genaipolicy)_:
 >

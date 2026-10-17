@@ -21,6 +21,12 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >Personal ambition: Ambitious labs need ambitious people. To encourage this we set concrete goals that are challenging but not impossible to obtain (e.g. publish a first author paper, win a poster award, learn a new technique, get a faculty position) and support one another as we work towards them. We encourage one another to ‘dream big’ and to make the transition from calling oneself a student to calling oneself a scientist, colleague and mentor. We acknowledge that a PhD is not a ticket to a faculty position or a life in academia but rather a degree in leadership that can be used in government, industry, teaching, law, medicine, and on occasion, academia. As such everyone in the lab must reflect on what they want from their career and actively work to obtain the skills they need to get there.
 
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/Basics/labActivities.md)_:
+>
+>Office hours are times where students can drop in and talk to Dr. Xiao about their progress on their study, any challenges they may be having, share successes, or discuss career and research topics.
+>
+>Office hours are in place of lab meetings. There will be multiple times available to accommodate student schedules. Office hours will be available the last week of each month, with several drop-in times available.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -149,6 +155,11 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >- Provide opportunities for regular one-to-one meetings with each trainee, including regular in-depth discussion about career goals and strategies for achieving them.
 >- Encourage trainees to apply for funding and train them on grantsmanship.
 >- Be timely and constructive in providing feedback.
+
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>- Submit a progress report every 1-2 months using the lab report template. It is your responsibility to do so and request feedback.
+>- Outline an Individualized career Development Plan (IDP), set goals for your career development, and meet with me every 6 months to discuss progress towards goals.
 
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd)_:
 >

@@ -663,6 +663,13 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Once you start on a project, I will assign you a research subgroup, and you should plan to attend the weekly subgroup meetings for that group. You must present at least one slide about what you did in the past week, and at least one slide on what your goals for the next week are.
 
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>- Be on time for meetings. If you are the person presenting, show up 10-15 minutes early to set everything up. Respect that others have packed days and everyone’s time is valuable.
+>- Being late and missing meetings is not tolerated. I will keep track of when these things happen and bring it to your attention (and eventually HR) if it happens too often.
+>
+>Occasionally, we may have joint laboratory meetings with other faculty in the department – these may be combined with our weekly laboratory meeting or an additional meeting. The expectation is that you will go to those meetings and be an active participant. Texting for fun, checking e-mail or other social media while your colleagues are presenting their work is unprofessional and won’t be tolerated.
+
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b680639ce4eaa7e6939670)_:
 >
 >Lab meetings (~1 hour) are scheduled at the same time every week during the semester and are held in person in Lutz 440. Lab meetings are usually the only time all of us are gathered in person, so it’s our weekly chance to connect with and learn from each other—and grow as a lab community.

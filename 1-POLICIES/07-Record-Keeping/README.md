@@ -14,6 +14,24 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 
 ## Examples
 
+### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/06-data-analysis-and-code-practices.md)_:
+>
+>**What goes on GitHub, and what never does**
+>
+>Code goes on GitHub. **Raw or identifiable participant data never does — not even in a private repo.** GitHub is not an approved storage location for participant data under UNSW's data classification rules (see Data Access & Management); a repo being private doesn't change that. In practice:
+>
+>- Scripts should read data from its actual location on OneDrive/SharePoint (or wherever the project's approved storage lives), referenced by a relative path, not a hardcoded path to a specific person's laptop.
+>- Add a `.gitignore` that explicitly excludes data folders, so a stray `git add .` can't accidentally commit a CSV full of participant responses. The lab manager can provide a standard `.gitignore` template — use it as your starting point for every new repo.
+>- If a repo genuinely needs example data to run (e.g., so someone else can test the pipeline), use a small simulated or fully de-identified synthetic dataset built for that purpose, clearly labelled as such.
+>- If you're ever unsure whether something is safe to commit, ask before pushing, not after.
+>
+>**Reproducibility mechanics**
+>
+>- Set a seed explicitly (`set.seed()`) anywhere randomness is involved (bootstrapping, permutation tests, train/test splits), and note why that seed and not another, if it matters.
+>- Record the analysis environment: run `sessioninfo::session_info()` at the end of your analysis and save the output alongside your results, so package versions are documented. For larger or long-running projects, use [`renv`](https://rstudio.github.io/renv/) to lock package versions for the whole project.
+>- Scripts should regenerate figures and tables from raw data through to the final output. If a figure in a paper was hand-edited after being exported from R, that's a red flag — the pipeline should produce the reportable output directly, or the manual edit should be documented and justified.
+
 ### Austria
 >_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
 >
@@ -262,6 +280,20 @@ Accurate, consistent, and accessible records are essential for reproducibility, 
 >_[BarberLab_2026](https://www.annikabarberlab.com/barber-lab-manual)_:
 >
 >You are expected to catch up on your lab notebook at least biweekly, and we may consult notebooks during individual or project group meetings. Your ELN is for documenting daily work. Each day you work in lab should have some note of what you did that day. You should plan fly crosses in your notebook, document genotyping gel results, blots, etc. If you prefer writing things out on paper, you may use your paper lab notebook and include a photo in your ELN with a short description for searchability–this is easily accomplished using the smartphone app. All raw data is stored on the Waksman Share Drive (see separate section) – only metadata, representative data and summary plots need to be in your ELN. The file path to raw data must be noted in your ELN for every experiment that generates data files, and metadata must also be stored with raw data (in addition to being in your ELN).
+
+>_[BenjaminChungLab_2026](https://jadebc.github.io/lab-manual/checklists.html)_:
+>
+>- Does the script run without errors?
+>- Is code self-contained within repo and/or associated Box folder?
+>- Is all commented out code / remarks removed?
+>- Does the header accurately describe the process completed in the script?
+>- Are file paths relative (using here()) rather than absolute?
+>- Are assertions present after merges, filters, and key variable creation steps?
+>- Do unit tests pass (testthat::test_dir('9-tests'))?
+>- Are random seeds set where relevant?
+>- Is the script pushed to its github repository?
+>- Does the code adhere to the coding style guide?
+>- Are all warnings ignorable? Should any warnings be intentionally suppressed or addressed?
 
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/data-management/)_:
 >

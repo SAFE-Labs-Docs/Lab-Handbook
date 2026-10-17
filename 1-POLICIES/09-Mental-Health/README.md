@@ -14,6 +14,12 @@ Thankfully, awareness and support for mental health issues within work environme
 
 ## Examples
 
+### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>- If you are struggling with health and/or unhappiness, or you see someone else struggling, please come and see me (Bridget). Everyone goes through rough patches, and we want to help each other out. UNSW also has free, confidential support: the [Psychology & Wellness Service](https://www.unsw.edu.au/student/support/health-wellbeing/mental-health/counselling) for students, and the [Employee Assistance Program](https://www.wellbeing.unsw.edu.au/eap) (via Converge International) for staff and their immediate family, which is free and available any time.
+>- Have a life outside of the lab, take care of your mental and physical health, and don't ever feel bad for taking time off work — and don't make others feel bad for doing that either.
+
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >

@@ -33,6 +33,14 @@ A clear onboarding process should not only ensure that lab members complete esse
 > 5. Add yourself to eligible list of RISe researchers by following the Self-Registering steps at: [RISe Access](https://www.rise.ubc.ca/access-rise). Once an account is created, new users will receive their researcher numbers via email.
 > 6. Once your RISe account is created, let Hyosub know so he can add you to our study protocols.
 
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/labMembers/newMembers.md)_:
+>
+>**ASK QUESTIONS!**
+>
+>We want you to understand everything that you are doing and why you are doing it. This way, you will be far less likely to make errors you don't even know you're making, and you will be far more able to help us modify and improve our procedures. This is meant to be a valuable research experience. You will both want and need to understand all facets of the lab. Do not be afraid of this lab manual and training! It may seem like there are at least 8 million things to learn.
+>
+>The important thing is that you **ASK QUESTIONS!** Don't nod and say "Uh-huh" if you truly have no idea what we are explaining to you; we could easily be conveying something in a confusing manner. Do not hesitate to ask if we can go over something for the billionth time. It is always better to ask than to assume. You'll be thankful later, and so will we!
+
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
 >
 >At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:
@@ -49,6 +57,18 @@ A clear onboarding process should not only ensure that lab members complete esse
 >* Expectations to apply for external funding; and,
 >* Responsibility for research ethics.
 >In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.
+
+### Denmark
+>_[NERDS-ITU_2026](https://github.com/NERDSITU/research-resources/blob/main/phdreading.md)_:
+>
+>**PhD reading recommendations**
+>
+>* [The importance of stupidity in scientific research [pdf]](https://journals.biologists.com/jcs/article-pdf/121/11/1771/1372198/1771.pdf)
+>* [Managing your mental health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2)
+>* [The Good Research Code Handbook](https://goodresearch.dev/)
+>* Writing Science by Joshua Schimel ([Amazon link](https://www.amazon.de/-/en/gp/product/0199760241/), or ask Michael to borrow the book)
+>* [The Craft of Scientific Presentations by Michael Alley](https://link.springer.com/book/10.1007/978-1-4419-8279-7), with: [Slides](https://github.com/NERDSITU/research-resources/blob/main/designingslides/designingtechnicalpresentations.pdf), [Checklist](https://github.com/NERDSITU/research-resources/blob/main/designingslides/checklistslides.pdf). Videos: [www.assertion-evidence.com](https://www.assertion-evidence.com/)
+>* Papers papers papers. Read the classics first, but also stay updated for example via arxiv or social media. Learn [how to read papers [pdf]](https://web.stanford.edu/class/cs114/reading-keshav.pdf). Usually you do not want to read and understand everything in detail, but by the end of your PhD you should have an idea of the main findings and the context of at least a few 100 papers from first or second pass reading (and have done third pass readings of some dozen most relevant papers for your topic).
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -271,6 +291,20 @@ A clear onboarding process should not only ensure that lab members complete esse
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >A complete and frequently updated onboarding checklist is on the lab wiki.
+
+>_[BenjaminChungLab_2026](https://jadebc.github.io/lab-manual/getting-started.html)_:
+>
+>When you join the lab and are assigned to a project, here is roughly what your first week of setup looks like:
+>
+>- Install R, RStudio, and GitHub Desktop. Configure RStudio as described above.
+>- Create a GitHub account and get added to the lab organization.
+>- Clone the project repository using GitHub Desktop.
+>- Open the .Rproj file in RStudio.
+>- Run renv::restore() to install the correct package versions (see Reproducible environments).
+>- Get access to the project’s Box folder and set up your local Box sync so that data paths in the config file work.
+>- Try running the project’s main bash script or a single analysis script to make sure everything is set up correctly.
+>
+>If something doesn’t work, that is normal — environment setup is often the hardest part. Ask a current lab member for help before spending hours debugging on your own.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >

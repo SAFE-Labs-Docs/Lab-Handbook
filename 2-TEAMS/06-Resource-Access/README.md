@@ -157,9 +157,19 @@ Most lab members will quickly recognize any disparities of time and resource inv
 >
 >As a general policy, assignment of desk space is based on seniority. As space opens up, I reach out to those who have been here the longest to offer them the option to move their space. Other lab spaces are shared, and I ask that you not store personal belongings (bikes, equipment, plants, etc) in the lab, unless you can place them at your desk.
 
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>Funding for the laboratory currently comes from a mix of state funds from WSU, NIH and private foundations. If you need to buy something, please work with our lab manager. If it costs more than $1000, you need to bring it up to me for approval and why it is the best option. At some point, you will likely be asked to provide figures for a grant I am writing, and/or provide feedback on the grant. Relatedly, you can ask to read grants I have submitted. Aside from being a good opportunity to learn how grants are written, this will also allow you to see our vision for the laboratory in the years ahead. Feel free to ask me to see any of my grants.
+
 >_[SchumerLab_2026](https://schumerlab.com/lab-values-and-expectations/)_:
 >
 >It is also my responsibility to fund the lab and make sure advancing your career is not a financial burden to you. In particular, you are not expected to pay for society memberships, living (food, lodging, etc) or travel costs for field work or scientific conferences (see details in the lab handbook).
+
+>_[ShireyLab_2026](https://www.floridamuseum.ufl.edu/shirey-lab/lab-culture-conduct)_:
+>
+>All lab members are expected to adhere to collections use guidelines and policies set forth by the curators and collection managers. Please remember that many people and animals died in the pursuit of creating this resource for us to use for our science and that respectful engagement with the collection material is paramount.
+>
+>Any internal destructive sampling requests or requests that necessitate material being removed from the main collection rooms for over 24 hours must be pre-registered with McGuire curators and collection managers and properly treated prior to reintegration into the main collection.
 
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Misc.html)_:
 >

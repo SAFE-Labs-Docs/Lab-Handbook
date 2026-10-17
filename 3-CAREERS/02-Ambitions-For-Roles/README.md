@@ -15,6 +15,19 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 
 ## Examples
 
+### Australia
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>**Pathways to RAship**
+>
+>- Major and research interest
+>- Time commitment: 10 hours per week
+>- Must be able to work after-hours and weekends
+>- Interested in a long-term commitment (12 months minimum)
+>- Second/third-year undergraduate (preferred)
+>- Relevant skill and experience
+>- Special consideration for: (1) transfer/articulation students, (2) students with fewer opportunities
+
 ### Canada
 >_Anonymous lab_:
 >
@@ -39,6 +52,17 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
 >
 >I expect MSc students to lead-author at least one significant manuscript from their thesis work, though students have sometimes produced two or more. The primary manuscript should be submitted to a peer-reviewed scientific journal prior to the thesis defense. PhD students should lead-author at least three significant manuscripts from their thesis work. At least two should be accepted or published before the thesis defense, with a third submitted or close to submission. Submitting a paper is a big achievement worthy of celebration. Students will receive a $1000 bonus for each independent manuscript submitted to an international peer-reviewed scientific journal. I commit to paying page charges/article processing charges (APCs) (often $2500-$4000 per published paper) for our work done together at SFU, even if it is published after the lead author has moved on.
+
+### Denmark
+>_[NERDS-ITU_2026](https://nerds.itu.dk/students/)_:
+>
+>- We provide dedicated supervision with regular meetings
+>- We care about wellbeing
+>- We guide you as best as we can but expect you to be proactive and communicate issues early
+>- We provide a social space happy to facilitate connecting all our students. Socialize with your peers – they are an important resource!
+>- We can provide work/meeting space: Slack, and physical space/tables
+>- We encourage you to take part in our regular seminars with guest speakers
+>- If we see the potential and dedication for it from your side, we are happy to develop projects together into scientific papers
 
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
@@ -221,6 +245,17 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >- Be proactive about asking for the help they need to succeed.
 >- Do the very best work they can and be aware and communicative of what they need to be happy, fulfilled, and successful.
 
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>**Post-Docs**
+>
+>- Develop your own independent line of research and have open discussions about overlaps with the lab research program.
+>- Help train and mentor students in the laboratory when they need it – either because they ask, or because I ask you to.
+>- Present your work at departmental events, at other labs (if invited), and at conferences.
+>- Apply for grants (e.g., NRSA, K01, K99). Though I will only hire you if I can support you for at least two years, it’s in your best interest to get experience writing grants – and if you get them, you’ll be helping out the entire laboratory as well as yourself (because you’ll free up funds previously allocated to you).
+>- Apply for jobs (academic or otherwise) when you’re ready (with at least 2 publications from the lab), but no later than the beginning of your 4th year of post-doc. If you think you’d like to leave academia, that’s completely ok – but you should still treat your post-doc seriously and talk to me about how to best train for a job outside academia.
+>- Challenge me (Lucia) when I’m wrong or when your opinion is different and treat the rest of the laboratory to your unique expertise.
+
 >_[RaredonLab_2026](https://raredonlab.github.io/General-Lab-Manual/03-expectations.html)_:
 >
 >A graduate student who has done well leaves with at least two first-author publications: one a review or methods paper written in the early years, and one an original research paper. The ideal is one paper per aim, meaning three research papers alongside the initial review or methods article.
@@ -240,6 +275,22 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >I will do my best to direct you along a project that is capable of generating 3 papers that belong together in a thesis (graduate students), 1 paper a year (postdocs), and liberally offer authorship to research staff.
+
+>_[ShireyLab_2026](https://www.floridamuseum.ufl.edu/shirey-lab/lab-culture-conduct)_:
+>
+>**Expectations of the PI**
+>
+>My primary responsibility is to support you in achieving your desired professional goals. I will do so by meeting with you regularly (typically bi-weekly for postdocs and graduate students), by introducing you to potential collaborators, and by helping you troubleshoot technical or other issues that might arise during your research.
+>
+>My job requires me to issue constructive criticism of your work. While direct at times, my interest is in ensuring that you are producing the best quality work during your time in the lab.
+>
+>**Expectations of Postdoctoral Researchers**
+>
+>Postdoctoral researchers occupy the unique role of being both mentors and mentees in the lab. My expectation of postdoctoral researchers is that you are producing high-quality and impactful research outputs that set you up to land a permanent position in the career of your choosing. At this career stage, you should feel comfortable leading independent work and coordinating research objectives in a timely manner.
+>
+>**Expectations of Graduate Students**
+>
+>Graduate students are the lifeblood of the research enterprise. I expect graduate students in my lab to come prepared to meetings, to demonstrate independence, and to ask for help when needed. My job is to guide you through the research process from start to finish and to provide a safety net for when things don’t go as planned. In general, I expect you to work towards making the collection and our lab a welcoming and collaborative environment as well as completing the academic and research requirements set forth by your particular program.
 
 >_[SHUTTLELab_2026](https://shuttlelab.engin.umich.edu/lab-member-expectations/)_:
 >

@@ -37,6 +37,34 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- Keep the group updated on your progress and the projects that you’re working on
 >- Ensure all data generated (lab notebooks, data files, r-code, manuscripts) are neat (legible for lab notebooks), organized, and properly backed up
 
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/labMembers/newMembers.md)_:
+>
+>The lab is a place for all individuals to feel safe and welcome. This is important for all members of our lab as well as our participants.
+>
+>Please help us ensure that our environment is safe and accepting of all. No discrimination or harassment based on gender, sexual orientation, disability, race, religion, age, physical appearance, etc. will be tolerated.
+>
+>Please ensure that you speak professionally and respectfully (avoid inappropriate language) when in the lab, regardless of whether participants are present or not.
+>
+>If you are taking any photos or videos in the lab, please ensure that you have the consent of all parties involved. This is especially important if you intend to post any of these pictures online.
+>
+>Please be respectful of all others working in the lab at the same time as you, as it is a shared space.
+>
+>This is a safe space for all of us to learn! All opinions and thoughts from volunteers, research students, and assistants are valued.
+>
+>If you have any concerns about your safety or the safety of others in the lab, please reach out to Dr. Xiao or the Psychology HR department immediately.
+
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/basics/basicRules.md)_:
+>
+>- Keep lab doors closed when not in use.
+>- Never bring people who are not lab members into the lab (friends, classmates, family members, etc.).
+>- Only access the lab when you need to for research purposes. No one should be accessing the lab outside of working hours or days if it is not required.
+
+>_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/Basics/labEtiquette.md)_:
+>
+>**Phone Use**
+>
+>No phone use when children are in the lab. Some parents are very aware of the behavior that is being modeled in front of their kids, so we don't want to model a behavior that may be inconsistent with views on phone use. Also, it's unprofessional.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -196,11 +224,55 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 > including both personal spaces (e.g. desks) and shared
 > areas (couch, sink, testing rooms, etc.).
 
+>_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
+>
+>These are the standards we expect of ourselves and of one another:
+>
+>- Everyone’s role is important, so everyone should be treated with equal respect.
+>- Diversity in our team is positive and should be embraced. Performance is better with diverse teams.
+>- We all have a responsibility to make the lab a better place for others.
+>- Research in our lab is a non-zero-sum game, so we can all win.
+>- We strive to work collaboratively and for each other’s benefit, leveraging our individual strengths.
+>- We strive to keep an open mind about others, knowing that our impressions of them will change as we come to know them better, and that others can change and improve.
+>- We strive to manage transitions well, knowing that frustration and conflict can arise when teams and projects change.
+>- We give one another the benefit of the doubt and avoid making comparisons between people.
+>- It is often more difficult to be respectful of others in a digital environment. We respect others on Slack and other digital platforms. We always consider: would we be comfortable with this information becoming public?
+>- We know it’s natural that one’s level of friendship with different lab members will vary; regardless of those differences, we strive for an attitude of kindness, warmth, and mutual respect.
+>- Everyone should feel comfortable and included in joining any conversation or gathering within the lab.
+
 >_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
 >
 >Respect must be shown to all others at all times. The lab will not tolerate hurtful or disrespectful speech or behavior of any kind. No member shall feel harassed because of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
 >
 >Research is an inherently changing process - we are *all* learning at all times. It is the duty of members of the lab of every level to create and maintain a supportive lab and learning culture. All members are expected encourage and entertain questions from anyone, no matter what prior you bring to the question or the person.
+
+>_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
+>
+>**Communication tactics**
+>
+>1. Assume good faith when communicating, including reception of critiques and comments.
+>2. Be prepared and willing to apologize after hurtful actions, even if those actions were unintentional.
+>3. Listen to others’ ideas and opinions openly; be understanding and learn together.
+>
+>**Be respectful of others’ values:**
+>
+>1. Promote a safe and accepting learning environment for all.
+>2. Ensure everyone has equal opportunity for adding to discussions.
+>3. Do not interrupt others when they are speaking, especially repeatedly and intentionally.
+>4. Refrain from discrimination, harassment, sexism, racism, and exclusionary or defamatory remarks.
+>5. Be kind, considerate and accommodating of people’s disabilities.
+>6. Do not share personal information (including personal expression and identity) of anyone without their consent, except in circumstances where withholding this information would create an unsafe environment for others.
+
+>_[LohmannLab_2026](https://web.uri.edu/gso/wp-content/uploads/sites/916/Code-of-Conduct_Lohmann-Lab2.pdf)_:
+>
+>- All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
+>- Be kind to others. Do not insult or put down other contributors.
+>- Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+>- Lab members are expected to report and/or intervene in the event of behaviour in violation of this code of conduct.
+>  - Concerned parties will face no repercussions when reporting superiors for misconduct and accommodations will be made to address any problems
+>- Welcoming of differences. Tolerance means recognizing that our diversity is a strength — a wellspring of creativity and renewal for all members.
+>
+>Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, language, and culture, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
 >_[McMahonLab_2026](https://mcmahonlab.wisc.edu/lab-mission/)_:
 >

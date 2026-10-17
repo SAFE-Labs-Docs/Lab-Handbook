@@ -279,6 +279,10 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >It is useful to have a core, fixed set of questions or topics to discuss with different candidates.
 >This doesn't mean the conversation can't wander, but it promotes fair comparisons.
 
+>_[DossGollinLab_2026](https://dossgollin-lab.github.io/joinus/phd.html)_:
+>
+>If there’s good alignment based on your submission, I’ll send a few papers that give a sense of what the group does. Read them and tell me what you thought: what caught your attention, what you’d want to do differently, what you didn’t follow. I’m not asking whether you can summarize a paper – AI tools do that well. I want to know what you’re excited about and how you think.
+
 >_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
 >
 >To ensure equality and fairness, most lab members will participate in the recruitment and hiring process of new lab members. At least two members of the lab will participate in the hiring process with our PI, but all members of the lab will get the opportunity to share feedback about prospective members.

@@ -16,6 +16,23 @@ A PhD steering committee provides independent oversight of PhD student progress 
 
 ## Examples
 
+### Australia
+
+>_[SMCCLab_2026](https://smcclab.github.io/milestones/)_:
+>
+>You must provide the Thesis Proposal to your CRP at least **10 working days** before the oral presentation.
+>
+>Presentation
+>
+>The presentation is based on your written Thesis Proposal and should be:
+>
+>- **40–60 minutes** in length with **20 minutes for discussion**
+>- Open to all members of the SMCClab, and advertised internally (and optionally the public)
+>- Scheduled in a public seminar room and advertised on School/Cluster mailing lists
+>- Attended by all supervisors (in-person is expected for ANU staff or affiliated supervisors)
+>- The presentation should be 50% situating your research problem, and 50% on your progress so far.
+>- The main question to answer: "What is this research problem and why is it worth investigating?"
+
 ### Canada
 >_[TemporalEcologyLab_2026](https://github.com/temporalecologylab/labgit/blob/master/expectations/gradstudents/tempeco_timelines.tex)_:
 >

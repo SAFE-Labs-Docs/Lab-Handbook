@@ -190,6 +190,11 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >It is generally expected that students pursuing a doctoral degree will author three first-author journal papers (i.e. three dissertation chapters) and for postdocs, the general expectation is one publication a year stemming from your postdoc research. Importantly, this number is dependent on the scientist, the publication/review process, and overall career goals of the scientist.
 
+>_[DeAngelisLab_2026](https://kristendeangelis.net/expectations/)_:
+>
+>Expectations of Post-Docs  
+>Post-Docs should be interested in mentoring all levels of students, and able to do this while doing the most brilliant science imaginable. They are expected to be collaborators in the grant writing and reviewing process, and submitting grants of their own. Despite the high level of collaboration, the post-doc should be independent and able to work alone. I will commit to helping postdocs realize a vision of your own science, and assist with any material needs or otherwise that will achieve that goal. I expect postdocs to help me to improve myself as a PI. Some postdocs might want to begin to develop a project that they will take with them when they leave. We should talk about this as early as possible, to make clear what time, materials and resources are available to you. I am also happy to help or advise in grant writing for independent projects.  
+
 >_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
 >
 >Given that the PhD signifies capability to independently conduct independent research, it is expected that students have completed the full paper publication process prior to graduation. (All students from this research group have had at least one chapter in print and at least one more submitted at the time of the dissertation defense, and more than half have had at least three chapters in print.)

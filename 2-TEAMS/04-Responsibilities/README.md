@@ -33,6 +33,27 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- Maintain the lab website and wiki, update the lab manual, add lab events to shared calendars, manage the lab's shared drive, and check and respond to the lab's shared email/inbox.
 >- Give new lab members access to the wiki, GitHub, shared calendars, and add their experiments to the shared drive.
 
+>_[SMCCLab_2026](https://smcclab.github.io/honsproj/)_:
+>
+>As a student you can expect the following:
+>
+>- individual meetings when needed (but not every week)
+>- lab meetings to show what you have done and hear about others' work
+>- access to important information and materials (but not necessarily huge GPUs)
+>- feedback on your project plan and implementation
+>- feedback on thesis/report drafts in **5 business days**
+>- questions answered in **1 business day** (during work hours only)
+>- realistic feedback about quality of written work and software/hardware artefacts
+>- help and kindness when things go wrong
+>
+>As a supervisor I expect:
+>
+>- students to show up to scheduled meetings
+>- students to take planning seriously
+>- students to help each other and share information
+>- draft thesis/reports to be sent 2 weeks before any deadline
+>- patience when asking questions or sending emails out of business hours
+
 ### Brazil
 >_[CompGeoLab_2026](https://www.compgeolab.org/manual/expectations.html)_:
 >
@@ -249,6 +270,13 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- We build in flexibility, understanding that unanticipated things will come up.
 >- We hold regular check-ins so that troubleshooting happens together rather than alone.
 >- We shift roles as needed, keeping the workload balanced and avoiding overloading any one person.
+
+>_[DeAngelisLab_2026](https://kristendeangelis.net/expectations/)_:
+>
+>Lab citizenship. The lab is a shared environment. It is up to everyone to keep it clean and tidy, to take responsibility for and to communicate safety issues, left dirty dishes etc. We take care of our lab through rotating lab chores, and have training documents to help orient new members to these tasks. Sharing is encouraged, and members should replace lab stocks when they finish or nearly finish them, or let someone know about dwindling resources. Everyone is also responsible for communicating about material needs as far in advance as possible – this degree of organization will make you a better scientist.  
+>
+>Expectations of Kristen  
+>My goal is to improve our understanding of the world through our science, and to do it in the most personally and professionally sustainable way possible. I expect you to do as I do, which is to work hard but also honor the things that make you happy and productive, and include them in your life also. You can expect me to facilitate your training as a scientist by helping you to choose a project and research direction that will be fulfilling on a day-to-day as well as broad basis. I will do my best to provide, with your help, all the things you need to perform your research. I will read drafts of your grants and applications. I will introduce you to my colleagues and help you to make them your own. I will work with you to get you into the research career path that you set out for yourself. I will commit to this as long as you meet your own expectations, and you can expect me to be honest and supportive of you along the way.  
 
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/lab-manual.html)_:
 >

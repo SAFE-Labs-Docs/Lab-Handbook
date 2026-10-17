@@ -226,6 +226,10 @@ Career progression, grants, and competitive applications often require reference
 >
 >I have worked hard to build my reputation and that of our lab over the years. In this manner, I take my word seriously. In the rare instances where I don't feel comfortable writing a recommendation letter for you, I will email you ASAP and set up a meeting to discuss my concerns and devise a plan to move forward.
 
+>_[VPNL_2026](https://vpnl.stanford.edu/join-lab/lab-expectations-vpnl)_:
+>
+>Letters of recommendation. Letters of recommendations are often required for the next stage of your career. When I write a recommendation letter, it is personal, it describes the work you did in the lab, and highlights your contributions and strengths. So I won’t be able to write about your work in the lab unless you have worked a substantial amount of time in the lab. Because it takes me time to write these letters, I expect you to surface a discussion about a recommendation letter as soon as you know you will need it (a good rule of thumb is a month's notice).
+
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >Students should give Josh two weeks notice before a letter of recommendation is due, should not be shy about reminding him as the deadline approaches..

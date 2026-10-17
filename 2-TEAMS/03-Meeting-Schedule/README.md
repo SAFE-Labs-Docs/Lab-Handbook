@@ -17,6 +17,42 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 ## Examples
 
+### Australia
+
+>_[SMCCLab_2026](https://smcclab.github.io/honsproj/)_:
+>
+>We have three types of meetings in the lab:
+>
+>The weekly status meeting
+>
+>This is a **group** meeting, online, once per week. In each meeting you will be asked three questions:
+>
+>1. What progress have you made?
+>2. What obstacles have you encountered?
+>3. What is your next step?
+>
+>Purpose: (1) to gain an understanding of how everybody in the lab is going with their project, and (2) to determine if anybody requires individual meetings. Status meetings will be _only 30 minutes_ (approx 3 minutes each).
+>
+>On-demand individual meeting (&le; 30 minutes)
+>
+>This is an **individual** meeting, either online or in-person. Book a time through Microsoft Bookings. These will have a specific goal e.g.:
+>
+>- talk about possible solutions to problem X
+>- fix technical issue Y
+>- discuss an ethics protocol
+>- analyse results to an experiment
+>
+>Student and supervisor should know **exactly** what we are going to discuss.
+>
+>Seminars
+>
+>A group meeting for delivering information with relevance to multiple people. Examples:
+>
+>- how to structure a report/thesis in LaTeX
+>- how to apply for an ethics protocol
+>- how to run a user study
+>- research topics in musical machine learning
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
@@ -542,6 +578,10 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >_[DaviesLab_2026](https://sites.bu.edu/davieslab/files/2026/10/Davies_Lab_Mentoring_Compact_2026.pdf)_:
 >
 >A goal of reading one publication per week is a minimum standard and as a lab we will help you meet this goal by running a weekly ‘News’ meeting where you will be expected to briefly present the article you read. Each member of the lab will do the same and this allows us, as a lab, to remain on top of research advances in our field. It is very important that you actually carefully read the publication so that you are confident presenting the article in a meaningful way. This will also help facilitate better science communication skills. If you miss a week, that is excusable; however, if you continue to not present a paper or do so in only a cursory level, we will discuss whatever barriers are preventing your participation.
+
+>_[DeAngelisLab_2026](https://kristendeangelis.net/expectations/)_:
+>
+>Attendance & Participation. All lab members are expected to contribute towards making the lab a fun, safe, intellectual place for scientific discovery. With the freedom to pursue what interests you comes the responsibility of being a committed lab member; this means you show up to lab events, group meetings, and individual meetings prepared and on time. These meetings are mandatory for all lab members except for undergraduate students; if you cannot make an event, it is your responsibility to let me and other lab members know in a timely manner.  
 
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/expectations-gradStudent.html)_:
 >

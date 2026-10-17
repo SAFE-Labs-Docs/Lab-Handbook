@@ -22,6 +22,14 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ## Examples
 
+### Australia
+
+>_[SMCCLab_2026](https://smcclab.github.io/join/)_:
+>
+>We’re only able to accept students who have excellent results in a computing or creative technology degree at the Master or Honours level and who have existing experience in computing for a creative field. Interest in music or art is not enough — experience needs to be clearly demonstrated through projects and (hopefully) publications or a thesis.
+>
+>Competitive PhD applicants should be interested in one of the research areas on our home page and must have experience in computer music (or another creative technology field). We particularly look for students with experience publishing or participating in NIME or other computer music conferences such as SMC, Audio Mostly, ICMC, and CHI or other SIGCHI conferences.
+
 ### Austria
 
 >_[TongGroup_2026](https://github.com/tonggroup/website/tree/main/src/data/join/faq)_:

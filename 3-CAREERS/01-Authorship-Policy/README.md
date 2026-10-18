@@ -288,6 +288,26 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Proofreading, brainstorming, and routine technical help normally earn acknowledgements, not authorship; these are things lab members provide each other without any expectation of authorship.
 
+>_[ByersLab_2026](https://jebyers.ecology.uga.edu/wp-content/uploads/2020/09/Byers-Lab-Handbook.pdf)_:
+>
+>Authorship is an extremely important aspect of every project and should be discussed early and often to minimize misunderstandings. Co-authorship is based on the level of interest, effort, and innovation that contribute to a successful published product. While there are many ways to decide authorship, we generally follow the following guidelines.
+>
+>First, if you could not have completed the project without the help of someone, because they brought to the project a unique and indispensable skill, perspective, or data set then they should be a coauthor.
+>
+>If their role was not unique then a person should be a co-author if they played a significant role in at least three of the five following criteria:
+>
+>a) Formulating the initial idea. This can be very hard to judge so it is best to be generous with these criteria.
+>
+>b) Planning/facilitating the research. May include figuring out how to collect data, outlining a modeling approach, writing/getting grants to fund the work, providing key equipment, etc.
+>
+>c) Doing the research. Includes collecting data, coding a model, or working through tricky math.
+>
+>d) Analyzing the data. May include database manipulations, statistical and graphical analysis, or providing new insights that derive from the results.
+>
+>e) Writing and publishing the results. This could include writing some section(s) of the manuscript, providing extensive editorial comments, etc.
+>
+>All authors should be well versed in the subject matter of the paper. When in doubt, be generous about co-author inclusion. This is especially true when working with undergraduates, lab technicians, and early career scientists.
+
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >The "Passing the Baton" scenario: Imagine Student A starts a project, works on it for two years, and then graduates. Student B picks it up and needs three more years to complete the work. It's like a research relay race where both students have run their laps, and the project crosses the finish line thanks to their combined efforts. In this case, it's crucial to acknowledge and fairly attribute authorship to both students. However, when a student leaves the lab and doesn't continue working on the project, they naturally relinquish control over its direction. This is perfectly fine and sometimes passing the baton is the best career option for all involved.

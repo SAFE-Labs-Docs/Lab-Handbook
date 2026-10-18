@@ -466,6 +466,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >You're encouraged to take vacation throughout the year. Most members take three to four weeks a year, cumulatively. Your formal leave accrual follows your UC Davis appointment and any applicable union contract (see HR). The lab's stance is simple: use your time. If you're not using your time off, we'll probably encourage you to schedule at least a staycation to recharge.
 
+>_[ByersLab_2026](https://jebyers.ecology.uga.edu/wp-content/uploads/2020/09/Byers-Lab-Handbook.pdf)_:
+>
+>Work-Life Balance - Scientific research is target-based, not hour based. If we are producing a constant, evident stream of work, then we are doing it right. We do not believe that our members should sacrifice physical, mental or emotional health to meet progress benchmarks. Having a good work-life balance is essential to our mental health and the accuracy of our science. There may be specific time periods (for example field seasons) where work-life balance is difficult/impossible to maintain. Taking appropriate breaks can enhance the quality of our work, especially if they improve our mental and physical health. We encourage all lab members to maintain healthy interpersonal relationships inside and outside of the lab.
+
 >_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
 >
 >In general, every member of the team (particularly members who are not bound by class schedules anymore) should be actively at work for a duration that includes 11am to 3pm on weekdays, so that each of us will be able to overlap for a significant chunk of the workday while accommodating for individual schedules. (This is not to say you should only work 4 hours a day! And obviously, exceptions apply.) Your consistent presence during those times will lead to interactions and team-building, for the benefit of you and your labmates.

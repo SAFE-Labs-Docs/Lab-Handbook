@@ -448,6 +448,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >• The lab also maintains a Microsoft SharePoint account, which serves as a central cloudbased drive for general shared lab documents. It is accessible through OneDrive and used for materials such as shared scientific resources, meeting slides, onboarding documents, and more. Every new lab member will be shown how to connect to the lab SharePoint during onboarding.
 >• Large files (e.g., sequencing or imaging data) should be stored in S-drive as cold storage at '/Volumes/shared/IID-Le Pen Lab/cold_storage' and properly indexed in the lab’s SharePoint at: ' /General/Data archive/Metadata table.xlsx'.
 
+>_[LiLabPDE_2023](https://pdelab.engr.wisc.edu/wp-content/uploads/sites/153/2023/12/ME_Mentor-Mentee-Expectations-Li-Group.pdf)_:
+>
+>Keep detailed lab notebooks. Documenting what you did, whether it worked, what you would do differently the next time are critical to research progress. This helps future you (or me) remember what past you did, which is critical when writing up papers and your thesis/dissertation. It’s also important to have a running list of interesting research questions for future study. I currently do not have a preference whether this is a traditional paper lab notebook or an electronic lab notebook. My preference would be an electronic lab notebook because (1) much of our work has a computer component to it so it saves time in adding materials to the notebook and (2) they are automatically backed up. These notes can also come in the form of readme text files kept along with the data. Referencing these readme files in a lab notebook entry is a very good way to document your progress.
+
 >_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
 >
 >We use GitHub religiously for hosting and coordinating our research projects. Your code can begin in a private repo but should be released on the Makeability Lab organization, when possible, when your research is published. One exception is Project Sidewalk, which exists as its own GitHub organization.

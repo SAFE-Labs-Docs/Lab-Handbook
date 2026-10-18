@@ -329,6 +329,26 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >Students must be willing to work on multi-disciplinary research projects at the intersection of computational neuroscience and AI. This includes designing human behavioral experiments and collecting human responses, alongside developing computational models of cognitive functions (visual attention, eye movements, visual perception, memory, context reasoning, and multi-agent decision making). Check out our publication site for representative works. Email me your CV and research statement if you are interested.
 
+### South Africa
+
+>_[RAILLab_2026](https://www.raillab.org/join/)_:
+>
+>As a next step, read some of our published work. Is there anything that particularly grabs your interest? What do you like about any of them? What do you dislike? Is there anything you would like to change, improve or do differently? Let us know exactly what you want to invest your time in!
+>
+>Once you’ve done that, fill out the application form by clicking on the link below:
+>
+>- Open Application Form
+>
+>Please complete the form to the best of your ability, since places are limited and acceptance to the lab is competitive.
+>
+>Procedure and deadlines
+>
+>Admission to the lab will follow a two-stage process. After an initial review, applicants will be shortlisted and contacted to arrange online interviews. All final decisions will be made at the conclusion of these interviews. Please see the table below indicating the closing deadlines for applications, as well as the dates you can expect to hear back from us.
+>
+>- Application closing date: 22 October 2026
+>- Shortlist notification date: 29 October 2026
+>- Final notification date: 5 November 2026
+
 ### South Korea
 
 >_[DLILab_2026](https://dli.yonsei.ac.kr/apply)_:

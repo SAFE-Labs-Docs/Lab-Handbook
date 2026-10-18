@@ -778,6 +778,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >• Regular check-ins: The PI commits to regular one-on-one meetings (biweekly with students, monthly with staff and postdocs) and expects lab members to come prepared to discuss progress and concerns. These meetings are led by the lab member and are meant to encourage strategic thinking about ongoing and future work. Even when there’s little new data to show, it’s valuable to reflect on behind-the-scenes efforts, ideas in development, or challenges encountered. Using slides to structure the discussion is encouraged. The PI also welcomes feedback from lab members during these meetings to improve the lab experience.
 
+>_[LiLabPDE_2023](https://pdelab.engr.wisc.edu/wp-content/uploads/sites/153/2023/12/ME_Mentor-Mentee-Expectations-Li-Group.pdf)_:
+>
+>If you initiate the meeting, then please send a calendar request to all who are expected to attend the meeting. Please include in this request, a written agenda that includes: (1) your accomplishments since the last meeting, (2) the questions/challenges would you like to discuss, and (3) your planned next steps. We have group meetings weekly during the semester and weekly/bi-weekly outside of the semester. You will be expected to present either a research update or a journal club at the group meeting periodically.
+
 >_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
 >
 >### **Regular lab meetings**

@@ -279,6 +279,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >I also involve students in reviewing journal papers that I often get asked to review. I also involve students in my grant proposal writing — this will involve some boring work (formatting!) as well as intellectually demanding work (putting together ideas, writing some drafts/sections, making figures, etc). On grants that PIs write, there is no scope for acknowledging students in any meaningful way; moreover many students contribute to overall grant directly and indirectly – so acknowledging only specific individuals makes little sense. Therefore, when students contribute substantially, they are encouraged to put the assistance they offer for both peer-review and grant writing on their CV. The grant, if awarded, will help the research being conducted in the lab and not meant to any specific individual.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources)_:
+>
+>You will be assigned one of the planned projects, based on your interests and your background (project assignment will be a joint decision with you). For MSc students it will likely be a behavioral/fMRI study (as iEEG studies take longer than fMRI). PhD students - once you have gained experience in the lab and in scientific thinking, it is a good idea for you to suggest ideas for the next studies. It is not a requirement, and there are plenty of projects in the queue, but it is good practice if you are planning on conducting independent research in the future. Please apply for any relevant fellowships (note you will typically need to apply for these several months in advance). This is both beneficial for your cv and for the lab (as part of your stipend is covered).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -315,6 +321,32 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Is prior knowledge required? No specific prior knowledge is required. In addition to the weekly seminar, students attend a weekly study session after joining the lab, where Prof. Mizuno and senior students provide lectures covering the fundamental knowledge needed for research.
 >
 >Is English proficiency required? English proficiency is not a prerequisite for joining the lab, but it becomes increasingly important as research progresses. Prof. Mizuno provides individual guidance according to each student’s needs and preferences.
+
+>_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
+>
+>1st–2nd Year | Research Experience
+>
+>Start by visiting the laboratory and experiencing research activities. Students who develop a strong interest may also have opportunities to explore actual research topics.
+>
+>- Laboratory visits
+>- Introductory research experience
+>- Exploration of research topics based on individual interests
+>
+>3rd Year | Laboratory Preparation
+>
+>Begin exploring research topics and learn the fundamental knowledge, experimental techniques, and simulation tools needed for research.
+>
+>- Selection of research topics
+>- Fundamental knowledge and technical skills
+>- Training in experiments and data analysis
+>
+>4th Year | Graduation Research
+>
+>Conduct a full research project leading to a graduation thesis and research presentation, with opportunities to continue the work in graduate school.
+>
+>- Independent research project
+>- Graduation thesis and research presentation
+>- Connection to Master’s-level research
 
 ### Netherlands
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
@@ -390,6 +422,22 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Think about what you want for your career (academia – research or teaching, industry, science writing, something else), and talk to Reshanne about it to make sure you're getting the training you need for that career
 >- Make sure you meet all departmental deadlines (e.g., for your progression and thesis) -- and make sure Reshanne is aware of them
 >- Prioritize time for research. Side projects and teaching are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career
+
+>_[WallaceLab_2026](https://ewallace.github.io/manual/lab-jobs)_:
+>
+>In order to share communal equipment and reagents fairly amongst lab members, each person who works in the wet lab is allocated a number of jobs.
+>
+>These jobs are necessary to ensure the lab runs smoothly.
+>
+>Our goal is to ensure that jobs are shared equitably and efficiently; please talk to each other and to Edward about any issues.
+>
+>This page details which jobs each lab member is assigned responsibility for.
+>
+>Most jobs are allocated to more than one person to ensure that jobs are done if someone is away.
+>
+>If you are going to be away or cannot do your lab job for any non-emergency reason, please plan ahead and ask someone else to fill in.
+>
+>Conversely, please be ready to help others when asked, when reasonably possible.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

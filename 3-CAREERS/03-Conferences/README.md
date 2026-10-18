@@ -180,7 +180,21 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >For doctoral students and staff, gaining experience presenting at international conferences is also very important. For that reason, I want you to have the awareness from a young age that you should obtain research funds for travel costs yourself.
 
+>_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
+>
+>Are there opportunities to present research at academic conferences?+
+>
+>Yes. Once meaningful research results have been obtained, students are strongly encouraged to present their work at academic conferences in Japan and abroad.
+>
+>Every year, many of our undergraduate and graduate students attend conferences as part of their research activities. Presentation practice is conducted as part of our laboratory seminars. Preparing a high-quality presentation requires considerable effort, but it is also an excellent opportunity for personal and professional growth.
+
 ### Netherlands
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>We believe conferences, international exchange and collaboration are at the heart of science, and we are committed to facilitate this form of exchange for all lab members.
+>
+>As long as financially feasible, each lab member gets a pre-defined budget allocated for travel and conference costs, that they can spend as they see fit. However, conference attendance is generally conditional on being selected as a presenting author.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >The full document is still under construction, but as an example some snippets are provided here:

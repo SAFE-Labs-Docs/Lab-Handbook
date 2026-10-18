@@ -41,6 +41,14 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >2. If this is not possible, please raise the issue by consulting HGS Conflict Consultation [here](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text).
 >3. If none of the above steps fare appropriate, raise the issue with the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html).
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>If you feel something isn’t working (in the project, in how we work together, with a co-worker, in the lab) - my door is always open. I may not always be able to solve or change the issues you raise, but will do my best to try. And sometimes just discussing them is important.
+>
+>There may be times where you work less than usual due to illness, personal issues or any other reason. This is fine, science is not a 9-17 job, and typically there will be other periods of time when you find yourself working extra hours. But if you see this goes on for a while, talk to me and we can think of ways to improve matters.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -50,6 +58,16 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
 >Horizontal disagreements between lab members may be brought to the PI for mediation. If this does not lead to resolution, HR will be requested to mediate. In disagreements involving the PI, HR will be requested to mediate.
+
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>It is normal to experience friction at some point when working closely with each other, but it is important to address these to maintain a safe and enjoyable environment for everyone.
+>
+>If you have lab or inter-personal issue, the first step should be to address them directly with the person in question. If this does not resolve the issue, and the lab head is not involved in the issue, the issue can be discussed among the three of you.
+>
+>If the issue cannot be resolved internally within lab, or you do not feel comfortable with addressing it internally, you should not hestiate to contact outside support whom you feel comfortable with. This could be one of the social safety officers (Guillaume, Hylkje, Karin), or an independent mentor, or the university wide social safety office.
+>
+>A useful ressource for support at the university level can be found here
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:

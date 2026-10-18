@@ -284,6 +284,14 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >Selection panels typically consist of: The hiring PI/promotor; Other collaborators in the project/supervision team; One junior lab member. The members of interview panels are announced in the job vacancy.
 
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>To minimize bias, while maintaining a productive and lively environment the lab strictly adheres to a well defined hiring pocedure. This will include:
+>
+>- A CV screening
+>- An Hiring Assessment Test probing general logic and reasoning skills, with solutions discussed in a zoom call
+>- A Hiring Day, with onsite presentation of your previous scientific work, an interview with the lab head, talks with all of your prospective colleagues, interviews with other faculty members
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
@@ -313,6 +321,24 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >We are a small group, we share equipment, resources and office space, and frankly we spend more time with each other than with our families: we have to gel as a team. Nobody expects lifelong friendships to emerge (but kudos if they do), however being great co-workers is a must. Therefore, every person who wants to join the lab for a substantial period of time (postgrads, postdocs, long-time visitors) will be interviewed by all lab members.
 
+>_[WallaceLab_2026](https://ewallace.github.io/about.html)_:
+>
+>We welcome specific enquiries from potential PhD students, masters’ students including MSc by Research (M.Res.), and from visiting scientists including ERASMUS.
+>
+>We welcome specific enquiries from prospective Postdocs interested in applying for fellowships to work with us: send an email describing your interests in this lab, and attach a CV.
+>
+>What do we mean by “specific enquiries”?
+>
+>Unfortunately, labs get so many spam-like generic emails about PhD places that generic emails get deleted immediately.
+>
+>Instead, show that you have interest in our specific work, on RNA processing and environmental responses in fungi.
+>
+>The ideal “specific enquiry” email would reference a specific paper we have published, and make some suggestions as to what you want to do next in response.
+>
+>This could take the form of a 1-paragraph outline research proposal, or anything up to a page.
+>
+>Those specific emails get thoughtful replies - just show that you’ve put in some thought in writing to us!
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
@@ -336,6 +362,17 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >_[DossGollinLab_2026](https://dossgollin-lab.github.io/joinus/phd.html)_:
 >
 >If there’s good alignment based on your submission, I’ll send a few papers that give a sense of what the group does. Read them and tell me what you thought: what caught your attention, what you’d want to do differently, what you didn’t follow. I’m not asking whether you can summarize a paper – AI tools do that well. I want to know what you’re excited about and how you think.
+
+>_[KampmannLab_2026](https://kampmannlab.ucsf.edu/join-us)_:
+>
+>Cover letter or email addressing the following points:  
+>What are your goals for your postdoc training?  
+>Why are you interested in the Kampmann lab?  
+>Briefly outline a potential project you would be interested in for your postdoc  
+>What would you contribute to the lab?  
+>Describe your track record of independence and leadership  
+>Your timeline for graduation, paper publications and starting the postdoc position  
+>Contact information (email and phone number) of 3 references. Explain how each reference knows you  
 
 >_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
 >

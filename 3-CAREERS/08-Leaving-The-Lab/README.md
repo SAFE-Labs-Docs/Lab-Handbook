@@ -102,6 +102,18 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >You can work on whatever you want after you leave lab. If you think that it’s too close to some ideas we have already discussed in the lab, it is a good idea to discuss those ideas with me; there may be possibilities for future collaborations. To the extent possible, for PhD students/postdocs who have invested a lot in certain direction of research, my aim is to give them priority on what they want to do next after leaving lab. Some of it may, however, be contingent on expectations from grant proposals that we may have submitted or other ongoing projects of students. So feel free to discuss.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Well in advance, start organizing the data you have in your personal directory. Move everything relevant to the appropriate directories in Lab-Shared, along with detailed READMEs, and delete any files that won’t be needed. When you leave, your home directory should be empty. When organizing the data – give your project a name and within each relevant directory (project documentation, analysis code, etc.) create a sub-directory with the project name and your initials appended at the end. Your full name (and, if possible, a non-huji email) should be in the README so we know who to contact if needed.
+>
+>- Leave the lab Slack and Zotero (ask Aya about this).
+>- If you have an adobe license in your name – transfer it to someone else in the lab (ask the lab manager about this)
+>- Return the chip to the administration
+>- Get in touch with the lab manager for official termination of the position. There are things that MUST be dealt with on the administrative side, such as updating HR (and potentially signing relevant forms).
+>- If you are on the ERC budget, make sure you have properly filled all the ERC timesheets (if you are unsure how to verify you have done this, check with the lab manager).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -123,6 +135,10 @@ I understand that people decide to leave the lab for different reasons, and may 
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
 >Please archive all your ongoing work as described in Section 13. We will schedule an exit interview on your last day (or before, if necessary).
+
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>We support initiating continous career planning. Application for grants, or future job positions is ideally restricted to the last 9 months of the contract, and should not exceed ~20% of your total workload. In cases where more time or effort is necessary we will evlaute the situation in 1-on-1 discussions.
 
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >

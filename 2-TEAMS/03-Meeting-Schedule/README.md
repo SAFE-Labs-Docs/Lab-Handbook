@@ -208,6 +208,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Seek regular meetings with me on progress towards each of these.
 >- Frequency of meetings varies a lot from student to student. Once a week is strongly recommended. Not every meeting need to be long; even 5-10 minute meetings are fine. If you haven’t met with goals, progress and plan for more than a month — do it now!
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Meeting frequency: As a thumb rule, there will be weekly meetings with PhD students, biweekly meetings (once every two weeks) with MSc students. For BSc students – schedule a meeting whenever you reach a point in the project where you would like guidance on how to proceed / have results to share. For postdocs – when you arrive, we will jointly decide on the format that works best. This is a thumb rule but can be adapted depending on the stage of the project, how busy your current schedule is, etc. In addition – schedule ad hoc meetings whenever needed.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -318,6 +324,24 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >What are the weekly seminars like? Seminars are held in person once a week (usually on Friday mornings), with several students presenting their research progress in English or Japanese. Prof. Mizuno and senior students also give lectures on research methods and the fundamentals of optical technologies. Conference presentation practice is sometimes included as well. All students are expected to participate actively in discussions and share their opinions.
 
+>_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
+>
+>How are laboratory meetings and research supervision organized?+
+>
+>During the research preparation period (e.g., the latter half of the fall semester in the third year and the spring semester in the fourth year):
+>
+>Students give progress presentations approximately once a week. Faculty members also provide lectures on how to conduct research and on the fundamentals of MEMS technology. These meetings involve active discussions in which all students are encouraged to participate.
+>
+>We also hold a weekly journal and book reading seminar, where students freely discuss relevant technologies and research topics.
+>
+>After full-scale research begins:
+>
+>Meetings are arranged flexibly according to research progress. Rather than always meeting as an entire laboratory, discussions are more often held within individual research teams or project groups.
+>
+>Communication:
+>
+>To reduce unnecessary email exchanges, both group-wide and individual communication is mainly handled through Slack. Online meetings are also used regularly.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
@@ -326,6 +350,19 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[LifespanCognitiveDynamicsLab_2026](https://lifespancognitivedynamics.com/papers/LifespanCognitiveDynamics_LabManual.pdf)_:
 >
 >Every lab member, from RA to PI, will have admin jobs they should have done last week but never get round to. During Eat The Frog sessions (usually 14-15 on Thursday) we sit together in one space and (only!) work on these tasks, writing what you will finish on the whiteboard at the start. Some examples include updating your CV, filling out paperwork, updating an online profile or finishing the references in your paper. Use this hour productively so that these endless small tasks don’t affect you the rest of your week.
+
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>Lab Meeting: Every Tuesday from 12:00 - 13:30. Each week one person (rotating, including lab head) presents their research progress in full. On top of that everyone presents if they have something to share (think experimental successes or failures, practical problems, new insights, suprising discoveries...). Lab organization will also be discussed during the meeting. Everyone is expected to join whenever possible.
+>
+>- 1-on-1 Meetings: Every second week with PhDs/PD, 1-on-2 meetings with MSc, 1-on-1 meetings typically take 1 hour and it is upon the PhD/PD/MSc to set the agenda.
+>- Check-in calls (PhDs/PDs only): Twice per week, Monday + Thursday, at 10:00. We discuss short term research planning and lab organization. PhDs/PDs are expected to join if not too inconvenient.
+>- Half-yearly Feedback Meetings (PhDs/PDs only): To discuss performance of the lab member and supervisor, lab life and well-being, to be organized by the PhD/PD.
+>- Journal Club: Without PI, whenever you read a paper that you found useful or insightful, post in the Journal Club channel, and present next week in the Journal Club timeslot.
+>- Social Activites: We regularly do social outings, to welcome new members, send off members, celebrate successes or the one single day of sunshine in the Netherlands. Everyone is invited to join, but social activities are never compulsory. By default lab activities are meant for lab members. At select occasions we will invite friends of the lab.
+>- Lab Retreat / Working Days: We try to have a lab retreat or working days once every 1-2 years. These activities should be for the lab, so each lab member should feel empowered to shape them as they want. If anyone feels uncomfortable with any social activites, we will always try to accommodate and replan.
+>- Strategy Day: Once a year (around July) to discuss the lab's cohesive strategic vision and lab life.
+>- Lab Organizational Day: Once a year (around November / December) to sit down together and structure various procedures
 
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
@@ -483,6 +520,27 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Full supervisory meetings (including secondary supervisors) are held monthly (for full-time students) or bi-monthly (for part-time students).
 >
 >For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
+
+>_[WallaceLab_2026](https://ewallace.github.io/manual/meetings-overview)_:
+>
+>The goal of lab meeting is for everyone in the room, including the presenter(s), to learn things that are useful to their work.
+>
+>Lab meetings can include various formats:
+>
+>* One-slide meeting -  everyone presents one slide on their recent work, is most common
+>* Research update - led by a single lab member
+>* Standup style - everyone updates with one thing they have done or learned recently, one goal for the next week, one thing they need help on, in at most 5 minutes each. See manual page on standup
+>* Guest presentation from someone outside the lab
+>* Journal clubs - one or more lab members lead discussion of a relevant paper
+>* Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting,
+>
+>We have tried various experiments depending on how big the lab is, what people need, where projects are at. The important thing is to keep conversations and learning going.
+>
+>Currently Edward is organising the lab meeting schedule.
+>
+>The lab meeting schedule is updated on the lab outlook calendar, and discussed every so often on slack or in-person at lab meetings.
+>
+>Please give at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

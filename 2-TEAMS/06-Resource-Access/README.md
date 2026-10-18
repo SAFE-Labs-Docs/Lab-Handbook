@@ -83,10 +83,26 @@ The above policies pertain to communal lab resources. Individuals with their own
 >
 >If you break glassware, order a replacement straight away. Repair what can be repaired. As a rule, all equipment is shared. If for some reason you want to keep a piece of equipment for your own use, this is allowed to a minimal extent.
 
+>_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
+>
+>What are the student and laboratory facilities like?+
+>
+>Student room: Each student is provided with a laptop computer, PC monitor, desk, chair, and other necessary equipment.
+>
+>Laboratory: We have a dedicated laboratory in Excel 3 and also use several shared experimental facilities on campus.
+>
+>If you would like to learn more about our student rooms or laboratory facilities, please feel free to contact Prof. Yamane.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
 >At present, there are no lab resources other than the standard laptop employees receive.
+
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>Scan ressources will be distributed based on project priorites, including end of contract / end of PhD / hard deadlines, etc... For now we do this in good faith communication among each other, but a formal procedure is under consideration.
+>
+>To ensure somewhat equitable spread of attention across projects, we maintain the 1-on-1 meetings. Additionally, at the beginning of each week, the lab head gives a short overview of the workload in this week, and we discuss a rough plan of priorities.
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:

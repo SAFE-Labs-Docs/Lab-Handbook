@@ -65,6 +65,10 @@ NOTE: Some institutions already implement this process (e.g. "PhD Committee"), o
 >
 >This is embedded in policy at Tilburg University. At INSIGHT lab, the PhD committee always consists of at least 3 supervisors.
 
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>Annual Graduate School Meetings should be used for gathering actual scrutiny of your PhD plan and trajectory. We strive to invite a member from TU Delft who is experienced in supervision, and someone, external but familiar with the topic. During this meeting, dedicated attention will be given to soft skills outside of the daily scientific work.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

@@ -162,6 +162,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Official IISc working hours are (approximately) from 8:30 am to 5:30 pm. In our lab, students manage their own work-hours and thus, varies from student to student. In general, I would like that students are available during working hours. Key thing to note is to have substantial overlap with working hours of everyone else (for example, if your work hours are from 7pm to 7am, its a problem but if its from 11 am to 8 pm, its okay!).
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>The working hours are quite flexible, but I do expect lab members to work in the lab during core hours (10-15), so that there will be overlap between people. Nothing beats turning to the person sitting next to you when you need advice. Working remotely should be limited to at most once a week, but let me know if you have specific circumstances that require working remotely a larger proportion of the time. The number of weekly hours can naturally vary from week to week, especially for students taking courses. This is fine, but please aim on average for the number of pre-agreed weekly hours. Students for advanced degrees and postdoctoral fellows are expected to devote full time to the lab (aside from courses), unless there are special circumstances which do not allow you to do so, in which case please reach out to me to let me know.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -230,6 +236,20 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Once the Monday meeting is over, the week's research starts right away. Some people who live nearby finish the morning meeting at home and then come to ISSP, while people who live far away come to ISSP in time for the start of the Monday meeting. This is left to each person's judgment. We do not set any particular core time either, but the members' rough schedules are shared on a web calendar. Unless told otherwise, we assume you are at ISSP during weekday daytime, so please always let us know when you take time off.
 
 ### Netherlands
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>At the lab, we don't think you are paid a salary that buys science from you, but instead you get a stipend to live a carefree life that enables you to care about scientific problems.
+>
+>Drive, curiosity and passion for research rarely translate to a 9-5 schedule.
+>
+>Maintaining a healthy work–life balance that works for you is essential for long-term well-being, productivity, and creativity. We aim to foster a flexible and respectful environment that supports both professional growth and personal needs.
+>
+>Working Hours: We think working hours are a poor heuristic for productivity, and we don't believe in core working hours. Experimental schedules, however, may require you to be available at fixed times during the day. Based on experience, the workload is not distributed homogenously, but often comes with intense weeks followed by relaxed weeks.
+>
+>Remote Work: We fully support any remote working schedule. Meetings are generally in a hybrid format, enabling you to design your work schedule as you see fit. However, experiments typically require physical presence.
+>
+>Vacation: Everyone is encouraged to take vacation as they see fit. Experimental schedules and deadlines in your project, may render certain periods less suitable for a long vacation.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >**Working days**: All team members are expected to be physically present at the department on Mondays, Tuesdays, and Thursdays (unless you are on leave or there is a symposium / conference you need to attend). On Wednesdays and Fridays everyone is free to choose whether they want to work from home (which most of us do) or at the department. Note that some team members work 4 (instead of 5) days a week.
@@ -376,6 +396,20 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Lab members working at the University of Liverpool are provided 30 days of annual leave, not including unscheduled sick days or other forms of leave. I will generally honor requests, but please try to be mindful of upcoming deadlines when scheduling annual leave.
 >
 >If you're sick, stay home and take care of yourself. Because you need it, and also because others don't need to get sick. If you have meetings scheduled at the time you are sick, let Reshanne know and reschedule your meetings as soon as you can.
+
+>_[WallaceLab_2026](https://ewallace.github.io/manual/newstart)_:
+>
+>These are asynchronous communication channels - *you don't need to respond immediately* - it's not useful to be constantly "on call" and it's bad for your mental health.
+>
+>Set notification schedules on slack so that you aren't disturbed when you're focused on a task or you're off work or asleep, and ignore emails then too.
+>
+>However, *please respond to email & slack messages within one ordinary working day*, i.e. a weekday when you're not on leave, nor at a conference or training session, nor doing a stressful experiment such as a timecourse.
+>
+>If you don't have a full response, it's courteous to respond saying "I don't know, can I get back to you tomorrow/next week/when I've done some reading".
+>
+>If you're not working, set an autoreply to do that for you.
+>
+>If you ask someone else a question and they don't get back to you, ask again the next ordinary working day.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

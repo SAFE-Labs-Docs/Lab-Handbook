@@ -70,6 +70,10 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >In general I am happy to provide you with a reference, so do not hesitate to ask (or to send reminders!). It helps if you can be quite detailed about the format, the deadline and where/how to send it. Needless to say, I can only provide references for the skills and abilities I have had exposure to. If you know in advance of your stay you will be needing certain skills or experience, let me know at an early stage so we can integrate that into your training.
 
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>Reference letters will be provided to lab members at request. Lab members should expect a letter that highlights their strenghts, but also provides a fair and honest evaluation of their performance and skills. Wherever possible providing the reference in a short call will be preferred over writing a letter.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

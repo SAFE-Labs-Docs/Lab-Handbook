@@ -114,6 +114,15 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >The project lead is encouraged to use features of git version control and directly update on git-hub. Alternatively, they can manually upload the latest codes at least once a month. This will also serve as a back up.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Organizing stimuli and data: Decide in advance how to organize the stimuli and data (in terms of directories and filenames) in a way that will facilitate sharing. Behavioral data should also be anonymized (replacing prolific IDs with a project-specific participant ID) before uploading to a data sharing platform. It is best practice to anonymize the data as a first step and then write the analysis code such that it runs on the anonymized data.
+>
+>- Preregistration: All studies in the lab (aside from a few exceptions) are either preregistered or submitted as registered reports (see the lab resources page for more details).
+>- Data and code sharing: All code should be uploaded as a separate repository in the lab github, along with a detailed readme and the recipe for the environment you used for the project. If you use the fMRI pipeline, make sure you link to the specific version of the files you used for analysis. Behavioral data is shared on OSF and neuroimaging data on openneuro. Currently our ethics approval does not allow sharing of intracranial data.
+
 ### Japan
 >_[KiharaLab_2026](https://www.sci.kanagawa-u.ac.jp/chem/kihara/)_:
 >
@@ -243,6 +252,18 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can't reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can't be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab. For results to be reproducible, the analysis pipeline must be organized and well documented.
 >
 >To meet these goals, you must document all aspects of your analysis pipeline. This means writing down how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests (including in analysis scripts, which should always be commented clearly so that every step is understandable by an outsider). If you are running your analyses in JASP, make sure to re-label standard headings of analyses (e.g., 'Repeated Measures ANOVA' could be relabeled to 'Vividness of immediate recall: repeated-measures ANOVA'), give outputs a sensible title, e.g., 'Immediate_recall_analyses', and save them all in the same 'results' folder.
+
+>_[WallaceLab_2026](https://ewallace.github.io/manual/lab-notebook)_:
+>
+>*Your experiment is not "done" until it is written up in your lab notebook.*
+>
+>Your lab notebook should:
+>
+>- Describe your substantial activities in the lab every day, with dates.
+>- Describe your work in enough detail to reproduce it.
+>- Include, or link to, every piece of substantial data that you collect.
+>- Place your work in the context of larger goals and projects.
+>- Be updated within a week.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

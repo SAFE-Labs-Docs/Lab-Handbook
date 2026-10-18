@@ -168,6 +168,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Be comprehensive and generous in crediting contributions. Nothing is lost by giving people fair credit. For published work, report each author's contribution according to the CRediT taxonomy. When planning the work, fill out a CRediT taxonomy to define intended roles at the start. If project roles and levels of contribution change, update the CRediT taxonomy accordingly. Before publishing a version of the manuscript, check that all authors recognize the CRediT taxonomy as accurate representation of the work done.
 
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>We discuss authorship at the beginning of the project, and before soliciting time intensive help from other lab members or external parties, to manage expectations before authorship difficulties arise. Of course, projects are often unpredictable. Thus, we commit to rediscussing authorship among the project members openly and in good faith, to assess if changes in the authorship are warranted.
+>
+>Authorship is warranted if someone made an integral scientific contribution. This, however, can take many shapes and forms, ranging from data acquistion, analysis, providing and adapting tools, all the way to integral and seminal scientific discussions, that proved to be essential for the project.
+>
+>Corresponding authorship, if not discussed otherwise, stays with the senior author to ensure consistence in reachability.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >Scientific autorship is a tricky business. I aim to discuss authorship early on, clarify expectations, and give regular updates when a project changes. If you are unsure about authorship, please let me know asap.

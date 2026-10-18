@@ -53,6 +53,12 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >- Discussion points in the Meeting
 >- Plan for the next week.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Meeting summaries: Please keep a meeting summary file we can both access, and add a summary after each meeting, including decisions we reached regarding the project (and the rationale) and the action points until the next meeting. Your future self will thank you.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -91,6 +97,20 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >Keep a record of our meetings (what we discussed and decided on) where we can both access them (Teams).
 >
 >For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
+
+>_[WallaceLab_2026](https://ewallace.github.io/manual/meetings-overview)_:
+>
+>Most lab members have 1-1 meetings with the PI, fortnightly, that last 55 minutes.
+>
+>These guidelines are intended to be "as simple as possible" to make these meetings most pleasant and productive.
+>
+>* The lab member takes notes and sends a summary to PI later on the day of the 1-1 meeting. Notes should begin "1-1 meeting notes [date]". Email is the preferred delivery method.
+>* Meeting starts by discussing progress on agreed priorities and action points from previous meeting.
+>* Meeting includes reviewing lab notebook, or other data/analysis/writing/slides, as appropriate.
+>* For wet lab workers, the lab notebook (RSpace) should be updated before the 1-1 meeting.
+>* Meeting ends by agreeing priorities for the lab member for their next fortnight, which go in the notes. Realistically, there will be between 1 and 3 priorities for the next two-week period, because larger numbers of things cannot all be prioritised.
+>* Notes should include action points for PI (with deadlines), and any questions arising from the meeting that we don't yet have answers to.
+>* Notes can be brief; whatever can be written up in 15 minutes is good enough.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

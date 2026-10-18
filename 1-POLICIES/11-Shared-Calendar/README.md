@@ -59,6 +59,12 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >- TimeTree is for putting in when you have holidays, sickleave etc. to let other people in the lab know and for planning purposes
 >- Dominik Fischbach is in charge of IT/computer support and will give access to the server and mailing list, I will send a Slack and TimeTree invitation.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>How to schedule meetings: You have access to my calendar where you can see when I am free. You can send an invite for a meeting in free slots. I prefer, when possible, to hold meetings after lunch, 12:30-16:00. There is no need to email me in advance to ask if it’s ok to schedule a meeting, it’s always ok. In the meeting invite please add your name to the title. If you need to cancel a meeting, please let me know sufficiently in advance when possible.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

@@ -106,6 +106,14 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >- Take initiatives to make the lab fun and a better place for everyone.
 >- Take care of your health. Seek doctors/professionals’ help to improve your physical health and mental well-being. Talk to me if you need contacts.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Remember that people may come from different backgrounds, religions, political views and countries. Especially in the current climate, people may feel ostracized if they have different political views. We should all do our best to make the lab a place where everyone feels welcome. Do your best to avoid saying things that may be offensive to someone else, and come to me if you feel someone has been offensive to you. It is fine to express opinions, hold different political views, argue – but we should aim to never makes someone feel less worthy because of it.
+>
+>- Lab members from different countries – living in a different country, with a different culture, can be challenging. A prime example is that Israelis (including myself) tend to be more direct than people in other countries, or add less pleasantries to emails, and this can come off as insulting at times. If you feel the styles of myself or others in the lab is too direct, please let me know and together we can think how to make you feel more comfortable.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -145,6 +153,14 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >We pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, social and economic status, nationality, personal appearance, race, religion, neurodiversity, or sexual identity and orientation.
 >
 >We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>We strive to create an environment where everyone feels empowered to become the best scientist they possibly can. On this journey the following are non-negotionable:
+>
+>- Scientific Integrity: There is no space for fraud and plagiarism at our lab
+>- Respectful work environment: Socially unsafe behavior will not be tolerated, this includes bullying, threatning, sabottaging
+>- Safe work environment: Strive for safe experimental conditions, in all circumstances, the health of you and your colleagues is more important than any result
 
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >

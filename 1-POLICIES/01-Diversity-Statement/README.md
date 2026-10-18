@@ -110,6 +110,20 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >
 >In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSITY fuels innovation, RESEARCH is global, LOVE is love, IMMIGRANTS are welcome, TRANS RIGHTS are human rights, FEMINISM is for everyone. Design adapted from [Sammy Katta](https://www.sammykatta.com/diversity).
 
+>_[WallaceLab_2026](https://ewallace.github.io/about.html)_:
+>
+>At the Wallace Lab we believe in equity, diversity, and inclusion in science.
+>
+>We believe in the importance of a safe and equal environment for all, where all lab members and colleagues can thrive.
+>
+>Therefore, we as a lab are strongly against any form of racism, homophobia, transphobia, misogyny, ableism, or discrimination based on religion.
+>
+>We strive to support our colleagues as best we can, to amplify the voices of BAME and LGBTQ+ minorities, and to speak up when needed.
+>
+>In addition to this, we support our lab members with caring duties or dependents by offering a safe work environment and flexible work hours.
+>
+>We are in on-going pursuit of open conversation and accountability, to be better colleagues and to make science more accessible for everyone.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

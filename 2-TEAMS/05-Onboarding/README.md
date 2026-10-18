@@ -182,6 +182,16 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 
 ### Israel
 
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>The lab manager will add you to the HR system as a member of the lab (if you are on a student position, they will explain how you report the hours you work).
+>
+>- They will add you to relevant mailing lists (of all ELSC students/postdocs and all ELSC).
+>- You’ll need a chip to enter the lab (which you should remember to return when you finish the position)
+>- People in the lab work on PCs and connect to the lab linux for more computational work. To connect to the linux, a user must be opened (check the how-to section on how to connect to the linux). This will also create a home for you on the lab storage and give you access to the lab’s shared directories. It is best to do this as soon as possible, so you have access to the lab storage and linux straight away.
+>- Send the lab manager your picture, so they can add you to the lab website.
+>- Join the lab slack and Zotero (first join slack and Zotero in general, then send Aya the email you used to join and to ask to be added to the lab slack workspace and lab zotero).
+
 >_[TiroshLab_2026](https://github.com/tiroshlab/lab-book/blob/master/04-joiningAndLeavingProtocol.Rmd)_:
 >
 >1. Ask Yael Lepek to pool your userID to this department and connect you to any services you may need to use (at least WEXAC and email will be necessary, and RSA very useful), note, if you have userID in other department, pooling you will erase your old server folder.
@@ -316,6 +326,17 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >- Set up a health test with occupational-health-services (required for access to BSU)
 >- Get an account on the Lab Server and make sure you can login.
 >- Complete all online mandatory courses
+
+>_[WallaceLab_2026](https://ewallace.github.io/manual/newstart)_:
+>
+>The Health and Safety Induction and the Buildings Induction are now on [Learn](https://www.learn.ed.ac.uk/). It can be a bit difficult to find things on Learn, the H & S one can be found by searching the course catalogue for “safety induction” and choosing the relevant one (e.g. PhD) and the buildings one by searching “SBS Buildings Induction”.
+>
+>Once you have completed the buildings induction you should contact the building manager, who will send some building-specific info as well. Someone in the group should do a tour of the building with a view to fire safety, pointing out:
+>
+>* Fire alarm activation points nearest the lab/office
+>* Fire escape routes and exits
+>* First aid kits, first aid room and how to contact a first aider
+>* The day and time of the fire alarm test
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

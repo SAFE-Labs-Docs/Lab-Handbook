@@ -103,6 +103,12 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >
 >Reports, write-ups, and manuscripts really benefit from the human component in my opinion. Although I am not against the use of AI as a support tool it should not be used to fully replace you as an individual doing and writing about science or communicating with other humans.
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Before submitting, always use GPT (or your AI of choice) to spot typos, grammatical errors, things you may have omitted (like means, standard deviations etc.), and just give the paper one last look. Reviewers are much less forgiving in the past when people submit with typos and grammatical errors, since GPT does a great job of finding them.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

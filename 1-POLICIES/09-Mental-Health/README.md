@@ -56,6 +56,30 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >
 >- **Additional Support Structures:** Lab members are referred to [HGS mentoring](https://www.humboldt-graduate-school.de/en/services-en/Career-Development), the institute’s [mental health resources](https://www.humboldt-graduate-school.de/de/services/mental_health/mental_health), and [information](https://www.familienbuero.hu-berlin.de/de/en/familienbuero/information-for-families/phd-and-family/phd-and-family) on [supporting families](https://www.humboldt-graduate-school.de/en/services-en/doctorate-and-family-life).
 
+### Israel
+
+>_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
+>
+>Science can be very rewarding but also very challenging. When you feel you’re stuck, especially those points when you’re in a loop inside your mind, try to reach out. It often helps to talk to someone who can remind you how common it is. Ideally, reach out to me, and if not – reach out to a colleague. There are also online resources that can be helpful, such as:
+>
+>- A TED-X talk by Uri Alon about getting lost in “the cloud”:
+>
+>https://www.youtube.com/watch?v=F1U26PLiXjM
+>
+>- Phdcomics (has some very accurate comics!):
+>
+>https://phdcomics.com/
+>
+>- Resources about imposter syndrome, here is one example:
+>
+>https://www.psychologytoday.com/us/blog/neuroscience-in-everyday-life/202308/overcoming-imposter-syndrome-6-evidence-based-strategies
+>
+>- Enneagram:
+>
+>https://www.enneagraminstitute.com/type-descriptions/
+>
+>This is a division of people into nine personality types. I wouldn’t treat this as an exact science, but it can be helpful to read about the different types and see which of them you identify with (can be more than one). In research it is especially important to identify what it is that drives us and motivates us. This can differ between people and understanding what drives you can sometimes help understand how to get through the rough patches.
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

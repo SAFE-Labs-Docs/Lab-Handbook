@@ -125,6 +125,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >**PhD student:** Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project.
 
+>_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
+>
+>Our research should benefit humanity and as such we strive for publishing it and making it openly available. However, for us a publication itself is not a goal, but a vehicle of communication. The scientific quality of your project or PhD will not be measured in number of publications at the lab. There are also no regulations on how many publications are required for a PhD student to graduate, and the effective number will vary based on the specific project. However, at least parts of the work should be published in at least one publication to ensure your science reaches the world.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
@@ -212,6 +216,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- First chapter submitted to a journal (ideally published)
 >- Second chapter ready to submit (ideally submitted)
 >- Third chapter written (does not have to be final form)
+
+>_[KampmannLab_2026](https://kampmannlab.ucsf.edu/join-us)_:
+>
+>We have currently a very limited number of open postdoc positions, and will prioritize candidates who have a track record of independence and leadership, and bring complementary expertise to our lab. Current areas of expertise we are looking for include (among others):  
+>Mechanistic cell biology and biochemistry  
+>Mouse models of brain disease  
+>A typical postdoctoral fellowship in the Kampmann lab takes 4-5 years. Due to UCSF limitations on the total time of postdoctoral training, we can generally not consider applicants who already have more than 1 year of postdoctoral experience in another lab.  
 
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >

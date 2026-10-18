@@ -126,6 +126,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Currently, we are only able to consider candidates who have secured their own funding or are actively applying for external fellowships. In light of the large volume of inquiries we receive asking simply if a postdoctoral position is available without any information on funding, we have decided not to respond to such emails. One example of an external fellowship is the JSPS Postdoctoral Fellowships program, offered by the Japan Society for the Promotion of Science to international postdoctoral researchers. We are willing to support those who plan to apply for this program and join us. If you are interested in this opportunity, please send your academic CV to Prof. Mizuno for consideration. Please note that acceptance into this highly competitive program is dependent on the situation and may not be granted in all cases.
 
+>_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/open-positions-en)_:
+>
+>Postdoctoral positions depend on the availability of research funding. Researchers who have their own funding or are planning to apply for external fellowships are particularly welcome to contact us.
+>
+>One possible funding opportunity is the JSPS Postdoctoral Fellowship for Research in Japan, which supports international postdoctoral researchers conducting research in Japan. We are happy to discuss possible research plans with researchers who are considering applying for this or other fellowship programs.
+>
+>When contacting us, please include a brief description of your research interests and your CV, together with information on your current or planned funding source.
+
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:

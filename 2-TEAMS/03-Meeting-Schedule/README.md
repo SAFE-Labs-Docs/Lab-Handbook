@@ -33,6 +33,17 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 ### Australia
 
+>_[BigDataBiologyLab_2026](https://www.big-data-biology.org/manual/)_:
+>
+>We will have regular meetings to discuss the progress of your projects. This is generally a weekly one-to-one with Luis. The meeting will be scheduled for 45 minutes, but (in practice) most of the meetings should be much shorter. Before each meeting, you should email Luis with answers to the following 3(+1) questions:
+>
+>1. What have I done?
+>2. What do I plan to do next?
+>3. Is there something stopping me from working as effectively as possible? What can Luis do to help?
+>4. _(optional)_ Is there something else I want to discuss?
+>
+>Do include details if you have them (_e.g._, numbers & data), but it can be structured text (bullet points) and there is no need to include background.
+
 >_[SMCCLab_2026](https://smcclab.github.io/honsproj/)_:
 >
 >We have three types of meetings in the lab:

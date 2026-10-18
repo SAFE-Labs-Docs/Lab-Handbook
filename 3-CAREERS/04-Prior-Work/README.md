@@ -19,6 +19,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 ## Examples
 
+### Australia
+
+>_[BigDataBiologyLab_2026](https://www.big-data-biology.org/manual/)_:
+>
+>Unless this is your first research experience, it is normal that you will have projects that you are still wrapping up and take some time away from your work here. I understand that this is normal (been there, done that) and as long as it is not a major time drain, and you do wrap up in the first six months (not a hard deadline), it is fine if it takes away a few hours per week. You should also **not** include me as an author if I didn't do anything except pay your salary while you were wrapping up a paper in the evenings. That would be unethical behaviour on our part.
+
 ### France
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel)_:
 >

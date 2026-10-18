@@ -18,6 +18,12 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 ## Examples
 
+### Australia
+
+>_[BigDataBiologyLab_2026](https://www.big-data-biology.org/manual/)_:
+>
+>In addition to our regular meetings, every six months, we will have a one-to-one meeting focusing on your long-term evolution.  This is a structured meeting (there is a predefined agenda), so that we make sure not to forget anything, but generally speaking, we go over your career goals and progress and try to adjust course if necessary (or just evaluate what needs to be done next as part of your general progression).  These meetings are also for me to get feedback on how I am doing with respect to you.
+
 ### Canada
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
 >

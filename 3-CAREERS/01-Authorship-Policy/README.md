@@ -16,6 +16,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 ## Examples
 
 ### Australia
+>_[BigDataBiologyLab_2026](https://www.big-data-biology.org/manual/)_:
+>
+>Expect to spend around 15% of your time on general lab duties. This is expected as a matter of course and will not automatically entitle you to authorship on papers.
+>
+>This includes things like attending and participating in the team meeting, organizing events, maintaining resources (_e.g._, database downloads), engaging with visitors, helping new members settle in, &c.
+>
+>It also includes doing small favors for other group members (proof-reading a manuscript, helping debug random software issues, answering a few questions on a topic that you know best) that will not (and should not, ethically speaking) automatically result in co-authorships.
+
 >_[PALMLab_2026](https://github.com/PALM-Lab/lab-manual/blob/main/03-research-policies.md)_:
 >
 >Current standards for authorship (such as by the [International Committee of Medical Journal Editors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) and the [American Psychological Association](https://www.apa.org/research/responsible/publication)) require a writing contribution to the research publication. Instead, the PALM Lab believes that **all researchers contributing to a scientific publication should be recognized** ("a contributorship model"), and adopts the [Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/) to assign credit and authorship. CRediT lists 14 research roles that contribute to research outputs, listed below with brief explanations as how they might pertain to the PALM Lab:

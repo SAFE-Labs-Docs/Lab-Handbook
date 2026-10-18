@@ -21,6 +21,18 @@ The institutional language at the Italian Institute of Technology is English; no
 
 ## Examples
 
+### Australia
+
+>_[BigDataBiologyLab_2026](https://www.big-data-biology.org/manual/)_:
+>
+>The Lab works in English.
+>
+>I understand that this is an extra burden if you have not worked in English before. However, I also consider it part of your training that you learn to work in an international environment (and, practically speaking, that means English-speaking). Also, note that if you stay in science, not being able to work comfortably in English is a major career handicap.
+>
+>Thus, while one-to-one meetings can be conducted in any language that both partners agree on, in a larger group, stick to English. In particular, avoid side conversations in another language. Note that the point is that **everyone** feel included, thus it does not matter if **I** personally understand it; rather, everyone must understand and feel comfortable replying.
+>
+>Similarly, internal emails should be in English. Here the goal is more practical: often you will want to later forward to others and English is the lingua franca.
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >

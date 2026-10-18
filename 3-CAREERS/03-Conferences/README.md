@@ -29,6 +29,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 ## Examples
 
+### Australia
+
+>_[BigDataBiologyLab_2026](https://www.big-data-biology.org/manual/)_:
+>
+>Every lab member can expect to attend one conference or similar event (_e.g._, a summer school) per year funded by the lab. After their first year in the lab, however, they are also expected to present something at those events (talk, poster, ...). If you want to attend more conferences, then it can be discussed, but generally speaking the consideration will be cost and time away.
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >

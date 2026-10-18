@@ -439,6 +439,14 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >- Postdocs and employees. Employee hiring will follow relevant university guidelines, but will generally include application screening, screening interviews, and formal interviews. Postdocs are generally hired as employees and should contact our PI to express interest.
 >- Graduate students. We welcome graduate students from a variety of graduate programs across NC State. Prospective graduate students will participate in a formal rotation working with lab members. Rotating students are included in group activities and day to day functions such as group meetings and journal clubs. Rotations typically conclude with a final presentation to the lab.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>We are honored with your interest! Becoming one of my PhD students is a big deal: a 5-6 year commitment for both of us. This subsection is intended to help express what I’m looking for in a PhD student and to establish alignment and expectations. Note: as a general rule, I do not evaluate or interview prospective graduate students until I see their full materials in the Allen School PhD application system (e.g., research statement, letters of rec).
+>
+>- Interview. The Allen School requests that we interview every prospective student (a practice I was already pursuing independently). This interview has mutual benefits: it gives us a chance to meet and discuss ideas and learn about our shared interests. I ask that you prepare a slide deck introducing yourself, your interests and career goals, and your prior research experience. Once accepted to our PhD program, we will also have many follow-up conversations to help you determine if the Allen School and the Makeability Lab is the right place for you (but best to try and capture that as early as possible in the process!)
+>
+>- Your prior research record. Moreover, I look for applicants with prior research experience and an established publication record—a first-authored paper is preferred but co-authorship is also fine. I am unlikely to accept any prospective student who does not have at least one previously co-authored published work ideally at a top-tier HCI venue such as ACM CHI, UIST, ASSETS, IMWUT (but any established record is appreciated). If you do not yet have such experience, I recommend pursuing a research MS to establish a publication record and re-applying.
+
 >_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
 >
 >When we are looking for students to hire in the lab (typically a month before the start of the fall and spring semesters and occasionally a month or so before the summer starts) we look through the responses to the form and the resumes and pick students to interview before selecting typically 1-2 students per term/summer session.

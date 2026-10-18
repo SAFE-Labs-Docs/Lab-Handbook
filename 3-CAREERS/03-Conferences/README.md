@@ -389,6 +389,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >**I will encourage you to attend scientific/professional meetings.** I will not be able to cover all requests but you can generally expect to attend at least one major domestic conference per year, when you have material to present. Securing outside funding (e.g. a fellowship or travel award) will likely enable you to attend additional meetings, especially international meetings. I will work together with you to strengthen your presentation skills.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>Whenever possible, the Makeability Lab will financially support you to attend a workshop or conference if you have a first-authored paper (including travel, accommodation, registration, and per diem). In some cases, we will support participation even without a first-authored paper. In these cases, please email me to initiate a discussion and provide rationale for why attending would be valuable to your career.
+>
+>When planning travel, please be frugal: register for early-bird conference deadlines (which are significantly discounted), search for the best travel and hotel rates, and look for other ways to save costs (consider, for example, applying to be a student volunteer and have your registration waived). We also ask that you search for a roommate, either a fellow UWer or, perhaps, another connection from the community. For lodging, airfare, per diem, and other travel-related policies, see the UW Travel Services webpage. We must follow official policy.
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >The lab pays for PhD students and postdocs to attend up to two conferences a year if they present at those conferences. For research assistants and undergraduates, conference attendance is decided on a case-by-case basis.

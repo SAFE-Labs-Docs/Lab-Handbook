@@ -534,6 +534,14 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >If you are struggling with your workload, or frustrated with your progress toward your goals, then you are in an unsustainable position. I can’t solve every problem for you, but I can help you identify strategies for sustainable work habits to prevent or rectify these situations. The whole point of mentoring is that no one has to do it alone.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>Nearly everyone in academia struggles with determining how much to work and when. Ultimately, your work hours are a personal choice. I care less about how much you work and more about what you do when you work and whether you are meeting our mutually established goals.
+>
+>Even when you’re trying to relax, you may feel the need to work and “do more.” This can be caustic, debilitating, and unhealthy. Setting clear boundaries about when you work and how much you expect of yourself is critical to a healthy work-life balance.
+>
+>You can generally expect my availability 9AM-4PM M-F. I also tend to work 5AM-7:30AM on weekdays and weekends, which is my primary “focus time” and when my brain works best. I tend to reserve this time for writing, teaching prep, or other high-cognitive tasks.
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >Lab holidays will be a superset of federal and NYU holidays.

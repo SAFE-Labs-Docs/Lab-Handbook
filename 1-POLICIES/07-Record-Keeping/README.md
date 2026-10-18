@@ -448,6 +448,14 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >• The lab also maintains a Microsoft SharePoint account, which serves as a central cloudbased drive for general shared lab documents. It is accessible through OneDrive and used for materials such as shared scientific resources, meeting slides, onboarding documents, and more. Every new lab member will be shown how to connect to the lab SharePoint during onboarding.
 >• Large files (e.g., sequencing or imaging data) should be stored in S-drive as cold storage at '/Volumes/shared/IID-Le Pen Lab/cold_storage' and properly indexed in the lab’s SharePoint at: ' /General/Data archive/Metadata table.xlsx'.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>We use GitHub religiously for hosting and coordinating our research projects. Your code can begin in a private repo but should be released on the Makeability Lab organization, when possible, when your research is published. One exception is Project Sidewalk, which exists as its own GitHub organization.
+>
+>Generally, we aim to support open science, which means releasing our code and datasets for scientific replicability and to enable future research. README.md should have clear instructions, compelling visuals, and descriptions on how to replicate the scientific work.
+>
+>Kind reminder: you should never write research code without continuously backing it up (ideally, using a version control system like Git) but, in the worst case, Dropbox, GDrive, Box, iCloud, etc.
+
 >_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
 >
 >Maintain a legible and thorough lab notebook. For each experiment, please write:

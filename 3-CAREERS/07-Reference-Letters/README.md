@@ -180,6 +180,25 @@ Reference letters will be provided to lab members at request, but these requests
 >- If Kate agrees to write a letter, then write her an email that includes what the letter is for, provide instructions on where to send the letter, include your CV/application materials and highlight any details you think might be especially important to mention.
 >- Follow up with Kate about a week before the letter is due to remind her, if she hasn’t already told you that she has submitted the letter
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>To help us both when requesting a letter please:
+>
+>1\. Provide a thought-out rationale for why you’re asking me and what you think I can speak about that may differentiate my letter from others.
+>
+>2\. Ask for a letter in advance—ideally ~3-4 weeks in advance. Please check with me the week of the deadline to ensure everything is going smoothly
+>
+>3\. If I agree to write you a letter, please send me:
+>
+>- A summary of your work in my research group and/or class(es). Include examples where you demonstrated creativity, determination, leadership, and/or excellent performance. You need not write in lengthy prose; bullet-pointing is fine.
+>- Include an abbreviated list of your major (recent) accomplishments in life with descriptions, including academically, in research, in service (e.g., president of ACM-W on-campus group, started CS high school tutoring program), and in life (e.g., won university ballroom dance competition, marathon race finisher).
+>- If you are applying to a specific scholarship, fellowship, or job, what makes you a unique, compelling candidate for this opportunity? Be specific.
+>- Attach your transcript, your CV/resume, and if applicable, a draft of your personal statement. I’m also happy to provide feedback on these materials. Please ask!
+>
+>4\. If you’re applying to multiple places, please use an online system like Interfolio or alternatively a Google Sheet formatted columns for positions/schools, deadlines, submission instructions, and relevant web links. I will update each row when I’ve submitted a letter (so please give me edit access).
+>
+>Importantly, to ensure that my words convey an honest assessment, I do not release letters to students. If I’ve supported you with a letter, I’d love for you to stay in touch. I greatly enjoy hearing from students and continuing to support them in their careers.
+
 >_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
 >
 >One of my jobs is to write letters of reference. I am always happy to do it. I just ask that you try to give me a few weeks advance notice, and remind me one week, two days, and one day before it is due, to make sure I don’t forget. If you forget to give me much advance notice, it is still fine to ask for a letter. I will do my best to get it done, and if I have already written you a letter previously it may not take much time to adapt it.

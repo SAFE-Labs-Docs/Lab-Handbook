@@ -243,6 +243,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Mouse models of brain disease  
 >A typical postdoctoral fellowship in the Kampmann lab takes 4-5 years. Due to UCSF limitations on the total time of postdoctoral training, we can generally not consider applicants who already have more than 1 year of postdoctoral experience in another lab.  
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>- You should attempt to involve yourself immediately in research with the goal of being a co-author on a paper submission within your first 9 months. You will begin learning the flow and process of research and other intangibles, building rapport with fellow students, and developing skills necessary to take on a first-authored paper project for your first summer. Often this experience will lead to new research ideas that could be a PhD topic.
+>- For your first summer, you could intern or lead a research project. If funding exists, I prefer the latter as it will further enable us to work closely together, allow you to make progress towards quals, and hopefully result in a first-authored submission to a fall deadline, e.g., CHI (in September) or to IMWUT (in November). Read more on Internships here.
+>- You should then generally aim for ~2-3 papers per year; however, your focus should be on quality not quantity. Not all of these papers need to be first-authored.
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >Your thesis should have enough material for 2-3 papers. Those papers do not have to be published or even submitted, but often, at least one is. Usually, the thesis has 3 content chapters, preceded by an introduction chapter and followed by a discussion chapter. If you have the contents in near-final form, count 2-3 months of full-time work to finish the thesis.

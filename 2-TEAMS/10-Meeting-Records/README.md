@@ -170,6 +170,20 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >One-on-one meetings are 45-min, weekly meetings between each trainee and me. You can also schedule one-off one-on-one meetings with me. These meetings are designed for us to discuss any training and research-related issues in detail and to form plans for the near future. To keep track on our progress, I ask each trainee to maintain a shared document with me to record the decisions and action items after each meeting and follow-ups. I expect trainees to attend all their one-on-one meetings. I understand that sometimes there is nothing to report, so occasional cancellation is fine. To cancel a meeting, please email me at least a day before. That said, note that even if you have nothing to report, sometimes meeting in person can still be advantageous and it may be worth our time to still check in.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>To help you prepare for 1:1s and to help maximize our time together, I request two things:
+>
+>1\. Create a bullet-pointed agenda that you send the night before we meet. Agendas should roughly follow this structure; however, other structures are possible (we can work together on finding a structure that works best for you):
+>
+>- Key goal for the meeting. Identify at least one key goal for this week’s meeting
+>- General update. How are things going? How do you feel? How can I help?
+>- Accomplishments for the week. During this time, we will use the previous week’s status document to contextualize discussion. This is critical for continuity.
+>- Roadblocks/challenges. What are your blockers? What is slowing you down?
+>- Goals and next steps. What are your action items? What are my action items?
+>
+>2\. For the meeting itself, please use Google Docs, Google Slides, a Miro board or some other tool to structure the meeting and take notes. Having a tangible resource to guide the meeting (and for notes) helps us stay on track and also results in better feedback.
+
 >_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
 >
 >I ask that each person maintain a document with a record of the content of our meetings, and to send me a brief email summary of our meeting taken from this document after we have it. This summary should include the main points we discussed, and conclusions from the discussions, and the plan for the coming week. This serves to consolidate what we discussed in memory, to ensure that we are on the same page, and to give us something we can refer to during the week as we move forward with action items. I read these meeting summaries without fail, and usually respond with comments. If you ask me to do something during our weekly meetings (or any other time), and I say yes, please either make sure I have written it down on my to-do list, or include it in the email summary to make sure I do it (preferably both).

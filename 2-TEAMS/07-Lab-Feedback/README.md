@@ -60,6 +60,14 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >
 >This statement of our mission and values is a living document. At our annual retreats, we will review and update the statement as a community, and discuss concrete ways in which we can meet our goals and live up to our values.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>In addition to the official Allen School Annual Review of Progress, I kindly request that PhD students (and postdoc, research scientist members) work together to co-author an annual review letter for me. Notably, this is different from the official progress review in that I expect you to work collaboratively to think about, discuss, and write about my strengths and improvement areas. We all have both. And I want to hear from you.
+>
+>I was also grateful for more constructive feedback on how I could improve, including working with each individual student to define milestones and success together, delegating more project management responsibilities to the lead PhD (greater sense of autonomy), ensuring that all students feel “safe to fail”, and ensuring that feedback is delivered constructively.
+>
+>For consistency, I would like to request this letter during the Spring quarter.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 

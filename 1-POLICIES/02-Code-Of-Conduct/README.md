@@ -312,6 +312,14 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, language, and culture, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>Elevate others. How can you make others better as a result of your presence? In the Makeability Lab, we try to elevate others, not diminish them. Your presence in the lab should lift us higher. For example, show interest in other’s work and well being, be constructive and kind in your critiques, volunteer to help review paper drafts, talks, and scholarship applications.
+>
+>Psychological safety. We engender and nurture a psychologically safe environment. All members are free to speak up, to try and fail, to be who they are. This does not mean that we must all agree or provide unequivocal praise but that people feel supported in taking risks and speaking up.
+>
+>Integrity. Science is nothing without integrity. We hold ourselves to the highest standards of rigor and honesty.
+
 >_[McMahonLab_2026](https://mcmahonlab.wisc.edu/lab-mission/)_:
 >
 >Be engaged and contribute to the broader mission of the lab. This includes paying attention, asking questions, and providing feedback during lab meetings; reading other lab members’ writing; assisting with big field/lab projects that require many hands; sharing (meta)data; and sharing expertise.

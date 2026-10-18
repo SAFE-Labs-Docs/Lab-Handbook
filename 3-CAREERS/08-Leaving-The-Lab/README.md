@@ -393,6 +393,14 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >Usually, the first author has played the lead role in project execution, takes the lead in writing the manuscript, and continues these responsibilities during revision process. I expect all authors to read and provide comments. It is expected that the first author will continue to take primary responsibility even after they have left the lab. If substantial writing or other responsibility shifts to a co-author, then the order of authorship may change as the paper undergoes revision.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>There are three primary reasons for leaving the Makeability Lab—all of which are perfectly reasonable and none of which should be framed as or feel like failures (they’re not): (1) you’ve decided to join another research group; (2) you’ve decided to preemptively cease the PhD program (e.g., leave with your MS); (3) you’ve graduated.
+>
+>If you’ve determined that the Makeability Lab and/or my advising style is not a great fit for you, I will help you find an alternative group and advisor, if you’d like. Before making such a decision, I would hope that we could have open, candid discussions about what’s not working for you and, perhaps, we can mutually agree and work on remediating steps. Even in the most perfect creative, collaborative relationships, there will be problems. The question is: are the issues surmountable and worthwhile to address?
+>
+>If you’re considering an early grad school departure, please talk to me and the grad advising staff. We’ll try to help you think through pros/cons and potential next steps. It is often a difficult, emotional, and multi-faceted decision but I support you 100%.
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >For many reasons, you might consider leaving the lab. Maybe this type of research is not what you are looking for, maybe you are considering a career switch, maybe your interests have changed, or maybe you don’t like the lab culture. Don’t keep this to yourself but discuss it with me. I will not take it personally and I will do my best to help you. I might introduce you to others. I might help you reflect on the various options. If you decide to leave, we will discuss how you can potentially still get a paper out of your work in the lab.

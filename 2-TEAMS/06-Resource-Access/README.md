@@ -176,6 +176,14 @@ The above policies pertain to communal lab resources. Individuals with their own
 >
 >High-performance computing resources. The Kleiner Lab owns two high-performance standalone computers (12 cores, 96GB memory, 15 TB hard drive space including SSD drives), which are used for proteomic data processing and analyses. The Kleiner Lab also owns two servers (512 and 768 GB of memory, 56 and 128 threads) for tasks that are memory or computationally intensive such as assembly of metagenomes. These servers are available to all team members working with large genomic, metagenomic, metatranscriptomic, and (meta)proteomic datatsets.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>As lab PI, I want to provide you with the resources and equipment necessary to do your research, fulfill your potential, and be successful. If you need something, please ask. I will work with you on a solution.
+>
+>By far, the most expensive lab costs are not equipment but people (as it should be!). Thus, from a raw productivity point-of-view, it only makes sense to supply you with the equipment you need to be successful. As my father always says, “invest in the right tool for the job.” Perhaps the most critical equipment resource is a laptop, discussed below. But we are happy to support you with other equipment if it’s necessary for your research (and we have the budget).
+>
+>Whenever possible, we try to minimize a PhD student’s out-of-pocket expenses. For example, for equipment purchases, we can use my grant funding to directly purchase equipment (via Amy and Elaine above). Similarly, to reduce your conference cost burden, you can have Amy/Elaine help register you for a conference and book your flight.
+
 >_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
 >
 >Everyone who works full-time in the lab is entitled to a desk in some sort of office. These will be rotated periodically to help ensure equitable assignment of locations. If you are not happy with the current arrangement let me know and I will try to address it. If your work setup is ergonomically suboptimal, let me know and I will try to rectify.

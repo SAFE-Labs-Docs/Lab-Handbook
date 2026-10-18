@@ -157,6 +157,12 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >• Annual career development meeting: Each lab member will have an annual career meeting with the PI to discuss their Individual Development Plan (IDP). This meeting is an opportunity to reflect on career goals—whether academic, industry-related, or otherwise—and to identify actionable steps for progress. The IDP, prepared by the mentee, serves as a framework for this conversation and should include short- and longterm goals, current strengths and gaps, and a plan for progress.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>The Allen School has an “Annual Review of Progress” for each graduate student, which includes a self-assessment and faculty advisor assessment—part of your response is viewable by me and part of it is confidential (these parts are clearly distinguished). This review is an opportunity for us to mutually assess goals, progress, and general satisfaction with each other, the department, and your research. Your responses are reviewed by a “Review of Progress Committee” and the Allen School will intervene if a problem is identified (on either side, student or faculty).
+>
+>In addition to the student-filled form described above, the Annual Review of Progress also has a faculty review form for each student, which I attempt to carefully and diligently fill out. Typically, I’m asked to perform my review after you’ve completed your self-assessment, so I can see your responses (as necessary) to inform my views.
+
 >_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
 >
 >About once a year I schedule a one-on-one meeting to address the big picture of your time in the lab. These are a chance for us to discuss how things are going and what we can do to make things better. I will send out questions in advance of this that you should prepare answers to, and these form the basis of the conversation. Your feedback is a gift to me to help me do things better, and I cannot stress enough how much I value your honest opinions. It is very acceptable and encouraged to give me constructive criticism, and I will do my best to implement suggestions that I get from you. I also generally give a lab presentation after these meetings to summarize the feedback I got (my hope is that this increases transparency and conveys to all of you that I am serious about incorporating your feedback).

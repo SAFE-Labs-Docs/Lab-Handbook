@@ -154,6 +154,10 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >
 >My primary focus is on your wellbeing. If something is going on with you, I’d like to know about it sooner rather than later, especially if it involves someone else in the lab. That being said, we all have a right to our private lives, and boundaries are healthy. If you need extra help with mental health or other specific challenges, I will be happy to help you identify resources for professional help.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>We value your mental health and wellbeing. If you’re feeling down and need someone to talk to, please reach out to me, fellow lab members, the grad advising staff, or UW mental health or other professional services. In fact, as the child of a professional therapist, I strongly advocate for therapy at any moment of your life (i.e., proactive therapy). Your graduate health insurance (GAIP) covers mental health services.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Mental well-being is crucial for personal and professional success, especially given the [prevalence of mental health challenges in academia](https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed regular work hours. If you feel comfortable, Pablo encourages you to discuss any personal challenges that may affect your work during one-on-one meetings. If you need additional support, we encourage you to consider the following resources:  

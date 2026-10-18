@@ -794,6 +794,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >* **Lab business** (<5 min). Discuss routine lab issues like equipment and reagent needs/problems, shared responsibilities, upcoming events, new member introductions, safety training and discussions, etc. If any of this information can be broadcast/coordinated through Slack, we can have shorter in-person meetings.
 >* **Main Event** (~50 min). Meetings will be a Research Update or a Round-table.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>We have three types of regularly scheduled meetings in the Makeability Lab, each of which support us and our projects in different ways.
+>
+>1. Lab meetings. Weekly 60 min lab meetings to share status updates, provide feedback, give practice talks, provide tutorials, and generally build lab rapport. These meetings are reserved for PhD students, postdocs, and research scientists to enable us to discuss supervisory and mentorship issues.
+>2. 1:1 meetings. Weekly 45-minute 1:1 meetings to discuss research progress, coursework, and general opportunities and challenges.
+>3. Project meetings. Weekly or biweekly 30-60 minute project meetings led by the lead PhD(s) on the project. All project members can be invited—including high school and ugrads (though scheduling conflicts may prevent regular attendance); I defer to the lead PhD student to make these decisions. Note: Jon may not be able to regularly attend these project meetings and will, instead, provide guidance during the 1:1s.
+
 >_[ManningGroup_2026](https://mmanning.expressions.syr.edu/wp-content/uploads/2023/01/Manning-Research-Manual-January-2023.pdf)_:
 >
 >Updates: Every other week our research group meeting will be an “updates” meeting. These are opportunities for you to share what you’ve been thinking about over the week with others. I expect every group member to post a short “group update” on the slack channel before these meetings, which will help you to gather your thoughts about what you’d like to share with the group and also help identify overlap between your work and the expertise of others. Quite often, it leads to help where you’re stuck on a project! During the meeting, group members volunteer to go over their update and have others ask questions and provide feedback. These updates are NOT polished, professional talks – they are opportunities for informal, low-stakes collaborative feedback and help from our collective research group.

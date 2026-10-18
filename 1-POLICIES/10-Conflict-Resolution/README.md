@@ -209,6 +209,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >
 >Members of the community who violate these rules - no matter how much they have contributed to the Lohmann lab, or how specialized their skill set - will be approached by Dr. Lohmann. If inappropriate behavior persists after a discussion with Dr. Lohmann, the contributor will be asked to discontinue their participation in Lohmann lab projects.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>Mutual respect and support. The Makeability Lab is founded on mutual respect, trust, and support. We respect and support one another through our words and actions. If someone makes you uncomfortable, please let me know immediately. If I am the source of discomfort, I would hope that you could approach me—either in the moment or afterwards. If you don’t feel comfortable reaching out to me, you can involve our grad advising staff. Alternatively, you could fill out this anonymous Makeability Lab feedback form or a similar feedback form run by the Allen School.
+>
+>In the Makeability Lab and Allen School, there are three semi-formal channels for assessment and feedback: (1) the Allen School “Annual Review of Progress”; (2) the Allen School “Anonymous Feedback Tool”, which allows you to provide constructive feedback and report problems anonymously; (3) and the Makeability Lab “Anonymous Feedback Form”. Additionally, I would hope that you could discuss any problems, however small, with me during our 1:1s, via email, or ad hoc meetings. The best feedback is timely feedback. Let’s help each other be better!
+
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >Despite our best efforts, conflicts or tensions can arise. Primarily, I hope that we can resolve conflicts and tensions directly with each other, by de-escalating, listening to each other, and taking a step back from what caused the conflict.

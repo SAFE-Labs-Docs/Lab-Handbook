@@ -569,6 +569,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Established standard operating procedures (SOPs) to maintain continuity within the lab. SOPs are updated on a regular basis with input from multiple people in the team.
 
+>_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
+>
+>I expect you to uphold the values above and to take responsibility for your progress through the PhD program. I expect you to work hard, to meet your commitments, and to manage your time responsibly. I find that I work best with students who are intrinsically driven, who challenge and push themselves to learn, to grow, and to attain ambitious goals, who self-set and meet a high standard of excellence and work quality, who work towards making consistent progress from week-to-week (failures are expected, of course, and essential to progress!), and who are organized and strong communicators.
+>
+>I will help you at each stage of your PhD. As you progress, you will need to demonstrate your ability to lead a research project from end-to-end. I will help you scope a dissertation that is appropriate to your career goals. The process should be rewarding but it will not always be easy. It will take time, dedication, and hard work.
+>
+>My research time is largely spent on envisionment, fundraising, project management, mentorship, reading literature, writing (both papers and proposals), and providing feedback and guidance to students. I treasure time when I can actually code or build things (e.g., like analysis scripts or Project Sidewalk dev) but these moments are rare. Typically, the “on-the-ground” research is conducted by you—building systems, running interview protocols, performing data analysis—all with my feedback and support.
+>
+>I look forward to collaborating closely with you on your research from ideation and design mocks to study planning, analysis, and writing. Throughout, we should have strong communication and tight feedback loops. For example, I expect weekly status update emails—in the form of a Google Doc or Slide deck, for example—accompanied with our weekly 1:1s and active participation in our lab and project meetings. You can expect that I will carefully review and comment on artifacts you share with me (e.g., draft study protocols, design mocks). I prefer more communication to less. Do not hesitate to reach out.
+
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
 >
 >I expect that you will pursue research that has some overlap with my expertise and interests. Otherwise, I will not necessarily have the best perspective to guide you successfully. If your interests shift away from the core lab research, I expect that you will inform me and we can discuss options.

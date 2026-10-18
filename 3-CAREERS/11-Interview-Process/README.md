@@ -1,24 +1,59 @@
 # I commit to establish an objective and equitable interview process
 
-This page collects real-world examples of interview processes from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective interview processes!
+This page collects real-world examples of interview processes from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 The decision to recruit an applicant should depend on clear selection criteria to help avoid personal biases and to treat all applicants fairly. Some of the suggestions below may be impractical or impossible given institutional constraints, but group leaders should implement as many as possible.
 
 ## Suggestions
-- Conduct blind CV screenings
-- Post public job advertisements
-- Recruit a diverse interview panel
-- Get second opinions from lab members and collaborators
-- Ask standardized questions for each position
-- Consider implementing a structured selection process:
-  1. File and advertise an open call
-  2. Offer informal chats for questions
-  3. Shortlist qualified candidates
-  4. Conduct formal interviews
-  5. Arrange lab presentations
-  6. Formalize offers
-  7. Provide feedback to unsuccessful candidates
+- Conduct blind CV screenings.
+- Post public job advert.
+- Recruit a diverse interview panel to conduct the interviews.
+- Get second opinions (e.g. feedback from other lab members and collaborators).
+- Ask a set of defined questions for all applicants for a given position.
+- Consider the following selection process:
+    1. File and advertise an open call.
+    2. Offer an informal chat if individuals have questions.
+    3. Shortlist qualified candidates.
+    4. Invite shortlisted candidates for a formal interview.
+    5. Invite remaining candidates to present and talk to the lab.
+    6. Formalise the offer.
+    7. Send timely feedback to unsuccessful candidates.
+
+**Example interview questions:**
+
+<ins>Skills & motivation:</ins>
+
+- Among your skills, which is most important to this project?
+- You are applying to work on project X, where do you think this project could take us?
+- You have mentioned experience with technique Y, can you briefly explain how it works?
+- Can you tell us about a time when you had to solve a problem on your own?
+- This project is focused on question X, what do you know about the current state of the field?
+- Are you aware of any other lab working on similar/related topics?
+- What is your career plan for the next 10 years?
+- What motivates you to work in science?
+- Which specific training are you hoping to gain by joining our lab?
+
+<ins>Core skills & communication:</ins>
+
+- Can you briefly explain your latest discovery to someone without a scientific background?
+- What strategies do you use to keep yourself organised?
+- Give an example of a creative solution you used to solve a problem (at or outside work)?
+- How would you set priorities if you spread too thin and struggling to meet deadlines?
+- You need to learn a new method (to the lab), how do you approach the problem?
+- Can you give an example of a situation when you had to act like a leader?
+- Could you provide an example of a situation that would highlight your organisational skills?
+
+<ins>Lab attitude (precision, thoroughness, ethics, attention to SAFE):</ins>
+
+- What strategies do you use to ensure reproducibility in your results?
+- What strategy do you use to store/archive data?
+- How do you keep your code organised?
+- If you realised you made an error at your work, how would you handle it?
+- You suspect you've made an error in a procedure, how do confirm/refute this suspicion?
+- Are you familiar with the concept of 3R's? Can you briefly explain them?
+- Your believe your project overlaps with another lab member, how do you deal with this?
+- What would you do if you realised a colleague was mis-conducting their research?
 
 ## Examples
 

@@ -1,19 +1,22 @@
 # I commit to publicly document a diversity statement
 
-This page collects real-world examples of diversity statements from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own diversity statements here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective diversity statements!
+This page collects real-world examples of diversity statements from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own diversity statements here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds.
 
 ## Suggestions
-- Make clear what are the institutional rules for maternity and paternity leave
-- Normalize specifying pronouns in email signatures and profiles (e.g. slack)
-- Encourage people to share and mark on the lab calendar crucial cultural events/festivities
-- Encourage attendance of EDI training
-- Discuss steps taken to facilitate diversity in applicants
-- During onboarding, discuss cultural needs (e.g. religious holidays, prayer facilities)
-- Dedicate some meetings (e.g. journal club) to papers addressing diversity in science
-- Consider diversity of voices when selecting papers in journal clubs
+- Make clear what are the institutional rules for maternity and paternity leave.
+- Normalise specifying pronouns in email signatures and profiles (e.g. slack).
+- Encourage people to share and mark on the lab calendar crucial cultural events/festivities.
+- Encourage attendance of EDI training.
+- Discuss steps taken to facilitate diversity in applicants.
+- During onboarding, discuss cultural needs (e.g. religious holidays, prayer facilities).
+- Dedicate some meetings (e.g. journal club) to papers addressing diversity in science.
+- Consider diversity of voices when selecting papers in journal clubs.
+
+## Template
+We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices. We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.
 
 ## Examples
 
@@ -111,7 +114,7 @@ Science is an international endeavour, which brings together people from many cu
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >Science goes beyond the bench. We will volunteer for outreach, especially to historically marginalized groups. We will contribute to justice, equity, diversity, and inclusion efforts.
-
+>
 >We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
 
 >_[CarolinaAffectiveScienceLab_2026](https://affectivesciencelab.com/core-values)_:
@@ -138,7 +141,7 @@ Science is an international endeavour, which brings together people from many cu
 
 >_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/lab-values.md)_:
 >
->_I will encourage my students to participate in efforts to promote equity and inclusion in the sciences._ This includes, but is not limited to, encouraging them to join UO organizations such as [UOWGS](https://blogs.uoregon.edu/uowgs/) and [CMIS](https://pages.uoregon.edu/cmis/index.html); supporting their participation in Departmental committees like [CBGReAT](https://blogs.uoregon.edu/cbgreat/) and the Diversity, Equity, and Inclusion Committee; funding travel to meetings and workshops devoted to improved equity and inclusion (e.g. [SACNAS](https://www.sacnas.org/what-we-do/conference/), [GRC Power Hour](https://www.grc.org/the-power-hour/)); and inviting students to participate in outreach activities such as [Skype a Scientist](https://www.skypeascientist.com/) and [SPICE](https://www.spicescience.org/).
+>_I will encourage my students to participate in efforts to promote equity and inclusion in the sciences._ This includes, but is not limited to, encouraging them to join UO organizations such as [UOWGS](https://blogs.uoregon.edu/uowgs/) and [CMIS](https://blogs.uoregon.edu/cmis/); supporting their participation in Departmental committees like [CBGReAT](https://blogs.uoregon.edu/cbgreat/) and the Diversity, Equity, and Inclusion Committee; funding travel to meetings and workshops devoted to improved equity and inclusion (e.g. [SACNAS](https://www.sacnas.org/conference), GRC Power Hour); and inviting students to participate in outreach activities such as [Skype a Scientist](https://www.skypeascientist.com/) and [SPICE](https://www.spicescience.org/).
 >+ _I will make continuing education about racial and other inequities a priority._ We will do so through a quarterly lab meeting devoted to equity and inclusion. I will also continue to educate myself. (Two excellent sets of resources are [here](https://www.nature.com/collections/qsgnpdtgbr) and [here](https://www.bhallalab.com/equity-reading-list).)
 >+ _I will continue my efforts to recruit excellent, diverse undergraduate and graduate students in my lab._
 >+ _I commit to promoting a culture of inclusivity in the lab._ This involves communicating that inclusivity is a priority, keeping my door open for conversation, and being willing to accept feedback and criticism from lab members in this area. This means being intentional about seeking out input and ideas from lab members.
@@ -157,6 +160,8 @@ Science is an international endeavour, which brings together people from many cu
 >      - Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
 >       - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.
 >       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
+
+_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[POISLab_2026](https://www.notion.so/22a9e68b69b68082a3a2d63a0e36f918)_:
 >

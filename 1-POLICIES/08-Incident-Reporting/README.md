@@ -1,20 +1,27 @@
 # I commit to document the procedure for reporting bullying and/or harassment
 
-This page collects real-world examples of incident reporting procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective incident reporting procedures!
+This page collects real-world examples of incident reporting procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Bullying and harassment are serious allegations and entirely unacceptable in any work environment. By explicitly highlighting the procedure for reporting these issues, group leaders not only demonstrate their commitment to eradicating these behaviors, but also increase the chance that violations witnessed by lab members will be reported.
+Bullying and harassment are serious allegations and entirely unacceptable in any work environment. By explicitly highlighting the procedure for reporting these issues, group leaders not only demonstrate their commitment to eradicating these behaviours, but also increase the chance that violations witnessed by lab members will be reported.
 
 ## Suggestions
-- Specify how bullying and harassment is defined by the institution
-- Document institutional procedures for reporting and any supporting body/resources available
-- Disseminate and value training events offered by the institution
-- Include multiple reporting channels
-- Outline protection against retaliation
-- Detail confidentiality policies
-- Specify timeline expectations for investigations
-- Include resources for victim support
-- Document follow-up procedures
+- Specify how bullying and harassment is defined by the institution.
+- Document institutional procedures for reporting and any supporting body/resources available.
+- Disseminate and value training events offered by the institution.
+
+## Template
+Students and trainees who feel they have experienced or witnessed bullying harassment or sexual misconduct by another student may make a formal report to XXXX by email. This process may also be initiated through Human resources, the lab manager, or group leader.
+
+Members of staff who feel they have experienced or witnessed bullying, harassment or sexual misconduct may make a formal complaint against a staff member by using the Staff Grievance Policy or they may make a formal complaint against a student by contacting XXXX by email.
+
+Students or members of staff who feel they have experienced or witnessed bullying, harassment or sexual misconduct by a third party, or a member of the public, should discuss this with their line manager, supervisor or personal tutor in the first instance. This may involve notifying third parties and using their complaints procedure or notifying Security or the police when involving members of the public.
+
+<ins>Outcome of a complaint/ disciplinary case</ins>
+
+The Reporting Party will be told whether their complaint has been upheld or not; and whether the Reported Party has been dismissed or expelled. If the complaint is not upheld or the Reported Party is not dismissed or expelled, information will be shared with the Reporting Party to minimise any adverse effects in accessing their work or study environment, where possible, but there may be limits to the information about the consequences to the Reported Party that can be shared with the Reporting Party.
+
+Where the Reporting Party is told the outcome they will be asked to respect confidentiality with regards to the outcome. Links to institute guidelines and contact information of the person in charge for each group are provided as hyperlinks above.
 
 ## Examples
 
@@ -54,8 +61,8 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 >- The CUG representative: The CUG (Comitato Unico di Garanzia – Committee for equal opportunities) representative is the official contact person to report bullying and harassment.  
 >- Talk to the ombuds person: The ombuds person, like the PI, do not have legal knowledge and are not entitled to take any actions, but they are an independent and confidential resource with more extensive knowledge of possible actions and consequences.
 >- School psychologist: The services of the school psychologist can be used free of charge. Beyond a psychological degree, they also have legal knowledge and can help you decide on the next steps.
-
-Contact details can be found in our extended version of the Lab Handbook.
+>
+>Contact details can be found in our extended version of the Lab Handbook.
 
 >_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_:
 >
@@ -90,7 +97,7 @@ Contact details can be found in our extended version of the Lab Handbook.
 
 >_[GOLab_2026](https://go-lab.korea.ac.kr/code-of-conduct)_:
 >
->If you observe behavior inconsistent with this Code of Conduct, report it to the group leader (dongwookgo@korea.ac.kr). If the issue involves the group leader, contact Prof. Yosep Kim (yosep9201@gmail.com), who is the Ombudsperson for GO-Lab. Confidentiality and anonymity will be maintained to the fullest extent possible, and all violations will be addressed promptly and fairly. When necessary, we will seek guidance from Korea University’s Center for Human Rights and Gender Equality (https://humanrights.korea.ac.kr/). In cases of discrimination or harassment, we enforce a Zero Tolerance Policy, addressing matters immediately through official university channels and the Center for Human Rights and Gender Equality.
+>If you observe behavior inconsistent with this Code of Conduct, report it to the group leader (dongwookgo@korea.ac.kr). If the issue involves the group leader, contact Prof. Yosep Kim ([email]), who is the Ombudsperson for GO-Lab. Confidentiality and anonymity will be maintained to the fullest extent possible, and all violations will be addressed promptly and fairly. When necessary, we will seek guidance from Korea University’s Center for Human Rights and Gender Equality (https://humanrights.korea.ac.kr/). In cases of discrimination or harassment, we enforce a Zero Tolerance Policy, addressing matters immediately through official university channels and the Center for Human Rights and Gender Equality.
 
 ### Spain
 
@@ -105,7 +112,9 @@ Contact details can be found in our extended version of the Lab Handbook.
 >
 >For both UoL staff and students, the [Report & Support online form](https://reportandsupport.liverpool.ac.uk/) can be used as a first port of call, to raise an issue and access support.
 
-> _[CoenLab_2025](https://coen-lab.com/):_ Harassment is unwanted behaviour which you find offensive or which makes you feel intimidated or humiliated on the basis of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
+>_[CoenLab_2025](https://coen-lab.com/)_:
+>
+>Harassment is unwanted behaviour which you find offensive or which makes you feel intimidated or humiliated on the basis of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
 > 
 > Bullying and harassment are unacceptable. If you witness or are subjected to anything that may fit their description, then tell someone who can do something.
 > 
@@ -114,7 +123,7 @@ Contact details can be found in our extended version of the Lab Handbook.
 > - Your Line manager/Supervisor
 > - [Dignity Advisors](https://www.ucl.ac.uk/equality-diversity-inclusion/dignity-ucl/dignity-advisors)
 > - Anonymous: [Report and Support](https://report-support.ucl.ac.uk/)
-> - For PhD students: [Graduate Tutors](https://www.grad.ucl.ac.uk/essinfo/ddGradTuts.pht)
+> - For PhD students: Graduate Tutors
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
@@ -123,7 +132,7 @@ Contact details can be found in our extended version of the Lab Handbook.
 
 >_[CELPLab_2026](https://github.com/celp-lab/lab-manual/blob/main/code_of_conduct.qmd)_:
 >
->In the case of a violation of any element of our code of conduct, please discuss it with Prof. Byrnes. He will talk to the responsible party - both to attempt to rectify the immediate situation but also to start a dialogue around understanding why this is an important tenant of being a scientist in the modern world. If the problem persists, this could lead to a more serious discussion of the member's role within the lab. At any time, if warranted, Prof. Byrnes is happy to bring in the chair, GPD, or other relevant element of the University administration. For appropriate issues, Prof. Byrnes is happy to consult with [UMB Office of Civil Rights and Title IX](https://www.umb.edu/crtix) or the [Office of Diversity, Equity, and Inclusion](https://www.umb.edu/odei). If, for whatever reason, you feel uncomfortable discussing a problem with Prof. Byrnes, you are encouraged to approach these resources.
+>In the case of a violation of any element of our code of conduct, please discuss it with Prof. Byrnes. He will talk to the responsible party - both to attempt to rectify the immediate situation but also to start a dialogue around understanding why this is an important tenant of being a scientist in the modern world. If the problem persists, this could lead to a more serious discussion of the member's role within the lab. At any time, if warranted, Prof. Byrnes is happy to bring in the chair, GPD, or other relevant element of the University administration. For appropriate issues, Prof. Byrnes is happy to consult with [UMB Office of Civil Rights and Title IX](https://www.umb.edu/crtix) or the [Office of Diversity, Equity, and Inclusion](https://www.umb.edu/campus-life/inclusion-belonging/). If, for whatever reason, you feel uncomfortable discussing a problem with Prof. Byrnes, you are encouraged to approach these resources.
 
 >_[GlobalCommunityWellnessLab_2026](https://bookdown.org/jordandanielsnyder/LabManual/code-of-conduct-and-policies.html)_:
 >
@@ -137,7 +146,7 @@ Contact details can be found in our extended version of the Lab Handbook.
 
 >_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
 >
->If you experience or observe misconduct in the Kawahara Lab (or in other labs/departments of the museum) you can reach out to Akito Kawahara or David Plotkin by arranging a meeting via private e-mail (akito.kawahara@gmail.com, plotkindelta@gmail.com) or a private Slack message. You can also contact Keith Willmott (kwillmott@flmnh.ufl.edu) or Jaret Daniels (jdaniels@flmnh.ufl.edu) if you want to discuss the matter with museum faculty outside of the Kawahara Lab. If you would instead like to directly report instances of harassment, scientific misconduct, etc. to the museum’s Human Resources department, please contact Chris Pickles (cpickles@flmnh.ufl.edu). If you wish to make your report to someone at UF outside of the museum, or wish to make an anonymous report, please use the following UF resources: https://compliance.ufl.edu/compliance-hotline/
+>If you experience or observe misconduct in the Kawahara Lab (or in other labs/departments of the museum) you can reach out to Akito Kawahara or David Plotkin by arranging a meeting via private e-mail ([email], [email]) or a private Slack message. You can also contact Keith Willmott (kwillmott@flmnh.ufl.edu) or Jaret Daniels (jdaniels@flmnh.ufl.edu) if you want to discuss the matter with museum faculty outside of the Kawahara Lab. If you would instead like to directly report instances of harassment, scientific misconduct, etc. to the museum’s Human Resources department, please contact Chris Pickles (cpickles@flmnh.ufl.edu). If you wish to make your report to someone at UF outside of the museum, or wish to make an anonymous report, please use the following UF resources: https://compliance.ufl.edu/compliance-hotline/
 
 >_[LoaizaCAMLab_2026](https://psychlabs.colostate.edu/camlab/wp-content/uploads/sites/20/2026/09/cam-lab-manual.pdf)_:
 >
@@ -153,7 +162,9 @@ Contact details can be found in our extended version of the Lab Handbook.
 
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
 >
->To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://titleix.ucsc.edu/reporting/index.html)
+>To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://titleix.ucsc.edu/reporting-to-title-ix-hacer-un-informe/)
 >    - If you aren't comfortable speaking to Malin:
 >      - contact the Lab Listener
 >      - contact the graduate program coordinator: Judy Straub (UCSC) or Shaneika Nelson (Rutgers)
+
+_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._

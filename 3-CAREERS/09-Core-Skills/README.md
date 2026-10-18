@@ -1,19 +1,16 @@
 # I commit to establish annual lab-wide meetings to review training and outcomes for "core skills"
 
-This page collects real-world examples of core skills training approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective core skills training programs!
+This page collects real-world examples of core skills training approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process but also alerts other lab members to potential opportunities.
+Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalises the process, but also alerts other lab members to potential opportunities.
 
 ## Suggestions
-- Each lab member discusses training undertaken and shares learning outcomes
-- Survey the need for focused training in key areas
-- Highlight available resources and training opportunities
-- Share books and resources for self-education
-- Include progress reviews and goal setting
-- Document training achievements and certificates
-- Create mentoring pairs for skill development
-- Maintain a shared resource library
+- Each lab member discusses training they have undertaken and shares a learning outcome.
+- Survey the need for focused training: e.g. review papers, poster presentation, paper writing.
+- In the leadup to the meeting, draw attention to the resources available.
+- Books and resources for self-education.
+- Group leader should discuss spending, grants and outlook for the future.
 
 ## Examples
 

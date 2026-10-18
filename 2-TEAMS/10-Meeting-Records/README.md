@@ -1,20 +1,21 @@
 # I commit to establish a mechanism to record key outcomes from each 1-on-1 meeting
 
-This page collects real-world examples of meeting record-keeping approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of meeting record-keeping approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 Commonly reported frustrations of the 1-on-1 meeting process in labs are:
+
 1. Lab members feel that their group leader forgets the content of their previous meeting and so appears disengaged, or time is wasted rehashing the previous meeting.
 2. Group leaders feel that a previously agreed course of action has not been followed (or even attempted) and the lab member has instead pursued an unrelated tangent.
 
-Recording the key outcomes of each 1-on-1 meeting immediately after it takes place has been reported to robustly improve these issues. It allows any miscommunication to be readily identified, and provides a way for all participants to refresh their memory before the next meeting—saving time and confusion.
+Recording the key outcomes of each 1-on-1 meeting immediately after it takes place has been reported to robustly improve these issues. It allows any miscommunication to be readily identified, and provides a way for all participants to refresh their memory before the next meeting, saving time and confusion. This does not mean lab members should never diverge from the proposed plan, but if they do, they should be ready to justify that decision in future meetings.
 
 ## Suggestions
-- Require lab members to summarize each meeting in a shared document
-- Include agreed-upon action points to prioritize before the next meeting
-- Lab members should take notes during the meeting
-- Group leader should read the document after/before meetings (to catch misunderstandings)
-- Other solutions include allowing the lab member to record meetings (e.g. via zoom)
+- Require lab members to summarise each meeting in a shared document.
+- Include agreed-upon action points to prioritise before the next meeting.
+- Lab members should take notes during the meeting.
+- Group leader should read the document after/before meetings (to catch misunderstandings).
+- Other solutions include allowing the lab member to record meetings (e.g. via zoom).
 
 ## Examples
 
@@ -113,6 +114,8 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >2. Weekly Goal Status: what your weekly goals were from last time, and whether they happened
 >3. Weekly Goals: Goals for the upcoming week
 >4. How Dan can help: What i can do to make weekly goals that were missed, or upcoming ones, happen.
+
+_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >

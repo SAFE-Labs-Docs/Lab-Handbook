@@ -1,18 +1,18 @@
 # I commit to establish a "PhD steering committee" to annually monitor progress and mediate feedback
 
-This page collects real-world examples of PhD steering committee approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective PhD steering committee policies!
+This page collects real-world examples of PhD steering committee approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-A PhD steering committee provides independent oversight of PhD student progress and can mediate any feedback between student and supervisor. This reduces the power imbalance in the student-supervisor relationship and provides additional mentorship opportunities. The committee should meet at least annually to review progress and provide career guidance.
+NOTE: Some institutions already implement this process (e.g. "PhD Committee"), others have committees that meet irregularly, and some only form a committee for the final viva. However, **all SAFE Labs are required to implement this process; the steering committee does not need to have any official role in awarding the PhD.** It is important that PhD students receive support and feedback from beyond their direct supervisor. An annual presentation to a steering committee provides an impartial perspective on their project (e.g. timeline adjustments, training required). This meeting can identify potential conflicts and issues in the working environment of the PhD student. It also provides an opportunity for the supervisor to raise issues with the committee and request an external opinion.
 
 ## Suggestions
-- Select committee members with complementary expertise
-- Include at least one member external to the department
-- Document meeting outcomes and next steps
-- Set clear milestones and timelines
-- Provide guidance on thesis structure and content
-- Discuss career development and opportunities
-- Review publication progress and plans
+- Have the initial meeting within 6 months of starting the PhD.
+- Encourage PhD students to contact the committee members as needed.
+- 3 members: external expert, within-institute group leader, and a senior PhD student/postdoc.
+- Each meeting consists in 3 phases:
+    1. Discussion with supervisor in absence of student.
+    2. Project presentation by the PhD student.
+    3. Discussion with student in absence of supervisor.
 
 ## Examples
 

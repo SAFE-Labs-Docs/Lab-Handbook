@@ -1,16 +1,16 @@
 # I commit to establish annual lab-wide feedback sessions
 
-This page collects real-world examples of lab-wide feedback approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of lab-wide feedback approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Implementing guidelines for giving and receiving feedback is good practice to enhance communication and foster a positive work environment. Regular structured feedback helps improve lab operations, identify areas for improvement, and ensure all lab members feel heard.
+Implementing guidelines for giving and receiving feedback is good practice to enhance communication and foster a positive work environment.
 
 ## Suggestions
-- In a large lab, could be an anonymous survey
-- In a small lab, could involve explicitly soliciting non-anonymous feedback
-- New group leaders could combine lab retreats/lab meetings to improve feedback
-- Communicate feedback decisions and if suggestions are not implemented, explain why
-- Follow up on feedback implementation
+- In a large lab, could be an anonymous survey.
+- In a small lab, could involve explicitly soliciting non-anonymous feedback.
+- New group leaders could combine lab retreats/lab meetings to improve feedback.
+- Communicate feedback decisions and if suggestions are not implemented, explain why.
+- Follow up on feedback implementation.
 
 ## Examples
 
@@ -63,9 +63,9 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 
-
+>
 >In preparation for this meeting, Pablo discusses the state of each research project with all lab members involved. The lab members involved in a paper then create one slide summarizing its status. Additionally, members of the lab fill out [an online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog) providing feedback on the lab's management and Pablo's mentorship.
-
+>
 >A number of things happen during the meeting itself: 
 >1. Pablo presents the lab's guiding principles, five-year goals, and general one-year goals (~5 min). 
 >2. Lab members present a quick overview of research projects ongoing in the lab with their goals for the upcoming year. Plans for changes in current projects or potential new lines of work are presented (~10 min).
@@ -73,7 +73,7 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >4. The lab discusses alignment between guiding principles, goals, projects, funding, and other activities (~15 min).
 >5. Pablo reviews any action items from the previous State of the Lab meeting regarding lab management and mentorship practices, and presents the aggregated feedback received in the survey (~10 min).
 >6. The lab discusses potential improvements on lab management and mentorship practices, including changes to the MsEE Lab Handbook, and defines action items to be pursued next (~15 min).
-
+>
 >Notes and results of this meeting are communicated in writing to all lab members by Pablo.
 
 >_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:

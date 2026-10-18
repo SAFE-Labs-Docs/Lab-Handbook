@@ -1,19 +1,25 @@
 # I commit to publicly document the process for funding postdoctoral researchers
 
-This page collects real-world examples of postdoctoral funding policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective postdoctoral funding policies!
+This page collects real-world examples of postdoctoral funding policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Postdoctoral researchers typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. Being transparent about funding restrictions, salary scales, and expectations for securing additional funding helps prospective postdocs make informed decisions about joining the lab.
+Establishing clear policies on salary and grant applications, is crucial for maintaining transparency and ensuring that postdocs join, or apply to, the lab with accurate expectations. It also fosters a supportive and equitable work environment. **If researchers do not all start on the same salary, specify why this may be the case.**
 
 ## Suggestions
-- Include starting salary information
-- Clarify expectations for fellowship applications
-- Specify contract duration and renewal possibilities
-- Document salary progression structure
-- Outline available funding for research costs
-- Detail support for fellowship applications
-- Describe benefits package and allowances
-- Include institutional grading systems
+- Include the starting salary for postdoctoral researchers.
+- Encourage postdocs to apply for their own grants (specify if required).
+
+## Template
+At XXX, salaries for postdoctoral researchers are determined by a national grading system [Insert Link]. All postdoctoral researchers in the lab start on grade XXXX, unless they have significant prior postdoctoral experience (e.g. have already completed a post doc in a lab other than their PhD lab). At the end of each year, salaries increase by one point on this grading system.
+
+All postdoctoral researchers are required to apply for fellowships, both to benefit their own career and to improve lab finances. However, being awarded a fellowship is not a requirement. In cases when a researcher acquires their own funding through a competitive fellowship [Insert Link], this often comes with an increased salary. It may also come with dedicated funding for a lab technician to be managed by the researcher.
+
+It is possible for postdoctoral fellows to be promoted to a senior-researcher level through an established institutional process. This is often most successful after acquiring their own grant or publishing a paper. I encourage all researchers to apply for promotion and will review the possibility during annual appraisals.
+
+I will be transparent with postdoctoral researchers about the available funding for their position when they join the lab, and will discuss any changes to it as soon as I know of them.
+
+## Note
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.
 
 ## Examples
 

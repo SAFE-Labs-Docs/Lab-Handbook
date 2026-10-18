@@ -1,15 +1,18 @@
 # I commit to publicly document the lab code of conduct: emphasise welfare, equity and integrity
 
-This page collects real-world examples of lab codes of conduct from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own code of conduct here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective codes of conduct!
+This page collects real-world examples of lab codes of conduct from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own code of conduct here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
-## Details 
+## Details
 A prominent code of conduct should help to establish the lab atmosphere, foster synergy and collaboration, and make lab members feel valued and respected. It will set boundaries and shared practices, and establish a common framework to reduce and resolve conflict.
 
 ## Suggestions
-- Set out expectations for professional behaviour
-- Include timekeeping for meetings, work requests, and assignments
-- Require engagement with presentations, opinions, and requests from other members
-- Avoid exclusive communication channels (e.g. cc everyone when applicable)
+- Set out expectations for professional behaviour.
+- Include timekeeping for meetings, work requests, and assignments.
+- Require engagement with presentations, opinions, and requests from other members.
+- Avoid exclusive communication channels (e.g. cc everyone when applicable).
+
+## Template
+All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigour and collaboration. Examples include respecting each other’s points of views and contributions to discussions, being timely for meetings, and actively engaging in each other’s presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment.
 
 ## Examples
 
@@ -110,7 +113,7 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- HONESTY - I expect everyone to be honest about the insights they gained, about mistakes that happened, and about their plans and intentions as far as they concern their work and the lab. Importantly, making mistakes is part of the learning and skill development process! 
 >- FEEDBACK - Give me feedback – both if you find something I do helpful, but also if I do or say something you think is wrong or not in the best interest of everyone. 
 >-  COMMUNICATION - Communicate frequently, clearly and concisely. Tell us about your successes, ask questions, and ask for help to solve problems. 
->HELPFULNESS & ACKNOWLEDGEMENT - Help your colleagues – everyone's success benefits the whole lab. Acknowledge the help you received in your presentations, add people as authors to abstracts and papers if they contributed to your work. Ideas and regular feedback or significant troubleshooting are  contributions, too! 
+>- HELPFULNESS & ACKNOWLEDGEMENT - Help your colleagues – everyone's success benefits the whole lab. Acknowledge the help you received in your presentations, add people as authors to abstracts and papers if they contributed to your work. Ideas and regular feedback or significant troubleshooting are  contributions, too! 
 >- RESPECT - Treat everyone with respect - your colleagues, other labs, technical personnel, cleaning personnel, administration... This refers to how you speak and listen to others, accepting who they are, but also respecting other people's time and (personal) space. 
 >- DEDICATION - I expect my team to do the best research they can - to strive for excellence in their experimental work, analysis, writing and science communication. However, balancing work and the rest of your life is important. Be dedicated during your work time, but make time for other things that are important to you. 
 >- PARTICIPATION - I expect everyone to be an active member of the lab, institute and science community. I ask my team to actively participate in lab meetings, journal clubs, seminars, conferences...; and to offer us their insights, knowledge and opinion.
@@ -258,6 +261,8 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >Respect must be shown to all others at all times. The lab will not tolerate hurtful or disrespectful speech or behavior of any kind. No member shall feel harassed because of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
 >
 >Research is an inherently changing process - we are *all* learning at all times. It is the duty of members of the lab of every level to create and maintain a supportive lab and learning culture. All members are expected encourage and entertain questions from anyone, no matter what prior you bring to the question or the person.
+
+_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
 >

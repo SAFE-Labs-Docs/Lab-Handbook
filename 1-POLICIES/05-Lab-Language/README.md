@@ -1,18 +1,23 @@
 # I commit to publicly document the common lab language and any institutional language requirements
 
-This page collects real-world examples of lab language policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective language policies!
+This page collects real-world examples of lab language policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-English is the international language of science in the 21st century: proficiency in English is a crucial skill to nurture for every scientist. However, lab members are often not native English speakers, and in some cases the Institutional language may not be English. It is therefore important to document the lab and institutional language policy (even in "obvious" cases). To help non-native English speakers—or non-native speakers of the local language—it is also valuable to highlight any institutional support for language acquisition.
+English is the international language of science in the 21st century: proficiency in English is a crucial skill to nurture for every scientist. However, lab members are often not native English speakers, and in some cases the Institutional language may not be English. It is therefore important to document the lab and institutional language policy (even in “obvious” cases). To help non-native English speakers (or non-native speakers of the local language), it is also valuable to highlight any institutional support for language acquisition.
 
 ## Suggestions
-- Identify English as the lab language, and document language code of conduct
-- Lead by example and adopt the most inclusive communication format
-- Clearly indicate language requirements in job posts
-- Document available training in English, particularly scientific writing and presentation
-- Document available training in the Institutional and/or local language
-- Document lab policy about using LLMs (i.e. ChatGPT) to improve written output
-- Address language barriers in meetings, adopting formats of Q/A that facilitate feedback
+- Identify English as the lab language, and document language code of conduct.
+- Lead by example and adopt the most inclusive communication format.
+- Clearly indicate language requirements in job posts.
+- Document available training in English, particularly scientific writing and presentation.
+- Document available training in the Institutional or local language.
+- Document lab policy about using LLMs (i.e. ChatGPT) to improve written output.
+- Address language barriers in meetings, adopting formats of Q/A that facilitate feedback.
+
+## Template
+The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone present to participate.
+
+The institutional language at the Italian Institute of Technology is English; nonetheless, many administrative exchanges and Italian bureaucracy are still in Italian. Proficiency in Italian is therefore useful within the institute, as well as when travelling throughout the country. Please refer to the lab Wiki to access learning resources.
 
 ## Examples
 
@@ -70,14 +75,18 @@ English is the international language of science in the 21st century: proficienc
 >
 >Details on accepted use of other languages including LLMs can be found in our extended version of the Lab Handbook.
 
-> _[RossiLab_2025](https://rossilab.iit.it)_: The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges.  Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allows everyone to participate.
+>_[RossiLab_2025](https://rossilab.iit.it)_:
+>
+>The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges.  Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allows everyone to participate.
 > 
 > The institutional language at the Italian Institute of Technology is English; nonetheless, many administrative exchanges and, alas, some forms, of Italian bureaucracy are still in Italian. Proficiency in Italian is therefore useful within the institute, as well as when traveling throughout the country.
 > 
 > For our scientific production, I encourage the use of LLMs to proofread and refine original written material; however, I won't accept fully AI generated material. Instead, I incentivise the use of LLMs and other AI tools to streamline and automate bureaucracy, coding and other procedures by providing paid access to the most modern tools (e.g. currently, chatGPT).
 
 
-> _[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_: The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone to participate.
+>_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>
+>The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone to participate.
 >
 > However, many institutional administrative exchanges and administrative processes are in Italian; thus, proficiency in Italian can be useful within the institute. Please refer to Letizia if you need any help with Italian bureaucracy.
 >

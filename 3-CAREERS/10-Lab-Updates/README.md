@@ -1,19 +1,15 @@
 # I commit to establish a mechanism for sharing lab management updates
 
-This page collects real-world examples of lab management communication approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective lab management communication strategies!
+This page collects real-world examples of lab management communication approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 Lab members are often considering academia as a potential career. It informs that decision to understand how the group leader runs the lab, the responsibilities they have, and the process of funding a research team. However, lab members are typically shielded from this information. To improve transparency, and give lab members a greater insight into academic careers, group leaders should regularly communicate details of lab management.
 
 ## Suggestions
-- Give annual or bi-annual lab meetings on lab management
-- Send regular updates with recent lab developments
-- Discuss spending, grants, and future outlook
-- Solicit feedback on grant applications
-- Share institutional policies and requirements
-- Include updates on equipment and resources
-- Communicate staffing changes and recruitment plans
-- Discuss publication strategies and timelines
+- Give an annual, or bi-annual, lab meeting on the topic of lab management.
+- Sent out a regular update with the most recent lab developments information.
+- Discuss spending, grant applications, and outlook for the future.
+- Solicit feedback on grant applications and funding considerations.
 
 ## Examples
 
@@ -92,9 +88,9 @@ Lab members are often considering academia as a potential career. It informs tha
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 
-
+>
 >In preparation for this meeting, Pablo discusses the state of each research project with all lab members involved. The lab members involved in a paper then create one slide summarizing its status. Additionally, members of the lab fill out [an online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog) providing feedback on the lab's management and Pablo's mentorship.
-
+>
 >A number of things happen during the meeting itself: 
 >1. Pablo presents the lab's guiding principles, five-year goals, and general one-year goals (~5 min). 
 >2. Lab members present a quick overview of research projects ongoing in the lab with their goals for the upcoming year. Plans for changes in current projects or potential new lines of work are presented (~10 min).
@@ -102,7 +98,7 @@ Lab members are often considering academia as a potential career. It informs tha
 >4. The lab discusses alignment between guiding principles, goals, projects, funding, and other activities (~15 min).
 >5. Pablo reviews any action items from the previous State of the Lab meeting regarding lab management and mentorship practices, and presents the aggregated feedback received in the survey (~10 min).
 >6. The lab discusses potential improvements on lab management and mentorship practices, including changes to the MsEE Lab Handbook, and defines action items to be pursued next (~15 min).
-
+>
 >Notes and results of this meeting are communicated in writing to all lab members by Pablo.
 
 >_[RIPLRT_2026](https://doi.org/10.5281/zenodo.23146333)_:

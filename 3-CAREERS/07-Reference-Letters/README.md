@@ -1,19 +1,17 @@
 # I commit to document the procedure for requesting reference letters
 
-This page collects real-world examples of reference letter policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective reference letter policies!
+This page collects real-world examples of reference letter policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Career progression, grants, and competitive applications often require reference letters from mentors and supervisors. However, it is not uncommon to reuse the same letter with minimal changes, or even ask lab members to draft their own letters. These practices undermine the purpose of the reference system. SAFE Labs group leaders are required to personally write and sign all recommendation letters they agree to provide—possibly in collaboration with a co-supervisor (but never the subject of the letter).
+Career progression, grants, and competitive applications often require reference letters from mentors and supervisors. However, it is not uncommon to reuse the same letter with minimal changes, or even ask lab members to draft their own letters. These practices undermine the purpose of the reference system. **SAFE Labs group leaders are required to personally write and sign all recommendation letters they agree to provide, possibly in collaboration with a co-supervisor (but never the subject of the letter).**
 
 ## Suggestions
-- Specify notification period for requests
-- Be transparent about reference content
-- Include co-supervisors as signatories where appropriate
-- Define process for urgent requests
-- Document required information from requestor
-- Set expectations for letter turnaround time
-- Outline preferred submission methods
-- Consider policy for post-departure references
+- Specify a generous notification period for requests.
+- Be transparent about your references if performance was not satisfactory.
+- Collaborate and include lab members as signatories for their supervisees.
+
+## Template
+Reference letters will be provided to lab members at request, but these requests should be made at least 2 weeks in advance of the deadline for the first reference letter, and at least 1 week in advance for subsequent letters. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.
 
 ## Examples
 

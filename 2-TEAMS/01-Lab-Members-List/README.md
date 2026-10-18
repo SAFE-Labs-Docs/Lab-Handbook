@@ -1,17 +1,9 @@
 # I commit to publicly document a list of lab members and alumni
 
-This page collects real-world examples of lab member and alumni lists from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective member lists!
+This page collects real-world examples of lab member and alumni lists from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, contact details for each person should be included. Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab.
-
-## Suggestions
-- Include current role and research interests
-- List alumni and their current positions
-- Provide contact information (with permission)
-- Include photos (with permission)
-- Link to personal websites or profiles
-- Highlight achievements and publications
+A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, **contact details for each person should be included.** Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab.
 
 ## Examples
 

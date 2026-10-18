@@ -1,18 +1,20 @@
 # I commit to establish annual bilateral feedback and appraisal sessions for each lab member
 
-This page collects real-world examples of individual feedback approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of individual feedback approaches from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exchanging bilateral feedback and giving advice on career development. This is required by some, but not all, institutions. These sessions provide structured opportunities for in-depth discussions about progress, goals, and mutual expectations.
+Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exchanging bilateral feedback and giving advice on career development. This is required by some, but not all, institutions.
 
 ## Suggestions
-- Discuss career development and courses for both scientific and non-scientific skills
-- Review the frequency of 1-on-1 meetings for the upcoming year
-- Discuss grant-writing opportunities and plan application strategy
-- Consider quarterly meetings to discuss career goals
-- Solicit feedback on improving your mentorship and the lab support
-- Evaluate project progression based on milestones, rather than just specific results
-- Celebrate all publications equally regardless of journal
+- Discuss career development and courses for both scientific and non-scientific skills.
+- Review the frequency of 1-on-1 meetings for the upcoming year.
+- Discuss grant-writing opportunities and plan application strategy.
+- Consider quarterly meetings to discuss career goals.
+- Solicit feedback on improving your mentorship and the lab support.
+- Evaluate project progression based on milestones, rather than just specific results.
+- Celebrate all publications equally regardless of journal.
+- Acknowledge the element of luck in all scientific endeavours.
+- Avoid the phrase 'negative results': all results are discoveries; hypotheses can be falsified.
 
 ## Examples
 
@@ -123,6 +125,8 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >All members are expected, on joining, to develop an individual development plan (IDP) with Dan. Even if this exercise feels silly or foreign, please consider it seriously, as it will be a useful tool for setting expectations in the mentor-mentee relationship. IDPs will be reviewed and revised at least annually.
 
+_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
 >Professor Dolbow will meet with all students and post-docs in the lab at least once a year to discuss progress on research and progress towards degree, expected timelines to completion, and etc. During these meetings, the members will discuss career aspirations, options, and goals and additional steps (as needed) to help meet them. These meetings will be held every May after classes end.
@@ -184,6 +188,8 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >  - How can I support you in that?
 >- Also let me know if you want me to think about answers to any questions.
 >- Funding plan during each end-of-year checkin
+
+_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >

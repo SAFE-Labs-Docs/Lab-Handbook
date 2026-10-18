@@ -1,18 +1,23 @@
 # I commit to document how equal access to lab resources across lab members is maintained
 
-This page collects real-world examples of resource access policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective resource access policies!
+This page collects real-world examples of resource access policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Most lab members will quickly recognize any disparities of time and resource investment in different projects or people. These may arise for valid strategic reasons: funding priorities, timeliness of publication, contractual needs. Having clear and transparent policies for access to lab resources avoids biases from the group leader, inter-personal conflict, and fosters cooperativity between projects.
+Most lab members will quickly recognise any disparities of time and resource investment in different projects or people. These may arise for valid strategic reasons: funding priorities, timeliness of publication, contractual needs. Having clear and transparent policies for access to lab resources avoids biases from the group leader, interpersonal conflict, and fosters cooperativity between projects.
 
 ## Suggestions
-- Implement a shared lab calendar and booking system for communal instruments
-- Monitor and enforce respectful and fair booking schedules
-- Discuss project investment at onboarding
-- Keep a record of expenditure for different projects
-- Implement a task request system for shared lab technicians (e.g. apps in Teams)
-- Prioritize publications based on agreed plan rather than impact
-- Document the feedback process to report any perceived inequalities
+- Implement a shared lab calendar and booking system for communal instruments.
+- Monitor and enforce respectful and fair booking schedules.
+- Discuss project investment at onboarding.
+- Keep a record of expenditure for different projects.
+- Implement a task request system for shared lab technicians (e.g. apps in Teams).
+- Prioritise publications based on agreed plan rather than impact.
+- Document the feedback process to report any perceived inequalities.
+
+## Template
+I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Insert Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or interpersonal issues [Insert Link].
+
+The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
 
 ## Examples
 

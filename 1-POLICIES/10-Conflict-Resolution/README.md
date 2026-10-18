@@ -1,19 +1,20 @@
 # I commit to document the procedure for raising lab or inter-personal issues
 
-This page collects real-world examples of conflict resolution procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective conflict resolution procedures!
+This page collects real-world examples of conflict resolution procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-One prominent reason that lab and inter-personal issues are not raised in a timely and constructive fashion is the lack of a documented procedure for this process. Having a clear and transparent procedure encourages feedback from lab members, makes them more comfortable initiating feedback as the expectation is clear, and increases the likelihood that issues can be addressed before they deteriorate.
+One prominent reason that lab and interpersonal issues are not raised in a timely and constructive fashion is the lack of a documented procedure for this process. Having a clear and transparent procedure encourages feedback from lab members, makes them more comfortable initiating feedback as the expectation is clear, and increases the likelihood that issues can be addressed before they deteriorate.
 
 ## Suggestions
-- Specify that issues raised in 1-on-1 meetings won't be acted on without discussion
-- Specify a reporting procedure that circumvents you if necessary
-- Provide an avenue for lab members to raise concerns with you anonymously
-- Establish clear timelines for addressing concerns
-- Document the follow-up process
-- Include options for mediation when needed
-- Define escalation paths for unresolved issues
-- Protect confidentiality of all parties involved
+- Specify that issues raised in 1-on-1 meetings won’t be acted on without discussion.
+- Specify a reporting procedure that circumvents you if necessary.
+- Provide an avenue for lab members to raise concerns with you anonymously.
+
+## Template
+1. If comfortable doing so, request a meeting to raise the issue with the group leader.
+2. If not, please raise the issue anonymously by using this form.
+3. If external involvement would be beneficial, contact our dedicated external advisor.
+4. If none of the above steps are appropriate, raise the issue with HR here.
 
 ## Examples
 
@@ -43,7 +44,7 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
->It is important to raise and solve inter-personal issues within the lab early. We all spend many hours of our days working together and a safe and open environment is crucial to being able to perform well and happily. If possible, issues should be raised to the PI during 1o1 meetings or during a separately scheduled meeting. The PI will advise on possible solutions and actions, invite the other parties to voice their point of view, and organize group discussions if adequate. If you don’t feel comfortable raising the issue with the PI, contact the [ombuds person](http://students.sissa.it/issues/ombudsperson.html) or raise the issue with HR. 
+>It is important to raise and solve inter-personal issues within the lab early. We all spend many hours of our days working together and a safe and open environment is crucial to being able to perform well and happily. If possible, issues should be raised to the PI during 1o1 meetings or during a separately scheduled meeting. The PI will advise on possible solutions and actions, invite the other parties to voice their point of view, and organize group discussions if adequate. If you don’t feel comfortable raising the issue with the PI, contact the [ombuds person](https://www.sissa.it/ombudspersons) or raise the issue with HR. 
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
@@ -203,7 +204,7 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Ensuring MsEE Lab is a welcoming, constructive working environment is part of the responsibilities of the principal investigator, and a crucial one at that. Pablo has completed conflict resolution training from the [Community Dispute Settlement Center](https://communitydispute.org/) in Cambridge, MA as a confidential conflict coach with the [MIT BE REFS](https://berefs.com/), where he gathered experience with interpersonal conflicts both between lab members and involving advisors. For these reasons, lab members are encouraged to bring issues in lab dynamics to him. However, he recognizes that power imbalances and his role as head of MsEE Lab may make this difficult. For this reason, consider these options:
-
+>
 >1. If comfortable doing so, request a meeting to raise the issue with Pablo.  
 >2. If not, please raise the issue anonymously by using [this evergreen, anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSflkX5cKRVLFCwp-WOSz3_yMqT0Z_fRCOcu6nXuHTujtnWzYg/viewform?usp=dialog).  
 >3. If external involvement would be beneficial, consider consulting with external mentors. If you are a graduate student, options include discussion with members of your Thesis Committee or the Director of Graduate Studies for your Field. Regardless of whether or not you are a student, other options include contacting leadership within the School of Chemical and Biomolecular Engineering or other units at Cornell, if relevant. If not, contact our dedicated external advisor.  
@@ -215,6 +216,8 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 >    - A volunteer group member each quarter who observes and promotes healthy lab dynamics
 >    - An unofficial contact for concerns within the research group
 >    - Will schedule meetings with Malin as needed for issues and updates
+
+_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Expectations.html)_:
 >

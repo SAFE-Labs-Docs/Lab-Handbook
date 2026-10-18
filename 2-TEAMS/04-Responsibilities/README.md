@@ -1,6 +1,6 @@
 # I commit to publicly document the responsibilities of each lab role and the training provided
 
-This page collects real-world examples of lab role responsibilities from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective role definitions!
+This page collects real-world examples of lab role responsibilities from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 Each group leader has their own expectations for lab roles (PhD students, postdoctoral researchers, lab technicians etc.). By explicitly stating the responsibilities associated to different positions, group leaders can pre-empt expectation mismatch for prospective lab members before and after they join the lab.
@@ -13,6 +13,159 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 - Will the role be supervised by another lab member?
 - Does the role involve house-keeping tasks?
 - What level of supervision/training will be offered?
+
+## Template
+Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me, typically during onboarding.
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Postdoc</strong></th>
+<th><strong>PhD</strong></th>
+<th><strong>Undergrad</strong></th>
+<th><strong>Assistant/Engineer</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Supervision</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Supervised by</em></td>
+<td>PI</td>
+<td>PI &amp; Postdoc</td>
+<td>PI/Postdoc</td>
+<td>PI</td>
+</tr>
+<tr>
+<td><em>Supervising</em></td>
+<td>PhD, Undergrad</td>
+<td>Undergrad</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Research</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Independent Project</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Experimental work</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><em>Analysis</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Paper Writing</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Conference presentation</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Funding</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Applications</em></td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Help PI grants</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Lab citizenship</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Data Club</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Journal Club</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Paper review</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Housekeeping</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Orders</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><em>Animal colony</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
+
+## Note
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.
 
 ## Examples
 
@@ -164,7 +317,9 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >Is English proficiency required? English proficiency is not a prerequisite for joining the lab, but it becomes increasingly important as research progresses. Prof. Mizuno provides individual guidance according to each student’s needs and preferences.
 
 ### Netherlands
-> _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).
+>_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
+>
+>Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).
 > 
 > **For Research Assistants**, responsibilities generally consist of providing help with data collection, data administration, or data analysis. For specific projects, it may be required that RAs participate in conducting literature review and/or help with writing a scientific paper. Supervision will be conducted by the researcher(s) responsible for the project that the RA is assisting on.
 > 
@@ -285,6 +440,7 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >- Has been an active and engaged RA for at least 4 full semesters
 >- Has shown a personal interest in the research being conducted in lab/research in general
 >- Meaningful and engaging research and leadership opportunities can be helpful in building a CV and research background, but it also can involve considerable work and responsibility.
+>
 >Therefore, prospective Advanced RAs should be **self-motivated** and have consistently shown that they are **reliable** and **capable of additional responsibility**.
 >
 >## I meet the criteria, what should I do next?
@@ -376,7 +532,7 @@ Each group leader has their own expectations for lab roles (PhD students, postdo
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Our team may be composed of researchers with different roles at any given time: undergraduate students (whether enrolled at Cornell or visiting from elsewhere), graduate students at the Master's or PhD level, postdoctoral researchers, and research technicians or scientists. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. The responsibilities of different lab roles are shaped by the distinct kinds of goals the role might have.
-
+>
 >MsEE lab maintains [a lab mentorship philosophy statement](https://mseelab.org/mentorship.html) outlining more details on proposed structures, purposes, and expectations (including role duration and publication output) of MsEE Lab members.
 
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:

@@ -1,20 +1,25 @@
 # I commit to document the procedure for leaving the lab, including an exit interview
 
-This page collects real-world examples of lab departure policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective departure policies!
+This page collects real-world examples of lab departure policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Staff and students can choose to leave a lab for various reasons. If the expectations for the person leaving are clearly stated in advance (e.g. typical timeline, procedure, and support provided), it will help to make the process as smooth and amicable as possible. Exit interviews are a requisite part of this process in SAFE Labs. They are invaluable for identifying aspects of the lab that work well, and which could be improved.
+Staff and students can choose to leave a lab for a variety reasons. If the expectations for the person leaving are clearly stated in advance (e.g. typical timeline, procedure, and support provided), it will help to make the process as smooth and amicable as possible. **Exit interviews are a requisite part of this process in SAFE Labs.** They are invaluable for identifying aspects of the lab that work well, and which could be improved. However, exit interviews are often not implemented in academia.
 
 ## Suggestions
-- Encourage open discussion about career transitions
-- Define notice period expectations
-- Outline project handover procedures
-- Include data management requirements
-- Structure exit interviews with standard questions
-- Consider external interviewer for exit interviews
-- Support job/grant applications during transition
-- Maintain alumni network connections
-- Document knowledge transfer process
+- Encourage lab members to come to you freely if they are thinking of leaving.
+- Can lab members write grants for independence during regular work hours?
+- Will you read grant applications, and how much notice will you need?
+- How much notice should be given by lab members before leaving?
+- What are the handover steps? (e.g. knowledge transfer, labelling reagents, data storage).
+- The exit interview could be conducted by someone external to the lab to improve feedback.
+- Exit interviews should have standard questions and identify the reason for leaving the lab.
+
+## Template
+I aim to provide lab members with mentorship and support to secure the next career step in their career. Job or grant applications, and preparing for subsequent interviews, takes time. Typically, after discussions during 1-on-1 meetings, I support dedicating up to 25% of research time to this endeavour.
+
+I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearse interview talks. However, academia is one of many available career paths. For career paths outside academia, the institute, and external organisations (e.g. Nature Jobs fair), offer events and workshops. I support lab members making use of these resources.
+
+I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible, preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience.
 
 ## Examples
 
@@ -319,7 +324,7 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI
 >    * PI reviews and approves or suggests revisions
 >* Code handed off to another RA, this code must be re-run by the receiving RA
->* [Admin tasks](https://github.com/uchicago-bfi-gnlab/lab_manual_private/wiki/Lab-Admin-Tasks) handed off to another RA
+>* Admin tasks handed off to another RA
 >* Work you are proud of
 >    * Record the backgrounder you are most proud of in examples
 >    * Record the issue ticket(s) you are most proud of by sending them to us in Slack

@@ -1,24 +1,33 @@
 # I commit to publicly document green initiatives in the lab and any explicit rules related to sustainability
 
-This page collects real-world examples of lab sustainability initiatives from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own green initiatives here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective sustainability policies!
+This page collects real-world examples of lab sustainability initiatives from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own green initiatives here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 Laboratories consume a lot of energy and produce a lot of waste. Group leaders are able to promote measures that reduce the environmental impact of scientific research, and prospective lab members may use environmental awareness as a factor when choosing labs.
 
 ## Suggestions
-- Require sustainable transport options when travel time is less than 8 hours
-- Recycle non-hazardous waste
-- Place orders in bulk to reduce shipments
-- Have a list of instruments you are happy to share with your internal collaborators
-- Donate unused equipment within/outside the institutions
-- Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes)
+- Require sustainable transport options when travel time is less than 8 hours.
+- Recycle non-hazardous waste.
+- Place orders in bulk to reduce shipments.
+- Have a list of instruments you are happy to share with your internal collaborators.
+- Donate unused equipment within/outside the institutions.
+- Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes).
+
+## Template
+The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+
+Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, I will cover the most sustainable travel option (up to double the price of the cheapest alternative). I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work related) trips. I incentivise sustainable options for daily commute: PhD students enrolled at University of Trento benefit from free public transportation across the Trentino region; all the lab members can participate in an annual contest where commuting mileage is logged and scored according to sustainability of the means of transport, the person who accrues the most points wins.
+
+Recycling: To minimise the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local regulations.
+
+Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
 ## Examples
 
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
->Before making travel plans, we encourage lab members to consult the ULB’s [incentive programs for green travel](https://portail.ulb.be/fr/actualites/institution/la-politique-de-voyages-responsables-entre-en-application). For conferences attended as a group, we typically make a group purchase.
+>Before making travel plans, we encourage lab members to consult the ULB’s [incentive programs for green travel](https://www.ulb.be/fr/gestion-environnementale/politique-de-voyages-responsables). For conferences attended as a group, we typically make a group purchase.
 >
 >We encourage lab members to take advantage of the ULB’s [incentives for sustainable commuting](https://portail.ulb.be/en/campus-life/home-work-campus-commuting-expenses) (e.g. cycling and public transport). Recipients of FNRS grants can also receive compensation, information can be found under the [HR documents](https://www.frs-fnrs.be/en/documents-utiles-rh) section.
 >
@@ -69,7 +78,7 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided
-for experimental or safety reasons, we have rules in place to minimize our footprint as much as possible:
+>for experimental or safety reasons, we have rules in place to minimize our footprint as much as possible:
 >
 >Travels: Team members are required to travel by train or similar public transport means for trips <8h. Exceptions need to be discussed with the PI. SISSA employees can get a 10%discount on all Freccia travels, including private ones.
 >
@@ -80,7 +89,7 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >Shared facilities: We have quite a large number of shared facilities and equipment. These are managed by the technical staff and can be used by all SISSA labs.
 
 
->_[RossiLab](https://rossilab.iit.it/home)_:
+>_[RossiLab_2025](https://rossilab.iit.it/home)_:
 >
 >The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
 >
@@ -90,7 +99,7 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
->_[MariottiLab](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
+>_[MariottiLab_2025](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_:
 >
 > Travel: I actively promote the use of sustainable transport options, both for long-haul travel and daily commuting. For long-distance trips, I prioritize covering the most environmentally friendly travel options whenever funding permits.
 >
@@ -101,9 +110,9 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_:
 >
 >Research inevitably consumes energy and generates waste, but we can—and should—strive to minimize our environmental footprint. All lab members are expected to act responsibly and adopt sustainable practices whenever possible.
-- **Waste Management**: Ensure proper disposal of hazardous materials. If you’re unsure about how to discard a substance, consult safety data sheets or ask for guidance. Always recycle when appropriate.
-- **Energy Use**: Be mindful of electricity consumption. Turn off lights, equipment, and appliances when they are not in use.
-- **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.
+>- **Waste Management**: Ensure proper disposal of hazardous materials. If you’re unsure about how to discard a substance, consult safety data sheets or ask for guidance. Always recycle when appropriate.
+>- **Energy Use**: Be mindful of electricity consumption. Turn off lights, equipment, and appliances when they are not in use.
+>- **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:

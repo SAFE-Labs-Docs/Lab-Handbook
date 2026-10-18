@@ -1,19 +1,23 @@
 # I commit to publicly document my expectations for working hours, remote working, and vacation
 
-This page collects real-world examples of work-life balance policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of work-life balance policies from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Lab rules for working hours should be clear to avoid any conflict or misunderstanding inside the lab. Having clear expectations for working hours can also increase equity between lab members. Moreover, group leaders need to ensure that lab members feel safe to correctly balance their work in the lab with their life. The lab policy regarding work hours, remote working, and vacation should be explicitly included.
+Lab rules for working hours should be clear to avoid any conflict or misunderstanding inside the lab. Having clear expectations for working hours can also increase equity between lab members. Moreover, group leaders need to ensure that lab members feel safe to correctly balance their work in the lab with their life. **The lab policy regarding work hours, remote working, and vacation should be explicitly included.**
 
 ## Suggestions
-- Should notice of holidays be given, and how?
+- Should notice of holidays be given and how?
 - Are there core-working hours (typically less than the full working hours)?
 - Should lab members schedule messages if sent outside of working hours?
 - What times are appropriate times for scheduling meetings?
-- Establish clear policies for vacation requests and approval
-- Define expectations for remote work arrangements
-- Specify communication protocols outside working hours
-- Document policies for flexible working arrangements
+
+## Template
+I am committed to creating a healthy work environment for all lab members. I anticipate all lab members taking a minimum of [institution’s] prescribed days of annual leave. “Minimum” because if experiments/conferences necessitate working on a weekend, I support lab members taking time off to compensate. I hope to schedule all meetings within [institution’s] “core” work hours, and will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
+
+All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to "three") once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, travelling/visiting family abroad or writing up a thesis/grant.
+
+## Note
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.
 
 ## Examples
 
@@ -182,7 +186,7 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 >Remote work may be permitted under specific circumstances (e.g., thesis writing, short-term personal needs) and should be agreed upon with the PI.
 >
 >**🌴 Vacation and Time Off**
-All lab members are **encouraged to take their full annual leave**, as defined by their employment contract. Taking regular breaks is vital for maintaining mental and physical health.
+>All lab members are **encouraged to take their full annual leave**, as defined by their employment contract. Taking regular breaks is vital for maintaining mental and physical health.
 >
 >Vacation plans should be communicated in advance to avoid disruptions to ongoing lab activities.
 >
@@ -226,7 +230,7 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >Once the Monday meeting is over, the week's research starts right away. Some people who live nearby finish the morning meeting at home and then come to ISSP, while people who live far away come to ISSP in time for the start of the Monday meeting. This is left to each person's judgment. We do not set any particular core time either, but the members' rough schedules are shared on a web calendar. Unless told otherwise, we assume you are at ISSP during weekday daytime, so please always let us know when you take time off.
 
 ### Netherlands
-> _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_
+>_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >**Working days**: All team members are expected to be physically present at the department on Mondays, Tuesdays, and Thursdays (unless you are on leave or there is a symposium / conference you need to attend). On Wednesdays and Fridays everyone is free to choose whether they want to work from home (which most of us do) or at the department. Note that some team members work 4 (instead of 5) days a week.
 > 
@@ -449,6 +453,8 @@ All lab members are **encouraged to take their full annual leave**, as defined b
 >The lab does not have hours. Science does not sleep. But you, lab member, do need to sleep.
 >
 >You are also encouraged and expected to take time away from the lab - vacation, personal, mental health days. The reasons for a short (one day) absence need not be made public, but any absence should be on the Denman Lab shared calendar as soon as it is scheduled. Planned longer absences should be discussed with Dan at least two weeks beforehand, and again added to the shared calendar.
+
+_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >

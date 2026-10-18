@@ -1,21 +1,13 @@
 # I commit to publicly document my support for, and implementation of, the SAFE Labs Handbook
 
-This page collects real-world examples of SAFE Labs Handbook implementations from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective implementation strategies!
+This page collects real-world examples of SAFE Labs Handbook implementations from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-This consists of three required steps:
+This consists of three **required** steps:
+
 1. Feature the SAFE Labs logo on your website.
 2. Join the SAFE Labs mailing list.
 3. Link to the SAFE Labs Handbook for accountability and feedback from lab members.
-
-## Suggestions
-- Display the SAFE Labs logo prominently on your lab's website
-- Ensure all lab members are aware of the handbook and its contents
-- Regularly review and discuss the handbook's implementation in lab meetings
-- Create clear documentation of which commitments have been implemented and which are in progress
-- Schedule periodic reviews of handbook implementation
-- Solicit feedback from lab members on handbook effectiveness
-- Share success stories and challenges with the SAFE Labs community
 
 ## Examples
 

@@ -1,19 +1,33 @@
 # I commit to publicly document an overview of the regular meetings in the lab, and my expectations for participation
 
-This page collects real-world examples of lab meeting schedules from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of lab meeting schedules from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Labs often have a variety of regular meetings, including 1-on-1 meetings, lab meetings and journal clubs. However, the expectations for the contents of these meetings are rarely documented, leading to misunderstandings and uncertainty. Clear documentation not only reveals useful information about lab life, but also ensures that meetings are more effective and fruitful. As a minimum, this should include the frequency, duration, and the agenda for each type of meeting.
+Labs often have a variety of regular meetings, including 1-on-1 meetings, lab meetings and journal clubs. However, the expectations for the contents of these meetings are rarely documented, leading to misunderstandings and uncertainty. Clear documentation not only reveals useful information about lab life, but also ensures that meetings are more effective and fruitful. **As a minimum, this should include the frequency, duration, and the agenda for each type of meeting.**
 
 ## Suggestions
-- Discuss 1-on-1 meeting frequency at onboarding, and review in annual appraisals
-- Create a shared space where past presentations can be accessed
+- Discuss 1-on-1 meeting frequency at onboarding, and review in annual appraisals.
+- Create a shared space where past presentations can be accessed.
 - Encourage participation and involvement from all lab members, for example:
-  1. Round table feedback
-  2. Lab members write down their thoughts, then all of them are read
-  3. Allocate time in meetings for problem solving and a brainstorming session
-  4. Have a meeting facilitator and/or note taker; rotate among lab members
-- Conduct regular team-building activities (e.g. lab retreat, dinners, celebrations)
+    1. Round table feedback
+    2. Lab members write down their thoughts, then all of them are read.
+    3. Allocate time in meetings for problem solving and a brainstorming session.
+    4. Have a meeting facilitator or note taker; rotate among lab members.
+- Conduct regular team-building activities (e.g. lab retreat, dinners, celebrations).
+
+## Template
+Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:
+
+Lab Meetings: Each lab member will host our weekly lab meeting on a rotating schedule, presenting an informal progress report. These reports, lasting 20-30 minutes, should succinctly introduce your project, highlight the main research questions, and focus on recent achievements and challenges. This allows for productive group discussions to advance your project. Lab meetings are typically held once per week within core working hours, lasting 60 to 90 minutes. Progress report presentations are accessible via our lab’s shared resources.
+
+Journal Club: On a rotating schedule, each lab member will present the core hypotheses, methods, results, and conclusions of a recent original research paper relevant to our lab’s research in our monthly journal club. All members are expected to read the paper and actively participate in discussing its strengths, weaknesses, and key takeaways. The journal club is typically held once per week within core working hours and lasts about 60 minutes.
+
+1-on-1 Meetings: I schedule bi-weekly 1-on-1 in-person meetings which each lab member, typically lasting around 1 hour, during core work hours [details below]. These meetings are designed to support you in successfully implementing your research project. I am also available for additional meetings upon request.
+
+Yearly Appraisals: I will review your project's long-term progress and provide tailored feedback on your work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab, and under my supervision.
+
+## Note
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.
 
 ## Examples
 
@@ -317,7 +331,7 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 >
 >Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:
 >1. On Monday or Tuesday (see Gcal for the lab), our own CoCoSys lab meeting
->2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and _CO-squared_ joint lab meeting.
+>2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/practical/Working%20time%20and%20meetings.html) and _CO-squared_ joint lab meeting.
 >
 >Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
 
@@ -714,12 +728,12 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
-
+>
 >**Weekly general lab meetings**: Lab meetings will occur weekly at a time voted on by all lab members at the start of each academic term. A meal will be provided to all in-person participants. Lab meetings will be carried out jointly with [the Harimoto Lab](https://www.harimotolab.com/) for the time being. The following proposed format is subject to change pending discussion with Prof. Harimoto.
 >1. Lab meetings will begin with a discussion of announcements and news (~5 minutes). 
 >2. Next, any topics requiring lab discussion will be addressed (~10 minutes). If the topic requires more than 10 minutes of discussion, a separate meeting with those involved will be scheduled to address the issue. 
 >3. The bulk of the lab meeting (45–60 minutes) consists of a lab member presenting an informal progress report on their research on a rotating schedule. These reports should succinctly introduce your project, highlight the main research questions, and focus on recent achievements and challenges. This allows for productive group discussions to advance your project. Progress report presentations are accessible via our lab’s shared resources.  Presenters should expect frequent questions and interaction.
-
+>
 >**One-on-one meetings**: Pablo runs weekly one-on-one meetings with each lab member, typically lasting 45 minutes. These meetings are designed to support lab members in achieving their goals in scientific and career development, including the successful implementation of research projects. The structure of these meetings involves setting and reviewing goals for research projects and the lab member's career at MsEE Lab. Pablo will also ask for feedback on mentorship strategy. Pablo is also available for additional (or fewer) meetings upon request.
 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:

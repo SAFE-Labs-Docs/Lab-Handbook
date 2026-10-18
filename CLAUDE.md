@@ -22,9 +22,9 @@ There is no package.json, Makefile, test suite or local preview script. Preview 
 
 ## Conventions
 
-- Each commitment exists in two places that must stay in sync in spirit: its `<details>` block in the root `README.md` (Details, Suggestions, Template) and its folder `README.md` (`## Details`, `## Suggestions`, `## Examples`). Editing a commitment's wording usually means touching both.
-- Folder READMEs open with `# I commit to ...` as the title, then a short contribution invitation, then `## Details`, `## Suggestions` (bullet list), `## Examples`.
-- Examples are grouped under `### <Country>` headings, each as a blockquote (`>`) starting with an italic linked lab name such as `_[LabName_2026](url)_:`. New examples go under the matching country; add a new country heading if needed.
+- Each commitment exists in two places that must say the same thing: its `<details>` block in the root `README.md` (Details, Suggestions, Template, Note) and its folder `README.md` (`## Details`, `## Suggestions`, `## Template`, `## Note`, `## Examples`). The root block is the source; the folder copy is the same text in Markdown, and it is what safelabs.info publishes as the handbook. Editing a commitment's wording means touching both.
+- Folder READMEs open with `# I commit to ...` as the title, then a short contribution invitation, then `## Details`, `## Suggestions` (bullet list), `## Template` and `## Note` where the root block has them, then `## Examples`.
+- Examples are grouped under `### <Country>` headings, each as a blockquote (`>`) starting with an italic linked lab name such as `_[LabName_2026](url)_:` on a line of its own, then `>`, then the text. Every line of an example starts with `>`, blank lines included (a bare blank line ends the quote, and the next paragraph renders as an unattributed quote). New examples go under the matching country; add a new country heading if needed.
 - The root README uses raw HTML inside `<details>`/`<summary>` (`<b>`, `<br/>`, `<i>`), not markdown, for each commitment. Match the existing block when adding or editing one.
 - Each root-README block ends with a link to `https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/<folder>`; keep it pointing at the right folder if you rename one.
 - Verbs are defined in the root README `## Key terminology` (document, publicly document, establish); use them consistently in commitment headings (`**I commit to _publicly document_ ...**`).

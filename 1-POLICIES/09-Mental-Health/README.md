@@ -1,16 +1,25 @@
 # I commit to document available resources to support mental health
 
-This page collects real-world examples of mental health support resources from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective mental health support policies!
+This page collects real-world examples of mental health support resources from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-Thankfully, awareness and support for mental health issues within work environments is at an all-time high. It is likely that these issues will arise within any research group at some time, and it is equally likely that the group leader is not qualified to offer advice or guidance—particularly given the potential for a conflict-of-interest. It is therefore critical that lab members are made aware of the resources available to them at both an institutional and national level.
+Thankfully, awareness and support for mental health issues within work environments is at an all-time high. It is likely that these issues will arise within any research group at some time, and it is equally likely that the group leader is not qualified to offer advice or guidance, particularly given the potential for a conflict-of-interest. It is therefore critical that lab members are made aware of the resources available to them at both an institutional and national level.
 
 ## Suggestions
-- Should lab members approach you with work-related and/or non-work-related issues?
-- Educate lab members on mental health, and how to prevent and recognise arising issues
-- Document institutional resources for psychological support
-- Highlight the institutional policy on mental health and sick leave
-- Promote good practices to safe-guard mental health (e.g. work-life balance)
+- Should lab members approach you with work-related or non-work-related issues?
+- Educate lab members on mental health, and how to prevent and recognise arising issues.
+- Document institutional resources for psychological support.
+- Highlight the institutional policy on mental health and sick leave.
+- Promote good practices to safe-guard mental health (e.g. work-life balance).
+
+## Template
+Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia (https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed working regular work hours. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support, I encourage you to consider the following resources:
+
+Counselling Services: Our institution offers free counselling services [Insert Link] and free 1-on-1 coaching [Insert Link] for all students and employees. Please also consult the institute’s resources on a healthy work-life balance [Insert Link].
+
+Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [Insert Link].
+
+Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].
 
 ## Examples
 

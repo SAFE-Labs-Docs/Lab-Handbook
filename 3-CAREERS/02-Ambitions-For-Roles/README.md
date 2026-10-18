@@ -1,17 +1,24 @@
 # I commit to publicly document my ambitions for the duration and publication outputs for each lab role
 
-This page collects real-world examples of role ambitions and expectations from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective role ambition policies!
+This page collects real-world examples of role ambitions and expectations from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
 Science is impossible to predict, and no one can guarantee the outcome of a given PhD or postdoctoral research position. However, group leaders vary in their expectations for what a typical PhD/postdoctoral research project should involve. Making the ambitions (despite the variability inherent to science) for each role clear should reduce expectation mismatch between new lab members and group leaders.
 
 ## Suggestions
-- Include any institutional/country-based requirements for PhDs (e.g. max length, publications)
-- Provide statistics on how long lab members typically stay in the lab
-- Document and discuss ambitions for application to fellowships and additional funding
-- Be transparent about publication expectations and timelines
-- Clarify opportunities for career development and training
-- Outline mentoring and supervision structure
+- Include any institutional/country-based requirements for PhDs (e.g. max length, publications).
+- Provide statistics on how long lab members typically stay in the lab.
+- Document and discuss ambitions for application to fellowships and additional funding.
+
+## Template
+Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:
+
+**PhD students** in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.
+
+**Postdoctoral researchers** typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract's timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).
+
+## Note
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.
 
 ## Examples
 
@@ -218,7 +225,7 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >
 >Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
 >The most important goal of all lab members is to develop as scientists (except for the PI and any long-term research scientist, see below). The ways in which this scientific and career development happens differ by role:
-
+>
 >- *PhD students:* PhD students aim to gain enough expertise in a field to be able to teach themselves and others about new knowledge they contribute to it.
 >- *Masters students:* Masters students aim to gain enough expertise in a field to use its tools and knowledge with mastery.
 >- *Undergraduate students:* Undergraduate students aim to learn about a field enough to decide whether and how they'd like to pursue it.
@@ -226,25 +233,25 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 >- *Research technicians:* Short-term technicians aim to learn about a field with the same goal as an undergraduate and perhaps begin developing work in the field to allow for a next career step.
 >- *Research scientists:* Long-term research scientists aim to carry out research projects and training of other lab members.
 >- *Principal Investigator:* The Principal Investigator (PI, Pablo) aims to help other lab members achieve their goals while advancing a coherent research vision (in MsEE Lab's case, building the field of research of evolutionary engineering).
-
+>
 >Scientific and career goals are should be examined and discussed in detail and often by all lab members. Using the above goals as templates, backwards design allows us to set milestones that help us achieve these goals and action items necessary to complete those milestones.
-
+>
 >**What does a PhD mean?**: [A PhD stands for "philosophiae doctor", literally "teacher".](https://mseelab.substack.com/p/what-is-a-phd) It signals that its bearer knows a field well enough to be able to teach about it. Teaching is a ubiquitous skill: every type of job involves training others in the skills required and/or explaining the job's importance to others. Because of this, a PhD is valuable across any number of jobs beyond "just" teaching positions (though perhaps not necessary for most of them).
-
+>
 >The way that a PhD guarantees someone is able to teach is by expecting PhDs to make a new contribution to a field of knowledge. Since you must be sure that the new knowledge is actually new, you must know the field of knowledge in depth. Since nobody can teach you knowledge that doesn't yet exist, it means you taught it to yourself, so you must be able to teach (at least to yourself—most PhD programs can do a better job of teaching how to teach, though).
-
+>
 >If you've decided you want to know a field of knowledge well enough to teach it and help expand it, then a PhD can be for you! A PhD is not the only way of achieving this, but it does offer a reliable opportunity to be able to do this with stability for a number of years. [More thoughts on Substack: _"What is a PhD?"_](https://mseelab.substack.com/p/what-is-a-phd)
-
+>
 >**What does a PhD look like?**: 
-
+>
 >The challenges and experiences of a PhD break down into three chapters, each characterized by positive and negative feelings that stem from the central struggles of each stage. They include:
-
+>
 >1. **The Jump** (years ~1–2): excitement and anxiety when evaluating possible paths
 >2. **The Slog** (years ~3–4): freedom and disorientation in self-directed research
 >3. **The Push** (years ~5–6): mastery and overextension while concluding work and eyeing next steps
-
+>
 >There are [many strategies that we build in at each stage](https://mseelab.substack.com/p/what-does-a-phd-look-like) to maximize the positive feelings and minimize the negative ones. [More details on Substack: _"What does a PhD look like?"_](https://mseelab.substack.com/p/what-does-a-phd-look-like)
-
+>
 >Cornell PhD students in the Graduate Field (program) of Chemical and Biomolecular Engineering typically graduate after completing five years in the PhD program, and although students at MsEE Lab may come from a variety of different Graduate Fields, we hold the same expectations for graduate students regardless of the Field they belong to. Students are advised to consult their Graduate Field Student Handbook ([e.g. the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) to make sure they fulfill any Field-specific requirements. Regardless of Field, it is our aim for each student to contribute to at least three projects during their time in the lab ([explained in more detail here](https://mseelab.substack.com/p/what-is-a-phd)), with the expectation that one of them leads to a first (or co-first) authored publication. PhD projects are selected in discussion with the student with this aim in mind. We aim to at least have this publication published as a preprint by the time the student leaves the lab.
 
 >_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:

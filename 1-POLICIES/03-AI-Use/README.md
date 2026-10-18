@@ -1,17 +1,20 @@
 # I commit to publicly document expectations for the use of AI tools in research and writing
 
-This page collects real-world examples of lab AI-use policies from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own AI-use expectations here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective AI-use policies!
+This page collects real-world examples of lab AI-use policies from around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own AI-use expectations here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-The use of AI tools (e.g., large language models, code-generation tools, image generators) is growing across research workflows. Public guidance ensures transparency, academic integrity, and consistent practices—covering acceptable use, disclosure, verification, and privacy.
+The use of AI tools (e.g., large language models, code-generation tools, image generators) is growing across research workflows. Public guidance ensures transparency, academic integrity, and consistent practices, covering acceptable use, disclosure, verification, and privacy.
 
 ## Suggestions
-- Define which tools are allowed and for which tasks (drafting, coding, figures, analysis)
-- Clarify acceptable use and credit: how AI text/code may be used, edited, cited
-- Set disclosure rules: when/how AI use must be reported internally and in publications
-- Require verification of all AI outputs (facts, citations, code, logic)
-- Address privacy/confidentiality: do not input sensitive data; review each tool's data policy
-- Promote training and discussion on risks and best practices
+- Define which tools are allowed and for which tasks (drafting, coding, figures, analysis).
+- Clarify acceptable use and credit: how AI text/code may be used, edited, cited.
+- Set disclosure rules: when/how AI use must be reported internally and in publications.
+- Require verification of all AI outputs (facts, citations, code, logic).
+- Address privacy/confidentiality: do not input sensitive data; review each tool’s data policy.
+- Promote training and discussion on risks and best practices.
+
+## Template
+AI language models may be used for grammar, spelling, and style checks; for writing and debugging code; and for literature searches. Copy‑pasting complete AI‑generated paragraphs is not allowed; AI output should be treated as a draft and edited for accuracy and voice. AI‑generated code can be used to analyse or plot data provided it is thoroughly reviewed and tested. All literature information retrieved via AI must be fact‑checked against primary sources, as AI tools can hallucinate or be biased. Before using any AI tools, ensure compliance with our institute’s data privacy and confidentiality policies. We will revisit and refine these guidelines during yearly research‑integrity meetings.
 
 ## Examples
 

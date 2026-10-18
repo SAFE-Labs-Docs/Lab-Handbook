@@ -1,19 +1,21 @@
 # I commit to publicly document guidelines for completing previous work after joining the lab
 
-This page collects real-world examples of policies for handling prior work commitments from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective prior work policies!
+This page collects real-world examples of policies for handling prior work commitments from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-We are all familiar with the experience of joining a new lab whilst still having outstanding academic work from a previous position. It is important to discuss this process with all new lab members to ensure that they progress to new projects in a timeframe that works for everyone. Discussing this policy is a required component of the onboarding process for postdoctoral researchers.
+We are all familiar with the experience of joining a new lab whilst still having outstanding academic work from a previous position. It is important to discuss this process with all new lab members to ensure that they progress to new projects in a timeframe that works for everyone. **Discussing this policy is a required component of the onboarding process for postdoctoral researchers.**
 
 ## Suggestions
-- Arrange flexible start dates for completion of prior work
-- Acknowledge unpredictable timelines for paper revisions
-- Define reasonable time allocation for past work
-- Include policy for independent projects
-- Address co-authorship with previous lab
-- Set milestones for transitioning to new work
-- Outline communication with previous PI
-- Consider impact on current project timelines
+- Arrange for lab members to start later if they have significant work ongoing.
+- Acknowledge that it is difficult to predict this timeline.
+- What proportion of time is reasonable to allocate to past work?
+- A similar approach can be applied to independent or personal projects or commitments.
+
+## Template
+I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.
+
+## Note
+While we recommend this commitment is publicly documented, based on user feedback, it is sufficient for it to be internally documented.
 
 ## Examples
 

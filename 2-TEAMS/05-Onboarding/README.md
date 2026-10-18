@@ -1,21 +1,26 @@
 # I commit to document the onboarding procedure for new lab members
 
-This page collects real-world examples of onboarding procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, simply create a pull request adding your commitment under the appropriate country section.
+This page collects real-world examples of onboarding procedures from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own approach here. To contribute, open a pull request that adds your example to this README under `## Examples`, below the `###` heading for your country (add the heading if it is missing, naming the country as the map does, such as United States or United Kingdom). Write the example as `>_[LabName_YEAR](URL)_: text`, quoting your text exactly and starting every further line of it with `>`, blank lines included, and leave a blank line after the country heading and between examples. The link is optional, but only linked examples appear on the safelabs.info map.
 
 ## Details
-A clear onboarding process should not only ensure that lab members complete essential administrative processes, but also that each lab member starts with the same level of pastoral support and lab-integration. This process must include the sharing and discussion of this SAFE Labs Handbook.
+A clear onboarding process should not only ensure that lab members complete essential administrative processes, but also that each lab member starts with the same level of pastoral support and lab-integration. **This process must include the sharing and discussion of this Lab Culture Handbook.**
 
 ## Suggestions
-- Send general email to introduce new lab members
-- Signing a contract/being added to payroll
-- Getting an ID & institutional email address
-- Fire/safety inductions
-- Lab access
+- Send general email to introduce new lab members.
+- Signing a contract/being added to payroll.
+- Getting an ID & institutional email address.
+- Fire/safety inductions.
+- Lab access.
 - Joining lab calendar/wiki/slack etc.
-- Assigning a workstation
-- Schedule 1-on-1 meetings with the group leader, and discuss their frequency
-- Mandatory institutional courses
-- Pairing with a "lab buddy" to act as a point of contact etc.
+- Assigning a workstation.
+- Schedule 1-on-1 meetings with the group leader, and discuss their frequency.
+- Mandatory institutional courses.
+- Pairing with a “lab buddy” to act as a point of contact etc.
+
+## Template
+Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Insert Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
+
+Unless I am travelling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.
 
 ## Examples
 
@@ -56,6 +61,7 @@ A clear onboarding process should not only ensure that lab members complete esse
 >* Publishing and authorship expectations;
 >* Expectations to apply for external funding; and,
 >* Responsibility for research ethics.
+>
 >In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.
 
 ### Denmark
@@ -180,7 +186,7 @@ A clear onboarding process should not only ensure that lab members complete esse
 >
 >1. Ask Yael Lepek to pool your userID to this department and connect you to any services you may need to use (at least WEXAC and email will be necessary, and RSA very useful), note, if you have userID in other department, pooling you will erase your old server folder.
 >2. Ask Yael to add you to the lab dropbox.
->3. Order a computer – available options are found at the [DIS site](http://www.weizmann.ac.il/DIS/computing-hardware/pc/windows-laptops) Check with Itay before ordering.
+>3. Order a computer – available options are found at the DIS site Check with Itay before ordering.
 >4. Natali Yikne supplies the network cable, opens the network connection point near to your desk and makes your registration to the internet - for that, you will have to supply your ETHERNET code (found on the Ethernet outlet) and the computer’s MAC address.
 >5. Ask Itay to get the lab google calendar so you can update and know future plans.
 >6. If you’re a foreigner, go to the FGS for help to set up banking and insurance.
@@ -225,7 +231,9 @@ A clear onboarding process should not only ensure that lab members complete esse
 >The choice of research topic is affected by boundary conditions such as the state of the Matsunaga lab's experimental equipment and the projects Matsunaga is running. Through the lab visit before the graduate entrance examination, the oral examination, and the interview after admission, taking into account what kind of research each member is interested in, how concretely they picture their research, and how they think about their career plan, Matsunaga proposes several candidates for the first topic. We then narrow them down through discussion. We set the topic keeping in mind that it should be one the person enjoys working on, that they should have a research subject clearly distinct from the other members', and that they should work hard in a situation where nothing moves forward unless they push it.
 
 ### Netherlands
-> _[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/):_ The full onboarding document is still under construction, but as an example some snippets are provided here:
+>_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
+>
+>The full onboarding document is still under construction, but as an example some snippets are provided here:
 > 
 > As a PhD student, you will first be enrolled in the Amsterdam UMC doctoral school. You can find further information about the doctoral school, which also provides many interesting courses that you can follow [here](https://www.amsterdamumc.org/en/phd-student.htm). At the beginning of your PhD you need to contact the doctoral school to register and complete a form about the content of your PhD and your supervision team (co-promotor(s) and promotor(s)).
 > 
@@ -370,9 +378,9 @@ A clear onboarding process should not only ensure that lab members complete esse
 
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd)_:
 >
->1. Read the [GCRG Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+>1. Read the [GCRG Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd).
 >2. If you're a PhD student, check out Malin's [Notes on a PhD Degree](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd) (also has some useful postdoc-related resources)
->1. Read the [GCRG Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
+>1. Read the [GCRG Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.qmd).
 >1. Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a key for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
 >1. Make a [GitHub](https://github.com/) account if you don't have one already.
 >1. Ask Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Roy Roberts).
@@ -380,6 +388,8 @@ A clear onboarding process should not only ensure that lab members complete esse
 >1. Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
 >1. Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have webpage, they can help you make a page on our website.
 >1. Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
+
+_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[RIPLRT_2026](https://doi.org/10.5281/zenodo.23146333)_:
 >

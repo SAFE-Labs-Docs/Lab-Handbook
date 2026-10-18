@@ -50,6 +50,8 @@ Looking ahead, we envision the SAFE Labs Handbook becoming:
 Let's build a culture in science that supports people as well as progress.<br/>
 If you have questions or suggestions for the handbook, please start a thread in the [SAFE Labs Discussions](https://github.com/SAFE-Labs-Docs/Lab-Handbook/discussions).<br/>
 
+**Licence:** the handbook text written by the SAFE Labs organisers (the commitments, details, suggestions and templates) is free to use and adapt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it into your own lab handbook, change it as you need, and credit SAFE Labs. The community examples remain their labs' own, and the SAFE Labs logo is not covered ([its terms](https://safelabs.info/the-labs/#the-safe-labs-logo)).
+
 **Update (2025-12-12):** Two new commitments added following the 2025 SAFE Labs workshop review: AI-use expectations (publicly documented) and record-keeping expectations (documented).
 
 ---

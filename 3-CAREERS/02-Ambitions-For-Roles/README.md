@@ -133,6 +133,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
 
+### South Korea
+
+>_[DLILab_2026](https://dli.yonsei.ac.kr/apply)_:
+>
+>DLI Internship Program is designed to empower participants to take the lead in developing their own research projects, with group members and leader providing support and guidance. Throughout the program, participants will engage in the full research cycle, from formulating hypotheses to conducting experiments, analyzing data, and synthesizing results. The program’s ultimate goal is for each participant to reach a level of research quality that enables them to submit their work as the first author to a top-tier conference.
+
 ### Taiwan
 >_[PEARLab_2026](https://ewz9.github.io/lab_handbook/graduate)_:
 >

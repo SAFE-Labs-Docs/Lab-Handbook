@@ -311,6 +311,26 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >- An Hiring Assessment Test probing general logic and reasoning skills, with solutions discussed in a zoom call
 >- A Hiring Day, with onsite presentation of your previous scientific work, an interview with the lab head, talks with all of your prospective colleagues, interviews with other faculty members
 
+### South Korea
+
+>_[DLILab_2026](https://dli.yonsei.ac.kr/apply)_:
+>
+>Application Process
+>
+>We prefer applicants who are considering joining our lab as future graduate students.
+>
+>- Application Screening
+>
+>Our team will carefully review all submitted applications, including academic transcripts, CVs, and optional materials such as GitHub profiles or personal statements. This step allows us to assess each applicant's background, research experiences, and alignment with our lab's goals.
+>
+>- Interview and Discussion
+>
+>Selected applicants will be invited for an interview. During the interview, you will have the opportunity to discuss your academic and research experiences, as well as your aspirations. Candidates may also be asked to engage in a discussion about a research paper to evaluate their analytical abilities and foundational knowledge in CS/AI.
+>
+>- Final Decision and Matching
+>
+>Successful candidates will receive notification of their acceptance into the program within 2 weeks. Upon selection, each intern will be matched with a graduate student mentor who will support them throughout the research project.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

@@ -317,6 +317,18 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >- An Hiring Assessment Test probing general logic and reasoning skills, with solutions discussed in a zoom call
 >- A Hiring Day, with onsite presentation of your previous scientific work, an interview with the lab head, talks with all of your prospective colleagues, interviews with other faculty members
 
+### Singapore
+
+>_[DeepNeuroCognitionLab_2026](https://a0091624.wixsite.com/deepneurocognition-1/join-us)_:
+>
+>Have fixed deadlines annually, plan early. Admission to phd programs is PI-based at our school. If you are interested in applying for a PhD position with our lab, please email me directly to arrange a separate interview. Simply submitting an application through the central PhD student pool will not be considered, as I do not review those submissions.
+>
+>The application for PhD programs starting from August AY26/27 is now open: application portal
+>
+>There are multiple Ph.D. scholarships available in the lab. Students will obtain Ph.D. degree from College of Computing and Data Science, Nanyang Technological University (NTU), Singapore.
+>
+>Students must be willing to work on multi-disciplinary research projects at the intersection of computational neuroscience and AI. This includes designing human behavioral experiments and collecting human responses, alongside developing computational models of cognitive functions (visual attention, eye movements, visual perception, memory, context reasoning, and multi-agent decision making). Check out our publication site for representative works. Email me your CV and research statement if you are interested.
+
 ### South Korea
 
 >_[DLILab_2026](https://dli.yonsei.ac.kr/apply)_:

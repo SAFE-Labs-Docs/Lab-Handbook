@@ -117,6 +117,17 @@ The institutional language at the Italian Institute of Technology is English; no
 >
 >The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. The institutional language at Leiden University and in the Cognitive Psychology Unit is English; nonetheless, many administrative exchanges and Dutch bureaucracy are still in Dutch.
 
+### Singapore
+
+>_[DeepNeuroCognitionLab_2026](https://a0091624.wixsite.com/deepneurocognition-1/join-us)_:
+>
+>Basic language tests to pass the admission criteria: TOEFL (above 100); IELTS (above 6.5); GRE (Q+V=319, AW-=3.5);
+>
+>\*TOEFL and IETLS are compulsory for non-native English speakers
+>
+>Requirements for PhD positions in neuroAI:
+>- Language (proficient in English reading/writing; all one-to-one meetings/group meetings are conducted in English)
+
 ### United Kingdom
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:

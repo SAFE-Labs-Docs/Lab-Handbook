@@ -269,6 +269,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >| Keeping the lab tidy | Y | Y | Y | Y | Y |
 
 ### Germany
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>- My main role and responsibility in this group is to keep everyone **happy**,  **productive**, and **funded**. I promise to work with everyone to deliver this. If a member is systematically lacking either of them despite our best efforts, I also promise to do my best to help them find a better place. Throughout my career in science I saw many PhD students and post-docs lost years before they realized they were at the wrong place, and I am determined to not let that happen to anyone in our group.
+>
+>- Besides the group meetings, every member will at least have a 1-hour slot per week to have a private meeting with me. Unless I am traveling or sick. During the times of travel, I will do my best to meet you through Zoom, but most likely I will fail.
+>
+>- You will be free to walk into my office anytime if you have a question. If I am coding or writing something that takes lots of concentration and should not be interrupted, I will close my door or will not come in to work at all. If my door is open, you are welcome to come in and ask me anything.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >Our team is composed by researchers with different roles: postdoctoral researchers, graduate students, undergraduate (Master or Bachelor) students and research assistants. These roles, which may correspond to different career stages and seniority, typically come with different duties, responsibilities and expectations. These will be discussed at hiring and onboarding. Typically, postdocs and graduate students are expected to independently carry out research projects ranging from experimental work to data analysis and paper writing, as well as take part at the lab’s and institute’s regular meetings (see below). Postdocs are additionally expected to assist the PI in writing grants and reviewing papers. Graduate students will receive a larger degree of training and supervision, for example, via the Humboldt Graduate School (see below). Undergraduates and research assistants are not expected to independently carry out projects and will be supervised by a graduate student or postdoc. All full-time lab members are expected in helping to maintain the lab’s infrastructure and animal colonies. 
@@ -366,6 +374,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >**PhD student:** Reading and synthesizing relevant literature; Conducting independent research under supervision and with feedback; Publishing approximately 1 paper per year, with the goal of 4 papers for a 4-year PhD project; Following agreed upon postgraduate education; Networking with likeminded scholars, and exploring potential collaborations and future employment.
 >
 >**Research Assistant:** Performing well-defined research tasks; Reading assigned/agreed upon papers; Optionally contributing to papers as co-author.
+
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>**Research Fellow, Postdocs**
+>
+>- Develop an independent research direction aligned with lab mission.
+>- Lead projects; mentor students; co-author proposals and papers.
+>- Apply for fellowships/grants (e.g., Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship).
+>- Target job market readiness by year 2–3.
 
 ### United Kingdom
 

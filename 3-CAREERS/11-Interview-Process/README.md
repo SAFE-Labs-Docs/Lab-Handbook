@@ -98,6 +98,12 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >For perspective PhD students, please keep in mind that a slightly different system is in place. Most students join the lab through a fellowship granted by the PhD School Complexity of Life, which runs an annual competition, usually in July. Each PI will select only one candidate to present to the competition, and usually a project pre-proposal is posted on the dedicate portal ([adum.fr](https://adum.fr)) in February/March. Candidates are strongly encouraged to directly contact the PI, as no automatic emails are sent from the portal. The PI will make the selection, and directly discuss with the applicant in order to better define the proposed project. The chosen candidate will then submit the official candidature through the [adum.fr](https://adum.fr) portal, usually by the end of May. Candidates that are allowed to proceed to the competition, which features an interview with scientists affiliated to Sorbonne University, will be notified in June. The interview includes a presentation of usually 15 minutes describing past research and proposed project, followed by questions for about 10 minutes.
 
 ### Germany
+>_[MerenLab_2026](https://merenlab.org/opportunities/)_:
+>
+>Our group supervises doctoral students through multiple graduate programs, including those at the [University of Oldenburg](https://uol.de), the [POLMAR graduate school](https://www.awi.de/en/work-study/out-of-university/graduate-school-polmar.html) at AWI, and the [International Max Planck Research School for Marine Microbiology](https://marmic.mpg.de/) (MarMic). Funded positions are advertised when available, but we also welcome inquiries from students who wish to bring their own funding or apply for scholarships with our group.
+>
+>If you are interested in pursuing a Ph.D. with us, please send an e-mail to Meren with a brief description of your research interests and your CV. Meren carefully reads every single email and responds to every single one of them as long as they are not SPAM (including but not limited to copy-pasta from LLMs with zero relevance to our group expertise and/or current priorities).
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >As much as possible, hiring should not depend on personal biases such as the applicant's name or appearance or other personal characteristics. We strive to minimize such biases by using pre-defined job advertisement and recruiting processes and making hiring decisions based on a selection committee. 

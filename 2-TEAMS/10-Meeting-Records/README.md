@@ -64,6 +64,22 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >All lab members are requested to send a short summary email to the PI after each 1o1 meeting. These can be bullet-point style but should contain concrete plans/agreements/outcomes. This format ensures that there’s a paper trail of what has been discussed and agreed on, but also that the PI and the lab member have the same understanding of the discussed matter.
 
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>To keep track your work with fine-grained task history and reduce meeting time spent on recall, supports accountability and consistent actions, each of you should keep a work tracker and shall with me. It will help you and me keep track of the streams of work, what we discussed, what the actions and results, which tasks are completed, and which are ongoing.
+>
+>**How it works**
+>
+>- Structure (columns/fields):
+>    - Task/Objective (link to issue/ticket)
+>    - Context/Notes (what was tried, references)
+>    - Outcome/Result (metrics, artifacts) with date
+>    - Next Action(s) with owner and due date
+>    - Blockers/Risks
+>    - Links (PRs, commits, notebooks, data)
+>- Review cadence: weekly/bi-weekly or as work status changes; ensure updates before meetings.
+
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
 >

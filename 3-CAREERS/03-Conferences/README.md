@@ -227,6 +227,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Master's or BSc students are also encouraged to attend conferences if they have work to present - please discuss plans with me in advance.
 
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Practice talks: Present internally at least one week before external talks/posters.
+>- Conferences/travel: Funding subject to availability; be frugal; apply for travel grants; aim for 1 major conference per year per student/postdoc where feasible.
+
 ### Switzerland
 
 >_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Guidelines/Rules-in-Brief)_:

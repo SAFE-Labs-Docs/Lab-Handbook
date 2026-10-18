@@ -136,6 +136,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >We make it possible to combine family and career. This means scheduling joint meetings at family-friendly times (i.e. especially not too late in the afternoon), children can be brought to work. If children/family members are sick or have problems, we are there for each other and, if necessary, stand in for colleagues who are affected. We respect the fact that family has priority over work performance!
 
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>- Vacation is very important, and we must pay attention to beauties of life outside work as often as we can. Germany is an excellent country to work in for an appropriate work-life balance with long paid breaks. You have that in your pocket and we all wish you to use it wisely and frequently.
+>
+>- Regular attendance is critical for the group synergy and for the personal development of everyone. As we strive to stay small in size, each member represents a significant fraction of our group. For this reason alone, we aspire to be around in the lab regularly to maximize our time together. Family must come first and life events should take priority. There are always exceptions and these times are not written on stone.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >- **Healthy Practices:** High commitment and productivity don’t equate to overwork. Lab members manage their productivity responsibly and are not expected to exceed 39.5 work hours per week regularly.
@@ -277,6 +283,15 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >I aim to schedule all meetings within regular work hours, and will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
 >
 >I expect all lab members to be in the office at least 3 days a week (often Mon/Tues/Thurs), during regular office hours (~10:00-17:00). If you are away or working remotely, please inform me and note this in the lab calendar. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant - please discuss with me, and make sure we document expectations (e.g. in a mentoring agreement).
+
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Hybrid presence: Be in lab on campus at least 3 days/week, 10am–4pm, unless otherwise agreed.
+>- Participate in bi-weekly group meeting is compulsory, preferably in-person, otherwise should join online, otherwise written records to the team lead.
+>- Respect working hours and boundaries; no expectation to respond outside working hours.
+>- Sick leave: Do not come to lab ill; update Slack status; reschedule participants/meetings.
+>- Vacation/time off: Plan in advance; note on lab calendar.
 
 ### South Korea
 >_[GOLab_2026](https://go-lab.korea.ac.kr/code-of-conduct)_:

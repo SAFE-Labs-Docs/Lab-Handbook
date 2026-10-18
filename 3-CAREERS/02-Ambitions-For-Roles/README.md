@@ -133,6 +133,19 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
 
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Typical 4-year cadence (indicative; follow departmental rules and advisor guidance):
+>    - Sem 1: 3 core modules; integrate with lab; start literature review; pose new, feasible questions within topic.
+>    - Sem 2: 3 core modules; draft initial paper outline(s).
+>    - Sem 3: Written QE; firm up thesis topic; first submission target.
+>    - Sem 4: Oral QE; submit and ideally publish first journal article.
+>    - Sem 6: Second journal article submitted/published.
+>    - Sem 7: Begin thesis writing; composition of results chapters.
+>    - Sem 8: Submit third article; submit thesis; thesis defence.
+>- Open science competency (required within first 2 semesters): Able to write in Overleaf and publish a GitHub research compendium.
+
 ### South Korea
 
 >_[DLILab_2026](https://dli.yonsei.ac.kr/apply)_:

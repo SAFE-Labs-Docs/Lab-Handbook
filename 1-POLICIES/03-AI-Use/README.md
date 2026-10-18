@@ -122,6 +122,15 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >
 >Generative AI may never be used for original writing, including papers, presentations, applications, and peer review. Generative AI may be used to suggest minor edits, like reducing word counts or simplifying language. The results should be thoroughly proof-read and edited.
 
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Allowed and encouraged for productivity (coding, writing, data analysis) with human-in-the-loop oversight.
+>- Never use AI blindly; understand models and data; avoid hallucinated content.
+>- Declare AI usage in manuscripts/proposals where appropriate:
+>    - “Declaration of AI usage”: Tool(s), how used, rationale.
+>- Data privacy: Do not upload sensitive data/code to public AI tools; follow IRB/data governance.
+
 ### Spain
 
 >_[BartomeusLab_2026](https://bartomeuslab.com/2026/06/15/genai-lab-guidelines/)_:

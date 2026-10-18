@@ -104,6 +104,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 
 ### Germany
 
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>- **Reproducibility and transparency**. Be prepared to redo everything from scratch yourself, and document everything in such a way that someone else inside or outside of our group can do it without needing you, too. Do your best to avoid *ad hoc* solutions, AWK one-liners, or anything you can't clearly describe formally in a conventional methods section of a hypothetical manuscript.
+
 >_[TSCNLab_2026](https://tscnlab.github.io/LabHandbook/background/MissionStatement_2024.09.02_v1.4.html)_:
 >
 >Our mission is to perform **robust and reproducible research**. We achieve this goal through various actions, including documentation of program code and analysis steps, preregistration of experiments, internal replication, and data and code reviews. We establish naming conventions for files and we write standard operating procedures (SOPs) for experiments, data collection and -management, data storage and for analysis. We respect subjects’ privacy, therefore we collect pseudonymized or anonymized data whenever possible.
@@ -194,6 +198,25 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- individual citation becomes unclear
 >
 >So "one dataset = one repository" is our basic principle.
+
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Storage locations:
+>    - Secure institutional servers for identifiable data (if applicable) following NUS IRB/ethics rules.
+>    - Dropbox/One Drive (shared team drive) for documents, non-identifiable datasets, and project management.
+>    - GitHub for code and research compendia (no raw sensitive data).
+>- Folder structure (recommended):
+>    - Project_Name
+>        - 01_RawData (original datasets; de-identified where possible)
+>        - 02_Models (digital twin/BIM/GIS assets)
+>        - 03_Code (src, scripts, notebooks; with README)
+>        - 04_Analysis (reports, visualizations)
+>        - 05_Documentation (meeting notes, protocols)
+>        - 06_Outputs (papers, posters, presentations)
+>- Backups: Use institutional backups and cloud redundancy; never store sole copies locally.
+>- IRB/Ethics: Before human subjects or sensitive data collection, obtain required approvals. [PI to specify NUS/DBE IRB contacts and SOPs]
+>- Data sharing: Follow funder/journal requirements; anonymize and license appropriately.
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:

@@ -46,6 +46,12 @@ The above policies pertain to communal lab resources. Individuals with their own
 >This fund is for graduate students only. We don't have one for postdocs because coverage of their expenses is different, however if you are a postdoc in the lab with expenses similar to the above that are not being reimbursed, please discuss with Lizzie.
 
 ### Germany
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>- I will do my best to make sure you have a high-end laptop, an external monitor, a pair of noise-cancelling headphones, an ergonomic keyboard, an ergonomic mouse, and an optional standing desk solution when you start in our group. And somewhere to sit, hopefully.
+>
+>- I will make sure that the lab has coffee, some semi-healthy snacks, and chocolate available at all times (and I expect you to let me know when our snack storage shrinks and/or gets boring, and help me with what to select for the next order).
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >We use our shared Google calendar to schedule shared equipment. Challenges with using and sharing our equipment are regularly discussed at lab meeting and re-organizing equipment is a regular item at our annual retreat. In addition, feel free to bring up any issues regarding equipment use and scheduling with your PI. Remember that you are responsible to leave equipment clean and functional after use. Immediately bring up equipment issues with the team. 

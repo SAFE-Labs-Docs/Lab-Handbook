@@ -89,6 +89,10 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >We are committed to fostering a psychologically safe space where everyone feels free to express ideas, ask questions, and voice concerns. Discriminatory or belittling behaviour is not tolerated.
 
 ### Germany
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>In addition to these guiding principles that define our work ethic, we absolutely **denounce any form of discrimination**. We will not tolerate racist or sexist inclinations of any kind, or any form of arrogance or contempt towards any member of our community in public or in private. We hope and believe that the members of our group will go out of their way to make others feel welcome, and be brave to raise their concerns when they witness a mistake. We expect every member of our group to be prepared to participate our ongoing efforts to educate ourselves in issues that affect minorities in the United States, Germany, and beyond (see some blog posts [here](http://merenlab.org/2020/10/05/reading-list/) and [here](http://merenlab.org/2017/09/14/gender-gap/)).
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other's points of views and contributions to discussions, being timely for meetings, and actively engaging in each other's presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment. 

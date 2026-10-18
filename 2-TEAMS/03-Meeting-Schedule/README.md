@@ -196,6 +196,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >We meet during the lecture period as part of the Lehrstuhlkolloquium (Thursdays, 2.30 - 4.00 p.m.) for professional dialogue. In addition to presentations of theses being supervised at our group, we also value presentations by all members of the department. Researchers from other universities can also be proactively invited. In this context, it is not relevant to us at what stage a presented project is. We welcome presentations on anything from an initial idea to the results of a completed project. Only one thing is always very important to us: constructive feedback. Regardless of whether your own area of responsibility as a faculty member is more focussed on teaching or research, we greatly appreciate the participation of all colleagues. The presentations at the research colloquium are usually held in German. However, if foreign-language guests are present, we are happy to switch to English.
 
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>**The general structure**. We meet as a group once every week to keep everyone in the loop with what is going on, and to report to each other what happened last week and what we hope to see happening the next. Lab meetings are by default scheduled for 2 hours with the intention that the first hour is used for **5-minute updates** and the next hour is used for **a presentation**. Even though we schedule our meetings for 2 hours, please try to keep the next 30 minutes free in case things run longer.
+>
+>**The scriber role**. Every meeting has a **scriber** who takes notes and stores them on our *lab fiesta*. The scriber role rotates among each member, and the scriber for a given meeting is by default the person who is scheduled to give a presentation the week after. The scriber is responsible for the time management of the meeting. If we are on Zoom, the scriber is expected to share the order of names to give their 5-minute updates in the chat window. If we are all in person, then we go clockwise starting with the person who sits on the left of the scriber. We expect the scriber to make sure people will keep their 5-minute updates to 5 minutes. Admittedly it is a very difficult mission, but so is every important mission in the world (we thank you for your service).
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The PI expects active participation at regular meetings including
@@ -386,6 +392,15 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/practical/Working%20time%20and%20meetings.html) and _CO-squared_ joint lab meeting.
 >
 >Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
+
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Lab meetings: Biweekly (subject to review when team grows); project updates (5-10 mins each for update, following template), tutorials, paper reviews, practice talks.
+>- One-on-one meetings: every two weeks, 30-45 minutes; agenda sent beforehand; track action items in Work Tracker.
+>- Project meetings: Weekly/biweekly; led by project lead; pre-circulate agenda and artifacts.
+>- Status updates: Concise notes before meetings (links to code, figures).
+>- Responsiveness: During working hours, aim to reply within a few hours to direct requests; asynchronous communication preferred over interruptions.
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:

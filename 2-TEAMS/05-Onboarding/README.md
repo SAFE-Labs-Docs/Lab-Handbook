@@ -265,6 +265,19 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >
 >When your contract starts, you will get a LU account (email address, card for printing/library etc). Anne will add you to the Google lab calendar (where you can see lab events, talks etc). Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms. We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
 
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Onboarding checklist:
+>    - Accounts: Slack, GitHub org, Overleaf, Google Drive team drive.
+>    - Access: Lab spaces, equipment, data repositories, HPC (if applicable).
+>    - Policies: Read lab manual; finish required training by NUS; IRB/ethics training.
+>    - Project alignment: Agree scope, deliverables, timelines with PI/mentor.
+>- Offboarding checklist:
+>    - Archive datasets and code; ensure documentation and READMEs are complete.
+>    - Transfer ownership/access to lab repositories and Drive.
+>    - Outline publication plan for any outstanding work; authorship agreed.
+
 ### Taiwan
 >_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
 >

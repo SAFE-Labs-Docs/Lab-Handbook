@@ -192,6 +192,13 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Whatever authorship scheme we settle on, I encourage using the [Credit scheme](https://credit.niso.org/) with additional detail to keep track of everybody's contributions.
 
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Authorship (CRediT taxonomy):
+>    - No honorary authorship. All authors must contribute and approve final manuscript.
+>    - Authorship order discussed early and revisited if roles change.
+
 ### Switzerland
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >

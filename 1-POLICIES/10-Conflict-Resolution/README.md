@@ -31,6 +31,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 
 
 ### Germany
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>- I expect you to reach out to me when you need help. Please remember that it is not your job to try to protect my time.
+>
+>- In addition to technical and intellectual difficulties, science life can have steep ups and downs. Even when you are excellent at what you are doing and on the right right track, doubts can be quite challenging to overcome. I wish you to let me know if you are going through a rough patch.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >Lab members are encouraged to report any bullying, harassment or discriminatory behavior without fear of retaliation to the PI, to [confidential parties](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text) for conflict mediation and consultation, or contact the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html). For academic misconduct allegations, report to your PI or contact [HU’s Ombudspersonen](https://gremien.hu-berlin.de/de/en/gremien/commissions/fehlverhalten/index.html).

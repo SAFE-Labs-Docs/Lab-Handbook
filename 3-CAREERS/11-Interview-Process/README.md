@@ -156,6 +156,25 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ### Japan
 
+>_[InoueGroup_2026](https://sites.google.com/view/isao/home/join-us/graduate-study)_:
+>
+>If you are seriously interested in applying, please contact Prof. Isao H. Inoue preferably at least two months before the formal application deadline.  
+>International applicants must undergo separate security export-control and administrative reviews by both the University of Tsukuba and AIST before applying. These procedures take time. Enquiries received shortly before the application deadline may not be processed in time, even if the applicant otherwise satisfies the admission requirements.  
+>When contacting me, please include:  
+>your CV  
+>complete academic transcripts  
+>a concise description of your previous research  
+>your specific research interests and the project you would like to pursue  
+>whether you are applying to the Master’s or Doctoral Programme  
+>whether you intend to take the July or October examination  
+>your preferred enrolment date  
+>whether you wish to apply for a MEXT Scholarship  
+>your intended application route: ordinary admission, MEXT Embassy Recommendation, or MEXT University Recommendation  
+>whether you would still be able to enrol if you were not awarded the MEXT Scholarship  
+>your expected graduation date  
+>the date on which your bachelor’s or master’s degree will officially be awarded  
+>Please do not submit a formal application before receiving explicit consent from your prospective supervisor.  
+
 >_[MitsumeLab_2026](https://www.kz.tsukuba.ac.jp/~mitsume/info/for-students)_:
 >
 >本研究室では非常に多岐にわたる研究テーマを展開しているので、研究室配属の際には例年、合同の説明会は行わず、研究室の全体的な内容は全て動画の形式 (本ページの下部に動画リンクがあります) で公開します。この、研究室のコンセプト・運営方針を伝える「動画コンテンツ」に加えて、各学生さんたちが興味のある研究内容を説明するために個別面談 (30分くらい。友人含め2〜4人程度であれば同時参加可。対面・オンラインの双方対応可) を行います。この個別面談は配属に必須となるので、できる限りフェーズ1開始前までに 3 の個別面談を済ませるようにしていただければと思います。ただし、個別面談は配属の優先度には関係しない (GPA のみで判断) ので、研究内容に興味があれば、気軽にご参加ください。また、個別面談では博士課程への進学とそれに際する給与待遇等を含む、大学院進学や将来のキャリアプランに関しても質問してもらって OK です。

@@ -44,6 +44,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Do include details if you have them (_e.g._, numbers & data), but it can be structured text (bullet points) and there is no need to include background.
 
+>_[GallegoRomeroLab_2026](https://web.archive.org/web/20250618085539/https://igr-lab.science.unimelb.edu.au/lab-guidelines/)_:
+>
+>We have a joint group meeting with the Shim lab every two or three weeks where someone from either group presents their ongoing research; lab members working on iPSCs are also highly encouraged to attend the biweekly Wells lab/CSCS meeting. Beyond that, you will have one-on-one meetings with me once a week. In these meetings we’ll discuss your work, how it is going, what you might want to do next… etc. We also have a brief weekly wet lab meeting with members of the Wells lab where we discuss general issues with cell culture to make sure everyone is on the same page and aware of small issues – eg weird Matrigel batches or rumours of mycoplasma down the hall. All of these are detailed in our shared lab google calendar.
+
 >_[SMCCLab_2026](https://smcclab.github.io/honsproj/)_:
 >
 >We have three types of meetings in the lab:

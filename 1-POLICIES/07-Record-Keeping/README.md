@@ -39,6 +39,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Record the analysis environment: run `sessioninfo::session_info()` at the end of your analysis and save the output alongside your results, so package versions are documented. For larger or long-running projects, use [`renv`](https://rstudio.github.io/renv/) to lock package versions for the whole project.
 >- Scripts should regenerate figures and tables from raw data through to the final output. If a figure in a paper was hand-edited after being exported from R, that's a red flag — the pipeline should produce the reportable output directly, or the manual edit should be documented and justified.
 
+>_[GallegoRomeroLab_2026](https://web.archive.org/web/20250618085539/https://igr-lab.science.unimelb.edu.au/lab-guidelines/)_:
+>
+>Chief amongst these is making sure everyone thoroughly documents their research. Good record keeping is fundamental to robust science. I expect you to use github or bitbucket to store and version your code. Your repos should be updated frequently (at least once a day when you’re working exclusively on dry lab!), preferably with informative commit messages, and your code should be legible – remember that eventually it will all be made public!
+
 ### Austria
 >_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
 >

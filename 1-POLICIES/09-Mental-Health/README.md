@@ -29,6 +29,10 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >- If you are struggling with health and/or unhappiness, or you see someone else struggling, please come and see me (Bridget). Everyone goes through rough patches, and we want to help each other out. UNSW also has free, confidential support: the [Psychology & Wellness Service](https://www.unsw.edu.au/student/support/health-wellbeing/mental-health/counselling) for students, and the [Employee Assistance Program](https://www.wellbeing.unsw.edu.au/eap) (via Converge International) for staff and their immediate family, which is free and available any time.
 >- Have a life outside of the lab, take care of your mental and physical health, and don't ever feel bad for taking time off work — and don't make others feel bad for doing that either.
 
+>_[GallegoRomeroLab_2026](https://web.archive.org/web/20250618085539/https://igr-lab.science.unimelb.edu.au/lab-guidelines/)_:
+>
+>Sometimes you might have personal problems. You are under no obligation to discuss these with me, but if I can help you with them, I will. There are campus resources available to you and you should be neither afraid nor ashamed of making use of them. Staying healthy – physically and mentally – is fundamental if you’re going to enjoy your time in academia.
+
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >

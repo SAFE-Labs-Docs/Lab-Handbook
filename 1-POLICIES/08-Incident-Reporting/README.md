@@ -25,6 +25,12 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 
 ## Examples
 
+### Australia
+
+>_[GallegoRomeroLab_2026](https://web.archive.org/web/20250618085539/https://igr-lab.science.unimelb.edu.au/lab-guidelines/)_:
+>
+>The lab does not tolerate harassment, and welcomes all regardless of gender or gender identity, ethnicity, sexuality, age, nationality, religion or disability, and this code of conduct will be enforced. If you have concerns about someone else in the lab, you are always welcome to talk to me, if you feel comfortable doing it. If your concerns are about me, or feel uncomfortable discussing the issue with me, you should reach out to your advisory committee, or, if you don’t have one yet, to Devi Stuart-Fox, who is deputy chair for graduate education in BioSciences. Ultimately, you may also consider lodging a complaint or a grievance in keeping with University policy.
+
 ### Canada
 >_[TemporalEcologyLab_2026](https://github.com/temporalecologylab/labgit/blob/master/expectations/values_aspirations.tex)_:
 >

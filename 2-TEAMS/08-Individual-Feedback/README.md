@@ -24,6 +24,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >In addition to our regular meetings, every six months, we will have a one-to-one meeting focusing on your long-term evolution.  This is a structured meeting (there is a predefined agenda), so that we make sure not to forget anything, but generally speaking, we go over your career goals and progress and try to adjust course if necessary (or just evaluate what needs to be done next as part of your general progression).  These meetings are also for me to get feedback on how I am doing with respect to you.
 
+>_[GallegoRomeroLab_2026](https://web.archive.org/web/20250618085539/https://igr-lab.science.unimelb.edu.au/lab-guidelines/)_:
+>
+>To make sure you’re on track, we’ll also meet every 6 months or so to discuss your long term plans and your progress towards achieving them. So that these meetings are fruitful, I’ll ask you to complete Individual Development Plans in advance, which will form the basis of our ongoing conversations on these subjects.
+
 ### Canada
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
 >

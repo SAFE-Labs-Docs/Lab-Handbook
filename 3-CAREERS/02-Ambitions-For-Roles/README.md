@@ -120,6 +120,138 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Specifically, the reason is that at our Lab, we are very strict that "from the viewpoint of developing a good career as a researcher, the themes of students who have the potential to go on to a doctoral course should be set to themes that have some degree of visibility to publish journal papers." My true intention is to have those who aspire to become researchers and scientists do extremely challenging research in which immediate results are not at all visible, and I myself aim to become such a researcher, but since it is my job to take care of students' lives, this is the policy we are currently following.
 
+>_[ShojiLab_2026](https://scrapbox.io/shoji-lab-survey/新規配属の学部生の研究スケジュール)_:
+>
+>〆切から逆算して研究のスケジュールを決めよう
+>
+>公的な〆切
+>
+>1月後半に卒業論文を提出
+>
+>3月にDEIMで発表
+>
+>･･･ということは、評価実験はいつまでに終わらせる必要がある？
+>
+>評価実験は、1回目は失敗するので、1月前半までに2回実験できるくらいのスケジュールで動かないといけない
+>
+>「研究とは何か」、「論文とは何か」を実感する
+>
+>～4月中旬
+>
+>まずは日本語で論文を何本も読んでみる
+>
+>自分の大まかな研究分野を決める
+>
+>～5月上旬
+>
+>「検索のことがやりたい」、「SNSのことがやりたい」、「機械学習がやりたい」というレベル
+>
+>その分野の国際会議の論文を、探して読んでみる
+>
+>実際の研究テーマを大まかに決める
+>
+>～5月中旬
+>
+>「こんなことに困っている」の例をたくさん挙げ、グルーピングする
+>
+>テーマを本決定する
+>
+>～5月下旬
+>
+>「テーマが本決定する」とは、目的、解くべき課題、勝利条件が明らかになっている状態を指す
+>
+>目的：誰が、何に困っているのか？
+>
+>解くべき課題：目的を達成するために、何をしなければならないか？
+>
+>勝利条件：この研究は、何ができたら成功と言えるのか？
+>
+>テーマプロポーザルの発表を行う
+>
+>～6月中旬
+>
+>「手法は未確定だけど、こんな問題の解決方法を提案するんだ！」を、パッケージ化して喋れるように
+>
+>基本的には、対外発表
+>
+>自分の研究内容を全く知らない人に、ちゃんと研究内容が伝わるようにする
+>
+>「性能は悪いけど、とりあえず動く」プロトタイプを作る
+>
+>～8月中旬に、とりあえずミニマムなプロトタイプが完成している必要
+>
+>小規模な評価ができる状態にする
+>
+>先ほど決定した「勝利条件」を達成できているかを、確認できるようにする
+>
+>現時点では、まったく勝てていなくてもよい
+>
+>_English translation:_
+>
+>Decide your research schedule by working backwards from the deadlines.
+>
+>Official deadlines
+>
+>Submit the graduation thesis in the second half of January
+>
+>Present at DEIM in March
+>
+>...which means, by when do the evaluation experiments need to be finished?
+>
+>The first run of an evaluation experiment will fail, so you have to plan a schedule that allows two experiments by the first half of January.
+>
+>Get a real feel for "what research is" and "what a paper is"
+>
+>until mid-April
+>
+>First, read many papers in Japanese
+>
+>Decide your rough research area
+>
+>until early May
+>
+>At the level of "I want to work on search", "I want to work on social media", "I want to do machine learning"
+>
+>Find and read papers from international conferences in that area
+>
+>Roughly decide the actual research theme
+>
+>until mid-May
+>
+>List many examples of "people are struggling with this" and group them
+>
+>Finalise the theme
+>
+>until late May
+>
+>"Finalising the theme" means a state in which the purpose, the problem to be solved and the winning condition are clear
+>
+>Purpose: who is struggling with what?
+>
+>Problem to be solved: what has to be done to achieve the purpose?
+>
+>Winning condition: what would you have to achieve for this research to count as a success?
+>
+>Give a theme proposal presentation
+>
+>until mid-June
+>
+>Package "the method is not settled yet, but I will propose a solution to this problem!" so that you can talk about it
+>
+>In principle, this is an external presentation
+>
+>Make sure the research content gets across properly to people who know nothing about your research
+>
+>Build a prototype that "performs badly but at least runs"
+>
+>A minimal prototype needs to be complete by mid-August
+>
+>Get to a state where small-scale evaluation is possible
+>
+>Make it possible to check whether the "winning condition" decided earlier has been achieved
+>
+>At this point it is fine if you are not winning at all
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

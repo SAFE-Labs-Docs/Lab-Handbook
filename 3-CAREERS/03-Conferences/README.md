@@ -186,6 +186,54 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >For doctoral students and staff, gaining experience presenting at international conferences is also very important. For that reason, I want you to have the awareness from a young age that you should obtain research funds for travel costs yourself.
 
+>_[ShojiLab_2026](https://scrapbox.io/shoji-lab-survey/学会参加のしおり（暫定版）)_:
+>
+>必ず持ち帰る！要提出！！
+>
+>参加費の領収書
+>
+>（飛行機の場合）飛行機のチケットの半券
+>
+>首から下げるネームカードの中の紙
+>
+>クレジットカードの場合
+>
+>支払いから2ヶ月以内に明細書を提出
+>
+>参加時に発行される領収書の日付と食い違うことがあるので、要相談
+>
+>（↑これらを忘れると自腹になります）
+>
+>発表資料はクラウドかUSBでバックアップ
+>
+>その場でPCが不調になったりして他人のPCでやる場合もあるので前日までに教員に送っておくとよい
+>
+>急病や交通機関の問題で発表できない場合に代理で発表してくれるかも
+>
+>_English translation:_
+>
+>Always bring these back! They must be submitted!!
+>
+>Receipt for the registration fee
+>
+>(If flying) the ticket stub of the plane ticket
+>
+>The paper inside the name card worn around the neck
+>
+>If paid by credit card
+>
+>Submit the statement within 2 months of payment
+>
+>It may differ from the date on the receipt issued at the conference, so consult first
+>
+>(If you forget any of these, you pay out of your own pocket)
+>
+>Back up your presentation materials in the cloud or on a USB stick
+>
+>Your PC may fail on the spot and you may have to present on someone else's, so it is a good idea to send the slides to the faculty member by the day before
+>
+>If you cannot present because of sudden illness or transport problems, they may be able to present on your behalf
+
 >_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
 >
 >Are there opportunities to present research at academic conferences?+

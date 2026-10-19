@@ -716,6 +716,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >I expect that you will pursue research that has some overlap with my expertise and interests. Otherwise, I will not necessarily have the best perspective to guide you successfully. If your interests shift away from the core lab research, I expect that you will inform me and we can discuss options.
 
+>_[McMahonLab_2026](https://mcmahonlab.wisc.edu/wp-content/uploads/sites/1823/2024/12/McMahon_Expectations_student_current.pdf)_:
+>
+>Strive to meet deadlines: this is the only way to manage your progress. Deadlines can be managed in a number of ways, but I expect you to work your best to maintain these goals. We will establish mutually agreed upon deadlines for each phase of your work during one-on-one meetings at the beginning of each term. For graduate students, there is to be a balance between time spent in class and time spent on research and perhaps on outreach or teaching. As long as you are meeting expectations, you can largely set your own schedule. It is your responsibility to talk with me if you are having difficulty completing your work and I will consider your progress unsatisfactory if I need to follow-up with you about completion of your lab or coursework. Be mindful of the constraints on my time. When we set a deadline, I will block off time to read and respond to your work. If I do not receive your materials, I will move your project to the end of my queue. Allow a minimum of one week prior to submission deadlines for me to read and respond to short materials such as conference abstracts and three weeks for me to work on manuscripts or grant proposals. Please do not assume I can read materials within a day or two, especially when I am traveling.
+
 >_[McNeilGroup_2026](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2015/06/Group-Manual-October-2026.pdf)_:
 >
 >Here we suggest some year-specific goals for graduate students because it is oftentimes difficult to assess your progress because there are few concrete milestones in graduate school. It’s easy to feel like an imposter when you don’t know how to assess yourself.

@@ -526,6 +526,12 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >One common guideline is for a person to be an author on a paper if they have been substantially involved in at least two of the following four activities: 1) designing or conceiving the study, 2) collecting data, 3) analyzing data, 4) writing the paper. It is often pretty clear what constitutes substantial involvement, but there are borderline cases where the PI has to make a judgment call. If you are unsure about whether you should be an author on a paper coming out of our lab, ask me and we can talk about it. In general, undergraduate RAs who help collect data are not authors on papers except in cases where they have been unusually involved (which we welcome, but are in practice not all that common).
 
+>_[McMahonLab_2026](https://mcmahonlab.wisc.edu/wp-content/uploads/sites/1823/2024/12/McMahon_Expectations_student_current.pdf)_:
+>
+>Discuss policies on authorship and attendance at professional meetings with me before beginning any projects to ensure that we are in agreement. I expect you to submit relevant research results in a timely manner. Barring unusual circumstances, it is my policy that students are first-author on all work for which they took the lead on data collection and preparation of the initial draft of the manuscript. We will revisit authorship agreements regularly for collaborative projects, and adjust as necessary.
+>
+>Help other students with their projects and mentor/train other students. This is a valuable experience! Undergraduates working in the lab should be encouraged to contribute to the writing of manuscripts. If you wish to add other individuals as authors to your papers, please discuss this with me early on and before discussing the situation with the potential co-authors.
+
 >_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
 >
 >Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, I expect that graduate students and postdocs will be first authors on publications on which they are the primary lead, and I will be the last author.

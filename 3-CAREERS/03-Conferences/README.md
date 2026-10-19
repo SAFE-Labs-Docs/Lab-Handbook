@@ -542,6 +542,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >If you have your own travel funds (e.g. from an individual fellowship), you may attend whatever conferences you would like. However, make sure to get approval from me on any work you’ll be submitting or presenting. If you do not have your own travel funds, I will pay for you to go to selected conferences (1-2 per year), prioritizing those at which you will be presenting your work and taking cost into consideration. We can discuss specific conferences and their training value to you in individual meetings.
 
+>_[LittLab_2026](https://montana.edu/litt/Litt_lab_handbook.html)_:
+>
+>I encourage you to attend and present your work at ≥1 professional conference during your graduate degree. We typically attend the Montana chapter of The Wildlife Society (in February, location varies), but I encourage you to find *your* professional society – where you want you and your work to be seen – and present at their conference (ideally national or even international, if that helps you to meet your career goals).
+>
+>I typically include funds in project budgets to cover costs for you to present at ≥1 domestic meeting (flight, hotel, registration). MSU (Graduate School, College of Letters and Science) and the professional societies have several travel grants available that can augment these funds. In general, you must be presenting at the conference to be eligible for these grants.
+
 >_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
 >
 >**I will encourage you to attend scientific/professional meetings.** I will not be able to cover all requests but you can generally expect to attend at least one major domestic conference per year, when you have material to present. Securing outside funding (e.g. a fellowship or travel award) will likely enable you to attend additional meetings, especially international meetings. I will work together with you to strengthen your presentation skills.

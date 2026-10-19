@@ -434,6 +434,15 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >    - Offered the position
 >    - Notified they were not suitable for the role
 
+>_[CognitionAndMentalHealthLab_2026](https://cognition-mental-health.github.io/vacancies/)_:
+>
+>- First, it would be great if you could send me some details of your interests and your research experience. This doesn’t need to be a formal CV, but can be a list of experiences and the corresponding skills you’ve learnt. This might include any research projects you’ve done, the courses you took as an undergraduate/MSc student, and any work experience you have. I recognise that not every undergraduate course offers research experience - so if that’s the case, please just say so, and highlight experiences you have had that use similar skills (such as report-writing, coding, teamwork, time management, data management).
+>- If there’s a good fit between our interests, we have a zoom meeting and discuss potential project options.
+>- If we decide to proceed, we together identify a second supervisor with complementary expertise (all PhD students at the University of York have two supervisors).
+>- You prepare a draft research proposal (by the middle of November).
+>- We work together to refine the proposal, normally by end of November/early December.
+>- York requires candidates to be offered a place by the department before they can be entered into any funding competitions. To do this, you need to have passed an interview with other members of staff in the Department by mid December (at the latest).
+
 >_[GallianoLab_2026](https://gallianolab.org/how-we-operate/)_:
 >
 >We are a small group, we share equipment, resources and office space, and frankly we spend more time with each other than with our families: we have to gel as a team. Nobody expects lifelong friendships to emerge (but kudos if they do), however being great co-workers is a must. Therefore, every person who wants to join the lab for a substantial period of time (postgrads, postdocs, long-time visitors) will be interviewed by all lab members.

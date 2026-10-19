@@ -177,6 +177,10 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >+ _I commit to promoting a culture of inclusivity in the lab._ This involves communicating that inclusivity is a priority, keeping my door open for conversation, and being willing to accept feedback and criticism from lab members in this area. This means being intentional about seeking out input and ideas from lab members.
 >+ _I commit to keeping my door open, listening, and to being an ally/advocate._
 
+>_[LittLab_2026](https://montana.edu/litt/Litt_lab_handbook.html)_:
+>
+>When hiring, we will pay fair wages, advertise opportunities broadly, consider non-traditional selection criteria, and create safe workplaces to lower the barriers to participation. We will invite seminar speakers that come from diverse backgrounds, career stages, and perspectives to promote underrepresented groups. We will continue to develop tools and strategies to recruit, support, and retain diverse people and perspectives, so more voices are heard.
+
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Diverse communities are better equipped to adapt to change and solve unexpected challenges, [in biology](https://www.gutenberg.org/ebooks/1228) as in [science](https://doi.org/10.1073/pnas.1915378117), [business](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation.aspx), and [human societies](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse) at large. MsEE Lab encourages diversity and understands that its resilience as a community depends on its diversity. By increasing the breadth of our experience pool, we increase the breadth of problems we are aware of, questions we can tackle, [solutions we can develop](https://doi.org/10.1073/pnas.1915378117), and people we can communicate with.

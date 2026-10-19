@@ -82,6 +82,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- how to run a user study
 >- research topics in musical machine learning
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>For at least the first two months, I’d like to meet with you once per week. After two months, meetings will likely be as needed. If you’d like a formal meeting schedule beyond this period of time, we can arrange that. My goal is not to burden you with meetings, but if you would like to meet more frequently, let me know.
+>
+>We will meet formally once a year to touch base on your progress and plans. My objective with these meetings is to make sure you are effectively working towards your career goals. When the time comes for you to start looking for another position, we can discuss how to put together your application and how to best highight your strengths. We will take notes during those meeting to keep me accountable.
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
@@ -205,6 +213,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Internal and external seminars : Internal seminars at IGH are organized every Thursday at 11.30am, followed by pizzas. Attendance to the internal seminars is compulsory for all lab members. In addition to these internal seminars, external seminars are often organized at various times of the week. Keep an eye out for these external seminars and try to attend those related to your project.
 
 ### Germany
+>_[BodyBrainBehaviourLab_2026](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/biomag/BBB_LabHandbook_240313.pdf)_:
+>
+>Conduct in meetings: The Body, Brain, and Behaviour group meets regularly throughout the academic year to keep everyone updated on the different projects, plan conference travels, or to get group feedback on a specific question/project. Informal meetings can be arranged on short notice as required. In addition to these meetings, the group gets together for a regular journal club in which each member has 5 minutes and a single slide to briefly present a particularly interesting paper they recently came across. Our group also participates in the institute colloquium on Thursday afternoons with invited international speakers. We ask all group members to attend these meetings whenever possible.  
+>During any of those meetings, we aim for a supportive, respectful atmosphere in which all team members feel equally comfortable asking questions and giving their thoughts. Feedback or criticism is to be phrased in a productive way irrespective of seniority.
+
 >_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
 >
 >In the lab there is an expectation for active participation in the following types of regular activities (scheduled in the shared calendar):

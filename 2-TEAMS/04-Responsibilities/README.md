@@ -207,6 +207,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- draft thesis/reports to be sent 2 weeks before any deadline
 >- patience when asking questions or sending emails out of business hours
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>Senior graduate students and postdocs play an important role in the education of more junior trainees. You should be willing to help other members of the lab and informally advise them on their work (e.g. show them how you organize and strategize, give them advice on methods, chat with them about science, etc.). I hope that you will be heavily involved in at least one project beyond your main project in collaboration with another person from our lab or our local collaborators. Experience in mentorship and collaboration will be useful to you when moving forward in your career. If you see a student/postdoc struggling, please bring this to my attention right away (but respect their privacy).
+>
+>More formal mentorship experiences can also be arranged. Undergraduate or high school students often may out asking for formal internships with our group. You are welcome to mentor an intern (depending on your workload) and design projects for them. Internships can take many forms. The only requirement is that they must present their projects at least once at lab meeting.
+
+>_[LTeDResearchLabTUWien_2026](https://lted.se.tuwien.ac.at/index.php/teaching/thesis-guide/)_:
+>
+>Before submitting your thesis, a review/feedback with your supervisor can be scheduled. For this, you are allowed to submit one chapter of your choosing to get detailed feedback on its content, writing and formalities. Integrating this feedback should give you sufficient support to improve the whole work before its final submission. Note, we will not read the complete thesis before submission.
+
 ### Brazil
 >_[CompGeoLab_2026](https://www.compgeolab.org/manual/expectations.html)_:
 >

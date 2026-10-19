@@ -36,6 +36,17 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Full-time research is essentially equivalent to a full-time job (i.e. ~40 hours/week, 5 days per week). A rough guideline for the PALM Lab is a 'hybrid model' where lab members are expected to spend at least three days of the week working on campus/in lab, and have the option to work either from home or in lab on the remaining days. The work hours themselves are largely flexible and dependent on the available spaces -- to ensure overlap between members in lab for collaboration and discussions, lab members are asked to have 10am to 3pm as part of their in-person hours. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (*The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.*)
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>Work from lab/office at least 3 days of a normal work week, but feel free to work remotely 1-2 days a week (try to prioritize coming in on days when others tend to be here as well, so we overlap with one another). Certain individuals may need flexibility on this point, which you can discuss on a case-by-case basis with Christian.
+
+>_[LTeDResearchLabTUWien_2026](https://lted.se.tuwien.ac.at/index.php/teaching/thesis-guide/)_:
+>
+>The bachelor thesis is designed as 10 ECTS which approximately consists of 250 hours of work, while a Master thesis is designed as 30 ECTS (approx. 750 hours of work). Nobody will count hours and there is no need to track them. However, we want to have a weekly commitment from students, so that we can approximately plan a submission date. Many students who have successfully finished a bachelor thesis in our lab plan for ~2 days/week (16 hours), which translates roughly into 15-16 weeks (four months or roughly one semester). For master thesis projects the expectations are higher, as we expected you to work ~4-5 days/week (32-40 hours) over one semester.
+>Since we know many students work part-time or have care responsibilities, we are open to discussing individual solutions providing more flexibility and adjusted timelines. However, we do not accept thesis projects without reasonable planning and agreed deadlines. Note, your research project might be outdated and irrelevant if your prolong the work extensively.
+
 ### Belgium
 >_[BraemLabGhent_2026](https://users.ugent.be/~sbraem/labphil.html)_:
 >

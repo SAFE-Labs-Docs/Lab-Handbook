@@ -131,6 +131,10 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 
 ### United Kingdom
 
+>_[ForseGroup_2026](https://forse.group.ch.cam.ac.uk/node/60)_:
+>
+>By far the most emissions intensive travel comes from flying, so we should aim to reduce, and/or replace, this as far as practicably possible. Where other means of travel are possible within 10 hours, these should be taken instead and flights will not be reimbursed, unless you require a flight for accessibility reasons.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >We have a Silver Award from the LEAF lab sustainability initiative, and we follow a set of defined rules to maintain the Award. All the followed procedures can be found in the Sustainability section of our group's Team channel.

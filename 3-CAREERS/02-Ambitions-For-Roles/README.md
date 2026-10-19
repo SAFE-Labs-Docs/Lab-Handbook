@@ -35,6 +35,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Relevant skill and experience
 >- Special consideration for: (1) transfer/articulation students, (2) students with fewer opportunities
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>**Postdocs:** It is perfectly fine if you need to spend some time in lab finishing up papers from your previous position. It is also expected that you will spend a significant amount of your time applying for your next position. I expect that you have at least one full year where research in this lab is your primary focus (>80-90% effort). I expect that you will have at least one first-author manuscript submitted before moving on to your next position.
+>
+>Most postdocs should submit abstracts for at least one conference per year, contingent on funding. I recommend to always apply for talk with a poster as backup option. Presenting to national and international audiences will help to build up a network for your future career.
+>
+>If you are interested in gaining grant writing experience, please let me know and we can discuss proposal opportunities.
+>
+>**PhD students:** I expect that you have at least 2-3 full years when research in this lab is your primary focus. I plan that you will have at least 1 first-author manuscripts submitted before moving on to your next position (this may vary somewhat depending on whether your work is experimental or computational).
+
 ### Canada
 >_Anonymous lab_:
 >

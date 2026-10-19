@@ -23,6 +23,16 @@ I understand that people decide to leave the lab for different reasons, and may 
 
 ## Examples
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>Our general policy is that software that you developed is yours and may be taken with you to a new lab as long as the following conditions are met:
+>
+>1. we can keep a snapshot of its state (and license) by the time you leave
+>2. you commit yourself to maintaining your software in the future
+>3. its transfer is not limited by regulations of the MedUni Graz
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >

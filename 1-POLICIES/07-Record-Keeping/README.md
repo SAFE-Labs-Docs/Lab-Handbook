@@ -44,6 +44,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >Chief amongst these is making sure everyone thoroughly documents their research. Good record keeping is fundamental to robust science. I expect you to use github or bitbucket to store and version your code. Your repos should be updated frequently (at least once a day when you’re working exclusively on dry lab!), preferably with informative commit messages, and your code should be legible – remember that eventually it will all be made public!
 
 ### Austria
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>All computational work in our lab will be tracked in a Github repository within the lab organization. Unless otherwise agreed this will always start in a private repository which will become public as soon as a license has been applied, a preprint has been posted, or the manuscript is under review (whichever comes first). The only exemption are projects subject to a patenting process. The default licenses in our lab are the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) for software and code and [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) for content and artwork. Our lab strives to maintain repositories on Github and lab members are encouraged to reply to issues and discussions on repositories they manage.
+
 >_[RendeiroLab_2026](https://doi.org/10.5281/zenodo.23398122)_:
 >
 >It is essential to maintain detailed, up-to-date records of daily activities. This includes:

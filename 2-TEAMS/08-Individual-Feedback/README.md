@@ -28,6 +28,12 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >To make sure you’re on track, we’ll also meet every 6 months or so to discuss your long term plans and your progress towards achieving them. So that these meetings are fruitful, I’ll ask you to complete Individual Development Plans in advance, which will form the basis of our ongoing conversations on these subjects.
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>We will meet formally once a year to touch base on your progress and plans. My objective with these meetings is to make sure you are effectively working towards your career goals. When the time comes for you to start looking for another position, we can discuss how to put together your application and how to best highight your strengths. We will take notes during those meeting to keep me accountable.
+
 ### Canada
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
 >

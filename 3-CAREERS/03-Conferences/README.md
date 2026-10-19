@@ -35,6 +35,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Every lab member can expect to attend one conference or similar event (_e.g._, a summer school) per year funded by the lab. After their first year in the lab, however, they are also expected to present something at those events (talk, poster, ...). If you want to attend more conferences, then it can be discussed, but generally speaking the consideration will be cost and time away.
 
+### Austria
+
+>_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
+>
+>I aim to provide financial assistance for you to attend about 1 big conference per year and multiple small, local ones -- we should strategize together about which meetings make the most sense. Try to apply for travel awards. I expect you to practice talks in front of a group at least once before presenting for wider audiences and encourage you to seek formal training on how to deliver a research talk.
+
 ### Belgium
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
@@ -150,6 +156,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Individual fellowships might include an additional budget for conferences and courses, but in general we provide equal travelling opportunities to lab all members. We encourage lab members to seek for additional funding in order to cover the costs, and to behave responsibly with regard to travel expenses. 
 
 ### Germany
+>_[BodyBrainBehaviourLab_2026](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/biomag/BBB_LabHandbook_240313.pdf)_:
+>
+>Basics: As a group, we aim to visit conferences together in order to present our research, get feedback from peers, and engage with colleagues in the field. Usually, this means that we prepare a poster presentation or a talk to be presented at the conference. We do have a ‘conference radar’ to keep track of the most important meetings and their yearly deadlines - in case you find a conference/workshop you would like to attend, talk to your PI. Together, you will decide based on the match with your research topic, career stage, audience, and logistics.  
+>Logistics: There are a number of details that need to be arranged before travelling, so talk to your PI well in advance. They need to consider funding resources for conference fees, travelling, and housing, so you will most likely not be able to attend all the interesting meetings in any given year - choose your favourite conferences well. For international travel, consider additional time for arranging visa applications, childcare etc.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >Conferences are an important part of your science life. Let me know if you want to attend a conference in advance. As a graduate student your goal is to attend 1-2 international conferences to present your work (poster or talk). This is typically during the second half of your thesis. Your graduate program might support conference registration and/or travel costs when you present. For postdocs networking becomes another important aspect. I support about one international conference per year (if funding permits). Make use of Berlin’s and Germany's local conferences! The threshold for attending these is much lower. Let me know if you want to attend. After the conference, share a particular exciting talk/poster/insight from the conference at the next lab meeting as your update!
@@ -365,6 +376,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Students in the Lien Lab are required to attend the annual biomedical meeting (held between February and March) in National Defense University or poster exhibition and competition (held June) in YM University before obtaining their Master or PhD degrees.
 
 ### United Kingdom
+>_[ForseGroup_2026](https://forse.group.ch.cam.ac.uk/node/60)_:
+>
+>Conference travel is restricted based on your research stage, due to limited benefit at early stages. In usual circumstances, students attend a maximum of one international conference a year:
+>- Masters Students – not expected to attend any conference
+>- First-Year PhD Students – UK conferences only
+>- Second-Year PhD Student – UK & European conferences only
+
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >
 >It is up to you to decide what training you need and what conferences you would like to go on. I can recommend various courses and conferences depending on your interests. You will have a certain budget as part of your PhD specifically for this, it is for you to manage as you see fit. However, I can help you apply for society funding to cover as much as possible, enabling you to save your PhD travel money for a ‘big conference’ – with travel, accommodation, registration etc. these can be about £2000-£2500. One suggested idea if you’re planning a career in academia:

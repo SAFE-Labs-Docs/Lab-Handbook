@@ -315,6 +315,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Our research should benefit humanity and as such we strive for publishing it and making it openly available. However, for us a publication itself is not a goal, but a vehicle of communication. The scientific quality of your project or PhD will not be measured in number of publications at the lab. There are also no regulations on how many publications are required for a PhD student to graduate, and the effective number will vary based on the specific project. However, at least parts of the work should be published in at least one publication to ensure your science reaches the world.
 
+>_[MultiXLab_2026](https://multix.io/multix-docs/files/phd-thesis-policy.pdf)_:
+>
+>The 3+1 Policy is designed to close the gap between our research vision and formal graduation requirements. It recognises the diverse, high-impact contributions valued by the MultiX group—such as systems, artifacts, data sets—while maintaining high academic standards.
+>
+>**1. Thesis Structure**
+>
+>A PhD thesis must present a coherent narrative consisting of at least four chapters based on scientific contributions:
+>
+>- At least **three** chapters must be based on **M-type** papers.
+>
+>**One** chapter may be based on an **X-type** contribution, provided it is extended appropriately for the thesis.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.

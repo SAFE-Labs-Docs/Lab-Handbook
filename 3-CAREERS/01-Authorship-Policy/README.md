@@ -234,6 +234,18 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Corresponding authorship, if not discussed otherwise, stays with the senior author to ensure consistence in reachability.
 
+>_[MultiXLab_2026](https://multix.io/multix-docs/files/phd-thesis-policy.pdf)_:
+>
+>**2. Authorship Credit**
+>
+>In general, we acknowledge the fact that co-authored papers may lead to papers with multiple first authors, identified as such in the final publication. For these we have the following guidelines regarding the use of co-authored publications for the PhD thesis:
+>
+>- **Standard Rule**: Papers with the PhD student as the single first author count as a full chapter. Co-first author papers count inverse proportionally to the number of co-first-authors (for both M and X-type), so a paper with two co-first authors counts as half a chapter. Each co-first author can use that chapter in their thesis even if this leads to the same paper appearing in multiple theses.
+>
+>To encourage collaboration, we allow one exemption from the standard proportional credit rule:
+>
+>- **The Exemption**: For one of the four chapters (either M-type or X-type), a candidate who is one of two co-first authors receives full credit for that chapter meaning it counts as a full chapter and might in principle be used in both first authors’ thesis.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >Scientific autorship is a tricky business. I aim to discuss authorship early on, clarify expectations, and give regular updates when a project changes. If you are unsure about authorship, please let me know asap.

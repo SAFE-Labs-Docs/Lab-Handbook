@@ -486,6 +486,26 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Strategy Day: Once a year (around July) to discuss the lab's cohesive strategic vision and lab life.
 >- Lab Organizational Day: Once a year (around November / December) to sit down together and structure various procedures
 
+>_[MultiXLab_2026](https://multix.io/multix-docs/)_:
+>
+>Lab meetings are primarily used to share work-related matters. But you are also encouraged to share non-work related things. Before the meeting, we usually have a group lunch together at around 12:00, which is used primarily for sharing non-work-related things, but you are also welcome to chat about work-related matters.
+>
+>Below are the goals of the lab meetings:
+>
+>- Have a place to share general announcements
+>- Get to know each other’s work
+>- Initiate collaboration and stimulate a sense of group
+>- Practice giving presentations
+>- Share visions of the group’s activities
+>
+>In response to these goals, we have restructured the group meeting format on October 18, 2023. Our meeting now contains five components, as listed below with their frequencies.
+>
+>- **Announcement**: every meeting
+>- **Scientific Presentation**: once every 2 weeks
+>- **What’s on Your Mind Session**: once every 4 weeks
+>- **Thematic Session**: once every 4 weeks
+>- **Strategic Session**: once a year
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:

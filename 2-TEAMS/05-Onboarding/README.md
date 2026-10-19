@@ -328,6 +328,23 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >The choice of research topic is affected by boundary conditions such as the state of the Matsunaga lab's experimental equipment and the projects Matsunaga is running. Through the lab visit before the graduate entrance examination, the oral examination, and the interview after admission, taking into account what kind of research each member is interested in, how concretely they picture their research, and how they think about their career plan, Matsunaga proposes several candidates for the first topic. We then narrow them down through discussion. We set the topic keeping in mind that it should be one the person enjoys working on, that they should have a research subject clearly distinct from the other members', and that they should work hard in a situation where nothing moves forward unless they push it.
 
 ### Netherlands
+>_[MultiXLab_2026](https://multix.io/multix-docs/)_:
+>
+>Below is a checklist of the onboarding procedure:
+>
+>- [x] Make sure you can login to your @uva.nl email on [Microsoft Outlook](https://outlook.office.com/mail/)
+>- [x] Make sure you can login to the [UvA self-service portal](https://flp.sap.uva.nl/fiori?saml2idp=http://login.uva.nl/adfs/services/trust#Shell-home)
+>- [x] Ask Dennis Koelma to add you to the MultiX group mailing list
+>- [x] Ask Dennis Koelma to give you access to the IVI and DAS computing clusters
+>- [x] Ask Dennis Koelma and your supervisor to arrange laptop, desktop, and monitor screens
+>- [x] Ask Nanne van Noord to add you to our Microsoft Outlook group calendar
+>- [x] Ask Nanne van Noord to add you to our Slack channel
+>- [x] Ask Yen-Chia Hsu to add you to our team channel on Microsoft Teams
+>- [x] Register an account on [GitHub](https://github.com/)
+>- [x] Ask Yen-Chia Hsu to add you to our GitHub organization
+>- [x] Contact Yen-Chia Hsu to put your photo and information on [our lab website](https://multix.io/)
+>- [x] Read the rest of this document
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >The full onboarding document is still under construction, but as an example some snippets are provided here:

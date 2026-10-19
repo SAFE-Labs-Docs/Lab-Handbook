@@ -451,6 +451,30 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Connection to Master’s-level research
 
 ### Netherlands
+>_[MultiXLab_2026](https://multix.io/multix-docs/)_:
+>
+>The basis for MultiX’s teaching policy is the institute level policy that each PhD, during the first three years, spends at least 10% of their employment time on education, which is set at 150 hours per year, as measured in DVM (Dutch: Docent Verdien Model, English approximation: Lecturer Earning Model). *This policy only applies to PhDs employed by the UvA.*
+>
+>PhD students can perform the following educational activities:
+>
+>- TA’ing for a course (75 DVM)
+>- Thesis supervision (DVM varies depending on program)
+>- Guest lectures for a course (4-8 DVM)
+>
+>The suggested teaching plan is as follows:
+>
+>- Year 1
+>  - TA two courses
+>- Year 2 & 3
+>  - TA one course
+>  - Supervise 2-3 theses per year
+>
+>Variations on this teaching plan are possible, but there is *a minimum of TA for 1 course per year*, with the strong recommendation of doing some supervision even when TA’ing for two courses in year 2 and 3.
+>
+>During your annual (or 9, 14, 24, 36 month) evaluations, you are expected to specify your teaching plan for the upcoming year. If no plan is specified, then the MultiX education coordinator will assign you to two courses for TA’ing.
+>
+>If the teaching plan is not realized (less than 150 DVM), the education coordinator may assign you an additional course for TA’ing in the subsequent year, extending into the fourth year.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).

@@ -105,6 +105,16 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >SHARED FACILITIES/RIGS: We manage usage/booking of lab rigs and facility by maintaining dedicated calendars.
 
 
+### Netherlands
+
+>_[MultiXLab_2026](https://multix.io/multix-docs/)_:
+>
+>For sharing upcoming events, we have a shared Microsoft Outlook calendar. In general, you can put events that are related to the lab or for a group of people on the calendar. Below are some example events to put on the calendar:
+>
+>- Special lab events (e.g., social gathering, Xmas party)
+>- Thesis defense events for lab members
+>- Interesting talks that PhD students may be interested
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

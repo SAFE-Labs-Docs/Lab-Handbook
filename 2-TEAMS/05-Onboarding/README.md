@@ -25,6 +25,17 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 ## Examples
 
 ### Canada
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>Read through this entire handbook.
+>
+>- Create an OSF account, and work with supervisor to set up an OSF project.
+>- Set up Zotero account and share a library with supervisor.
+>- Remind Jason to invite you to the lab’s Slack channel.
+>- Ensure you have a good cloud storage backup solution for all work.
+>- OSF can serve as one backup location.
+>- A second backup location is the BLERF server, and request that your supervisor set you up for this.
+
 >_[CastoriniLin_2026](https://github.com/castorini/onboarding/blob/master/ura.md)_:
 >
 >By "working through", I mean follow the instructions, reproduce the results, and send a pull request to add to the reproduction logs. You can send me an email (with pointers to your pull requests) after you've progressed through _the entire path_ and covered all the lessons.
@@ -37,6 +48,18 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 > 4. Complete [TCPS 2 training](http://tcps2core.ca/welcome) in order to be added to our human ethics protocol.
 > 5. Add yourself to eligible list of RISe researchers by following the Self-Registering steps at: [RISe Access](https://www.rise.ubc.ca/access-rise). Once an account is created, new users will receive their researcher numbers via email.
 > 6. Once your RISe account is created, let Hyosub know so he can add you to our study protocols.
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>The general onboarding process/checklist for new RAs is as follows:
+>
+>- Read and familiarize yourself with the following manual sections: Lab Philosophy and General Code of Conduct, this section, Roles and Expectations, Communication, and Lab Spaces and Resources
+>- If you will be taking on a paid position, fill out a new hire form (Note that you may need to login with your UVic account to access this form). This form may also be provided to you by the lab manager or supervising graduate student. For information on how to enter your worked hours for approval, see this link.
+>- Prior to conducting any research with human subjects, ensure that you have completed the Tri-Council Policy Statement (TCPS-2 CORE) ethical certification course. Although this course is fairly comprehensive, I also highly recommend reviewing our own guidelines and recommendations for research ethics here.
+>- If you are joining as a Work-Study Research Assistant, you must also complete the required WorkSafeBC health and safety training for the following online courses: (1) Health & Safety Orientation; (2) Awareness and Prevention of Workplace Bullying, Harassment & Discrimination available from the University of Victoria’s Occupational Health, Safety & Environment website (see the training page specifically). You can count those (and the TCPS-2 CORE course) as work hours. Also, you can consider listing completion of these courses on your resume.
+>- Meet with me and/or graduate students in the lab to determine which project(s) you would like to be involved in and in what capacity you will be involved in those projects
+>- Prior to running (or co-running) any study sessions, sit in on at least two study sessions run by another RA or graduate student
+>- Prior to running any study sessions by yourself, complete at least one “practice session” where you are supervised by another project RA or graduate student
 
 >_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/labMembers/newMembers.md)_:
 >
@@ -63,6 +86,50 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >* Responsibility for research ethics.
 >
 >In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>目标：在选定流域部署 SHUD 模型。
+>
+>要求：
+>
+>- 选择任意一个流域，建议面积小于 5000 平方公里。
+>- 可利用任何我们组公开的建模工具、代码或平台。
+>- 编译并运行 SHUD 模型，开展该流域 2 年以上的径流模拟。
+>- 利用 rSHUD 提取流域出口的径流量，绘制径流过程线（Hydrograph）。
+>- 完成参数优化/校准。
+>- 日尺度径流结果需满足 NSE > 0.36，PBIAS &lt; 10%。
+>- 提交一份 PDF 格式的报告，包含以下内容：
+>- 流域位置图
+>- 流域基本信息分析
+>- SHUD 建模结果（输入文件）的基本信息。
+>- SHUD 模型径流输出结果
+>- 流域出口径流过程线图
+>- SHUD 模型参数优化/校准的详细流程描述和结果分析
+>- 代码和数据的 GitHub 链接
+>
+>_English translation:_
+>
+>Goal: deploy the SHUD model in a chosen watershed.
+>
+>Requirements:
+>
+>- Choose any one watershed, preferably with an area below 5,000 square kilometres.
+>- You may use any modelling tool, code or platform that our group has made public.
+>- Compile and run the SHUD model and carry out a runoff simulation of that watershed for more than 2 years.
+>- Use rSHUD to extract the runoff at the watershed outlet and draw the runoff hydrograph.
+>- Complete parameter optimisation/calibration.
+>- The daily runoff results must satisfy NSE > 0.36 and PBIAS &lt; 10%.
+>- Submit a report in PDF format containing the following:
+>- Map of the watershed location
+>- Analysis of the basic information of the watershed
+>- Basic information on the SHUD modelling results (input files).
+>- SHUD model runoff output
+>- Hydrograph at the watershed outlet
+>- Detailed description of the process and analysis of the results of the SHUD parameter optimisation/calibration
+>- GitHub link to the code and data
 
 ### Denmark
 >_[NERDS-ITU_2026](https://github.com/NERDSITU/research-resources/blob/main/phdreading.md)_:

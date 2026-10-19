@@ -65,6 +65,19 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Co-authorship on a paper can be earned through substantial intellectual contribution (e.g., development of ideas, interpretation of results) or contribution to data collection, analysis, and/or writing. Contribution of data alone does not usually merit authorship, but data contributors should be given the opportunity to be co-authors by providing additional contributions. Similarly, using someone’s code that was developed for a prior project does not in itself warrant co-authorship. However, if that person provides additional intellectual input such as adapting the code, interpreting results, contributing to writing authorship should be considered.
 
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>A very general guideline is that authorship is warranted if a person contributes to at least two of these:
+>
+>* Designing the study.
+>* Acquiring the data.
+>* Analyzing the data.
+>* Writing the paper.
+>
+>**All authors** must agree on what is finally submitted for publication, and must agree to be fully accountable for what is submitted.
+>
+>However, the most important advice is that authorship should be discussed at the outset of any collaboration.
+
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
 >
 >Authorship, and authorship order, is something that should be discussed early on in a project's life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we're talking about a manuscript, abstract, or poster. An "intellectual contribution" could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it's pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it's best to hash these sorts of things out early.
@@ -74,6 +87,23 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >In terms of authorship on the paper, this is always somewhat tricky. It is best to define that early on and to be clear about it. I’ve seen some unfortunate conflicts over the years because this was not well defined. My approach is to have more rather than fewer authors (if in doubt add them). Author order should be based on input to the research and/or writing, not on seniority. I don’t believe however to stack people’s resumes by putting lots of authors on every paper for that reason alone!
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>The following are contributions that would usually merit authorship credit (inspired in part by the APA recommendations):
+>
+>- Writing or substantially editing any part of a scientific manuscript, or developing a poster or presentation
+>- Substantial involvement in developing the research project, including conceptual or methodological suggestions that heavily influence the direction of the project, designing the experiment(s) or instrument(s)/questionnaire(s), or conducting literature reviews
+>- Analyzing data or selecting/planning the analytic approach, developing and testing relevant computational models, independently interpreting analytic results
+>- Developing specialized stimulus sets (e.g., one that requires a lot of photography or videography, or substantially modifying images or sound files, or a particularly time-consuming search component). Note that you would not receive authorship credit on all publications and presentations using this stimulus set in perpetuity if you are not otherwise involved with the project, but would typically be offered credit on at least the initial publication (definitely if the stimulus set itself is published), and acknowledged/thanked in footnotes thereafter
+>- Involvement in data collection or entry for projects where this component is particularly intensive, e.g., conducting and/or transcribing lengthy interviews
+>
+>Contributions that would not usually, on their own, meet the bar for authorship, but for which you may be acknowledged by name in spoken/poster presentations and/or the footnotes of scientific publications (with your permission):
+>
+>- Data collection (i.e., testing undergraduate participants) for most projects
+>- Stimulus set development that is limited to searching, downloading, and/or straightforward aggregation
+>- Simple data entry or organization
+>- Literature searches limited to the search itself (i.e., no reading/reviewing, curation, or judgment involved)
 
 >_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
 >
@@ -407,6 +437,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >• The PI will make every effort to clarify co–first contributions in reference letters, emphasizing that co–first authors are full first authors and highlighting the lab member’s leadership and hard work in collaborative projects.
 >• A scientist who has performed a substantial amount of work toward a project—even if the specific data do not appear in the final version of the paper—should be included as an author. Effort matters as much as outcome.
 >• Giving credit is essential to maintaining a collaborative and productive environment. Lab members are expected to acknowledge meaningful contributions from others in the lab.
+
+>_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
+>
+>All those who make targeted material and intellectual contributions to a manuscript should be included as authors. However, in general, performing routine “lab jobs” or making comments in lab meeting don’t rise to the level of authorship (such contributions should be mentioned in the Acknowledgements section).
 
 >_[LiLabPDE_2023](https://pdelab.engr.wisc.edu/wp-content/uploads/sites/153/2023/12/ME_Mentor-Mentee-Expectations-Li-Group.pdf)_:
 >

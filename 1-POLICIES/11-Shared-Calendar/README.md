@@ -170,6 +170,10 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 > holidays, etc.). All
 > full-time lab members should request write access.
 
+>_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
+>
+>Please let the lab know if you will be absent on a regular workday. I need to know the duration of and general reason for that absence (e.g., vacation, conference, etc.). Use the lab Google calendar for this purpose so that everyone can see who is available or unavailable and make plans to accommodate for absences. I will also put my absences and travel schedule on this calendar so that you are aware of my availability.
+
 >_[McNeilGroup_2026](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2015/06/Group-Manual-October-2026.pdf)_:
 >
 >To keep track of everyone's dates, there is a shared Google calendar. You should write your initials on the date(s) you will be taking off AND what vacation day that is for you (e.g., 10/20 2027).

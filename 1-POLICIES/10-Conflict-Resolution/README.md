@@ -205,6 +205,10 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >Disagreements, misunderstandings, and conflicts within a group sometimes happen. Early and authentic communication are key to resolving issues and minimizing conflicts. If you have concerns about your interaction with me or with anyone else, please don’t hesitate to come talk with me.
 >- If you wish a conversation to remain confidential, please be sure to indicate that at the start of the conversation. I will endeavor to respect this request, and if I am unable to do so I will let you know.
 
+>_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
+>
+>I appreciate you raising any concerns directly with me as soon as they arise. Some issues may be difficult to discuss. For this reason, we have a mechanism by which you can submit feedback to me anonymously. Click here to access the anonymous feedback survey. Understand that responses to this survey will go directly to me (Talia), but I won’t know who submitted them unless you leave identifying details in the response itself. That said, please do try to give as much detail as you are comfortable with about your concern or suggestion. The more detail I have, the more able I will be to act to remedy the issue. Be aware that I am a Title IX mandatory reporter and MUST report any allegations of sexual harassment, misconduct, or discrimination. If you aren’t comfortable talking to me about an issue, you may wish to speak instead with the University ombudsperson https://www.northwestern.edu/ombuds/
+
 >_[LohmannLab_2026](https://web.uri.edu/gso/wp-content/uploads/sites/916/Code-of-Conduct_Lohmann-Lab2.pdf)_:
 >
 >Members of the community who violate these rules - no matter how much they have contributed to the Lohmann lab, or how specialized their skill set - will be approached by Dr. Lohmann. If inappropriate behavior persists after a discussion with Dr. Lohmann, the contributor will be asked to discontinue their participation in Lohmann lab projects.

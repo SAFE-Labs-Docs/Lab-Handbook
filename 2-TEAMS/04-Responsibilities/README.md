@@ -235,12 +235,70 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >5. Once comfortable, the RA can now collect data on their own! :)
 
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>Paid undergraduate research assistants (RAs) typically start at $18/hour. Research assistants (RAs) are most often involved in scheduling and testing undergraduate research participants (for an example of what a typical in-person testing session might look like see this section), but sometimes work on other tasks such as data entry, transcription, developing stimulus sets, and programming experiments.
+>
+>I want all RAs to have a rewarding and educational experience in the lab. If you are not getting what you hoped out of your experience, please talk to me so that we can try to find work and training opportunities more in line with your goals or, if that is not possible, point you toward other labs that might be a better fit.
+
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
 >
 >It is expected that during your time in the VORTEX Lab, you will have to learn some coding basics to push forward your research and run your statistics. Expectations vary depending on the level of the trainee. For instance, at minimum:
 >* Undergraduate students will be expected to be able to run standard code already written and manipulate some variables to explore data;
 >* MSc students will be expected to create new scripts to run custom analysis, or edit existing scripts to deal with data in new formats specific to their thesis studies. MSc students are also expected to be able to code their statistics and graphs using RStudio.
 >* PhD students will be expected to do all of the above and act as primary mentors to junior students learning the basic steps. Depending on career aspirations and learning objectives, I trust that PhD students will decide at what level of coding they want to push themselves.
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>科研团队负责人（Principal Investigator, PI）的核心职责，是让团队在正确方向上，持续产出可复现、可发表、可积累的成果：
+>
+>- 定方向与标准：明确研究问题、技术路线与“什么算完成/算好”（可复现、可解释、可推广），定期收敛与调整选题。
+>- 建梯队与分工：组建互补的人员结构（博士/硕士/助理/联培等），明确分工接口与协作规则，保证关键任务有人负责、有人备份。
+>- 资源与平台保障：争取并配置经费、数据、设备、算力与外部资源；把有限资源投向能形成长期积累的方向与基础设施。
+>- 质量把关：对数据、代码、方法、统计与结论负责；推动代码与数据可追溯、关键结果可复现；把科研诚信与合规作为底线。
+>- 学术产出与传播：把项目推进为论文/报告/开源/专利等可交付成果，抓关键节点（投稿、返修、答辩、结题），并维护团队学术声誉。
+>- 培养与评估：设定训练路径与里程碑（文献、方法、写作、表达），提供高频反馈；基于贡献与成长进行公正评价与机会分配。
+>- 文化与风险管理：建立透明沟通、互相尊重、可预期的制度；及时处理冲突、倦怠与安全问题，降低单点故障与项目风险。
+>
+>PI对方向、资源与质量负责，最终以可复现成果与团队成长为交付。
+>
+>1.2.2 科研助理
+>
+>科研助理的核心职责，是把团队的研究工作“落到地上”，让项目按计划推进并保持可追溯：
+>
+>- 执行支撑任务：按要求完成文献检索与整理、数据收集/清洗、实验/模拟的批量运行、结果可视化与表格汇总。
+>- 材料与流程管理：维护项目文档、数据与代码的目录结构与版本记录；整理会议纪要、任务清单与阶段交付物。
+>- 质量与合规：按规范记录参数、环境与关键步骤；对数据来源、引用与共享权限负责，避免“口算结果/不可复现”。
+>- 协调与保障：协助安排组会与学术活动、差旅/报销/采购等事务性流程，让研究成员把时间花在关键科研上。
+>
+>科研助理以规范执行与流程保障提升团队效率，确保材料与结果可追溯。
+>
+>_English translation:_
+>
+>The core duty of a research team leader (Principal Investigator, PI) is to make the team keep producing reproducible, publishable and cumulative results in the right direction:
+>
+>- Set direction and standards: define the research questions, the technical route and what counts as done or good (reproducible, explainable, generalisable), and regularly narrow and adjust the choice of topics.
+>- Build the team and divide the work: put together a complementary mix of people (PhD students, master's students, assistants, jointly trained students and so on), define the interfaces between tasks and the rules of collaboration, and make sure every key task has someone responsible and someone as backup.
+>- Secure resources and platforms: win and allocate funding, data, equipment, computing power and external resources, and direct the limited resources to directions and infrastructure that can build up over the long term.
+>- Quality control: be responsible for the data, code, methods, statistics and conclusions; push for traceable code and data and reproducible key results; treat research integrity and compliance as the bottom line.
+>- Academic output and dissemination: carry projects through to deliverables such as papers, reports, open source and patents, watch the key milestones (submission, revision, defence, project closure), and protect the academic reputation of the team.
+>- Training and assessment: set training paths and milestones (literature, methods, writing, presentation), give frequent feedback, and evaluate fairly and allocate opportunities on the basis of contribution and growth.
+>- Culture and risk management: build transparent communication, mutual respect and predictable rules; deal promptly with conflict, burnout and safety problems, and reduce single points of failure and project risk.
+>
+>The PI is responsible for direction, resources and quality, and in the end delivers reproducible results and the growth of the team.
+>
+>1.2.2 Research assistants
+>
+>The core duty of a research assistant is to bring the team's research work down to earth, so that projects move forward as planned and stay traceable:
+>
+>- Carry out supporting tasks: complete literature searches and organisation, data collection and cleaning, batch runs of experiments and simulations, result visualisation and table summaries as required.
+>- Manage materials and processes: maintain the directory structure and version records of project documents, data and code; organise meeting minutes, task lists and stage deliverables.
+>- Quality and compliance: record parameters, environment and key steps according to the standard; be responsible for data sources, citations and sharing permissions, and avoid "results calculated in the head" that cannot be reproduced.
+>- Coordination and support: help arrange group meetings and academic activities, and handle administrative processes such as travel, reimbursement and purchasing, so that research members can spend their time on the key research.
+>
+>Research assistants raise team efficiency through standardised execution and process support, and make sure that materials and results are traceable.
 
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
@@ -329,6 +387,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Is prior knowledge required? No specific prior knowledge is required. In addition to the weekly seminar, students attend a weekly study session after joining the lab, where Prof. Mizuno and senior students provide lectures covering the fundamental knowledge needed for research.
 >
 >Is English proficiency required? English proficiency is not a prerequisite for joining the lab, but it becomes increasingly important as research progresses. Prof. Mizuno provides individual guidance according to each student’s needs and preferences.
+
+>_[SpinLabKyushu_2026](https://cmp.ed.kyushu-u.ac.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%85%8D%E5%B1%9E%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E6%96%B9%E3%81%B8)_:
+>
+>研究室で報連相のコミュニケーション能力伸長をサポートします。特に学会発表・論文発表の指導に力を入れています。日本語での文書作成・実験結果のまとめ方の指導は一対一で丁寧に指導します。実験や計算を行った結果は、文章にまとめて残すことを習慣づけます。
+>
+>　現在では、日系企業においても総合職には英語でのコミュニケーションが求められるだけでなく、TOEICの点数が昇進要件に使われるほど、英語力はシビアに要求されます。研究室では、TOEICスコアと実際の英会話力の両方を高める活動を行います。具体的には、TOEIC対策を通じて英語力向上を目指すEnglish Timeを学生が主体となり開催しています。
+>
+>_English translation:_
+>
+>The lab supports the development of 'hou-ren-sou' (reporting, contacting, consulting) communication skills. We put particular effort into coaching on conference presentations and paper publication. Writing documents in Japanese and summarising experimental results are taught carefully, one to one. Students are trained to make a habit of writing up the results of experiments and calculations as text.
+>
+>Nowadays, even at Japanese companies, English communication is required for general-track positions, and English ability is demanded so strictly that TOEIC scores are used as a promotion requirement. In the lab we run activities that raise both TOEIC scores and real English conversation ability. Specifically, English Time, which aims to improve English through TOEIC preparation, is organised by the students on their own initiative.
 
 >_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
 >

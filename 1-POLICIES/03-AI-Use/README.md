@@ -77,6 +77,15 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >
 >Before using an external AI service, check that you have the right to upload the content; if unsure, ask the project lead.
 
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>- AI使用限制：不得使用任何公共AI工具（如Claude、ChatGPT、DALL-E、GLM、DOUBAO等）进行敏感数据的处理或分析。使用AI时，不得向AI提供任何保密数据。
+>- 禁止使用 AI（Cursor、TRAE、KIRO、CODEX、Claude Code）在包含保密数据的父目录中工作。禁止让 AI 工具获取“父目录（Parent folder）”的信任权限。（详见注释）
+>
+>_English translation:_
+>
+>- AI use restrictions: no public AI tool (such as Claude, ChatGPT, DALL-E, GLM, DOUBAO) may be used to process or analyse sensitive data. When using AI, do not give it any confidential data. - Do not use AI (Cursor, TRAE, KIRO, CODEX, Claude Code) to work in a parent directory that contains confidential data. Do not grant AI tools trust permission on the parent folder. (See note for details)
+
 ### Denmark
 
 >_[EmbodiedComputationGroup_2026](https://www.the-ecg.org/lab-book/pages/13-data-and-ethics/)_:

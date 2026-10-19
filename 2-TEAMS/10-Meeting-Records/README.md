@@ -28,6 +28,17 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >- Write a brief self-reflection on the previous week. This reflection is open-ended, but I suggest discussing what went well, what you found to be the most challenging, what you did to try to overcome those challenges, lessons learned, things that I/others can help with, and notes to yourself on what you would do differently in the upcoming weeks.
 >- Draft a list of plans and priorities for the upcoming week.
 
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>Apart from the weekly lab meeting, members of the BLERF lab usually have individual weekly meetings with Jason.
+>
+>* Students are expected to generate an agenda in advance of these meetings. This agenda helps ensure that we make the most of our meeting time.
+>* Meeting agendas and notes should be posted on OSF for accountability (for both student and supervisor)
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>In addition to attending lab meetings, honours students will also meet with me (and, if applicable, others working on the same project) on a weekly basis for progress updates, to work out any problems that arise. Students will be expected to keep a record of notes from weekly meetings, which they send to me afterwards (ideally within 24 hours). This helps detect misunderstandings and also provides a record that we can later consult if the need arises.
+
 >_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
 >
 >Monthly meetings:  Monthly small-group meetings serve a complementary purpose to weekly progress meetings: each trainee summarizes recent progress, sets goals for the coming month, and hears from peers about adjacent projects, fostering broader scientific awareness across the lab.

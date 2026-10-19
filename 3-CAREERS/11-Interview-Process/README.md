@@ -218,6 +218,20 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >When we meet with you at the interview, please let us know whether or not you wish to pursue a researcher career (i.e., whether or not you wish to enter a doctoral course). This information will not be used to determine whether or not you will be assigned to a laboratory, but will be used as a reference when considering your research theme after entering the program.
 
+>_[SpinLabKyushu_2026](https://cmp.ed.kyushu-u.ac.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%85%8D%E5%B1%9E%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E6%96%B9%E3%81%B8)_:
+>
+>卒業に必要な単位を取得できる見通しがあれば学部等での成績はあまり重視しません。出身大学や学部時代の成績を問わず、物理またはモノづくりに関心があり、自分のアタマで考えることが好きな方の期待に応えたいと考えています。これより、弊研究室は九州大学だけでなく他大学や工業高等専門学校を卒業して弊学へ進学予定の大学院生も大いに歓迎します。
+>
+>_English translation:_
+>
+>As long as there is a prospect that you will earn the credits needed to graduate, we do not place much weight on grades at the undergraduate level. Regardless of the university you come from or your undergraduate grades, we want to meet the expectations of people who are interested in physics or in making things and who like to think with their own heads. For this reason, our lab warmly welcomes not only Kyushu University students but also graduate students who will come to our university from other universities and from technical colleges (kosen).
+
+>_[TakiLabUEC_2026](https://tkl.pc.uec.ac.jp/program-english.html)_:
+>
+>Applicants from chemistry, biochemistry, molecular biology, materials science, optics, biomedical engineering, and related fields are welcome. You do not need to possess all of these skills before joining the laboratory. Experimental initiative, persistence in troubleshooting, and a willingness to learn across disciplines are more important.
+>
+>Research supervision and day-to-day support are available in English. From October 2026, four international students are expected to be based in the laboratory. Details of funding routes, admission procedures, and available research environments are provided in the sections below.
+
 >_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/お問い合わせ/審査手順)_:
 >
 >**1. 書類審査**
@@ -474,6 +488,11 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Applicants intending to join MsEE Lab will be interviewed by Pablo and all current long-term (non-undergraduate) lab members before any decisions are made. Prospective graduate students must apply to a Cornell Graduate Field, where they may be interviewed by Pablo and carry out a research rotation in the lab to consider joining. Other types of positions apply to Pablo directly. Postdoctoral candidates should expect to present their previous research in a talk, either remotely or in person, depending on lab finances and candidate location. All candidates should provide a CV and expect it to be shared with lab members. Pablo will gather feedback from all lab members individually and confidentially. Pablo will present the conclusions gained from this process and the resulting decision to the group. The timeline for this decision will be communicated to the applicant promptly.
+
+>_[SouroullasLab_2026](https://sites.wustl.edu/souroullaslab/?p=297)_:
+>
+>If you are considering a rotation in my lab, here’s my approach to rotations:  
+>You will be assigned a well-defined project which could be completed in 6-8 weeks, and which will expose you to several of the epigenetic and molecular techniques that we carry out in the lab. Even though we work on genetically engineered mouse models, mouse work can be time consuming and not a practical way to spend your rotation time. Instead, you will probably work with an in vitro system and apply molecular techniques to address an aspect of a bigger project that is ongoing in the lab. You will still have a chance to see some of the mouse work by interacting with the other members of the lab. You are not expected to know how to do everything, you are here to learn! So if experiments don’t work out as expected and you spend your entire rotation troubleshooting, you did not fail your rotation. As long as you do your best, interact with the rest of the team in a positive manner and understand the scientific question you are trying to answer, then you had a successful rotation. The ultimate goal is to see if you are a good fit for the lab, both in terms of scientific interests and personnel dynamics.
 
 >_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/lab-interviews/)_:
 >

@@ -48,9 +48,41 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc) when you are eligible to do so. Typically an initial contract is for one or two years of support from my research grants. In some cases this may be extended but this is highly dependent on circumstance, budget, etc.
 
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>Most general funding issues (e.g., graduate student fellowships, payment rates for research assistantships and work-study postings) will have been discussed and negotiated prior to your arrival in the lab.
+>
+>My capacity to fund travel expenses for conferences or workshops, purchase equipment and software to make your research easier or enable new projects, and cover registration fees for societies, courses, or certificates relevant to your research or professional development will vary depending on the expense and current grant funding. I cannot guarantee funding for these things beyond what was negotiated prior to your arrival, but if there is something that would be helpful for you to have or attend I encourage you to ask. You will never be expected to fund expenses necessary for your research out of your own pocket. If you must make a research- or lab-related purchase yourself, you should fill out a Business Expense Reimbursement Claim and send it to myself or your supervising graduate student. I will always cover expenses related to printing or copying necessary paperwork, paid room rentals (if required), etc.
+
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
 >
 >Agreed upon research programs of graduate students and post-docs will be funded by Njal to the level required to complete them, barring unforeseen circumstances including loss of grant funding and substantial increases in costs.
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>本研究组内每个成员的工资收入由身份决定。
+>
+>- 硕士生和博士生工资按照研究生处的规定执行；免学费后，博士研究生每人每年不低于 70000 元，硕士研究生每人每年不低于 33000 元（2024 年 9 月起执行）。具体情况可与中国科学院西北研究院研究生处沟通。
+>- 博士后或特别研究助理工资主要按照中国科学院西北研究院的规定，额外津贴与本组PI商量决定。
+>- 一般研究助理工资的变幅较大，依据为中国科学院西北研究院科研助理管理规则；工作属于劳务派遣，长期工作则签署劳动合同，并享有劳动法规定的医疗、养老和失业保险。工资外的收入与具体工作内容和工作性质有关。
+>
+>保送本研究组的硕士研究生，自动获得12000元奖学金（2023年起）。
+>
+>优秀科研助理可获得每年5万元自主科研经费，支持个人科研兴趣。
+>
+>_English translation:_
+>
+>The salary income of every member of the group is determined by their status.
+>
+>- The pay of master's and PhD students follows the rules of the Graduate School; after tuition is waived, each PhD student receives no less than 70,000 yuan a year and each master's student no less than 33,000 yuan a year (in force from September 2024). For details, consult the Graduate School of NIEER.
+>- The pay of postdoctoral researchers or special research assistants mainly follows the rules of NIEER; any extra allowance is decided in discussion with the group's PI.
+>- The pay of general research assistants varies widely, according to NIEER's management rules for research assistants; the work is labour dispatch, and long-term work is covered by a labour contract with the medical, pension and unemployment insurance provided by labour law. Income beyond salary depends on the specific content and nature of the work.
+>
+>A master's student recommended for admission to this group automatically receives a 12,000 yuan scholarship (since 2023).
+>
+>Excellent research assistants can receive 50,000 yuan a year in independent research funding to support their personal research interests.
 
 ### Finland
 >_[CellMigrationLab_2026](https://cellmig.org/join-us/)_:

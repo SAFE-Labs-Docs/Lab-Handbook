@@ -17,6 +17,21 @@ All lab members are expected to maintain a professional attitude of integrity, a
 ## Examples
 
 ### Canada
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>Diversity is a fact
+>
+>Just like life is diverse, so are we. Everyone is welcomed independently of their culture, religion, race and colour, sexual orientation, gender identity, differing abilities, and mental health status, personal and academic background, age, economic status or body appearance.
+>
+>Inclusion is an act
+>
+>- Use the preferred pronouns if you know someone. Otherwise, prefer a gender-neutral language.
+>- Put an effort in correctly pronouncing people’s names. There is no shame in mispronouncing names, as long as you try your best.
+>- Allow personal space, and respect others’ privacy. Be self-conscious of your language and behaviour.
+>- Develop a land acknowledgment and identify your positionality (you can consult this UBC resource)
+>- If you realize you’ve erred, apologize quickly and move forward.
+>- But most importantly, be kind.
+
 >_[EvendenLab_2026](https://grad.biology.ualberta.ca/evenden/lab-code-of-conduct/)_:
 >
 >If you see something inappropriate happening, a gentle reminder about the Code of Conduct is a productive response:
@@ -24,6 +39,10 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >- Try to respond in a constructive way
 >- First try to resolve the issue with the person you have an issue with
 >- - If not working or not comfortable, find a mediator to assist (conflict resolution)
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>This lab is subject to university-wide policies on harassment and discrimination and sexualized violence. You are of course protected by, and expected to follow, these policies in all of your activities at UVic (and in many cases by law), but it is worth reiterating that they apply equally to all interactions related to your work in the lab, whether with other lab members or research participants. There will be zero tolerance for personal and sexual harassment, bullying, and discrimination on the basis of race, colour, ancestry, national origin, religion, sex, gender identity or expression, sexual orientation, age, physical or mental disability, marital or family status, and socioeconomic status. I also recognize that various forms of privilege have the effect of discouraging or preventing marginalized groups from participating in scientific research and pursuing careers in science. With this in mind, I aim to go beyond the bare minimum standard of avoiding the harms associated with harassment and discrimination and take active steps to make the lab and our work more inclusive and accessible. I am always open to critique and suggestions on how to improve current practices in this regard.
 
 >_[McKinneyLab_2026](https://mckinneylab.weebly.com/lab-code-of-conduct.html)_:
 >
@@ -67,6 +86,22 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >**Phone Use**
 >
 >No phone use when children are in the lab. Some parents are very aware of the behavior that is being modeled in front of their kids, so we don't want to model a behavior that may be inconsistent with views on phone use. Also, it's unprofessional.
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>学术导师的行为准则：
+>
+>导师与学生天生不平等，任何可能带有不平等而导致学生无法拒绝或不好意思拒绝的请求，导师都应该回避。
+>
+>- 不歧视学生 —— 导师不因任何原因（包含但不限于性别、籍贯、疾病、相貌、专业、兴趣、家境等）而对学生有歧视语言或行动。尊重学生人格，尊重学生的个人自由。
+>- 不收学生礼物 —— 学生毕业以前，不接受任何学生的礼物，包括但不限于水果、鲜花、特产、贺卡等。不接受学生或其家人请吃饭。
+>- 不干涉学生个人生活 —— 导师只负责学习和科研相关内容；学生拥有安排个人生活、保护隐私的权利。
+>
+>_English translation:_
+>
+>Code of conduct for the academic advisor: Advisor and student are inherently unequal; the advisor should avoid any request that, because of this inequality, the student could not refuse or would feel awkward refusing. - No discrimination against students: the advisor does not use discriminatory language or actions against students for any reason (including but not limited to gender, place of origin, illness, appearance, major, interests, family background). Respect the student's dignity and personal freedom. - No gifts from students: before graduation, accept no gifts from any student, including but not limited to fruit, flowers, local specialities, cards. Accept no meals from students or their families. - No interference in students' personal lives: the advisor is responsible only for study and research matters; students have the right to arrange their personal lives and protect their privacy.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:

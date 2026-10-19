@@ -39,6 +39,34 @@ A clear and current list of lab members allows prospective applicants to gauge t
 >
 >Information about current lab members and alumni can be found [here](https://rossilab.iit.it/people).
 
+### Japan
+
+>_[TakiLabUEC_2026](https://tkl.pc.uec.ac.jp/program-english.html)_:
+>
+>The mindset I gained in the Taki Lab—always extracting a new insight even from a so-called ‘failed’ experiment—is still my guiding principle, and I now pass that attitude on to my graduate students.”
+>
+>—Assist. Prof. Dr. Y. Azetsu
+>
+>Department of Pharmacology, Graduate School of Dentistry, Showa University School of Medicine
+>
+>・“My experience in the Taki Lab—grappling with the challenge of turning 0 → 1 into reality—still fuels my drive as a researcher to keep formulating new questions.”
+>
+>—Dr. K. Mochizuki
+>
+>Tokyo Metropolitan Industrial Technology Research Institute (TIRI)
+>
+>・“I joined the Taki Laboratory as one of its first members. Professor Taki had just started out as an independent principal investigator (PI), and now I stand in the same position myself. The lab taught me the mindset required of a researcher and a PI. “
+>
+>—Assoc. Prof. Dr. K. Fukunaga
+>
+>University of Miyazaki
+>
+>・“I returned to academia as a working-professional doctoral student to balance in-house R&D with publishable science. Companies are now expected to propose research themes with real social impact, and the training and discussions with the PI in the lab have become the bedrock for planning such projects.”
+>
+>—Dr S. Hirasawa
+>
+>Senior Principal Researcher, Value Creation Group, Research Institute for Bioscience, Products & Fine Chemicals, Ajinomoto Co., Inc.
+
 ### Netherlands
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >

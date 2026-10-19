@@ -64,6 +64,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >You are entitled to vacation, unless you are part-time or co-op staff, in which case you may be paid extra in lieu of vacation as per the BC labour regulations. UVic (and NSERC) suggests three weeks off a year. I also shut down the lab on Christmas Eve and between Christmas and New Year (these days do not count as part of your three weeks). You should tell me about planned vacations well in advance, and add them to the calendar. Also, remind me of vacations approximately one week before you leave. You should keep track of the days you have taken for vacation.
 
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>RAs are typically expected to be able to commit to around 6 hours/week of lab work on average (including weekly lab meetings, other meetings related to lab projects, and training sessions), although the availability of hours will vary substantially over the course of the semester depending on lab needs. It is important to note that the estimate hours is an average. There may be some weeks where there is little/no work and some weeks (e.g., during peak SONA data collection periods near the beginning and end of the semester, or near to conferences) where there will be more work. But, scheduling for most projects is highly flexible and you do not need to commit to working the same hours every week. If there are weeks you are particularly busy with midterms or other commitments, it is perfectly fine to take those weeks off from lab work entirely.
+
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >Normal working hours in our lab are M-F 9am to 4pm, although you may expect some commitments on evenings and weekends depending on the type of research participants you are working with, and teaching schedules. Working from home is always an option on days when you don' t need to be physically present (e.g., for meetings, teaching, data collection). I recognize there are circumstances where it's necessary to work from home and there are other times when working from home is more productive for you. We try to be as accommodating as possible including using technology like teleconferencing.
@@ -75,6 +79,26 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
 >
 >There is no expectation of responding to messages or emails on weekends or evenings; either on my part, or on yours. Similarly, there is no expectation to respond to fellow lab mates about work-related queries on off hours when in the office, unless unusual circumstances suggest a clear need for a prompt exchange of information, such as during a crucial experiment.
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>- 工作和生活分开
+>
+>为了更长久地在科研领域奋斗，要能够同时享受科研工作和个人生活。不加班、不熬夜的前提，是尊重正常的工作时间。
+>
+>- 尊重他人的私人空间
+>
+>若无紧急事态，不要打扰组员的周末、假日和晚上的个人时光。
+>
+>- 科研工作需要自由空间
+>
+>每个人都有不同的工作模式。工作的时间、地点、方式都存在个人差异，应选择最适合自己的方式。
+>
+>_English translation:_
+>
+>- Keep work and life separate. To keep going in research for the long term, you need to enjoy both research and personal life. No overtime and no late nights presupposes respecting normal working hours. - Respect others' private time. Unless there is an emergency, do not disturb group members' weekends, holidays and evenings. - Research needs free space. Everyone works differently. Working times, places and ways differ between people, and each should choose what suits them best.
 
 ### Denmark
 >_[LNN-UCPH_2026](https://lnn-ucph.github.io/LNN-UCPH-Handbook/lab_philosophy.html)_:
@@ -244,6 +268,46 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >I place importance on everyone gathering in the morning at the start of the week, also in order to keep a regular lifestyle. People who want to live a night-owl lifestyle are not suited to the Matsunaga lab. Please try to live by getting up in the morning, getting sunlight, and sleeping properly at night.
 >Once the Monday meeting is over, the week's research starts right away. Some people who live nearby finish the morning meeting at home and then come to ISSP, while people who live far away come to ISSP in time for the start of the Monday meeting. This is left to each person's judgment. We do not set any particular core time either, but the members' rough schedules are shared on a web calendar. Unless told otherwise, we assume you are at ISSP during weekday daytime, so please always let us know when you take time off.
+
+>_[SpinLabKyushu_2026](https://cmp.ed.kyushu-u.ac.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%85%8D%E5%B1%9E%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E6%96%B9%E3%81%B8)_:
+>
+>コアタイムはありませんが、コツコツと研究を進めることを期待します。ただし、安全衛生管理の観点から、一人で安全に実験できるようになるまでは研究室滞在可能時間を設定し、原則平日午前8時～午後6時までとします。限られた時間で研究を進められるよう、日々規則正しい生活を送ることを期待します。
+>
+>_English translation:_
+>
+>There is no core time, but we expect you to carry on with your research steadily. However, from the viewpoint of safety and health management, until you can carry out experiments safely alone, the hours you may stay in the lab are set, in principle, at 8:00 to 18:00 on weekdays. We expect you to keep a regular daily routine so that you can make progress in the limited time.
+
+>_[TakiLabUEC_2026](https://tkl.pc.uec.ac.jp/program-english.html)_:
+>
+>Typical Weekly Routine
+>
+>Mon | (Standard research day)
+>
+>Tue | Journal Club (PM only)
+>
+>Wed | (Standard research day)
+>
+>Thu | (Standard research day)
+>
+>Fri | Research report meeting (AM only) & occasional TGIF socials
+>
+>Core collective hours are kept minimal, and schedules are adjusted each term to accommodate coursework. Sustained experimental progress, research quality, responsible documentation, and effective communication matter more than fixed attendance hours.
+
+>_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/)_:
+>
+>研究に取り組むうえでの基本姿勢  
+>研究成果を上げるためには、授業や就職活動などと両立しながら、継続的に十分な時間を確保して研究に取り組む必要があります。  
+>特に大学院では、自ら課題を設定し、試行錯誤を重ねながら、成果を論文や学会発表としてまとめる姿勢が求められます。  
+>研究への取り組みが著しく不足する場合には、十分な研究成果を得ることが難しくなり、結果として標準修業年限での修了が困難になることがあります。
+>
+>_English translation:_
+>
+>Basic attitude towards research  
+>To produce research results, you need to secure sufficient time continuously for research while balancing it with classes, job hunting and so on.  
+>In graduate school in particular, you are expected to set your own problems, repeat trial and error, and compile the results into papers and conference presentations.  
+>If your commitment to research is markedly lacking, it becomes difficult to obtain sufficient research results, and as a result it may become difficult to complete the programme within the standard period.
+>
+>_Note from the lab: this passage describes expectations for time devoted to research; it does not set specific policies on working hours, remote working or vacation._
 
 ### Netherlands
 >_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:

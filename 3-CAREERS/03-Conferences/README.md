@@ -51,6 +51,19 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >[The graduate school] gives graduate students up to $500 to reimburse travel costs through the Graduate Student Travel Fund, once per degree program.
 
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>Jason will support each (master’s) student in attending one conference per their degree. Funding is NOT available from UBCO (temporarily on hold, 2024/25), and you must apply for conference/travel funding and receive approval PRIOR TO the event:
+>
+>* Irving K. Barber Faculty of Science Graduate Student Travel Grant.
+>* $500 for master’s students
+>* $1000 for PhD students
+>* note: you must be presenting your work in order to be eligible for this grant
+>- UBC Tuum Est Fund:
+>- $500
+>- Maximum of one conference per academic year can be funded through the Tuum Est Fund
+>- Rolling deadline, approximately once per month but the due dates are not consistent (Ex: June 19th, 2023, July 31st, 2023)
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >One of the perks we have as academics is travel (although it comes with its own drawbacks!). We have limited money for travel, you can help as follows:
@@ -78,6 +91,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >This can be challenging because often deadlines for abstracts are many months in advance of the conference itself. That said, learning to work backward from firm deadlines is an essential skill, not just in grad school, but in any career. Conference deadlines provide a concrete target to plan around, and can be a useful forcing function for making steady progress on a project. Treating these dates seriously, and building in buffer time for the unexpected, is good practice for navigating the many real-world deadlines you will encounter throughout your professional life.
 >
 >We often attend [SFN](https://www.sfn.org/meetings) and [NCM](https://ncm-society.org/) each year. If there is another meeting or meetings that you would like to attend, that is a possibility, budget permitting. Typically trainees attend 1 major meeting per year.
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>I will cover the costs of professional poster printing for conferences at UVic or elsewhere for lab members at any level who are interested in presenting. UVic’s Psi Chi Chapter hosts an excellent annual undergraduate research conference called Making Waves that honours students are usually required to present at, and undergraduate research assistants are strongly encouraged to consider doing so as well. It is a very friendly, low-stress introduction to conference presentations, and you can present on research or analyses you have done in the lab, as part of a class, or even a research proposal.
 
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
@@ -107,6 +124,21 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/07-funding-sources.md)_:
 >
 >The availability of lab funding will change year-to-year, although I value conference experience for graduate students and will try to fund at least one conference per year for graduate trainees (e.g., at minimum OEP or CSEP)
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>- 参加学术会议（5分/次）
+>- 参加国内正式学术会议，并在会议上做口头报告；
+>- 会议汇报内容为在本组的研究内容；
+>- 汇报 PPT 至少在会议前 14 天完成，并通过 PI 审核；
+>- 全程参会，参会时做笔记，会后做总结；
+>- 材料齐全，会议费用可全额报销。
+>
+>_English translation:_
+>
+>- Attending academic conferences (5 points each) - Attend a formal domestic academic conference and give an oral presentation there; - The talk presents your research in this group; - Slides finished at least 14 days before the conference and approved by the PI; - Attend the whole conference, take notes during it and write a summary afterwards; - With complete paperwork, conference costs are fully reimbursed.
 
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
@@ -233,6 +265,38 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Your PC may fail on the spot and you may have to present on someone else's, so it is a good idea to send the slides to the faculty member by the day before
 >
 >If you cannot present because of sudden illness or transport problems, they may be able to present on your behalf
+
+>_[SpinLabKyushu_2026](https://cmp.ed.kyushu-u.ac.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%85%8D%E5%B1%9E%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E6%96%B9%E3%81%B8)_:
+>
+>弊研究室では、人類の普遍的な価値である学術的好奇心を通じて、学生が国内外の優秀な研究者と交流する機会を提供したいと考えています。皆さんが卒業後にグローバルな競争環境で活躍するための糧となると信じているためです。したがって、大学院修士課程の学生諸君には、主体的に研究に取り組み、成果を得て論文執筆し、国際学会発表することを期待します。
+>
+>_English translation:_
+>
+>Through academic curiosity, a universal human value, our lab wants to give students the chance to interact with excellent researchers in Japan and abroad. We believe this will nourish them for success in the globally competitive environment after graduation. We therefore expect master's students to take up research on their own initiative, obtain results, write papers, and give presentations at international conferences.
+
+>_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/)_:
+>
+>Q. 学外発表の機会は？  
+>学生全員に学会発表の機会があります。  
+>頑張っている学生には、できる限り支援します。  
+>最終的に発表できるかどうかは、本人の努力（成果）次第です。  
+>Q. 研究資金は？  
+>大学からの校費（年度によって変動）＋外部資金（研究 参照）で運営されています。  
+>研究に必要な機材や学会発表の旅費などは、研究室の予算の範囲内で支援します。  
+>博士後期課程の学生には、学振特別研究員や外部資金の申請を奨励しています。  
+>最大限の支援をします。
+>
+>_English translation:_
+>
+>Q. Are there opportunities to present outside the university?  
+>Every student has an opportunity to present at a conference.  
+>We support students who work hard as much as we can.  
+>Whether you finally get to present depends on your own effort (results).  
+>Q. What about research funding?  
+>The lab is run on university funds (which vary from year to year) plus external funds (see Research).  
+>Equipment needed for research and travel costs for conference presentations are supported within the lab's budget.  
+>We encourage doctoral students to apply for JSPS Research Fellowships and external funding.  
+>We will give the maximum support.
 
 >_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
 >
@@ -432,6 +496,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >
 >- Conferences – assuming the lab has money, each grad student and postdoc will be funded to attend at least one academic conference per year. If an undergrad has taken a large role in a project and would like to attend, then this is also a possibility. Conferences are fun, but don’t forget that they are professional too. You are expected to use your time wisely at the conference (see relevant talks, meet new people, etc). You’ll be expected to give a summary of the cool things you learned/saw at a conference after you return
+
+>_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
+>
+>If you have your own travel funds (e.g. from an individual fellowship), you may attend whatever conferences you would like. However, make sure to get approval from me on any work you’ll be submitting or presenting. If you do not have your own travel funds, I will pay for you to go to selected conferences (1-2 per year), prioritizing those at which you will be presenting your work and taking cost into consideration. We can discuss specific conferences and their training value to you in individual meetings.
 
 >_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
 >

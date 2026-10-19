@@ -117,6 +117,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >We will rotate note-taking responsibilities and maintain notes in the lab Google Drive folder.
 
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>During the school year, the BLERF lab hosts a weekly lab meeting. These lab meetings are typically 60 minutes and cover a range of topics. The meeting schedule can be found at the [BLERF OSF](https://osf.io/64cwf/wiki/Lab%20meetings/).
+>
+>* During the summer, these lab meetings typically become more sporadic as lab members are away on vacation or busy with fieldwork.
+>* Often students and faculty from other labs will join these weekly meetings.
+
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-manual/whats-expected/)_:
 >
 >We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.
@@ -128,6 +135,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Sometimes we also attend the Pruszynski lab meeting, or the Diedrichsen lab meeting, depending upon who is presenting and what is being presented. We should regard the three labs as one cohesive unit, and we should feel free to attend each other's lab meetings optionally when there is something of interest being presented.
 >
 >We also meet together with the Pruszynski lab and the Diedrichsen lab for a shared "superlab" meeting & journal club. The exact time & location may change from year to year. You should regard attendance at these as mandatory, unless you have a class that is scheduled in conflict.
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>All lab members will be expected to attend lab meetings if you are available at the scheduled time. To maximize accessibility, lab members can attend in-person or virtually via Zoom. The frequency of lab meetings varies from term-to-term, but schedules will be decided at the beginning of each term via survey. Accommodating graduate and honours students’ schedules will take priority in determining lab meeting times, so it may not always be possible to accommodate all research assistants’ schedules as well. RAs who have a scheduling conflict will generally be expected to meet or check in informally with your project group/student supervisor on a weekly basis or as agreed. If you usually attend lab meetings but can’t make it on a particular day, I appreciate advance notice if possible so I know who to expect and can cancel meetings if enough people are unavailable that it does not seem worthwhile to hold a meeting.
+>
+>Lab meetings are usually fairly informal and are an opportunity for everyone to get up to date on the progress of various projects, collaboratively solve issues that come up in the course of data collection or other parts of the research process, and discuss results as they come in. Some lab meetings may be reserved for training opportunities, discussing important topics (e.g., related to open science), or for lab members to present their research findings or practice for an upcoming presentation. Graduate and honours students will typically give at least one presentation per year in lab meeting, but all lab members are welcome to take advantage of this opportunity to practice and get feedback on presentations in a friendly, supportive environment.
 
 >_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
 >
@@ -160,6 +173,22 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >* research issues to be considered by the group;
 >* individual updates; and,
 >* a learning outcome for the group. The learning outcome will change week to week; for example: student data presentations, student practice presentations, journal club, career development, science development, science discussion, tutorial lecture/demonstration, etc.
+
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>组会组织方式：
+>
+>- 定期召开：每周一次。确保活动的持续性和规律性。
+>- 轮流主持：成员轮流担任组会的主持人，负责安排会议议程、邀请讲者和主持讨论环节等。
+>- 人员安排：团队成员，包括老师、学生和研究助理，都有必要参加。每周由一个团队成员主讲，并由下一周的主讲人担任本周的主持人。
+>- 报告和讨论：组会可包括研究成果的报告和讨论，或者邀请内部或外部专家进行报告和讲解，以加深对研究领域的理解和认识，同时也可以为团队成员提供一个分享和交流研究思路和方法的平台。
+>- 问题与解决：组会可以安排团队成员分享遇到的问题和解决方案，以促进成员之间的交流和合作，并解决项目中遇到的难点和问题。
+>
+>_English translation:_
+>
+>How group meetings are organised: - Held regularly: once a week, to keep the activity continuous and regular. - Rotating chair: members take turns chairing the meeting, responsible for setting the agenda, inviting speakers and running the discussion. - Attendance: all team members, including teachers, students and research assistants, need to attend. Each week one member gives the main talk, and next week's speaker chairs this week's meeting. - Reports and discussion: meetings can include reports and discussion of research results, or invited talks by internal or external experts, to deepen understanding of the field and give members a platform to share research ideas and methods. - Problems and solutions: meetings can have members share problems they met and how they solved them, to encourage exchange and cooperation and to solve difficulties in projects.
 
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
@@ -344,6 +373,50 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MizunoLab_2026](https://mizuno.ynu.ac.jp/?p=3544)_:
 >
 >What are the weekly seminars like? Seminars are held in person once a week (usually on Friday mornings), with several students presenting their research progress in English or Japanese. Prof. Mizuno and senior students also give lectures on research methods and the fundamentals of optical technologies. Conference presentation practice is sometimes included as well. All students are expected to participate actively in discussions and share their opinions.
+
+>_[SpinLabKyushu_2026](https://cmp.ed.kyushu-u.ac.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%85%8D%E5%B1%9E%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E6%96%B9%E3%81%B8)_:
+>
+>研究室では、週一回の進捗報告（湯浅研究室と合同実施）の他、基礎物理の勉強会とEnglish timeを学生が中心となって実施しています。ただし、参加者の希望に応じて頻度と内容は検討します。
+>
+>_English translation:_
+>
+>In the lab, besides a weekly progress report (held jointly with the Yuasa lab), a study group on basic physics and English time are run mainly by the students. However, the frequency and content are reviewed according to participants' wishes.
+
+>_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/)_:
+>
+>週例報告（1-on-1）  
+>教員と1対1で、前回からの進捗や次回までの予定について毎週報告します。  
+>研究の進め方、実験結果、論文執筆、進路などについて気軽に相談できます。  
+>研究ゼミ（全体）  
+>進捗報告・論文紹介・発表練習・質疑応答などを行います。  
+>通常は、全体ゼミを週1回、各人の発表を月1回程度のペースで行っています。  
+>個別ゼミ（1-on-1）  
+>教員との1対1での相談や進捗確認です。  
+>学生からの自主的な依頼形式ですが、必要に応じて教員側からの声掛けもあります。
+>
+>_English translation:_
+>
+>Weekly report (1-on-1)  
+>Each week you report to the faculty member one-to-one on progress since last time and plans until the next.  
+>You can freely consult about how to proceed with research, experimental results, paper writing, career paths and so on.  
+>Research seminar (whole lab)  
+>We hold progress reports, paper introductions, presentation practice, Q&A and so on.  
+>Normally the whole-lab seminar is held once a week, and each person presents about once a month.  
+>Individual seminar (1-on-1)  
+>This is a one-to-one consultation or progress check with the faculty member.  
+>It is in principle requested voluntarily by the student, but the faculty member may also suggest a meeting when needed.
+>
+>本研究室では週例報告や研究ゼミを活動の中心（コアタイム）として位置づけています。  
+>各自のペースを尊重しつつ、自ら考え、周囲と協力しながら主体的に研究へ取り組むことを基本方針としています。  
+>また、“研究室に来ること”そのものにも価値があると考えています。  
+>先輩・同期・後輩との交流や偶然の会話、ちょっとした相談から生まれる発見（セレンディピティ）も、研究室活動の重要な一部です。
+>
+>_English translation:_
+>
+>In this lab, the weekly report and the research seminar are positioned as the centre of activity (core time).  
+>Our basic policy is to respect each person's own pace while having members think for themselves and tackle research on their own initiative, in cooperation with those around them.  
+>We also believe that "coming to the lab" is valuable in itself.  
+>Discoveries (serendipity) that arise from exchanges with seniors, peers and juniors, chance conversations and small consultations are also an important part of lab activities.
 
 >_[YamaneLaboratory_2026](https://www.yamane.se.ritsumei.ac.jp/en/other-info-en/undergraduate-programs-en)_:
 >

@@ -68,6 +68,23 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.
 
 ### Canada
+>_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
+>
+>In general, data collected as part of BLERF activities will be archived on Dataverse, and publicly accessible (sometimes after a suitable embargo period).
+>
+>The primary collectors of the data (e.g. graduate students) are, by default, expected to maintain rights to the data, as will the primary advisor (Dr. Pither), who will be the steward of the data unless otherwise arranged at the outset of the collaboration.
+>
+>Exceptions to these general policies include:
+>
+>- Data collected as part of partnerships with Indigenous partners, who will decide if, how, and by whom data will be archived and accessed, following OCAP Principles.
+>- Sensitive data of any sort, which will be managed according to appropriate jurisdictional guidelines.
+
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>You should get into the habit of maintaining detailed records and organizing all files – physical and digital – related to your lab work in a fashion that will be straightforward for others (and your future self) to navigate and understand. Good practices include clear documentation of your storage system/organizational approach (e.g., in the form of “readme” files that detail the folder structure) and things like the meaning of variable names within files; using descriptive and consistent names for files, folders, and variables; extensively annotating any scripts used for data analysis or experiment programming, and keeping records of project milestones and timelines (OSF wiki pages for projects are a useful medium for this). A formal data management plan is encouraged and may be helpful to you, but is not required outright.
+>
+>- Back up all lab data regularly, and ensure they are always stored in at least 3 locations. Your office computer and the backup server available through your office computer can count as two; the third may be a personal machine or hard drive, or the lab hard drive if needed. Cloud-based services are convenient and may be acceptable for some purposes, but should not be used for identifiable or potentially sensitive data, or anything else you would prefer kept private.
+
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >Every ongoing research project will have an associated OneDrive folder within a shared library for the lab. Please speak to me or the lab manager to be given access to the OneDrive shared library.
@@ -447,6 +464,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >• Each lab member’s main Work directory should be automatically backed up to a cloud platform (e.g., Microsoft OneDrive, iCloud, or Dropbox). The department recommends using Microsoft OneDrive and provides all members with a free account.
 >• The lab also maintains a Microsoft SharePoint account, which serves as a central cloudbased drive for general shared lab documents. It is accessible through OneDrive and used for materials such as shared scientific resources, meeting slides, onboarding documents, and more. Every new lab member will be shown how to connect to the lab SharePoint during onboarding.
 >• Large files (e.g., sequencing or imaging data) should be stored in S-drive as cold storage at '/Volumes/shared/IID-Le Pen Lab/cold_storage' and properly indexed in the lab’s SharePoint at: ' /General/Data archive/Metadata table.xlsx'.
+
+>_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
+>
+>In general, you are expected to keep excellent, detailed notes on all your experiments. Your experimental notes are a crucial resource for the lab; they are not “personal.” Your notes must be available upon request and usable for verifying data in any publication, should questions arise. You are welcome to take copies of your personal notebooks with you when you leave but the original notes must be archived for the lab’s general reference before you go.
 
 >_[LiLabPDE_2023](https://pdelab.engr.wisc.edu/wp-content/uploads/sites/153/2023/12/ME_Mentor-Mentee-Expectations-Li-Group.pdf)_:
 >

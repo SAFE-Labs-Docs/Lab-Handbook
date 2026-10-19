@@ -60,6 +60,48 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >I expect MSc students to lead-author at least one significant manuscript from their thesis work, though students have sometimes produced two or more. The primary manuscript should be submitted to a peer-reviewed scientific journal prior to the thesis defense. PhD students should lead-author at least three significant manuscripts from their thesis work. At least two should be accepted or published before the thesis defense, with a third submitted or close to submission. Submitting a paper is a big achievement worthy of celebration. Students will receive a $1000 bonus for each independent manuscript submitted to an international peer-reviewed scientific journal. I commit to paying page charges/article processing charges (APCs) (often $2500-$4000 per published paper) for our work done together at SFU, even if it is published after the lead author has moved on.
 
+### China
+
+>_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
+>
+>本组成员需每年完成以下任务：
+>
+>- 文献阅读（1分/篇）
+>- 有价值的英文文献；
+>- 写成阅读文章发表于本组公众号，审核通过后可得分；
+>- 使用标准 PPT，在组会汇报（30 分钟）；
+>- 参加学术会议（5分/次）
+>- 参加国内正式学术会议，并在会议上做口头报告；
+>- 会议汇报内容为在本组的研究内容；
+>- 汇报 PPT 至少在会议前 14 天完成，并通过 PI 审核；
+>- 全程参会，参会时做笔记，会后做总结；
+>- 材料齐全，会议费用可全额报销。
+>- 发表学术论文（10分/1篇）
+>- 在核心及以上期刊发表学术论文。
+>- 本研究所为第一署名单位，本组PI为通讯作者，本组项目为第一资助。
+>
+>年底考核中，每个积分可获得 100 元奖金；若年底考核超过 20 分，额外奖励 5 个积分。完成任务过程中，凡涉嫌“抄袭”等学术不端行为，请直接退学或离开本研究组。
+>
+>_English translation:_
+>
+>Members of the group must complete the following tasks every year:
+>
+>- Literature reading (1 point per paper)
+>- Valuable English-language literature;
+>- Write it up as a reading article published on the group's official account; points are awarded after the review is passed;
+>- Present it at the group meeting using the standard PPT (30 minutes);
+>- Attending an academic conference (5 points each time)
+>- Attend a formal domestic academic conference and give an oral presentation there;
+>- The content presented at the conference must be the research done in this group;
+>- The presentation PPT must be finished at least 14 days before the conference and approved by the PI;
+>- Attend the whole conference, take notes during it, and write a summary afterwards;
+>- With complete materials, the conference costs can be reimbursed in full.
+>- Publishing an academic paper (10 points per paper)
+>- Publish the paper in a core journal or higher.
+>- This institute is the first affiliation, the group's PI is the corresponding author, and the group's project is the first funder.
+>
+>In the year-end assessment, each point earns a bonus of 100 yuan; if the year-end assessment exceeds 20 points, an extra 5 points are awarded. If anyone is suspected of academic misconduct such as plagiarism while completing the tasks, they should simply withdraw from their studies or leave the group.
+
 ### Denmark
 >_[NERDS-ITU_2026](https://nerds.itu.dk/students/)_:
 >

@@ -67,6 +67,12 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 >
 >Each year (in January) we will dedicate one meeting to this topic: everyone will talk about (at least) one professional failure from the past year—it could be anything from an experimental issue to a rejected application. The exact format will evolve with time, so for more specifics of the agenda and process, please look at the corresponding entry in the Lab Meetings database.
 
+>_[HumphriesLab_2026](https://humphries-lab.github.io/Lab-Manual/principles/)_:
+>
+>Lab motto: don't be afraid to be wrong.
+>
+>Projects and their progress and especially the lack thereof due to problems should be discussed openly in the lab.
+
 >_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
 >
 >The most important thing to know is that this happens to everyone. It is completely normal for things not to work, and everyone - including, perhaps especially, the most ‘successful’ people you know - encounters multiple ‘failures’ during their day-to-day work. So, don’t panic when things don’t work out as planned. Instead, reassure yourself that this is an inevitable feature of doing science, try your best to learn from the experience, and move on.

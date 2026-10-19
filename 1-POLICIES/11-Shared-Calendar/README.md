@@ -114,6 +114,10 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >
 >Please indicate when you are away from lab according to the following entries...
 
+>_[HumphriesLab_2026](https://humphries-lab.github.io/Lab-Manual/practical/)_:
+>
+>The lab has a Google Calendar to track all scheduled lab events (meetings, visitors etc). It has two other main functions: for everyone to enter their holidays; and for adding interesting external events (local seminars, conferences etc).
+
 >_[OPTIMlab_2026](https://www.georgesdgordon.com/?p=584)_:
 >
 >Please arrange annual leave or holiday in accordance with University and Departmental requirements, and with regard to key deadlines and group commitments. Postgraduate research students should agree holiday dates with their supervisor. As a courtesy, please note any holidays in the ‘Where are we’ shared calendar so others know when you will be away.

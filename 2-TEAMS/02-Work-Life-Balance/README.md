@@ -67,6 +67,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >There is no formal system for tracking vacation, but you should let [the PI] know when you will be out of the office for longer than 1 day, and record these absences in the lab Days Away spreadsheet.
 
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
+>
+>The Baron Lab supports a healthy work-life balance.
+>- Trainees are requested to be present on-site during the “core hours” of 10 am to 3 pm as much as they can manage because face-to-face time with their peers is essential for creating a positive work atmosphere, improving mental health, building professional relationships, mentorship, and forming collaborations.
+>    - If this is difficult for you, alternative arrangements are completely acceptable. Please discuss alternative arrangements with Dr. Baron.
+>- Dr. Baron does not require trainees to ask for permission to take time off for single or partial days off. For longer vacations please notify Dr. Baron.
+
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
 >
 >These goals of ours are supported by our hard work and integrity. Hard work means spending the hours in the bench when that’s where we need to be, but not avoiding the hard work that is thinking, reflecting, reading, writing and planning. Without being thoughtful it is not possible to work smart, only hard, and working without thinking saps creativity, drive and energy. Our hard work often requires sacrifice and the understanding of our friends and family but it does not compromise our family obligations. To show our loved ones how much we appreciate their support of our work we invite them to our lab events and make sure that they understand why our work is important.
@@ -459,6 +466,22 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Please factor this into the timing of your communications.
 >- (I usually respond MUCH faster than this.)
 
+>_[HumphriesLab_2026](https://humphries-lab.github.io/Lab-Manual/policies/)_:
+>
+>Scientific research is target-based, not hour based. If you are producing a constant, evident stream of work - dead-ends and all - then you're doing it right. Core hours for the lab are 10am - 4pm. All lab meetings will be within those hours.
+>
+>**Email policy**
+>
+>Turn it off. Keep your focus. We use Slack precisely so that you do not have to check email to keep intra-lab communications going. Check your email when you need to use it yourself; or when you have time to execute on whatever is there. Strongly advise that you do not have work email on your phone.
+>
+>**Slack policy**
+>
+>Set notifications to only arrive during core work hours (10am - 4pm). Mark will occasionally send out of hours, as I sometimes have to shuffle email/Slack around other commitments; and when I remember stuff that needs sorting. There is no expectation to respond until the core work hours.
+>
+>**Holidays**
+>
+>Take some. Take a day off to recharge after intense bouts of work. Take a week or two off to get away from research. Mark takes a non-negotiable two weeks off at Christmas, and turns down all requests for work, reviews, grants etc to do so. It's awesome.
+
 >_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
 >
 >On meeting and journal club days (Mondays and Tuesdays), most lab members should come into the lab in New Radcliffe House and attend meetings in-person. Use this as an opportunity to have lunch together, interact with other research groups, and catch up with one another. Unless there is a particularly good reason to join remotely, in-person attendance is strongly encouraged. However, we also appreciate that there can be value in working remotely. On other days, working patterns are more flexible. It is generally expected that during ‘core hours’ (10am-4pm, Monday-Friday), full-time members of the lab should be available to work on projects, collect and analyse data and/or have meetings when they are required by their projects. But beyond these commitments, your time is flexible; do whatever works best for you to get your work done. If you don’t have fixed commitments or meetings on a given day, don’t feel obliged to work fixed hours. Soon after joining the lab, have an open conversation with Laurence about your planned pattern of work, and stick to this.
@@ -476,6 +499,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MoreyLab_2026](https://ccmorey.github.io/labHandbook/intro.html)_:
 >
 >I shut my work email off when I’m not working and sometimes also when I am concentrating on writing. I do not receive any auto-notifications to my personal devices about email or Teams messages, ever. I advise everyone to do the same. My assumption is that you will receive messages at some time on every work day when you have explicitly planned to attend to them, not that you will be always on-call. You should not imagine that receiving an email from me means that I expect you to instantly answer it. You are never obliged to answer me at night or on weekends even if you receive something from me after hours.
+
+>_[PsyLingLab_2026](https://ourresearch.reading.ac.uk/psylinglab/lab-manual/lab-manual-rules-and-procedures/)_:
+>
+>We very much encourage you to take reasonable time off. We do understand that as graduate students with clocks ticking you might be disinclined to take time off. However, to be the best you can be, you MUST take time off. We are obliged to do so as well. That said, there are better times than others. Any time taken off must be approved by your supervisor with two weeks’ notice, barring any emergencies of course.
+>
+>You are expected to be working full time, which means 5 days a week. And since you are an apprentice and have lots to learn from the environment itself, you are expected to work a traditional workday on campus. In addition to when the university is closed for official holidays, we are entitled to 4 weeks of vacation. This is traditionally taken to augment the Xmas holiday break and sometime in the summer months when things are far less busy around campus. We strongly recommend that you take your vacation time during those times. And we will make you take it, if you do not!
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >

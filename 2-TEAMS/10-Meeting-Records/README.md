@@ -47,6 +47,16 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >At least once a year, one monthly meeting should be dedicated entirely to publication planning — ideally following a research lab meeting presentation. For that session, trainees are expected to prepare a story outline indicating which results will be presented in each figure.
 
+### Colombia
+
+>_[BCEMLab_2026](https://github.com/BCEM-UniAndes/Guia_BCEM/blob/main/chapters/reglamento.qmd)_:
+>
+>Participar activamente de las reuniones grupales (Lab meeting; Journal club; y proyectos) y de las reuniones individuales, donde cada 15 días se deben mostrar avances en el proyecto. En esas reuniones individuales se programaran metas y fechas en conjunto que servirán de indicadores de avance para los proyectos.
+>
+>_English translation:_
+>
+>Take an active part in group meetings (lab meeting, journal club and projects) and in individual meetings, where progress on the project must be shown every 15 days. In those individual meetings, goals and dates will be scheduled jointly and will serve as progress indicators for the projects.
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >

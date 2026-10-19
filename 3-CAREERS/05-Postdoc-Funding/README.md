@@ -201,6 +201,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >At any time, if you are interested in our science and would like to discuss applying for fellowships (e.g., EMBO, HFSP, Wellcome Trust Early Careeer Awards, Cambridge Herchel Smith, Branco Weiss, DFG, L’Oréal-UNESCO, EU Marie Curie), email Elisa ideally one year before your proposed start date.
 
+>_[HumphriesLab_2026](https://humphries-lab.github.io/Lab-Manual/roles/)_:
+>
+>Apply for fellowships, well in advance of the end of your postdoc. For external funders (UKRI etc), the typical lag between submission deadlines and being able to start a Fellowship is a minimum of 10 months. Submission deadlines are at most three times a year; many schemes are once a year. Plan well in advance.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

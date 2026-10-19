@@ -25,6 +25,26 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 ## Examples
 
 ### Canada
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
+>
+>- add yourself to the baron-lab outlook group to receive group emails. Group meetings are also added to the calendar associated with that group.
+>    - If you are in outlook on your desktop, scroll to the bottom of the mailbox and you will see a groups tab. Right click and browse and you can add to them.
+>    - Outlook on the web you will find it under the people section. Images are attached to show you what it would look like. When searching for more groups most of them can be found searching for rri or Robarts.
+>
+>- Your department should have given you instructions to set up your UWO identity. It is used for many things (email, server access, etc)
+>
+>- If he has not done it, remind CB to:
+>    - make a ticket with IT to add you to RRI-U-Baron group to give access to servers and datashare (UWO credentials)
+>    - add you to slack
+>
+>- request a "standard user account" for the CBS computational server. See [Computational Server Wiki](https://hackmd.io/@CompCore/cbs_servers)
+>
+>- provide Dr. Baron with a picture and short statement about yourself so that he can add your profile to [https://baronlab.ca](https://baronlab.ca) (look at other profiles for examples)
+>
+>- decide on a day for weekly one-on-one meetings with Dr. Baron. The purpose of this is to troubleshoot problems and to simply keep Dr. Baron informed of how things are going.
+>
+>- turn on notifications for #baronlab and #general channels on slack, and whatever else is related to your project.
+
 >_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
 >
 >Read through this entire handbook.

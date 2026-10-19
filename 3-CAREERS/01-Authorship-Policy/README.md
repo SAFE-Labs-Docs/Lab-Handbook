@@ -73,6 +73,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Co-authorship on a paper can be earned through substantial intellectual contribution (e.g., development of ideas, interpretation of results) or contribution to data collection, analysis, and/or writing. Contribution of data alone does not usually merit authorship, but data contributors should be given the opportunity to be co-authors by providing additional contributions. Similarly, using someone’s code that was developed for a prior project does not in itself warrant co-authorship. However, if that person provides additional intellectual input such as adapting the code, interpreting results, contributing to writing authorship should be considered.
 
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
+>
+>Authorship on publications requires a meaningful contribution to its intellectual content, and author order is in order of decreasing contribution with the supervisor(s) appearing last. Note that even a contribution that required little time may still represent meaningful contribution. People that provided support that was not an intellectual contribution can sometimes be acknowledged in the "Acknowledgements" section (e.g., somebody taught you how to use software that you ended up using for the analysis, but they did not participate in the analysis/interpretation of data for the paper in question). Sometimes authorship is not clear-cut; if in any doubt please do not hesitate to contact Dr. Baron. Co-first-author is appropriate for collaborative work where multiple people had similar net contribution to the research.
+
 >_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
 >
 >A very general guideline is that authorship is warranted if a person contributes to at least two of these:
@@ -295,6 +299,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >From 2020 onwards, in the lab we employ the CRediT (Contributor Roles Taxonomy) system for identifying author contributions on papers from the lab. Anyone who contributes one of the roles listed on CRediT will belisted as an author on the paper. The paper will then identify which authors fulfilled which roles according to CRediT.
 >
 >As principle investigator of the lab, I expect to be an author on all papers produced by lab members. But please note that I do not get automatic authorship; rather, my expectation is that you should involve me in your work to such a degree that I have earned authorship on the paper by engaging with at least one of the CRediT roles.
+
+>_[HumphriesLab_2026](https://humphries-lab.github.io/Lab-Manual/policies/)_:
+>
+>The usual model is that the postdoc or PhD student leading the research project will be first author on publications from that project; and Mark will be listed as the senior author.
+>
+>Authorship is open to discussion. Especially when we co-author with collaborators outside the lab, there will be discussions based on the balance of contributions, from e.g. the collection of data versus the analysis of data.
+>
+>The badge of "corresponding author" can carry weight: it is the author taking ultimate responsibility for all the content of the paper, on behalf of all other authors. Typically this will be Mark. But this will be discussed if it is clear the intellectual contribution of the lead author merits being the corresponding author.
 
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >

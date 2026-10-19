@@ -133,6 +133,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >We will rotate note-taking responsibilities and maintain notes in the lab Google Drive folder.
 
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/essentials.html)_:
+>
+>Weekly in Faraday Cage Conference Room. Ask CB to add you to the calendar invite if you're not on it.
+>- will have round-table updates ~ once per month
+>- will go to grad club ~ once per month
+>- cancellations will be communicated through slack
+
 >_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
 >
 >During the school year, the BLERF lab hosts a weekly lab meeting. These lab meetings are typically 60 minutes and cover a range of topics. The meeting schedule can be found at the [BLERF OSF](https://osf.io/64cwf/wiki/Lab%20meetings/).
@@ -626,6 +633,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Progress report: PI will ask a selection of members for a progress report. In semester 1, these are typically to guide UG project students as they begin their projects.
 >- OSF Review: We’ll check whether any milestones have been reached lately
 >- Research content (ordered by priority; we won’t do all things every meeting): Lab members starting a new study will give their elevator speech and demo their program, lab members with new data will describe it for us (must have a graph!), we will discuss a relevant research paper
+
+>_[PsyLingLab_2026](https://ourresearch.reading.ac.uk/psylinglab/lab-manual/lab-manual-rules-and-procedures/)_:
+>
+>As you know, via CeLM, PCLS and our own lab there is a healthy and constant stream of talks. These are meant for your benefit more than anyone else’s, even if at times they can seem cumbersome. You are expected to attend all such meetings to be respectful to our invited guests and because you will learn on top. You are expected to be an active participant, minimally showing up on time and leaving when it is done.
+>
+>There are no talks—almost never—scheduled outside of normal working hours and so there is no excuse to not come, unless you are engaged in other work activities, away representing the university or have permission from your advisor. If you are unable to come, you need to inform your advisor as soon as possible upon announcement of the events and/or immediately thereafter in the case something pops up that was previously unknown. There is no reason your advisor should not know why you happen to not be there, if so, you will clearly have not complied with this guideline. If this should happen in a consistent way, it will affect your ability to get funding for studies and/or conferences.
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >

@@ -31,6 +31,18 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >
 >Accordingly, we strive for a psychologically safe environment, where differing points of view are valued. We look out for the mental health of our team and discourage toxic and discriminatory behavior. At onboarding, we review the institutional rules for parental leave and discuss any other needs. To facilitate these goals, we implement the [SAFE handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook).
 
+### Canada
+
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/edi.html)_:
+>
+>Equity, Diversity and Inclusion (EDI) is essential for achieving excellence in research. The best ideas come from a diverse set of backgrounds and experiences, but systemic barriers exist in academia and research.
+>
+>Members of the lab are expected to read this guide: [https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/edi-eng.aspx](https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/edi-eng.aspx). While the focus is on grant applications, there is excellent information there.
+>
+>The Harvard implicit association test can be rather eye-opening. Members of the lab are strongly encouraged, but are not required, to take the test: [https://implicit.harvard.edu/implicit/langchoice/canada.html](https://implicit.harvard.edu/implicit/langchoice/canada.html)
+>
+>Please perform EDI training modules as they become available: [https://www.edi.uwo.ca/trainings-and-certificates/online-modules/](https://www.edi.uwo.ca/trainings-and-certificates/online-modules/)
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

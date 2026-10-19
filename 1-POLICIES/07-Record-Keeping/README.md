@@ -72,6 +72,14 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.
 
 ### Canada
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/essentials.html)_:
+>
+>We do most data analysis by remotely logging into servers (see Servers page). All data should be saved onto C. Baron's datashare, which is backed up regularly. This datashare is mounted on all of our servers.
+>
+>**Code Repositories & Git**
+>
+>We use git for version control. There are many good tutorials online that new lab members should use to familiarize themselves with git.
+
 >_[BLERFLab_2026](https://pitherj.github.io/Lab_Handbook/)_:
 >
 >In general, data collected as part of BLERF activities will be archived on Dataverse, and publicly accessible (sometimes after a suitable embargo period).
@@ -117,6 +125,38 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >**I have been asked to check someone else's file, how do I do that?**
 >
 >Notes on what to check for in a good wheredatacodelive project file are in wheredatacodelive_notes.txt
+
+### Colombia
+
+>_[BCEMLab_2026](https://github.com/BCEM-UniAndes/Guia_BCEM/blob/main/chapters/carpetas.qmd)_:
+>
+>**3. Cuaderno de laboratorio**
+>
+>Registro de experimentos (wetlab y computacionales), metodología, resultados e interpretaciones. Debe contener entradas con fechas para dar seguimiento a los avances.
+>
+>- **Formato:** Markdown. Se puede usar cualquier editor compatible.
+>- **Elementos esenciales:**
+>  - **Link a la librería compartida de Zotero**, donde se manejará la literatura relevante del proyecto.
+>  - **Link al repositorio de GitHub**, que debe clonarse para acceder a los scripts del proyecto.
+>  - **Path del home en el cluster**, donde se almacenan los archivos con permisos de lectura adecuados.
+>
+>**4. ToDo-list**
+>
+>Desde la primera reunión se creará un archivo con la lista de tareas pendientes. Este documento permitirá un seguimiento eficiente de las actividades del proyecto.
+>
+>**Estructura de carpetas**
+>
+>Una vez creados estos archivos, se estructurarán las carpetas siguiendo el diseño experimental del **MindMap**.
+>
+>- **Datos crudos o pesados** → Se almacenan en el cluster, no en la carpeta del cloud.
+>- **Programas o scripts** → Se gestionan en **GitHub**.
+>- **Comandos usados** → Se documentan en el **Cuaderno**.
+>- **Archivos de salida (imágenes, PDFs, reportes, etc.)** → Se guardan en esta carpeta del proyecto.
+>- **Archivos de salida > 50 MB** → Se almacenan en la carpeta de proyectos del cluster y su path debe registrarse en el **Cuaderno**.
+>
+>_English translation:_
+>
+>Lab notebook: record of experiments (wet lab and computational), methodology, results and interpretations. It must contain dated entries to track progress. Format: Markdown; any compatible editor can be used. Essential elements: link to the shared Zotero library where the project's literature is managed; link to the GitHub repository, which must be cloned to access the project's scripts; path of the home on the cluster where files are stored with suitable read permissions. To-do list: from the first meeting a file with the list of pending tasks will be created; it allows efficient tracking of project activities. Folder structure: once these files are created, folders are structured following the experimental design in the MindMap. Raw or heavy data are stored on the cluster, not in the cloud folder. Programs or scripts are managed in GitHub. Commands used are documented in the Notebook. Output files (images, PDFs, reports, etc.) are saved in this project folder. Output files over 50 MB are stored in the cluster's project folder and their path must be recorded in the Notebook.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -303,6 +343,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >If you are a BSc student, you can increase reproducibility by documenting all stages of your analysis in sufficient detail such that anyone could follow your steps exactly. If using JASP, make notes of what menu options you chose and in what order. Did you exclude any data? If so, document why. Did you transform any variables? if so, document why.
 >
 >If you are an MSc student, I would be expecting you to start to explore using statistical programming languages such as R for your analysis so that you have a script of your analysis code. If you are a PhD student, I absolutely expect you to be coding your own analysis. Of course, I am always on hand to help out if needed.
+
+>_[HumphriesLab_2026](https://humphries-lab.github.io/Lab-Manual/policies/)_:
+>
+>Use whatever works for you, but document your work. That could be a lab book, whether paper or tablet, with notes on each analysis or each simulation. Or typing notes. Or exporting key plots to Powerpoint, Google Docs etc. Or using a Jupyter notebook or RMarkdown to encapsulate what you've done, if you're comfortable with those things. Do something, so that you can give *accurate* answers to: what have you been working on? And: what have you found?
 
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >

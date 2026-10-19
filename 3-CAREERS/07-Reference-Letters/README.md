@@ -101,6 +101,10 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >If you need a letter of reference, or other more substantial feedback (eg on a grant application), please give a heads-up a few weeks in advance (e.g. as soon as you know that you’re applying for something). Steve can then block off time to go over your work and give timely feedback.
 
+>_[PsyLingLab_2026](https://ourresearch.reading.ac.uk/psylinglab/lab-manual/lab-manual-jobs-and-funding/)_:
+>
+>If you will be on the job market, this will be a formidable task on top of your duties. You will have worked for years with your advisors to build a competitive CV. However, there is much more entailed when applying for jobs. In the semester you plan to go on the market, you should meet with your advisor as soon as possible (the first weeks of the semester) to discuss your plans and for her/him to inform you of the many documents you will need to begin to prepare. Countries can vary significantly in terms of what they ask for. For example, in North America you will need to get three to five reference letters to be submitted on the same date as your application. For your advisor, this is not a simple task or letter. They are often very exhaustive and time consuming. You should not wait until the last minute to ask for references, in fact, you should ask weeks in advance, minimally 2 but better to give even more time where possible. We are committed to helping you get the best job possible that fits your goals, and it will be our pleasure to do so.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

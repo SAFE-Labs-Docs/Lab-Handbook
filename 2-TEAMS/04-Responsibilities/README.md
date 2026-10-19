@@ -235,6 +235,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- **Help in teaching and outreach** efforts of the lab. This does not mean teaching a full course or replacing Leo in any capacity. It means providing a lecture or two about your expertise in a course, leading a short workshop, helping Leo organize outreach, etc. All of these are very good things to have on a CV when applying for an academic job.
 
 ### Canada
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
+>
+>Trainees should expect Dr. Baron to treat them with kindness and respect and provide accommodations when needed. They should expect a turn-around time of no more than 1 week for reviewing manuscripts/presentations (usually ~48 hr). They should expect Dr. Baron to foster a positive and supportive lab environment.
+>
+>Dr. Baron expects trainees to treat him and other members of the lab with kindness and respect. He expects trainees to work with self-motivation, read literature related to their project, provide him with enough advance notice to review/edit their work or provide reference letters before deadlines, and to come to him when they need help. Trainees are expected to help each other when possible and contribute to a positive lab environment.
+
 >_[CCMLab_2026](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/onboarding/)_:
 >
 >1. Teaching/Explanation session - Experimenter provides Research assistant with information regarding the experiment and the data they are looking to collect. This will allow the RA to understand the point of the experiment.

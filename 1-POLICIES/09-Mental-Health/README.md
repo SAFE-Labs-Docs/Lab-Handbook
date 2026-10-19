@@ -53,6 +53,12 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >- [Ministério da Saúde - Suicídio (Prevenção)](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao): The ministry of health website has resources for suicide prevention and how to get help with mental health issues.
 >- [Centro de Valorização da Vida](https://cvv.org.br/): Offers a 24h help line by phone, chat, email, and in-person (the closest center to campus is in [Pinheiros](https://www.google.com/maps/place/R.+Cerro+Cor%C3%A1,+792+-+21+-+Vila+Romana,+S%C3%A3o+Paulo+-+SP,+05061-100/@-23.5401302,-46.7049922,19.29z/data=!4m5!3m4!1s0x94ce57d3e451c08b:0x28663176a7d2cad5!8m2!3d-23.5397673!4d-46.7047116?entry=ttu)).
 
+### Canada
+
+>_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/essentials.html)_:
+>
+>Your mental health is important! You are encouraged to take the time off you are entitled to, which can sometimes help. Please let Dr. Baron know if you are encountering challenges, and you can work together to adjust projects or he can point you in the right direction for additional help and/or resources. Western provides health and wellness services at [https://www.uwo.ca/health//index.html](https://www.uwo.ca/health//index.html).
+
 ### Czech Republic
 
 >_[LabAllience_2026](https://lab-allience.natur.cuni.cz/Lab_Allience_projects/loneliness_fighter_brigade)_:

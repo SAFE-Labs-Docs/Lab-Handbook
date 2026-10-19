@@ -53,6 +53,12 @@ Visa costs when joining the lab from outside the UK vary by the applicant's citi
 >
 >The visa-support available to overseas applicants: https://www.tilburguniversity.edu/research/humanities/graduate-school-humanities/practical-matters/moving-tilburg
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/visitor-guide)_:
+>
+>Residence permit / visa (non-EU/EEA citizens). If you are a citizen of a country outside the EU/EEA, you will generally need a residence permit to carry out a research visit in Sweden, and permits for visiting researchers are typically based on a hosting agreement with the university. Very short stays (often under 90 days) may not require a permit, but this depends on your nationality and the length and nature of your visit, so check early—processing can take a while. See the Swedish Migration Agency’s page for researchers, and coordinate with Rocío and/or the necessary persons well in advance. Citizens of EU/EEA countries can live and work in Sweden without a permit.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

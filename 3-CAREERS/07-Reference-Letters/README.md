@@ -74,6 +74,20 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >Reference letters will be provided to lab members at request. Lab members should expect a letter that highlights their strenghts, but also provides a fair and honest evaluation of their performance and skills. Wherever possible providing the reference in a short call will be preferred over writing a letter.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/recommendation-letters)_:
+>
+>Requests for recommendation letters are welcome from students and researchers who have taken courses from Rocío, done an MSc thesis under Rocío’s supervision, or who have performed research in AIME. Request from graduate students who have served as teaching assistants for Rocío’s courses, or who have participated in outreach activities with Rocío, are also welcome. Please request your letter by email at least two weeks before the deadline if one is not already on file for you. If the deadline is over the holidays, request your letter ahead of time if possible. Make sure you include the following information in your email:
+>
+>- An academic transcript
+>- A CV or résumé which includes prior work, highlighted coursework, scholarships/fellowships, awards, research presentations, and publications (if applicable)
+>- Clear instructions on how to submit your recommendation letter
+>- The deadline for the letter
+>- A bullet-point list of items you would like me to highlight in your recommendation letter
+>
+>This information will help Rocío draft a strong, personal recommendation letter that highlights your individual strengths.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

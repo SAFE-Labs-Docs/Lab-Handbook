@@ -33,6 +33,16 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 >
 >Regarding lab equipment, there are institute-wide internal rules and guidelines to follow. Typically, we encourage members to reuse, share and donate equipment when possible. For this purpose, the institute-wide mailing list can be used.
 
+### Czech Republic
+
+>_[LabAllience_2026](https://lab-allience.natur.cuni.cz/charter19)_:
+>
+>4.1. Given the global climate changes we are currently facing, it is irresponsible to use scientific meetings and collaborations as ways to perform tourism. We certainly acknowledge that meeting in person favors scientific stimulation, but a conference should not be chosen based on its remote exotic location, as carbon-footprint-wise, the price to pay for participating is not worth the scientific value. Some of us restrict our scientific travels to their own continent, but one should decide for oneself to what extent one is ready to sacrifice scientific tourism.
+>
+>4.2. One should prefer low carbon footprint modes of transportation, such as train, as often as possible, rather than planes. Within-Europe travel is perfectly doable with such modes of transportation. One should promote such views in one’s team and beyond.
+>
+>4.3. If not already implemented in one’s institution, one should do everything necessary to implement and improve chemical waste policies in order to reduce environmental impacts of research.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

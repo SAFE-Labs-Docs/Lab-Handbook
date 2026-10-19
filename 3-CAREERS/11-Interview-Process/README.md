@@ -84,6 +84,32 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >In general I will have very few “ready-funded” positions for post-docs. All interested post-docs will be required to find their own funding in the foreseeable future; however, if you are interested in working in my lab, you are welcome to contact me. You will be asked to present your current work to my group, meet with both me and my lab and I will require a c.v., statement of research interests, plan for obtaining external funding and references.
 
+### Finland
+
+>_[ExploratoryDataAnalysisGroup_2026](https://www.helsinki.fi/en/researchgroups/exploratory-data-analysis/joining-the-group-and-supervision)_:
+>
+>“Exceptional” does not mean simply motivated, hard-working or interested in the group. These qualities are expected of all serious applicants.
+>
+>Evidence of exceptional preparation may include a combination of:
+>
+>- outstanding performance in demanding and relevant university courses;
+>- an excellent, research-oriented MSc thesis;
+>- substantial preparation in mathematics, statistics and machine learning;
+>- strong publications in recognised venues, taking career stage into account;
+>- a significant original research or software contribution;
+>- exceptionally strong recommendations from established researchers;
+>- previous work that directly advances one of our current research directions;
+>- demonstrated success in demanding research or development work; or
+>- a competitive personal fellowship or a credible, well-developed funding route.
+>
+>I assess expressions of interest using three candidate-related criteria, all of which must be satisfied:
+>
+>- Skills and experience: evidence that you have the academic, methodological and technical preparation needed for the proposed work. For a student, this may be demonstrated by course grades, a thesis or other research experience. For a postdoctoral researcher, it is normally demonstrated primarily through publications and previous research.
+>- Topical fit: evidence that your skills, experience and proposed research are directly relevant to the group’s current research agenda and ongoing projects.
+>- Motivation: evidence that you have a specific reason for wanting to work with us and a genuine interest in our machine learning and artificial intelligence research. This may be demonstrated by your motivation letter and by purposeful choices in your previous courses, research, publications and projects.
+>
+>In addition, a suitable project, sufficient supervision capacity and appropriate funding must be available. Even an exceptional candidate cannot be hired if these practical conditions are not met.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

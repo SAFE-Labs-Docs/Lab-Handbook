@@ -53,6 +53,17 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >- [Ministério da Saúde - Suicídio (Prevenção)](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao): The ministry of health website has resources for suicide prevention and how to get help with mental health issues.
 >- [Centro de Valorização da Vida](https://cvv.org.br/): Offers a 24h help line by phone, chat, email, and in-person (the closest center to campus is in [Pinheiros](https://www.google.com/maps/place/R.+Cerro+Cor%C3%A1,+792+-+21+-+Vila+Romana,+S%C3%A3o+Paulo+-+SP,+05061-100/@-23.5401302,-46.7049922,19.29z/data=!4m5!3m4!1s0x94ce57d3e451c08b:0x28663176a7d2cad5!8m2!3d-23.5397673!4d-46.7047116?entry=ttu)).
 
+### Czech Republic
+
+>_[LabAllience_2026](https://lab-allience.natur.cuni.cz/Lab_Allience_projects/loneliness_fighter_brigade)_:
+>
+>We propose two types of activities:
+>
+>- regular social evenings, inspired from a successful initiative in the US. We are not talking here about getting drunk, doing small talk, making random jokes and pretending everything is fine. Instead, we mean having a guided evening with exercises taken from psychology or theater techniques to help us bond and de-armor ourselves, so that we can have true open-hearted deep conversations.
+>- one-on-one meeting with one of the Loneliness Fighters (check here to choose your favorite :) ) in case you are having a hard time, need to talk and be listened to, need some advice, or anything we can help with. We are not here to judge, only to listen.
+>
+>We welcome everyone: expats and Czechs, students and staff of Charles University. Some of us speak Czech, but many do not. For this reason, the social evenings will be in English, but you can choose a Czech-speaking Loneliness Fighter for the one-on-one meetings! :)
+
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
@@ -103,7 +114,22 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >
 >If you struggle with mental health, know that you're not alone, and that resources are available. Leiden University has [counsellors](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/confidential-counsellors/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) and [student psychologist services](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/student-psychologist/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) that you can use freely and confidentially. You can always talk to me about any professional or personal circumstances, for advice, or to point out ways in which I should improve/change my ways.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>Your health—physical and mental—comes first. If you are unwell, please rest and recover. Do not come to the office sick.
+>
+>- If you anticipate needing extended sick leave (more than a few days), please inform me as soon as you are able. I understand that some situations arise suddenly (e.g., accidents), but for health issues that develop over time, early communication allows us to plan appropriately and ensure you get the support you need.
+>- Sweden has good sick leave policies. Generally, sick leave needs to be reported in Primula, and you will need a doctor’s certificate to receive extended sick leave with pay. There is some paperwork that needs to be done depending on the duration of your sick leave, which we can discuss, together with our unit head and HR, if you are ever in a situation which requires taking it.
+>- Note that partial sick leave is possible. If you are able to work part-time but not full-time (e.g., 50%), this can be arranged. This is common for recovery from burnout, chronic conditions, or phased returns to work.
+>- If you are struggling with your mental health or feeling overwhelmed, please reach out—either to me, to a colleague you trust, or to Chalmers support services. You are not alone, and there are resources available to help.
+
 ### United Kingdom
+
+>_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
+>
+>If you’re sick, stay home and take care of yourself - both to keep yourself healthy, and potentially to keep others healthy too. Rearrange your meetings and research participants as needed. If you need to take an extended period (>1 week) off work because of health problems (either mental or physical), then let Laurence know.
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >

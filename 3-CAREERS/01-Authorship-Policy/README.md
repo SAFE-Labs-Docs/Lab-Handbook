@@ -49,6 +49,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >* **Validation** - Conducted code review at least once, producing a report on the computational reproducibility of the results and experiment.
 >* **Writing** - Provided comments or suggestions that both the first author and William agrees made a significant impact on the communication of the ideas or results. That is, the review went beyond grammatical edits or syntax changes.
 
+### Belgium
+
+>_[PenceLab_2026](https://handbook.pencelab.be/docs/research/publishing/authorship/)_:
+>
+>I tend to support pure alphabetical order for authorship, since there’s no other standard in philosophy. That said, since multi-authored publications often spend the rest of their lives as “X et al.,” I’m also in favor of giving the “lead” author the first authorship position, when that’s a thing that makes sense.
+>
+>I should also reinforce that I do not believe in adding me, or anyone else, for that matter, to papers to which we did not contribute, for “political” reasons. Mercifully, authorship in philosophy has continued to be held to a fairly high standard – in the sense that you have to actually contribute to be an author – and I don’t want to be part of degrading that in any way.
+
 ### Brazil
 >_[CompGeoLab_2026](https://www.compgeolab.org/manual/authorship.html)_:
 >
@@ -150,6 +158,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >The sharing of data, however, is **not** considered sufficient for authorship; in such cases, appropriate credit should instead be given by citing a data descriptor and/or dataset DOI. Authorship *is* appropriate when the dataset owner provides substantial intellectual input into the research or when required by a data use agreement.
 
+### Finland
+
+>_[ExploratoryDataAnalysisGroup_2026](https://www.helsinki.fi/en/researchgroups/exploratory-data-analysis/joining-the-group-and-supervision)_:
+>
+>Authorship requires a genuine and sufficiently substantial contribution to the research. It cannot be offered merely in return for reviewing a manuscript, providing general advice, helping to obtain publication or allowing the use of my name. Authorship and the expected contributions should normally be discussed before substantial joint work begins. In particular, I do not normally join an existing project, manuscript or software system unless there is a clear scientific contribution that I can make and sufficient time to make it.
+>
+>A University of Helsinki affiliation cannot be added merely because I advise on or co-author a manuscript. Each author’s affiliation must accurately represent the institutional context in which their contribution to the work was made.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -228,6 +244,15 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >- Authorship (CRediT taxonomy):
 >    - No honorary authorship. All authors must contribute and approve final manuscript.
 >    - Authorship order discussed early and revisited if roles change.
+
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>Contributions must be scientific. I expect clear, substantive scientific contributions from anyone listed as a co-author. Providing data, running experiments, writing code, developing methodology, writing/editing the manuscript, and providing critical intellectual input all count. Administrative support or general supervision without intellectual contribution typically does not warrant authorship.
+>
+>- We use the CRediT taxonomy. All papers from the group should include a CRediT (Contributor Roles Taxonomy) author contribution statement. This provides transparency about who did what.
+>- Reproducibility and handoffs: If a project is handed off to another person to complete, and the original work cannot be reproduced (or must be completely redone), the original researcher cannot expect authorship. We will not reward sloppy or undocumented work; if we need to re-do everything, then the work did not push forward scientific progress. Ensure your code runs, your data is accessible, and your methods are documented before stepping away from a project.
 
 ### Switzerland
 >_[AIDOSLab_2026](https://aidos.group/guide)_:

@@ -108,6 +108,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- **Paper Approval**: The selected paper must be relevant to the lab's research and approved by the PI before the meeting.
 >- **Presentation**: During the session, the group presents the paper to the lab, highlighting key findings, methodologies, and implications, followed by a group discussion.
 
+>_[PenceLab_2026](https://handbook.pencelab.be/docs/people/communication/)_:
+>
+>Our meeting calendar is usually fairly flexible, because our people and the demands on our time change fairly quickly. But the standard schedule of meetings includes CEFISES seminars weekly, lab reading group every other week, and lab meeting once a month.
+>
+>For postdoctoral fellows, I do not in general schedule one-on-one meetings, except for on demand. For doctoral and master’s students, we will set up a meeting calendar when you start work, and I expect you to stick to it.
+>
+>In general, if a particular piece of work (whether a draft or even just reading through some articles) will be required for a meeting, it will be made very clear, at least a week in advance, that you need to have something prepared.
+
 ### Brazil
 >_[CompGeoLab_2026](https://www.compgeolab.org/manual/communication.html)_:
 >
@@ -504,6 +512,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >problem someone else has already solved, and so that the group spots overlaps
 >and connections between projects.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>Group meetings take place weekly and are typically scheduled for 1 hour, except during holidays and summer months. We currently have joint group meetings with the AIMLeNS group on Friday afternoons.
+>
+>- For PhD students and postdocs, attendance at group meetings is required. Please discuss with me in advance if you ever need to miss a group meeting.
+>- MSc students are not required to attend but you are of course welcome and encouraged to attend.
+>- During each meeting, two group members will give a semi-formal presentation on either (a) an introduction to their research project, (b) their research progress since their last group meeting presentation, or (c) a practice talk for an upcoming presentation.
+
 ### Switzerland
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
@@ -568,6 +586,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Coffee walks (monthly)
 >
 >A monthly walk to a coffee shop or similar, replacing a regular meeting. These encourage smaller 2-3 person conversations that don’t happen easily in a full group.
+
+>_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
+>
+>DEAR day: We held our inaugural Drop Everything And Read (DEAR) day in Hilary Term 2022, and it has become a termly event ever since. The basic idea is to have a room where we sit together and read whatever papers we’ve been procrastinating to read. After that, we will go for a lab walk, and probably (most typically) end up in a pub.
+
+>_[ManchesterPredictiveHealthcareGroup_2026](https://github.com/manchester-predictive-healthcare-group/prediction_group_handbook)_:
+>
+>The group meets once a month, usually on the third Thursday at 3pm in the Congregation, Vaughan House. The format of the meeting alternates each month between meetings for the core research group and wider meetings where the invite is extended to other researchers outside of the group with an interest in prediction or causal inference. For the wider group meetings people can volunteer to talk about their research, update about training or conferences they've attended or present an interesting journal article for discussion. If you would like to present then there is a sign-up sheet on the Teams space.
+>
+>Every Tuesday lunchtime we have a catch-up in the ground floor kitchen of Vaughan House, 12:30-1pm. These are very informal and just a chance for us all to catch up over lunch or a brew and get to know one another better!
 
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >
@@ -657,6 +685,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >The lab meeting schedule is updated on the lab outlook calendar, and discussed every so often on slack or in-person at lab meetings.
 >
 >Please give at least a week's notice of any changes to the schedule, as it is much easier to reorganise a meeting at the previous week's lab meeting rather than later.
+
+>_[WhelanLab_2026](https://www.whelanlab.co.uk/manual)_:
+>
+>Lab meetings will begin with any pressing lab issues/business then focus on a particular project based on the schedule on the shared lab calendar. There are no stupid questions; always ask. Attendance is considered mandatory unless you are unwell, have a scheduling conflict, or the meeting falls on a religious/cultural holiday that you recognize.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

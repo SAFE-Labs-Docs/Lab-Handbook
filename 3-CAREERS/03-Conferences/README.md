@@ -356,6 +356,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Practice talks: Present internally at least one week before external talks/posters.
 >- Conferences/travel: Funding subject to availability; be frugal; apply for travel grants; aim for 1 major conference per year per student/postdoc where feasible.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>I expect that any conference travel is tied to presenting your work, either as an oral presentation or a poster. This is an important part of research outreach and an obligation we have as researchers when receiving research funds. On the other hand, attending a conference “just to attend” is generally not a good use of group resources (or your time), especially for international travel. Our team funding generally comes from public funds, and we should use these resources with integrity. If you would like to attend a conference “just because”, I may instead suggest you self-fund and take out your personal vacation days to attend.
+>
+>- Before applying to any conference or workshop, discuss it with me first. Not all venues are worth the time and money. Some workshops, conferences, or schools seem relevant but, from experience, have low payoff. I can help you prioritize and identify the relevant ones.
+>- Keep in mind that some funding sources (e.g., WASP, DDLS) require attendance at their specific summer schools, annual conferences, and workshops throughout the year, so be mindful of these deadlines.
+>- Do not submit an abstract, paper, or poster to a conference without getting my feedback and approval first. This ensures quality control and prevents you from committing to sub-par or irrelevant venues.
+
 ### Switzerland
 
 >_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Guidelines/Rules-in-Brief)_:

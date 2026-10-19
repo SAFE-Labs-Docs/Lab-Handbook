@@ -149,7 +149,24 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >- Be upfront. Discuss early the expected genAI usage for a given project with all co-authors, and ensure everyone is comfortable with the plan. Disclose substantial AI use in all our outputs. If we use it, we explain it. This is transparency. Exceptions can be small grammatical edits by e.g., Grammarly, and small technical questions, but any paragraph, code, or image generated should be credited.
 >- We take responsibility for checking all AI outputs. It is our duty to fact-check AI work, from ensuring the code is functional, the references exist and say what the AI claims, or the suggested text corrections do not change the intended meaning. In a nutshell, we take full responsabiliyty of the tools we use.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/ai-policy)_:
+>
+>Verify every reference yourself. LLMs hallucinate citations constantly — author names, titles, journal, year, DOI, even BibTeX entries that look perfectly formatted can be fabricated. Providing the LLM with a URL does not fix this. There is already an epidemic of fake references in the scientific literature, and we are not going to contribute to it. For any manuscript from this group, references must be verified by hand — confirm the paper exists, confirm the authors and title match, confirm the DOI resolves to the right work, confirm the quoted claim is actually in the cited paper. This is one of the few parts of writing where LLM assistance is not permitted, full stop. This extends to bibliography management: do not use a model to generate, format, or modify reference lists or .bib files. The risk of subtle, hard-to-spot errors is high, and proper verification costs as much as doing it by hand.
+
 ### United Kingdom
+>_[ManchesterPredictiveHealthcareGroup_2026](https://github.com/manchester-predictive-healthcare-group/prediction_group_handbook)_:
+>
+>Use of AI in research is a fast-developing and controversial topic. Even within the group, there is a divergence of views on how it should be used. Some general principles:
+>
+>- AI is a supportive tool and should not be used to replace your academic judgement. AI outputs will include a mixture of good and bad, relevant and irrelevant, suggestions. Anything that you share where AI assisted its creation is fully your responsibility and you should verify all contents. This obviously includes cited research!
+>- Places where AI can be particularly helpful include:
+>- Brainstorming and planning o Help debugging and writing code
+>- Checking grammar, and giving suggestions on making text more concise (e.g., to meet a word limit, but obviously check the suggestions)
+>- Summarising a paper (to help decide whether it’s worth reading in detail)
+>- If you are unsure, take advice from a supervisor/line manager/senior colleague. You should also be transparent about when and how AI tools have been used.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >You are discouraged from using large language models (LLMs) such as ChatGPT in your writing, including proofreading and refining language, summarizing research in literature reviews, and generating reference lists. LLMs "hallucinate" (fabricate) information and there are [embarrassing precedents](https://bsky.app/profile/sampendu.bsky.social/post/3lq4qzvxbwk25) that we must not emulate in our own publications.

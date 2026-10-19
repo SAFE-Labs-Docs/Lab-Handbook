@@ -110,6 +110,14 @@ The above policies pertain to communal lab resources. Individuals with their own
 >
 >To ensure somewhat equitable spread of attention across projects, we maintain the 1-on-1 meetings. Additionally, at the beginning of each week, the lab head gives a short overview of the workload in this week, and we discuss a rough plan of priorities.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>Compute and storage: Be mindful of shared compute resources. Don’t monopolize GPUs or run jobs that could be run on smaller machines. Clean up old experiments and datasets you no longer need regularly. If you’re unsure whether a job or set of jobs you are planning to run is too resource-intensive, ask. Use the #programming channel in Slack for this type of questions.
+>
+>- File permissions: All files stored on our shared compute and storage allocations must have read access enabled for other team members. This practice ensures reproducibility and continuity when projects are handed off or when colleagues need to build on your work, and also makes it easier to manage our group resources. It is not permitted to store private files in our shared resources.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

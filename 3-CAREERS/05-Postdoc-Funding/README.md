@@ -42,6 +42,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >At ULB, similarly to [FNRS](https://www.frs-fnrs.be/en/documents-utiles-rh), salaries for postdoctoral researchers are determined by a national [scale system](https://estimations.ulb.ac.be/baremes.htm) and will scale with seniority (scale 530 + seniority, multiplied by current index for salaries - index also found [here](https://www.frs-fnrs.be/en/documents-utiles-rh)). Nevertheless, some fellowships can be higher.
 
+>_[PenceLab_2026](https://handbook.pencelab.be/docs/people/recruitment/postdoc/)_:
+>
+>Belgian postdoctoral fellowships come in two kinds, depending on whether or not you are currently located or have worked or studied in Belgium within the last few years. If you are outside Belgium, you are eligible for what’s known as a “mobility” postdoc. These are extremely competitive, with a very advantageous tax scheme. Depending on your seniority (number of years since PhD), the funding will range from a monthly net salary of around €2,500–€2,700 (last updated: 2021).
+>
+>For those who have already been working in Belgium, your salary will be similar, though it’s more difficult to calculate, as we will also be paying for your social security, retirement, and taxes at the full “citizen” rate.
+>
+>Notably, there is no additional salary if you decide to teach a course. Postdocs involve no teaching by default, and some funders require zero teaching; if you would like to teach, that’s something you should let me know early on and we can look at what kinds of opportunities are available.
+>
+>In short, these are competitive salaries on the international level, and are certainly sufficient to live comfortably in Belgium.
+
 ### Canada
 
 >_[GribbleLab_2026](https://labmanual.gribblelab.org/08_specific-expectations.html)_:
@@ -84,6 +94,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Excellent research assistants can receive 50,000 yuan a year in independent research funding to support their personal research interests.
 
+### Czech Republic
+
+>_[LabAllience_2026](https://lab-allience.natur.cuni.cz/charter19)_:
+>
+>2.6. As a PhD is a full-time job, one must provide enough money for the student to live decently, as it is unfruitful and unacceptable that the student may need to have a job on the side in order to survive. Giving a PhD student a salary may make some group leaders think of PhD students as employees, but we must remind ourselves that despite this in-between student/employee situation, PhD students ARE, first of all, students and therefore have the right to receive a proper education as mentioned above. The fact that PhD students are paid on one’s grant does not mean they are paid on one’s own money. Getting a grant is indeed not being given money, but instead, being given the right by a government to manage tax money to put to good use. In case of PhD students, putting tax money to good use means bringing the best possible education. Therefore, a PhD student spending time this way (such as attending courses) rather than working on a PI’s research program cannot be in any way a waste of the PI’s money, as it is not the PI’s money and PhD education is what a government subsidizes for. Certainly, PhD students in return have the duty to conduct their PhD program as well as they can, but as we shall mention, they are aware of it most of the time.
+
 ### Finland
 >_[CellMigrationLab_2026](https://cellmig.org/join-us/)_:
 >
@@ -94,6 +110,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Human Frontier Science Program fellowships
 >- Finnish foundations, such as the Sigrid Jusélius Foundation
 > and the Finnish Cultural Foundation
+
+>_[ExploratoryDataAnalysisGroup_2026](https://www.helsinki.fi/en/researchgroups/exploratory-data-analysis/joining-the-group-and-supervision)_:
+>
+>Doctoral researchers must normally have completed an applicable master’s degree before starting employment; there is no direct route from a bachelor’s degree to doctoral studies in the Finnish setting. Doctoral researchers in our field are commonly employed in salaried positions while completing their degrees. Doctoral research normally takes three to four years, although the duration of an employment contract is agreed separately.
+>
+>Postdoctoral researchers should have completed a PhD before starting employment. Postdoctoral contracts are normally between one and four years, with the duration agreed individually.
 
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:

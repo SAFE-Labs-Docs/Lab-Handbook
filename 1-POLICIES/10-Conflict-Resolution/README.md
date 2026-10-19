@@ -23,6 +23,10 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >
 >The first, and easiest, course of action is to attempt to talk it out with the person involved. If the issue persists, it can be brought up privately to your PI or, if applicable (e.g. a conflict with your PI), to a member of your PhD thesis committee.
 
+>_[PenceLab_2026](https://handbook.pencelab.be/docs/people/code-of-conduct/)_:
+>
+>In the first instance, should a resolution become impossible, I am the contact to resolve interpersonal disputes – you may come to me at any time, alone or in a group. If my mediation fails, or if you feel that you cannot come to me for whatever reason, your next contact is the President of the Institut supérieur de philosophie (as your immediate boss for research purposes), or the head of the École de philosophie and/or the Dean of the Faculté de philosophie, arts et lettres (as your immediate bosses for teaching purposes). Should you not be able to resolve the dispute in that context, they will be familiar with the appropriate avenues for escalation.
+
 ### Canada
 
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
@@ -74,6 +78,15 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >If the issue cannot be resolved internally within lab, or you do not feel comfortable with addressing it internally, you should not hestiate to contact outside support whom you feel comfortable with. This could be one of the social safety officers (Guillaume, Hylkje, Karin), or an independent mentor, or the university wide social safety office.
 >
 >A useful ressource for support at the university level can be found here
+
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>If you are uncomfortable with the statements or behavior of another member of the team or division, please don’t hesitate to come to me so that we may discuss it privately and identify the best way to resolve it.
+>
+>- For other situations, you might feel more comfortable reaching out to the DSAI Head of Unit for PhD students and postdocs, Selpi (selpi@chalmers.se).
+>- In work related matters, the Chalmers external occupational healthcare service (arbetsmiljo.stodet@chalmers.se) may also assist you.
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:

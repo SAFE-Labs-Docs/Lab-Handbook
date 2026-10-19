@@ -345,6 +345,12 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >    - Transfer ownership/access to lab repositories and Drive.
 >    - Outline publication plan for any outstanding work; authorship agreed.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/visitor-guide)_:
+>
+>Before you can use the Chalmers IT systems, Wi-Fi (eduroam), printing, and many of the buildings, you will need a Chalmers user account (CID) and, usually, a personal access/key card for entry outside of normal opening hours. These are arranged through your host and the department administration, so ask about them early—ideally before or on your first day. Rocío can point you to the right person.
+
 ### Taiwan
 >_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
 >

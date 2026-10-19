@@ -338,6 +338,15 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >DLI Internship Program is designed to empower participants to take the lead in developing their own research projects, with group members and leader providing support and guidance. Throughout the program, participants will engage in the full research cycle, from formulating hypotheses to conducting experiments, analyzing data, and synthesizing results. The program’s ultimate goal is for each participant to reach a level of research quality that enables them to submit their work as the first author to a top-tier conference.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>Publishing in academic journals and conferences is one of the primary ways that we communicate our research with the broader community. While we should never see publishing as a numbers game, we should be aware that the quality of our publications is a major way in which we are evaluated as scientists, for better of for worse.
+>
+>- Typical publication venues that I anticipate will be relevant to our group’s research include (but are not limited to) conferences such as ICML, ICLR, AISTATS, CVPR, AAAI, KR, and NeurIPS, conference workshops such as AI4Mat and ML4Molecules, and journals such as JCIM, J. Cheminf., Machine Learning: Science and Technology, Nature Machine Intelligence, Digital Discovery, etc. We should also strive to publish our work concurrently on the arXiv, ChemRxiv, or BioRxiv when possible so as to maximise the accessibility and reach of our research.
+>- The quality of a manuscript and whether the right audience reads it is more important than the sheer number of papers we publish or the impact factors of the journals we publish in. With the sheer volume of publications coming out each day in out field (a problem only made worse by the rising capabilities of LLMs), I also feel it is important not to “litter” the literature with mediocre manuscripts or “salami slicing”, and we should do our best to avoid this practice.
+
 ### Taiwan
 >_[PEARLab_2026](https://ewz9.github.io/lab_handbook/graduate)_:
 >

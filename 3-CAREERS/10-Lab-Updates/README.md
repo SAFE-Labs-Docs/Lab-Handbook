@@ -42,6 +42,12 @@ Lab members are often considering academia as a potential career. It informs tha
 >
 >Lab members will be kept informed about lab developments information via email. Relevant information includes spending, grant applications, and outlook for the future. Lab members will be involved to provide feedback on grant applications and funding considerations that affect the future of the lab.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>I aim to be as transparent as possible about the operations of the group. You are always welcome to ask me about hiring plans, current projects, finances, etc. I will be upfront about these things at least once each academic year with a “State of the Group” presentation.
+
 ### United Kingdom
 
 >_Anonymous lab_:

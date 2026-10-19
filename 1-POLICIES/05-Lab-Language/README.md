@@ -40,6 +40,10 @@ The institutional language at the Italian Institute of Technology is English; no
 >
 >The ULB’s working language is French. While some documentation and communication from the institution is bilingual (French and English), oftentimes resources are only available in French. We encourage lab members to use a translation plugin on their browser to deal with this, and in case of confusion we are there to help. It is important to note that mastery of the French language is expected for promotion to fully tenured professor at the ULB, and that internal meetings such as faculty meetings can be conducted fully in French.
 
+>_[PenceLab_2026](https://handbook.pencelab.be/docs/people/recruitment/postdoc/)_:
+>
+>We have a variety of international researchers from all over the world (I moved to Belgium in 2018 myself), our international office is pretty good at handling the relevant paperwork, and the working language of CEFISES (the center for philosophy of science) is English. Of course, if you want to pick up some French that’s absolutely something you can do in Brussels – people are very flexible about language, as all kinds of people are working in their second and third languages all the time. But you won’t need it to operate in our group or center.
+
 ### Brazil
 >_[CompGeoLab_2026](https://www.compgeolab.org/manual/communication.html)_:
 >

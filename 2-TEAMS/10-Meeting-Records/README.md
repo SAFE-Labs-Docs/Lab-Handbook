@@ -100,6 +100,12 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >- **The next meeting opens by reading that list back**: what got done, what
 >  didn't, and why.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>Take your own notes. While I take detailed notes, you should not rely on mine as those are for my records. Bring something to write with (or type on) and note down key decisions and action items; this can also be done within the slidedeck you’ve prepared. At the end of each meeting, briefly summarize the takeaways back to me so we can confirm we’re aligned. This prevents misunderstandings and saves us both time later.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
@@ -114,6 +120,16 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >Each group member has at least one dedicated hour per week of their supervisor’s time. The default is a meeting, but you can use this however is most useful — a code review, written feedback on a draft, or skipping it entirely if you don’t need it that week. These meetings are also the place to discuss career development, training, and any institutional or personal matters. If you want feedback on something specific, share it at least a day before the meeting.
 >
 >We maintain a Google Doc (or similar) for ongoing notes — updated every meeting with a short summary of discussion and action points.
+
+>_[ManchesterPredictiveHealthcareGroup_2026](https://github.com/manchester-predictive-healthcare-group/prediction_group_handbook)_:
+>
+>Where the meeting is about ‘your’ project, you are expected to prepare and share an agenda before the meeting (at least 24 hours in advance) and circulate brief minutes and actions after the meeting (within 3 working days). If you wish to cancel a meeting, please give as much notice as possible, so that colleagues can reallocate the time slot. A lack of progress is not a good reason to cancel a meeting (it is even more important to meet in this case!); progress includes trying different approaches that fail.
+>
+>For writing an agenda, a useful template is the ‘3 Ps’:
+>
+>- Progress: what progress has been made since the last meeting?
+>- Problems: what challenges have you encountered? What are your proposed solutions?
+>- Plan: what do you plan to do between now and the next meeting?
 
 >_[OPTIMlab_2026](https://www.georgesdgordon.com/?p=584)_:
 >

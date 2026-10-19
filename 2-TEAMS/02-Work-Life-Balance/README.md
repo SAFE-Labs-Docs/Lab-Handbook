@@ -381,6 +381,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Avoid overcommitting to tasks to prevent burnout, take regular breaks, and prioritize self-care.
 >- Discuss work-life balance concerns openly with the PI to find effective solutions.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>While there is a lot of work in our field that can be done remotely or at home, I expect everyone to be in the office at least 3 days per week. This is not only my expectation, but Chalmers policy: working from home (WFH) is permitted up to 2 days per week maximum. Note that working from the library or a café counts as working from home, not as office presence—the point is to be physically available to your colleagues and vice-versa.
+>
+>- I would like 11 am - 2 pm to be a time of maximal overlap when most people are present in the office. This is when you’re most likely to catch colleagues for quick questions, impromptu discussions, advice, and/or fika. Nevertheless, I realize that everyone’s work style and family obligations are different, so please communicate with me (and our unit head) ASAP if you ever have a situation that requires special attention.
+
 ### Switzerland
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
@@ -451,6 +459,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Please factor this into the timing of your communications.
 >- (I usually respond MUCH faster than this.)
 
+>_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
+>
+>On meeting and journal club days (Mondays and Tuesdays), most lab members should come into the lab in New Radcliffe House and attend meetings in-person. Use this as an opportunity to have lunch together, interact with other research groups, and catch up with one another. Unless there is a particularly good reason to join remotely, in-person attendance is strongly encouraged. However, we also appreciate that there can be value in working remotely. On other days, working patterns are more flexible. It is generally expected that during ‘core hours’ (10am-4pm, Monday-Friday), full-time members of the lab should be available to work on projects, collect and analyse data and/or have meetings when they are required by their projects. But beyond these commitments, your time is flexible; do whatever works best for you to get your work done. If you don’t have fixed commitments or meetings on a given day, don’t feel obliged to work fixed hours. Soon after joining the lab, have an open conversation with Laurence about your planned pattern of work, and stick to this.
+
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >
 >Holidays: we all get the same amount of holiday, 27 days, plus university closure days. I don’t need advance notice of this, just make sure you fill in the holiday request form through myPGR. If you’re going on holiday, make sure you have arranged for someone to take care of any animal cultures you have running – this is your responsibility. I will try to give you advanced notice of my holidays, but I also sometimes just decide to take days off last minute, it’s fine for you to do this too.
@@ -504,6 +516,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >If you're not working, set an autoreply to do that for you.
 >
 >If you ask someone else a question and they don't get back to you, ask again the next ordinary working day.
+
+>_[WhelanLab_2026](https://www.whelanlab.co.uk/manual)_:
+>
+>All meetings will aim to be within core (10am-3pm) hours in order to be accessible to all lab members independent of caring or other responsibilities. Lab members (including me) might communicate (i.e. post on slack, send email) outside of core hours. This does not mean that an immediate response is expected; flexible working does not mean constant working.
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:

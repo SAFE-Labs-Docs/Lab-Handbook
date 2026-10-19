@@ -312,6 +312,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Research assistants raise team efficiency through standardised execution and process support, and make sure that materials and results are traceable.
 
+### Czech Republic
+
+>_[LabAllience_2026](https://lab-allience.natur.cuni.cz/charter19)_:
+>
+>2.5. By “properly supervising” PhD students, we mean that at the end of the PhD, the students should be able to (non-exhaustively): formulate hypotheses based on the thorough observation of a natural phenomenon, propose experimental approaches to test such hypotheses, reflect on the impact of obtained results, identify and not hide flaws, accept them, not be afraid to make mistakes, enjoy and participate in scientific debates, in general acquire scientific self-esteem, acquire a structured way of thinking, write a scientific article, present and teach scientific concepts in a clear way. By all means possible, one should help the student reach these skills and if the student fails to do so, one should be aware that the fault may lie equally or even more in the quality of the supervision provided, than in the student’s behavior or abilities.
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >

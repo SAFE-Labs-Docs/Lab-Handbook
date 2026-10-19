@@ -251,6 +251,15 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Record mistakes. A note like "the first 300K set used the wrong salt
 >  concentration and was deleted" saves the next person from repeating the mistake.
 
+### Sweden
+
+>_[AIMELab_2026](https://ailab.bio/group-guide)_:
+>
+>It is important that we keep careful notes of our work for the sake of publications, patent filings, reproducibility, and later reference by future members of the group once you depart. You’re welcome to use whatever format you find most convenient: a written journal, an electronic word document (e.g., using Obsidian, Notion), etc. I have a preference for electronic documents so that we can archive them and back them up, and they are also searchable.
+>
+>- Keep backups of everything, and remember to back-up regularly! I cannot emphasize this enough. In fact, I would strongly recommend that you have an automated back-up system (e.g., automatically syncing OneDrive, iCloud, etc). Everyone I know who has ever lost important files or data was “planning on everything backing up tomorrow.” Don’t let this be you! Backing up your data is something that may take 30 minutes to set up but can save you weeks or even months of work down the line if you are ever so unlucky as to have your files lost. I personally do 99% of my work either in GitHub repositories that I manually (but constantly) sync, locally on my laptop which is automatically backed up in OneDrive and iCloud, and in Overleaf documents that automatically sync.
+>- For projects involving code, you should actively maintain private (before publication) GitHub repositories for all of your projects. When dealing with large datasets, try to maintain copies across multiple servers when possible.
+
 ### Switzerland
 
 >_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_06)_:

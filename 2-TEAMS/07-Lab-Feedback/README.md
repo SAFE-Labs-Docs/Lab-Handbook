@@ -42,6 +42,10 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >
 >These records can be found below:
 
+>_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
+>
+>Make your feedback open, honest, and kind. You should also feel free to challenge the PI whenever you think he is wrong or your opinion is different. This may feel easier as you become more experienced, but you should never assume that the PI ‘knows best’, as he often doesn’t. By having open debates (especially about science, but also about how the lab should be run) more progress is typically made than by simply agreeing with the status quo.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

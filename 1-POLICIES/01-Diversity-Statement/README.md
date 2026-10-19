@@ -124,6 +124,10 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >
 >We are in on-going pursuit of open conversation and accountability, to be better colleagues and to make science more accessible for everyone.
 
+>_[WhelanLab_2026](https://www.whelanlab.co.uk/manual)_:
+>
+>The Whelan lab is an inclusive environment that values equality and diversity. Negative comments about race, gender, religion, sexual orientation etc. will strictly not be tolerated. Not even as banter; there are plenty of other things to joke about. This lab is made up of people who are passionate about science and kind to each other.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

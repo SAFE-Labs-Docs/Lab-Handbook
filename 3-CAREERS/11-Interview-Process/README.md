@@ -469,6 +469,16 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >	- Do I think they would mesh well with our lab’s culture and dynamics?
 >	- Have them demonstrated growth and resilience in their prior work, showing a potential for growth and future scientific excellence?
 
+>_[CarolinaAffectiveScienceLab_2026](https://affectivesciencelab.com/join)_:
+>
+>**What do you look for in a graduate student?**
+>
+>Research experience in psychology, neuroscience, or a related field is a must. Having experience with neuroimaging, physiology, or coding is definitely a plus, but is not required. Although we study social behaviors, questions about emotion and affect should be central to your interests. More generally, you should be aware of and interested in theories of emotion, particularly constructionist/predictive processing approaches.
+>
+>**What type of students do best in the lab?**
+>
+>Students who are intellectually curious, hardworking, good communicators, good team players, and capable of being independent tend to thrive in the lab. We are a highly collaborative group who does team science, so being communal is essential.
+
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
 >
 >It's vitally important to decide *before* we meet a potential hire what criteria we should use to judge them: studies show that we often subconsciously rationalize biases by identifying criteria post hoc.

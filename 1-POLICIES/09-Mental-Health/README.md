@@ -59,6 +59,10 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >
 >Your mental health is important! You are encouraged to take the time off you are entitled to, which can sometimes help. Please let Dr. Baron know if you are encountering challenges, and you can work together to adjust projects or he can point you in the right direction for additional help and/or resources. Western provides health and wellness services at [https://www.uwo.ca/health//index.html](https://www.uwo.ca/health//index.html).
 
+>_[BlohmLab_2026](http://compneurosci.com/wiki/index.php?title=Lab_Ethos)_:
+>
+>The **health and well-being** of all lab members are fundamental to our success, and we are committed to fostering an environment that prioritizes both physical and mental well-being. We recognize that research is demanding, but we believe that productivity should never come at the expense of personal health. We prioritize open conversations about workload and stress. We support one another and ensure resources are available.
+
 ### Czech Republic
 
 >_[LabAllience_2026](https://lab-allience.natur.cuni.cz/Lab_Allience_projects/loneliness_fighter_brigade)_:
@@ -136,6 +140,19 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
 >
 >If you’re sick, stay home and take care of yourself - both to keep yourself healthy, and potentially to keep others healthy too. Rearrange your meetings and research participants as needed. If you need to take an extended period (>1 week) off work because of health problems (either mental or physical), then let Laurence know.
+
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>You are always welcome to talk to me about any issue if you feel comfortable to do so, either as your academic supervisor, or as one of the department’s mental health first aiders. I will proactively work to help you with any academic problems, and help you to contact relevant support for personal issues. I will ensure flexible working hours and progress expectations that reflect any external factors.
+>
+>If you would rather talk to someone else, I recommend any of the following:
+>
+>- Your peers – depending on the problem, you will often find that other students/postdocs have faced similar challenges and will be able to empathetically listen and offer advice. There are also dedicated postgrad representatives on EEDI, teaching and other department committees who can offer advice and raise issues with the department.
+>- Director and Deputy Director of Graduate Studies (Jon Wade and Laura Stevens )
+>- Department Harassment Advisors ([https://edu.admin.ox.ac.uk/find-your-local-harassment-advisor](https://edu.admin.ox.ac.uk/find-your-local-harassment-advisor))
+>- Department Mental Health Advisors ([https://www.earth.ox.ac.uk/about/equality-and-diversity/mental-health-first-aiders/](https://www.earth.ox.ac.uk/about/equality-and-diversity/mental-health-first-aiders/))
+>- Your college will also have many people you can talk to, and can be a useful source of support if you would like to raise issues independently of anyone in the department. The following people will all be able to offer support: Academic Advisor (assigned to you at the start of your PhD), Tutor for Graduate Studies, Dean, Junior Deans, Nurse, Welfare Officer
+>- Samaritans ([www.samaritans.org](http://www.samaritans.org), 116 123) or SaneLine ([www.sane.org.uk/what_we_do/support/helpline/](http://www.sane.org.uk/what_we_do/support/helpline/) 0300 304 7000)
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >

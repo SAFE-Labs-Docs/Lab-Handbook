@@ -76,6 +76,10 @@ NOTE: Some institutions already implement this process (e.g. "PhD Committee"), o
 >
 >Therefore, If your program does *not* have a PhD committee with (at least) annual meetings, please let Pip know and he will arrange for an informal “steering committee” to fulfil this role
 
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>After the end of your first and second year you will have to pass through your transfer and confirmation of status, respectively. For each of these milestones, you will be expected to give a talk on your research-to-date, and produce written work that will form part of your thesis (and may also contribute to publications). You will be assessed by the Director of Graduate Studies and another faculty member with related expertise. These are important and useful milestones to ensure the timely and successful completion of your PhD, and you should take them seriously.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

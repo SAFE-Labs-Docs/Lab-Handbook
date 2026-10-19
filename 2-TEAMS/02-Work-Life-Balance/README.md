@@ -500,6 +500,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >I shut my work email off when I’m not working and sometimes also when I am concentrating on writing. I do not receive any auto-notifications to my personal devices about email or Teams messages, ever. I advise everyone to do the same. My assumption is that you will receive messages at some time on every work day when you have explicitly planned to attend to them, not that you will be always on-call. You should not imagine that receiving an email from me means that I expect you to instantly answer it. You are never obliged to answer me at night or on weekends even if you receive something from me after hours.
 
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>The department is a social place, and as a student I want you to be integrated into the community and the research group. Where possible, you should spend at least 3 days a week working in the department, and attend meetings in-person. However, I understand there may be reasons you can’t do this in which case we can discuss finding the best working environment for you. Aside from scheduled meetings, your working hours are up to you.
+>
+>I will generally be available 8AM – 6PM Monday to Friday, although sometimes I will work at home or in college if I need to focus on my own deadlines and research. Emails can be sent at any time on any day, but do not expect a response from any recipient outside of core working hours (10AM – 3PM, Monday to Friday). Others should also not expect a response from you outside of these hours.
+>
+>**Holidays and other time away**
+>
+>All group members should ensure they take enough time off to feel motivated and energized to carry out their research when they are at work. Weekend work is not expected, although may sometimes be necessary to meet deadlines. I will let you know when I plan to be away and you should do the same. Ensure holiday does not conflict with any important milestones or deadlines. If you need to work remotely for extended periods of time (e.g., to visit family abroad) we will discuss this together to ensure it can be fitted around lab/field work and upcoming deadlines. You are always permitted to leave at short notice for any family/personal emergencies – please ensure I know that you are safe, but I will not request other details.
+
 >_[PsyLingLab_2026](https://ourresearch.reading.ac.uk/psylinglab/lab-manual/lab-manual-rules-and-procedures/)_:
 >
 >We very much encourage you to take reasonable time off. We do understand that as graduate students with clocks ticking you might be disinclined to take time off. However, to be the best you can be, you MUST take time off. We are obliged to do so as well. That said, there are better times than others. Any time taken off must be approved by your supervisor with two weeks’ notice, barring any emergencies of course.

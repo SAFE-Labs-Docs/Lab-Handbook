@@ -70,6 +70,15 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Maximum of one conference per academic year can be funded through the Tuum Est Fund
 >- Rolling deadline, approximately once per month but the due dates are not consistent (Ex: June 19th, 2023, July 31st, 2023)
 
+>_[BlohmLab_2026](http://compneurosci.com/wiki/index.php?title=Lab_Info)_:
+>
+>- Conferences are a reward of good work
+>- The goal is for everyone to attend at least 1 conference / year
+>- The condition to attend a conference is that you must have NEW material to present
+>- Conference abstracts are NOT written in the 11th hour... Your supervisor will pull the plug if that happens and you don’t get to go
+>- Keep conference costs at a minimum. The less it costs, the more money is available for research / other conferences. Your supervisor will give you a budget for each conference that is not to be exceeded
+>- Conferences are an amazing learning experience. Take fully advantage of them
+
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
 >One of the perks we have as academics is travel (although it comes with its own drawbacks!). We have limited money for travel, you can help as follows:
@@ -403,6 +412,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/lab)_:
 >
 >Let Steve know if you want to attend a conference, apply for a (travel) grant, or give a talk - the answer is often yes, but it’s good to discuss well in advance, particularly if funding is needed. A general rule is that funding for conference attendance requires presenting work you have worked on within the lab, typically when projects are nearing completion. Steve will make sure that his travel schedule is in the lab calendar, so that you will know when he is around to meet.
+
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>You should expect to attend one or two small regional conferences and workshops each year. Large, international conference attendance will depend upon sufficient progress, with the aim of presenting results of a finished research project. You should expect to attend at least one international conference during your PhD, and both you and I should ensure you have the opportunity to network with relevant experts in the field. You will never be expected to fund conferences yourself (including food and accommodation), but I will encourage you to apply for travel grants to attend as these look great on your CV and will increase the number of meetings you can attend.
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >

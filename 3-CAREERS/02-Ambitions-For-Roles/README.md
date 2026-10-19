@@ -373,6 +373,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >The PhD thesis is a substantial body of work carried out over three years. A good series of PhD studies should produce at least one substantial journal article. Usually, a single “chapter” of the PhD includes the contents of one published or publishable paper. Such a chapter may contain a single experiment or a series of related experiments. A good PhD thesis in cognitive psychology typically contains at least three empirical chapters, plus an introduction chapter and a concluding chapter.
 
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>Your thesis should contain at least three scientific chapters that are of publishable quality. I will encourage you to write these up as papers throughout your PhD, although be aware that different projects (e.g., computational vs. laboratory vs. fieldwork studies) will take different lengths of time to complete, so manuscript preparation may not progress at the same rate as that of your peers. The vast majority of all three projects should be finished by the end of the third year and you should also have produced a comprehensive literature review at this point that will make up the bulk of the introductory chapter. It is our joint responsibility to ensure that sufficient progress is being made to achieve this, and we should both feel free to raise concerns and suggest solutions or changes in approach throughout.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions. 
@@ -437,6 +441,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Mechanistic cell biology and biochemistry  
 >Mouse models of brain disease  
 >A typical postdoctoral fellowship in the Kampmann lab takes 4-5 years. Due to UCSF limitations on the total time of postdoctoral training, we can generally not consider applicants who already have more than 1 year of postdoctoral experience in another lab.  
+
+>_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
+>
+>- You are in the weird position of being an employee, student, trainee, and researcher all at once. This is not a time to “pay your dues” or sacrifice everything for science. You are here to gain the skills you need to pursue independent research and to advance your chosen field of science.
+>- Take your studies and coursework seriously. You must maintain a 3.0 program GPA to advance to your qualifying exam. This is also an opportunity to learn new skills from the talented faculty in the department.
+>- Develop an independent research project with three research projects/papers/chapters. Keep your thesis chapters in mind at all times. Science is full of tangents and fruitful side projects but be mindful that a complete thesis is your ticket to the next phase of your career.
+>- Explore your career options. Be open-minded and take the time to examine your priorities and how they line up with various career options.
 
 >_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
 >

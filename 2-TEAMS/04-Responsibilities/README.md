@@ -498,6 +498,21 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Participating in at least one public engagement event is mandatory for all lab members, but really, nobody wants to stop at one. It is fun to talk to the public about neurons and smells, and it is actually a great way to improve our communication skills (and artistic ones, if making neurons out of pipe cleaners counts as art).
 
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>**What you can expect from me:**
+>
+>- I will ensure that we meet at least twice a term throughout the academic year, and I will offer you at least 1 hour per week to meet one-on-one.
+>- You are always welcome to e-mail me or knock on my office door, and I will do my best to find time to help you within 2 working days. However, if I think it’s a problem you can solve on your own I will encourage you to do so.
+>- I will help guide your research to ensure your projects have sufficient scope for a successful thesis.
+>- I will ensure you have access to the resources, expertise and finances to successfully complete your PhD.
+>- I will allow you to develop as an independent scientist and work on projects with other collaborators both within our department, and those at other national and international institutions.
+>- I will submit graduate supervision reports in a timely manner, and ensure these accurately and truthfully reflect my thoughts on your progress to-date.
+>- I will review and provide constructive feedback on your presentations and submitted work for transfer and confirmation of status, conferences and other similar events.
+>- I will provide feedback on written work for publication or thesis chapters within 2 weeks.
+>- I will offer you career advice and guidance, and allow you the time for professional development, meetings with the careers service etc. If funding permits, you may also take time out for internships and industry placements.
+>- I will help you make adjustments to your project and working environment to accommodate any disabilities.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.

@@ -159,6 +159,15 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >We have an annual evaluation process, where the postdoc fills an official CU form (Annual Summary of Accomplishments or ASA) plus this group form this form, followed by feedback from Jose & Doug, and then we meet and discuss. This allows regular discussion of performance, timelines, suggestions for improvement in both directions etc.
 
+>_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
+>
+>- Provide a clear vision of the overall goals of the lab.
+>- Apply for and secure funding to support all members.
+>- Develop independent research projects for lab members that align with their goals and interests.
+>- Meet regularly with lab members to discuss goals, projects, progress and wellbeing. Regularly is at least twice a year and can be as often as once a week if needed.
+>- Support your career development by facilitating collaborations/introductions, conference travel, providing the necessary resources and writing letters of recommendation.
+>- Support your wellbeing as a whole person.
+
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
 >• Annual career development meeting: Each lab member will have an annual career meeting with the PI to discuss their Individual Development Plan (IDP). This meeting is an opportunity to reflect on career goals—whether academic, industry-related, or otherwise—and to identify actionable steps for progress. The IDP, prepared by the mentee, serves as a framework for this conversation and should include short- and longterm goals, current strengths and gaps, and a plan for progress.

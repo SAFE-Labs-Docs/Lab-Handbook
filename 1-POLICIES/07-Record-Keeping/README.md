@@ -91,6 +91,15 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Data collected as part of partnerships with Indigenous partners, who will decide if, how, and by whom data will be archived and accessed, following OCAP Principles.
 >- Sensitive data of any sort, which will be managed according to appropriate jurisdictional guidelines.
 
+>_[BlohmLab_2026](http://compneurosci.com/wiki/index.php?title=New_Projects)_:
+>
+>Use the *docs/labnotebook/* directory for dated Markdown entries. A simple naming convention works well:
+>
+>`docs/labnotebook/2026-03-30_pilot-data-collection.md`  
+>`docs/labnotebook/2026-04-02_initial-analysis.md`
+>
+>Each entry should briefly note what you did, what you observed, any decisions you made, and links to relevant scripts or results. These notes are version-controlled along with everything else and provide a timestamped record of the project's evolution.
+
 >_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
 >
 >You should get into the habit of maintaining detailed records and organizing all files – physical and digital – related to your lab work in a fashion that will be straightforward for others (and your future self) to navigate and understand. Good practices include clear documentation of your storage system/organizational approach (e.g., in the form of “readme” files that detail the folder structure) and things like the meaning of variable names within files; using descriptive and consistent names for files, folders, and variables; extensively annotating any scripts used for data analysis or experiment programming, and keeping records of project milestones and timelines (OSF wiki pages for projects are a useful medium for this). A formal data management plan is encouraged and may be helpful to you, but is not required outright.
@@ -348,6 +357,11 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >Use whatever works for you, but document your work. That could be a lab book, whether paper or tablet, with notes on each analysis or each simulation. Or typing notes. Or exporting key plots to Powerpoint, Google Docs etc. Or using a Jupyter notebook or RMarkdown to encapsulate what you've done, if you're comfortable with those things. Do something, so that you can give *accurate* answers to: what have you been working on? And: what have you found?
 
+>_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
+>
+>- You should keep detailed notes documenting all of your progress, reading and lab work. These will be essential when it comes to writing up, and will also help to guide our discussions when we meet.
+>- You are responsible for ensuring all of your work and data are regularly backed up (I recommend automatically backing up to the cloud). It’s worth talking to your peers, other researchers and me to find the best solution for you depending on the kind of data you need to back up.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can't reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can't be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab. For results to be reproducible, the analysis pipeline must be organized and well documented.
@@ -504,6 +518,19 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[KalantryLab_2026](https://docs.google.com/document/d/1eyzD0XEeNR5zxahjrrJdHCjowNSiQVOb/edit)_:
 >
 >As a matter of lab policy, you are asked to use UM’s electronic lab notebook to record all your raw and processed data. You are also asked to share the electric notebook with Sundeep, who will refer to the lab notebook to examine raw and processed data. I cannot stress how important it is to develop good habits to record the details of your experiments. A thoroughly documented record of your experiments is a sign of - and contributes to - the clarity of your thoughts.
+
+>_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
+>
+>- Lab Notebooks are an essential part of science, even for computational scientists! As a lab member, you are required to maintain a laboratory notebook for both wet lab and computational work.
+>- **Computational notebooks** - These can be any form and on any platform of your choosing.
+>- **Wetlab notebooks** - These must remain in the lab and document your work precisely.
+>- The lab also has a Benchling account where we store protocols - ask for an invitation to join.
+>
+>**7. Data Management**
+>
+>- You are expected to maintain all data generated in the lab in a responsible, reproducible, and organized manner
+>- You are to strive to achieve all aspects of the FAIR Principles https://www.go-fair.org/fair-principles/ in data management
+>- Data on the SCRATCH partition on the HPC is not backed up. If there is data that should be archived or maintained in a more secure location, external drives are available for use.
 
 >_[LaskowskiLab_2026](https://laskowskilab.faculty.ucdavis.edu/lab-values-expectations/)_:
 >

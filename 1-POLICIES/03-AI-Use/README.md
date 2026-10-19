@@ -281,6 +281,30 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >probably violating authorship policies if the other person is not credited). Plus, this one would be hard to execute without feeding our unpublished data into the LLM.
 >• Would it be ok to use AI or an LLM to summarize primary literature for you? Hard no. Learning to read and interpret primary literature is central to training in research. Paying someone else to do that would be unacceptable, and so would using an LLM to do it.
 
+>_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
+>
+>Part of the work you are doing within our lab is learning how to think critically, write in your voice, develop your communication skills, and logic through problem solving. While large language models (LLMs) like ChatGPT, Bard, etc.  can help with this, they are easily used to replace “thinking” in a way that is negative to your professional development at this stage. Yet, LLMs are increasingly integrated into many technologies and can be very convenient tools for a variety of applications that are relevant to your future careers. Taking all of this together, we recognize the usefulness of these tools as well as their limitations and contextualize that with the environmental impact of increased computing power, equitability and access issues, and general ethical questions around their use (training data sets, intellectual property, etc.).
+>
+>Within your work for the LaBella Lab, LLMs are acceptable to use for
+>
+>- Coding, eg. “write a basic script to do X in R”, “what is the command to do X in bash,” etc.
+>- Troubleshooting, eg "Identify errors in the following script"
+>- Non-scientific questions, eg "What is the hex code for light red?"
+>
+>However, LLMs **should not be used** to
+>
+>- Drafting abstracts, manuscripts, or other technical writing products without consulting Dr. LaBella.
+>- Scientific background or literature reviews. These models do not provide citations and can give highly erroneous scientific summaries.
+>- Designing experiments
+>- Peer review
+>
+>Cases where LLMs _might_ be appropriate, depending on the context
+>
+>- Unit conversions. But I _highly_ recommend checking their work
+>- Grammar & language. Programs like Grammarly can check for grammar errors, but they also generate suggested text. There have been some instances of Grammarly being detected as AI-generated text. I encourage you to check journal policies on the use of Grammarly and also do not accept suggestions blindly
+>
+>If you are ever in doubt about whether you are using an LLM in a way that is appropriate for your work here, please discuss with Dr. LaBella.
+
 >_[LoaizaCAMLab_2026](https://psychlabs.colostate.edu/camlab/wp-content/uploads/sites/20/2026/09/cam-lab-manual.pdf)_:
 >
 >The use of artiﬁcial intelligence (AI) and the internet more broadly (e.g., web searches via Google) to help you ﬁnd solutions to problems when it comes to things like coding experiments/analyses, preparing study materials, or thinking of how to rework sentences in your writing is absolutely ﬁne when it comes to the lab. However, you should never let the resource do the work for you. In other words, avoid mindlessly copying/pasting the results of your searches/prompts to what you are working on. Instead, you should consider whether the output is actually relevant/helpful, revise the information according to your needs, and double-check other sources to be sure that the information is accurate. In short, AI and the internet are helpful tools, but they are no replacement for our big, beautiful brains. If you are ever in doubt, please ask Vanessa – open and non-judgmental discussions can be important to determining what makes the most sense for what you are doing.

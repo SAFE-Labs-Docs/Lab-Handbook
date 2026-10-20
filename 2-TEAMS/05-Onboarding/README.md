@@ -245,6 +245,12 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >
 >The PI conducts an onboarding meeting introducing you to the lab, the team, and the lab's resources on Notion. The onboarding process is outlines on our lab Notion wiki and includes the Lab Handbook, how to join our team's slack, calendar, how to get emails, enroll at the university, find information on housing and international's support, and so on. In addition, new team members will be doubled with a buddy, usually an experienced lab member. 
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>Lab members comprise the PI, the current postdocs, current PhD students, and research assistants. University students can apply to become research assistants whenever positions are advertised. After interviews, the selected students will stay in the lab for a trial period, typically 6 months. A meeting to close and discuss the trial period should be scheduled when someone new joins the lab. After a successful trial period, the student can become a research assistant and member of the lab.
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/new-student-orientation/)_:

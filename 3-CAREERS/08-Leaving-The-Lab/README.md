@@ -106,6 +106,16 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >The PI accommodates a lab member preparing for their next position towards the end of their time at the lab such as grant writing or preparing interviews after discussing timelines and remaining workload together. There can be various reasons for deciding to leave the lab, and some may need to do so before their projects are complete. Lab members should discuss their plans with the PI as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. The PI will conduct an exit interview to discuss the reasons for leaving and provide constructive feedback based on their experience and agree on a plan to finalize projects, if applicable. 
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>Members can initiate the ending of their membership anytime they wish by discussing it with the PI. Outstanding or regular violations of the lab norms can lead to the withdrawal of lab membership after the decision of the PI.
+>
+>Upon leaving the lab or changing affiliations, access might and should be updated.
+>
+>We hope to maintain friendship with ex-members and we are lucky if they remain part of a collaborative network.
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-science-at-teelab/)_:

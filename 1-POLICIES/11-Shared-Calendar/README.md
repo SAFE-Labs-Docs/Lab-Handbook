@@ -59,6 +59,13 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >- TimeTree is for putting in when you have holidays, sickleave etc. to let other people in the lab know and for planning purposes
 >- Dominik Fischbach is in charge of IT/computer support and will give access to the server and mailing list, I will send a Slack and TimeTree invitation.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>* The members are expected to share their Google Calendar, which should be shared with everyone in the lab.
+>* The members are expected to have non-work related programs that overlap with working hours displayed as ‘Busy’.
+
 ### Israel
 
 >_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:

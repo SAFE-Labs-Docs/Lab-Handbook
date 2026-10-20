@@ -202,6 +202,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >This encompasses a **supportive environment** among lab members with no discrimination against any physical and/or mental impairments. In addition, **constructive feedback** is provided to support each other, and conflicts are mediated in an appropriate manner. We are flexible to accommodate people with families and make family-friendly arrangements.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>Holidays are also scheduled according to the time plan of the academic year. Any other leave should be reported to the PI and one’s working team potentially affected by it.
+>
+>For offline work, lab rooms can be used by members anytime during the university’s open hours. For online work, lab members should be available during work time (typically 9:00-17:00).
+>
+>Members are typically expected to work from the lab in person one or two days each week. The specific lab days are determined at the start of each semester and are scheduled based on the availability that best fits the majority of the lab members' schedules. On other weekdays, members can work from home.
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-general-issues/)_:

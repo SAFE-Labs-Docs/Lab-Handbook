@@ -81,6 +81,12 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >
 >- **Additional Support Structures:** Lab members are referred to [HGS mentoring](https://www.humboldt-graduate-school.de/en/services-en/Career-Development), the institute’s [mental health resources](https://www.humboldt-graduate-school.de/de/services/mental_health/mental_health), and [information](https://www.familienbuero.hu-berlin.de/de/en/familienbuero/information-for-families/phd-and-family/phd-and-family) on [supporting families](https://www.humboldt-graduate-school.de/en/services-en/doctorate-and-family-life).
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>* Mental health: In addition to fostering professional connections, our lab prioritizes the cultivation of interpersonal relationships, aiming to create an open and supportive environment for all members. However, if you are experiencing severe stress, anxiety, depression, or other mental health issues, it is important to seek help early. ELTE offers free counselling services to its members, available by scheduling an appointment. In emergency situations, you can access additional support through these online, phone, or in-person resources: https://www.ppk.elte.hu/tanacsado/sos.
+
 ### Israel
 
 >_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:

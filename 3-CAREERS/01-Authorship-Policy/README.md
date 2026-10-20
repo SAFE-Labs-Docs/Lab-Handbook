@@ -206,6 +206,12 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Although not all journals require an “Author Contributions” section, I do see this as a way forward to appease academics with more conventional ideas of what “authorship” should entail, as well as giving fair credit to everyone involved in the project. Hence, for my research group, please just always include this section in the manuscript submission, whether it is asked for or not. I would hope we can also have frank and open discussions about contributions to each manuscript and hence author order. I may not always get this right! I may not directly oversee every stage of the project, and may just have a general idea of who was involved with each step, so please bring this up if you are even slightly concerned or feel it may be unfair.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>Authorship and authorship order on manuscripts are finalized by the PI mostly at the submission following a discussion with those who worked on the project. No one can gain authorship without a substantial contribution to the final product or manuscript. The manuscript should also clearly note the contributions of the authors in the Author’s Note or contributions statement. For tracking contributorship, using tenzing app is recommended.
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/guiding-principles-for-manuscript-authorship/)_:

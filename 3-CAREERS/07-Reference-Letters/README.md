@@ -40,6 +40,14 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >The PI committs to providing recommendation letters at each lab member's request (requested with at least 2 week’s notice).
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>Mentees should request reference letters from their mentors with sufficient notice, providing all necessary details about the fellowship, job, or award application, including how to submit the letter. Mentors are expected to provide thorough, honest, and supportive letters of reference that accurately reflect the mentee’s abilities and contributions to the lab’s work.
+>
+>Letters of recommendation should be handled similarly to reference letters.
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/2018/08/13/advise-on-requesting-recommendation-letters/)_:

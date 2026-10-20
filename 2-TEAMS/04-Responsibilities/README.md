@@ -363,6 +363,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Our team is composed by researchers with different roles: postdoctoral researchers, graduate students, undergraduate (Master or Bachelor) students and research assistants. These roles, which may correspond to different career stages and seniority, typically come with different duties, responsibilities and expectations. These will be discussed at hiring and onboarding. Typically, postdocs and graduate students are expected to independently carry out research projects ranging from experimental work to data analysis and paper writing, as well as take part at the lab’s and institute’s regular meetings (see below). Postdocs are additionally expected to assist the PI in writing grants and reviewing papers. Graduate students will receive a larger degree of training and supervision, for example, via the Humboldt Graduate School (see below). Undergraduates and research assistants are not expected to independently carry out projects and will be supervised by a graduate student or postdoc. All full-time lab members are expected in helping to maintain the lab’s infrastructure and animal colonies. 
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>* Principal Investigator (PI): the PI is primarily responsible for the overall direction, integrity, and scientific conduct of the lab. The PI sets the strategic goals of the lab and ensures that all research activities align with these objectives and comply with institutional and ethical standards.
+>* Project manager: a project manager is assigned to each project. The project manager is responsible for assigning tasks to project participants, as well as setting and meeting deadlines.
+>* Research assistant: research assistants can be involved in any part of the research projects. They are responsible for the tasks assigned to them.
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/join-us/what-to-expect-science-at-teelab/)_:

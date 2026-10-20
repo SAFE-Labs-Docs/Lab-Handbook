@@ -84,6 +84,13 @@ The institutional language at the Italian Institute of Technology is English; no
 >
 >The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonetheless, some administrative exchanges are in German and the institute offers assistance in learning the German language.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>* To maintain and develop our language skills, members can commit to speaking only in English in the lab (Room 518) except during calls, or when we are there not to work or when we have visitors (unless the visitor is an English speaker). If only those are in the lab who did not commit to speaking only in English then they can speak in other languages unless someone joins the conversation who is committed to speaking only in English.
+>* It is suggested to set the language of every software used to English (e.g., Office).
+
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >

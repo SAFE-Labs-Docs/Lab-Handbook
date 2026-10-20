@@ -178,6 +178,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >For PhD students I will make sure you have the opportunity to attend at least one international conference and one local conference during your PhD, and for postdocs at least one conference per year. Please note that I expect you to apply for any available scholarship options or funding support that would enable you to attend. This is sometimes offered through the conference itself, sometimes by societies (e.g the German Plant Breeding society) and sometimes by external funding (e.g. DAAD). Conference attendance is also dependent on whether you have anything to present: in most cases first-year PhD students probably won’t have sufficient results yet for this, although I may make an exception for a once-in-four-years conference depending on circumstances. If you attend a conference I will also expect you to be able to give an oral presentation, not just present a poster. In both cases though the presentation should be sent to me in advance to check before submission, as should the conference abstract (at least 1-2 weeks before). Oral presentations should also be practiced within our research group beforehand.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>The lab encourages all members to pursue opportunities for skill enhancement, including summer workshops, schools, and conferences that are relevant to their research areas and career interests. Both mentees and mentors are encouraged to start conversations about career and professional development. Mentors will facilitate connections with other researchers, professionals, and organizations that can provide opportunities and insights for mentees' career advancement.
+
 ### Israel
 
 >_[TiroshLab_2026](https://github.com/tiroshlab/lab-book/blob/master/11-budgets.Rmd)_:

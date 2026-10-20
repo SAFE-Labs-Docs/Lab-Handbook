@@ -112,6 +112,12 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >
 >Reports, write-ups, and manuscripts really benefit from the human component in my opinion. Although I am not against the use of AI as a support tool it should not be used to fully replace you as an individual doing and writing about science or communicating with other humans.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>For spelling, grammatical, and stylistic corrections, the use of AI tools is suggested. However, these tools should not be solely relied upon, as they may not detect context-specific errors or issues with complex sentence structures.
+
 ### Israel
 
 >_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:

@@ -550,6 +550,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- During each meeting, two group members will give a semi-formal presentation on either (a) an introduction to their research project, (b) their research progress since their last group meeting presentation, or (c) a practice talk for an upcoming presentation.
 
 ### Switzerland
+>_[AffectLearningDecisionsLab_2026](https://gitlab.unige.ch/affect-learning-decisions-lab/LabGuide)_:
+>
+>We meet on Tuesday at Campus Biotech to discuss about science, touch base on project progress, and practical issues. All lab members (except master students in psychology) are expected to attend every meeting. If we decide to discuss a paper, everyone come to the lab meeting having read the paper and prepared with comments and questions to contribute.
+
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
 >Notice that there are different kinds
@@ -969,7 +973,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Research group meetings occur every week. (See the McNeil Group “Shared Drive” Group Meeting Schedule folder for the schedule.) Each member of the presenting subgroup has 30 min to present something that they want to discuss. Students should think carefully about how to use this time. Do you want us to help you troubleshoot an experiment? Do you need help with planning what experiments to do next? Do you want a second opinion on your data analysis and interpretation? Do you think your project should switch directions? Then the student should craft a short (but polished) slide presentation with all necessary information to accomplish their goal.
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >Weekly lab meetings will be focused on project presentations, going over new data or methods, and journal club discussions. Lab meetings will generally last no longer than 1.5 hours. Lab meeting plans and notes will be maintained in the #lab-meetings channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required, except for students earning course credit. This policy might change by semester depending on the number of students in the lab and their availability.
 >

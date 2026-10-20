@@ -122,6 +122,18 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >- Thesis defense events for lab members
 >- Interesting talks that PhD students may be interested
 
+### Switzerland
+>_[AffectLearningDecisionsLab_2026](https://gitlab.unige.ch/affect-learning-decisions-lab/LabGuide)_:
+>
+>- **Rapid communications**: we use *Discord* ([join here](https://discord.gg/MHS3fb6fa6)).
+>- **Planning and scheduling**: we use a shared calendar on Outlook. Add your holidays there (specifying your name), as well as events that may be of interest to the lab. Supervisors also specify their meetings.
+>- **Vacation**:
+>  - In order for accidents while on holiday to be covered by insurance, holidays must be declared. To declare your holidays, simply email Marion CCing Eva with the dates of your holidays.
+>  - Taking all your vacation days is mandatory; it is your responsability to make sure you do.
+>  - Add your vacations to the lab calendar.
+>- **Lab meeting minutes**: kept in the [LabMeetings](https://gitlab.unige.ch/affect-learning-decisions-lab/LabMeetings) repository (private).
+
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

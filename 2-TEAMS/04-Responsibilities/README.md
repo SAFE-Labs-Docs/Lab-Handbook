@@ -511,6 +511,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Apply for fellowships/grants (e.g., Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship).
 >- Target job market readiness by year 2–3.
 
+### Switzerland
+>_[AffectLearningDecisionsLab_2026](https://gitlab.unige.ch/affect-learning-decisions-lab/LabGuide)_:
+>
+>* In the lab, we supervise research projects of master's students in psychology and neuroscience.
+>
+>* Master's students are usually closely supervised by a doctoral student, postdoc, or senior researcher, with the PI in a "second-line" role-being informed about the topic and progress, ready to help and give input, but less directly involved in the day-to-day work.
+>
+>* Each member of the lab is expected to supervise a number of master's students depending on their level of seniority.
+
+
 ### United Kingdom
 
 >_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:

@@ -229,7 +229,7 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >One of my jobs is to write letters of reference. I am always happy to do it. I just ask that you try to give me a few weeks advance notice, and remind me one week, two days, and one day before it is due, to make sure I don’t forget. If you forget to give me much advance notice, it is still fine to ask for a letter. I will do my best to get it done, and if I have already written you a letter previously it may not take much time to adapt it.
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in some circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
 

@@ -542,7 +542,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Help other students with their projects and mentor/train other students. This is a valuable experience! Undergraduates working in the lab should be encouraged to contribute to the writing of manuscripts. If you wish to add other individuals as authors to your papers, please discuss this with me early on and before discussing the situation with the potential co-authors.
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, I expect that graduate students and postdocs will be first authors on publications on which they are the primary lead, and I will be the last author.
 

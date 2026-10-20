@@ -417,6 +417,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- I would like 11 am - 2 pm to be a time of maximal overlap when most people are present in the office. This is when you’re most likely to catch colleagues for quick questions, impromptu discussions, advice, and/or fika. Nevertheless, I realize that everyone’s work style and family obligations are different, so please communicate with me (and our unit head) ASAP if you ever have a situation that requires special attention.
 
 ### Switzerland
+>_[AffectLearningDecisionsLab_2026](https://gitlab.unige.ch/affect-learning-decisions-lab/LabGuide)_:
+>
+>**Vacation**:
+>
+>- In order for accidents while on holiday to be covered by insurance, holidays must be declared. To declare your holidays, simply email Marion CCing Eva with the dates of your holidays.
+>- Taking all your vacation days is mandatory; it is your responsability to make sure you do.
+>- Add your vacations to the lab calendar.
+
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
 >As a general rule of thumb, all lab members should be available1 during normal European business hours, say from 10∶00–16∶00. This makes it possible for other groups to interact with us and greatly simplifies any collaborations. I will not blindly enforce this rule, but I
@@ -717,7 +725,7 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >Discuss policies on work hours, sick leave and vacation with me directly. Consult with me and notify fellow lab members in advance of any planned absences. Graduate students can expect to work an average of 50 hours per week in the lab. It is possible to graduate while working fewer hours but after 20+ years of experience I can say that the most impactful dissertations have been completed by students who work at least 50 hours per week. I expect that most lab members will not exceed three weeks of personal travel away from the lab in any given year. (Note that the Graduate School has created guidance that states that Graduate Assistants have 90 hours of vacation per year). I believe that work-life balance and vacation time are essential for creative thinking and good health and encourage you to take regular vacations. Be aware, however, that there will necessarily be epochs – especially early in your training—when more effort will need to be devoted to work and it may not be ideal to schedule time away. This includes the field season, for students/post-docs working on the lakes.
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >It is expected that lab members will do most of their work from the lab. Full-time lab members can choose to work remotely 1-2 days a week, as long as this does not interfere with their research progress. Undergraduates are not eligible for remote work unless otherwise approved, and must be present in the lab for their work shifts. Anyone working remotely should plan to be available over Slack or for Zoom meetings during their working hours. Extended periods of working remotely should be approved ahead of time, and you’ll be expected to maintain regular hours if not taking PTO.
 

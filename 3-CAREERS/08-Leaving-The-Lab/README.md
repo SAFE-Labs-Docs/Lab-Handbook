@@ -425,7 +425,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >For many reasons, you might consider leaving the lab. Maybe this type of research is not what you are looking for, maybe you are considering a career switch, maybe your interests have changed, or maybe you don’t like the lab culture. Don’t keep this to yourself but discuss it with me. I will not take it personally and I will do my best to help you. I might introduce you to others. I might help you reflect on the various options. If you decide to leave, we will discuss how you can potentially still get a paper out of your work in the lab.
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >Before you leave the lab, you will be required to document and archive any dataset that you have collected. I will review the dataset with you before you leave. MRI and EEG data should be archived on the cluster, and behavioral data should be archived on Box. In addition, I’ll ask you to create a File Locator doc that explains what is stored where.
 

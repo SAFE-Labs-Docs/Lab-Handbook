@@ -256,7 +256,7 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >
 >We will all try to communicate issues promptly with respect and professionalism. Then listen actively. If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps o Observations (I see…) o Feelings (I feel…) o Needs (I need…) o Requests (Would you be willing to …) Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions If a problem persists, we will consider inviting a mediator
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Maureen. If you have an issue with Maureen, please reach out to another member of the psychology department who can intervene (this can be a senior lab member for smaller lab issues, or another faculty member or the department chair for more serious issues).
 

@@ -409,6 +409,15 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >Successful candidates will receive notification of their acceptance into the program within 2 weeks. Upon selection, each intern will be matched with a graduate student mentor who will support them throughout the research project.
 
+### Switzerland
+>_[AffectLearningDecisionsLab_2026](https://gitlab.unige.ch/affect-learning-decisions-lab/LabGuide)_:
+>
+>* Around August, we propose topics for 5 to 7 students. Typically, we assign two students to one project. We propose projects that can be completed within two years, meaning we already have a clear idea of the experimental design. We don't expect too much creative input from the students (except for those who approach us with a *recherche libre*, i.e., their own research idea at the beginning of the semester).
+>
+>* When the semester starts, we quickly interview the best candidates for the proposed topics. If there is a good fit between the student and the topic, we assign it. The orientation committee must officially validate the assignments. Once validated, we sign the research contracts and the master's thesis officially begins.  
+>**The research contract** specifies the topic, the student's responsibilities, and the deadline for submitting the first version of the thesis. It must be kept up to date and re-signed if there are changes to the timeline.
+
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

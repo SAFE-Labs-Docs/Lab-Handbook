@@ -229,7 +229,7 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >I ask that each person maintain a document with a record of the content of our meetings, and to send me a brief email summary of our meeting taken from this document after we have it. This summary should include the main points we discussed, and conclusions from the discussions, and the plan for the coming week. This serves to consolidate what we discussed in memory, to ensure that we are on the same page, and to give us something we can refer to during the week as we move forward with action items. I read these meeting summaries without fail, and usually respond with comments. If you ask me to do something during our weekly meetings (or any other time), and I say yes, please either make sure I have written it down on my to-do list, or include it in the email summary to make sure I do it (preferably both).
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >At the beginning of each semester, I will set a schedule to meet with each full-time lab member for one hour a week. If we do not have anything to discuss in a given week, that's fine- we can just say hi or cancel it. Before each meeting, update your meeting agenda; this will also be a place where we document next steps. I am also happy to have additional project-focused meetings as needed-- just ask or book an appointment on my calendar.
 

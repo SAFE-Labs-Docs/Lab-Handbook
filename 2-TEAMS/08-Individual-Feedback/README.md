@@ -190,7 +190,7 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >Each year we will sit down to discuss progress and goals. At that time, you should remember to tell me if you are unhappy with any aspect of your experience as a graduate student here. Remember that I am your advocate, as well as your advisor. I will be able to help you with any problems you might have with other students, professors, or staff. Similarly, we should discuss any concerns that you have with respect to my role as your advisor/mentor. If you feel that you need more guidance, tell me. If you feel that I am interfering too much with your work, tell me. If you would like to meet with me more often, tell me. At the same time, I will tell you if I am satisfied with your progress, and if I think you are on track to graduate by your target date. It will be my responsibility to explain to you any deficiencies, so that you can take steps to fix them. This will be a good time for us to take care of any issues before they become major problems.
 
->_[MemoLab_2026](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit)_:
+>_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
 >Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in late summer each year to sketch out a strategic plan for the academic year that will keep you on track with your goals. At that time, we will also review your progress toward these goals.
 

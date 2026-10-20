@@ -184,6 +184,21 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >We want to constrain the [“researcher degrees of freedom”](https://doi.org/10.3389/fpsyg.2016.01832) in analyses by carefully specifying analytic strategies prior to data analysis. We avoid “research waste” and in the case of negative results, we will publish them. We prioritise quality over quantity in producing the data and in the publication of results. In case of mistakes in already published work, we acknowledge these mistakes and work to correct them.
 
+### Hungary
+
+>_[MetascienceLab_2026](https://docs.google.com/document/d/1LU55CfH0OZzcTg8kk5u-FYvCj_-IX4t-bBqAz20eW6c/edit)_:
+>
+>* Operational documents (OD) are short summaries of the discussion on all platforms about the project. The main aim of the operational documents is to record the development of the project.
+>   * If there is a conclusion about a question in an email thread the project manager should record it in the project notebook
+>   * You should follow the lab template if you create an operational document for a new project
+>      * Name of the file should be XXX_MainOperationalDocument.doc
+>      * Each entry should start with the date: YYMMDD
+>      * Use bullet points to break up the entries
+>   * The project manager is responsible for taking notes to the operational document during meetings
+>   * Every event and idea should be recorded in the OD of the project
+>   * The notes must be understandable for any member of the project who reads it
+>   * If you want to address someone in the note please use their last name
+
 ### India
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/code-and-data-sharing-policy-tee-lab/)_:

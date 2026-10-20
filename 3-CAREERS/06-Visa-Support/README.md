@@ -64,6 +64,10 @@ Visa costs when joining the lab from outside the UK vary by the applicant's citi
 >
 >If you do not have the right-to-work in the UK (either as a UK citizen, or through a different scheme) you will likely need a visa to join the lab as a postdoctoral researcher, or similar position. Information about visas can be found on the UCL website here. Visas, such as the skilled worker visa (most common for postdoctoral researchers) come with significant upfront costs. Some of these costs can be covered by UCL. Often, the full costs can be covered–including costs for partners and family members. However, this is not always the case, and does depend on the source of finds being used to hire a lab member. If this information is not clear from a job advertisement, or you are interested in applying for a position via an external grant or fellowship, please raise your concerns with Pip directly.
 
+>_[TaylorLab_2026](https://jmtayloruk.github.io/joining)_:
+>
+>Glasgow University will [pay visa costs for international applicants](https://www.gla.ac.uk/myglasgow/pod/recruitment/relocatingtoglasgow/glasgowwelcome/visitingglasgow/relocatingtoglasgow/relocation). In many cases they will also contribute to your [relocation expenses](https://www.gla.ac.uk/myglasgow/pod/recruitment/relocatingtoglasgow/glasgowwelcome/visitingglasgow/relocatingtoglasgow/relocation). There are [a number of different visa routes](https://www.gla.ac.uk/myglasgow/pod/recruitment/visasimmigration) open to you if you are appointed to a position. For highly-qualified applicants these include the [Global Talent Visa](https://www.gla.ac.uk/myglasgow/pod/recruitment/visasimmigration/overviewoftheglobaltalentvisa) which is particularly attractive as it is not time-limited to the project you are initially appointed on, and gives you future flexibility to work in the UK.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

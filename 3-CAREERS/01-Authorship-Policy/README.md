@@ -550,6 +550,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Generally, the student or postdoc who made the largest contribution to a piece of work will be the first author. Multiple students and postdocs can be co-first authors, though there is usually still a “first cofirst” author. If most of the supervision and responsibility for the project rests with me, I will be the last author and corresponding author. (Any questions about the paper should be directed to me, since such questions may arrive long after you have left.) Other authors on the paper should have made a substantial contribution to the work, such as fabricating the device, or performing a theoretical calculation. If a group member’s only contribution was fabricating the device that was used for an experiment, that group member will be an author on the first paper using the device. Subsequent experiments papers do not need to include that person as an author but can include them in the acknowledgments.
 
+>_[OldhamLab_2026](https://me.engin.umich.edu/people/faculty/kenn-oldham/mentoring-plan/)_:
+>
+>I try to lay out tentative publications topics that I anticipate being the most prominent portions of each student's Ph.D. when they join my lab. Research of course often evolves differently, but this gives the students and I clear aspects of the work that they are the prime "owners" of, to ensure that they have clear opportunities for first authorship. In other publications, authorship is based on having made an intellectual contribution, generally broadly interpreted, to the work being reported.
+
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
 >
 >In my view there are two key requirements to being an author:

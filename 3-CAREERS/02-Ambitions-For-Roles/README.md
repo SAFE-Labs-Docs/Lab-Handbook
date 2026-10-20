@@ -525,6 +525,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Be proactive about asking for the help they need to succeed.
 >- Do the very best work they can and be aware and communicative of what they need to be happy, fulfilled, and successful.
 
+>_[OldhamLab_2026](https://me.engin.umich.edu/people/faculty/kenn-oldham/mentoring-plan/)_:
+>
+>Do you have general expectations for graduation?
+>
+>My rule of thumb is 4 years if coming off a master's degree, or 5 years if coming from an undergraduate degree.
+
 >_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
 >
 >**Post-Docs**

@@ -447,6 +447,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Second chapter ready to submit (ideally submitted)
 >- Third chapter written (does not have to be final form)
 
+>_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
+>
+>You should plan to submit your first paper by your third year in the lab, and I expect each student to have at least one manuscript submitted for publication prior to defending. At our annual goal planning meetings we will discuss strategies for making this happen, and I will encourage you to make incremental progress on manuscripts by writing methods as you formalize protocols, preparing figures that can be shown not only in lab meetings but also used for papers, and organizing literature you read that are relevant to a given project into an outline for an introduction.
+
 >_[KampmannLab_2026](https://kampmannlab.ucsf.edu/join-us)_:
 >
 >We have currently a very limited number of open postdoc positions, and will prioritize candidates who have a track record of independence and leadership, and bring complementary expertise to our lab. Current areas of expertise we are looking for include (among others):  

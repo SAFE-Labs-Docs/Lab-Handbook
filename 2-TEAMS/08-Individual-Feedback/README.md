@@ -159,6 +159,10 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >
 >We have an annual evaluation process, where the postdoc fills an official CU form (Annual Summary of Accomplishments or ASA) plus this group form this form, followed by feedback from Jose & Doug, and then we meet and discuss. This allows regular discussion of performance, timelines, suggestions for improvement in both directions etc.
 
+>_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
+>
+>At the beginning of each term and prior to each field season, we will meet to discuss your longer-term research goals. These meetings should be fun! I love hearing about your ideas and thinking about how each project fits into your broader research plan. Please come to these meetings prepared, having done background reading to identify a knowledge gap with specific questions you want to address, methods that may be appropriate, and ideas of expected results and analysis methods you will use for each project. We will discuss these and come up with a general plan of action, including a timeline for the experiments. These meetings will provide the scaffold for each semester and are really important to ensure we are on the same page.
+
 >_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
 >
 >- Provide a clear vision of the overall goals of the lab.

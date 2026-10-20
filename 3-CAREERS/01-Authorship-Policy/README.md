@@ -471,6 +471,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >What does first authorship mean in our Lab? Being the first author typically means that you are: (1) an intellectual lead on the project, (2) making major contributions conducting the scientific work (e.g., developing methodology, analyzing data), and (3) a main writer on the manuscript, usually crafting the first draft. For some projects, a first authorship role may also involve project management with collaborators and partners. All of these activities are done under the mentorship of Dr. Rose as the PI with substantial feedback in an apprenticeship model.
 
+>_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
+>
+>We will follow Contributor Role Taxonomy (CRediT) to describe the contribution of each author on a manuscript, so it is important to be clear about what each group member will do and has done. This will also help clarify the most appropriate ordering of authors. These conversations are not always easy to have, but they are important. Ordering of authors will be determined by a discussion among all authors, but the final list is under my discretion. As a general rule, the person leading the project will be first author assuming they also write the majority of the manuscript, make the final figures, and handle the submission and revisions process.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
 >
 >Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:

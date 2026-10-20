@@ -913,6 +913,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Postdocs + Research Scientists + Jose lunch, every 3 weeks
 >- Student Informal Prez w/ Postdocs, w/o Jose (1.5 hrs, 1 per mo)
 
+>_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
+>
+>Attendance and participation in lab meetings is a crucial component of both your personal success and the success of the group. You should be prepared to discuss your work, listen respectfully and with excitement to others, and provide feedback. The structure of our meetings will change from time to time, but in general each meeting will involve a longer-form presentation from one lab member and short updates from others. Lab meetings are a safe space to discuss not only research successes, but also elicit help and support when research failures happen (which they will! for everyone! frequently!). We can all learn from each other, and lab meetings should be a place where people feel empowered to ask questions and discuss ideas. If everyone participates, lab meetings will be enjoyable and help to meet our individual and collective goals.
+
 >_[KalantryLab_2026](https://docs.google.com/document/d/1eyzD0XEeNR5zxahjrrJdHCjowNSiQVOb/edit)_:
 >
 >We hold weekly journal clubs where we typically review a recently published paper. When reading papers, if you don’t understand the background of the paper take the time to look up and read papers or relevant sections of the papers that are referenced in the introduction. We also hold weekly data sharing lab meetings, which are held jointly with Dr. Jacob Mueller’s lab. Both the journal club and the data sharing meetings last 1 – 1.5 hrs.

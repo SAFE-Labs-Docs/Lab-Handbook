@@ -33,6 +33,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >
 >If you have a concern about me and my behaviour, you can tell me and we can discuss it; if you're not comfortable doing so, you can also discuss anything related to my supervision confidentially and in private with the Center for Graduate Student Mentorship
 
+>_[UltracoldUAlberta_2026](https://sites.google.com/ualberta.ca/ultracold/code-of-conduct)_:
+>
+>If you are have any questions or concerns about these issues, or anything else, please feel free to talk with Lindsay, in person or by email/message. If you’re not comfortable with talking to her about these issues, please approach someone else at the University: the graduate assistant (Berta Beltran, physgrad@ualberta.ca), graduate chair (Claire Currie, adgphys@ualberta.ca), undergraduate/associate chair (Erik Roslowsky, rosolowsky@ualberta.ca) or the Graduate Physics Students Association (physgpsa@ualberta.ca)
+>
+>In addition, please be aware of other Student Services, such as the Student Ombuds Service, and Counselling and Clinical Services.
+
 
 ### Germany
 >_[MerenLab_2026](https://merenlab.org/culture/)_:

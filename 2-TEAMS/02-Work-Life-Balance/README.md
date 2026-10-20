@@ -98,6 +98,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >There is no expectation of responding to messages or emails on weekends or evenings; either on my part, or on yours. Similarly, there is no expectation to respond to fellow lab mates about work-related queries on off hours when in the office, unless unusual circumstances suggest a clear need for a prompt exchange of information, such as during a crucial experiment.
 
+>_[UltracoldUAlberta_2026](https://sites.google.com/ualberta.ca/ultracold/code-of-conduct)_:
+>
+>Generally, graduate students are work a minimum of 40 hours per week on academic activities, most of which time should include presence at the university in the office and lab. This includes research time in the lab, course attendance, and TA duties.
+>
+>Vacation
+>
+>The Department of Physics stipulates that graduate students are entitled to 3 weeks vacation each year, in addition to statutory holidays. Generally, I interpret these three weeks to include times the university is closed (eg, the week between Christmas and New Year’s), but does not include conference travel. For those who wish to take longer vacations, time can be “banked” over the years to make accommodation for longer international trips, for example.
+>
+>Vacation times should be entered into the lab calendar, and longer vacations (> 1 week) should be discussed with Dr. LeBlanc before booking.
+
 ### China
 
 >_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:

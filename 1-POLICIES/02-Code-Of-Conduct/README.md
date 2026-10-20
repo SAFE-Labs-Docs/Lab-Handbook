@@ -87,6 +87,12 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >
 >No phone use when children are in the lab. Some parents are very aware of the behavior that is being modeled in front of their kids, so we don't want to model a behavior that may be inconsistent with views on phone use. Also, it's unprofessional.
 
+>_[UltracoldUAlberta_2026](https://sites.google.com/ualberta.ca/ultracold/code-of-conduct)_:
+>
+>Whereas a research group is comprised of individuals from a variety of lived experiences, each bringing unique talents and experiences to the lab, all efforts should be made to make the working environment a fertile ground for learning and research. First and foremost, all lab members are here to work and to contribute to the research goals of the group. All members have the right to experience and the responsibility to maintain a professional, safe, and open environment.
+>
+>- This code of conduct was first created by the group in 2018, and is periodically revised through ongoing discussions and periodic check-ins at group meetings
+
 ### China
 
 >_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:

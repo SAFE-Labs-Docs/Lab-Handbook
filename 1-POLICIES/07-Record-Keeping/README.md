@@ -135,6 +135,14 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >Notes on what to check for in a good wheredatacodelive project file are in wheredatacodelive_notes.txt
 
+>_[UltracoldUAlberta_2026](https://sites.google.com/ualberta.ca/ultracold/code-of-conduct)_:
+>
+>Data recorded from the lab should be saved in a backed-up location on the Ultracold YEG Google Drive, or through the Team Drive. This should be automated through data collection software when possible.
+>
+>Keeping good lab notebooks is also a requirement. Google Docs and Notion are, in general, the medium of choice in this lab. You should record day-to-day activities in the team notebook appropriate to your project, and add pictures, spreadsheets, sketches, etc, as appropriate. Links to online data folders should be included.
+>
+>Personal notebooks may be kept in whatever format you prefer -- paper, tablet, or Google Doc for instance.
+
 ### Colombia
 
 >_[BCEMLab_2026](https://github.com/BCEM-UniAndes/Guia_BCEM/blob/main/chapters/carpetas.qmd)_:

@@ -49,6 +49,12 @@ The institutional language at the Italian Institute of Technology is English; no
 >
 >**Language:** Since not everyone speaks Portuguese, we **use English** in our group chat, group meetings, and GitHub so that everyone can participate. In individual meetings or group meetings with no international participants, we **use Portuguese**.
 
+### Canada
+>_[UltracoldUAlberta_2026](https://sites.google.com/ualberta.ca/ultracold/code-of-conduct)_:
+>
+>All individuals are responsible for practicing good communications. This includes letting others know about work activities that may affect their work, when you will be present and absent, and sharing information with the whole group. This includes speaking in the common language of the lab (ie, English) whenever others are in the room.
+
+
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >

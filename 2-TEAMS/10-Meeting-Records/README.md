@@ -166,6 +166,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >* Notes can be brief; whatever can be written up in 15 minutes is good enough.
 
 ### United States
+>_[AbeshuHydrosystemsIntelligenceLab_2026](https://hydrosystems-intelligence-lab.github.io/manual/advising-philosophy-and-expectations/)_:
+>
+>When decisions are made in meetings, students should briefly document them in a meeting note, project README, issue tracker, or shared document. If expectations are unclear or if there is disagreement about a scientific or professional decision, raise it directly and early. Clarifying a disagreement is part of research, not a failure.
+
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >Please summarize what we talked about in a brief Slack message to me within a day after the meeting. This helps me keep track of everyone’s progress and ensure that we’re on the same page.

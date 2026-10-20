@@ -119,6 +119,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >[Student Experience Team](https://www.liverpool.ac.uk/population-health/about/psychology/welcome/seo/)
 
 ### United States
+>_[AbeshuHydrosystemsIntelligenceLab_2026](https://hydrosystems-intelligence-lab.github.io/manual/advising-philosophy-and-expectations/)_:
+>
+>If a student feels stuck, unsupported, confused about expectations, or uncomfortable with a lab dynamic, I encourage them to raise the issue early. Concerns can be raised in a one-on-one meeting, by email, or through another trusted channel. When needed, students may also consult departmental graduate advisors, program directors, ombud resources, or other official university support structures.
+>
+>Raising a concern is not disloyal and should not be treated as a problem in itself. The goal is to clarify expectations, repair misunderstandings when possible, and protect a respectful research environment.
+
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >You are welcome to use this anonymous form (link omitted for Github example) to share anything that concerns you. This form will go to me, but I won’t know who submitted it unless you choose to identify yourself. Please share as much detail as you feel comfortable. As a professor, I am a Title IX mandatory reporter and must report any allegations of sexual misconduct, sexual harassment, or discrimination on the basis of sex to the [Title IX office](https://www.umaryland.edu/titleix/). You are always welcome to come to me to share your concerns, but by law I cannot keep this particular type of information confidential. If you aren’t comfortable talking to me, you can reach out to the [university ombudsperson](https://www.umaryland.edu/ombuds/) or the department chair.

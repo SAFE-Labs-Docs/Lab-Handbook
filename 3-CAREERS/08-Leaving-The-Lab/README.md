@@ -166,6 +166,10 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >We support initiating continous career planning. Application for grants, or future job positions is ideally restricted to the last 9 months of the contract, and should not exceed ~20% of your total workload. In cases where more time or effort is necessary we will evlaute the situation in 1-on-1 discussions.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>Finalizing your time at the lab entails scheduling and taking part in an exit interview with Floris. This session is for you to provide feedback about your experience as a lab member and the supervision that was provided. It is also an opportunity for Floris to provide feedback on your contributions to the lab. Additionally, during this meeting ongoing projects and deadlines will also be addressed to clarify expectations and avoid misunderstandings (e.g., whether in your new lab you will finish the ongoing project, whether this will be assigned to a new lab member, authorship policies, etc.). In this way, hopefully, there will not be abandoned projects or any upsetting circumstances taking place.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >People leave the lab for all kinds of reasons, whether after several PhD years, or after a summer project. Hopefully, they are leaving for exciting new opportunities. Regardless of the reason for leaving, please give Anne as much notice as possible so that this transition can take place as smoothly.

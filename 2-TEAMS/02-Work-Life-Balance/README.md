@@ -341,6 +341,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Vacation: Everyone is encouraged to take vacation as they see fit. Experimental schedules and deadlines in your project, may render certain periods less suitable for a long vacation.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>While there isn’t a strict rule, you are generally expected to be present ‘in person’ at least 50% of your working time. Wednesday and Thursday are optimal given the lab meeting, AI/SL clubs and departmental talks (e.g., Poster Presentation Meetings, Research Update Meetings, etc.) taking place. If you have a day without commitments, this may be a suitable opportunity to work from home.
+>
+>Please always be mindful of the working hours of your colleagues. It is not expected from anyone to answer any emails or Mattermost messages during evening hours or on weekends. If for any reason something urgent has to happen on those days, a notice should be given to the lab members beforehand so they can accommodate their work accordingly.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >**Working days**: All team members are expected to be physically present at the department on Mondays, Tuesdays, and Thursdays (unless you are on leave or there is a symposium / conference you need to attend). On Wednesdays and Fridays everyone is free to choose whether they want to work from home (which most of us do) or at the department. Note that some team members work 4 (instead of 5) days a week.

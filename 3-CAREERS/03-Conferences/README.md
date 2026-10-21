@@ -346,6 +346,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >As long as financially feasible, each lab member gets a pre-defined budget allocated for travel and conference costs, that they can spend as they see fit. However, conference attendance is generally conditional on being selected as a presenting author.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>As part of the Predictive Brain Lab, the grants under which you are hired should provide resources to cover the registration, travel, and accommodation to a conference. If you make use of the grant resources to go on a multi-day conference outside of the Netherlands, you are expected to present your work from the lab either in a poster, talk or symposium. The general process for attending a conference is the following:
+>- Discuss your plans and options with Floris.
+>- Checking with Floris and/or finance (finance@donders.ru.nl) the budget for the conference
+>- Book your accommodation (using the Donders Services), travel, and conference registration.
+>- Declare it through BASS, the institute's finance system.
+>
+>If covering these expenses poses a financial burden, researchers can discuss options with finance for advance payment or seek advice from Floris.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >The full document is still under construction, but as an example some snippets are provided here:

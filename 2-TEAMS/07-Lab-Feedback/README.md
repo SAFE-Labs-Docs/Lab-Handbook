@@ -35,6 +35,10 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >
 >The first lab meeting of the academic year devotes time to lab-wide feedback sessions.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>Once a year, the lab organizes a meeting to assess the satisfaction and well-being of the lab members. We anonymously fill out a questionnaire covering work-life balance, responsibilities, policies, lab dynamics, and meetings. Responses are then discussed by everyone to address any dissatisfaction and come up with interventions to improve it. There is also space dedicated to other concerns in case someone has pressing matters that are relevant to other members of the lab.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

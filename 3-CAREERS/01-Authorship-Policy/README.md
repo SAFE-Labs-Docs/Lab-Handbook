@@ -253,6 +253,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >- **The Exemption**: For one of the four chapters (either M-type or X-type), a candidate who is one of two co-first authors receives full credit for that chapter meaning it counts as a full chapter and might in principle be used in both first authors’ thesis.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>Usually, researchers leading a project will be the first author. This entails seeing the paper through to publication, including submissions and revisions. In projects where Floris is the main supervisor, he will usually be the senior author. However, this may not apply if the contribution does not warrant authorship, if another researcher takes the role of main supervisor in collaborative projects, or for projects that are unrelated to the work of the researcher at the lab. The position of the other co-authors in between first and last author will be determined by how much they have contributed to the project. Given the complex nature of some of the projects carried out in the lab, the main author will often benefit from the expertise and input of other lab members or expert researchers in the field, which doesn’t necessarily warrant co-authorship. Please discuss the author list and order with Floris and other co-authors early in the project (i.e., before presenting the PPM) and re-discuss it if you feel it requires an update.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >Scientific autorship is a tricky business. I aim to discuss authorship early on, clarify expectations, and give regular updates when a project changes. If you are unsure about authorship, please let me know asap.

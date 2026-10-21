@@ -565,6 +565,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- **Thematic Session**: once every 4 weeks
 >- **Strategic Session**: once a year
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>Group meetings are held every week on Wednesday morning from 11:00 – 12:30 in the Oval Office (room 00.073). In-person attendance is expected but if needed you can join via Zoom using the provided link here. Please let Floris know if you cannot make it to the lab meeting.
+>
+>The meeting commences at 11:00 with announcements relevant to all the members of the group followed by a quick check-up on everyone’s week (the latter only if the lab meeting organizer thinks there is enough time for it). Afterwards, either one of the lab members presents a topic of their choice, which usually takes the form of:
+>- Introducing a new research idea
+>- Sharing the results of their latest experiment
+>- Providing an update on a project
+>- Presenting a relevant paper for diving deeper into a specific topic
+>
+>Or, we have a roundtable meeting in which we discuss a topic relevant to all members of the lab (e.g., this handbook, retreat, etc.).
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings:

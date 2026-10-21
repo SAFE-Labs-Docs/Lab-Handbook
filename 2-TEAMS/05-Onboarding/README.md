@@ -354,6 +354,10 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >- [x] Contact Yen-Chia Hsu to put your photo and information on [our lab website](https://multix.io/)
 >- [x] Read the rest of this document
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>During your initial meeting with Floris, he will assign you a “buddy”, who will be another member of the lab. Your buddy will help you get set up, show you the meeting and lunch locations, and they can help you with any questions you may have in the initial period.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >The full onboarding document is still under construction, but as an example some snippets are provided here:

@@ -60,6 +60,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >This is embedded in policy at Tilburg University: every year there is a Performance and Talent Development meeting, which allows for bilateral feedback.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>Every year, usually in December, there will be an Annual Discussion meeting, in which Floris will meet with each lab member individually and discuss their progress in that academic year.
+
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
 >The university encourages a yearly 'functioneringsgesprek' (see [this form](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/po/suggestielijst-rogesprek-mei-2019-eng.pdf)). I will draft a _mentoring agreement_ with each lab member, and I aim to have a big-picture 'review meeting' with postdocs and PhD students twice a year.

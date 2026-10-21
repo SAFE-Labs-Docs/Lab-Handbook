@@ -491,6 +491,23 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >If the teaching plan is not realized (less than 150 DVM), the education coordinator may assign you an additional course for TA’ing in the subsequent year, extending into the fourth year.
 
+>_[PredictiveBrainLab_2026](https://www.oxcin.ox.ac.uk/about/training/predictivebrainlab.pdf)_:
+>
+>As part of the Predictive Lab Group, various roles need to be fulfilled to ensure a lively and stimulating lab experience. These roles involve the organization of the (digital) resources and group activities. By distributing the workload, we can prevent the burden from falling unfairly on a few individuals and allocate tasks based on each researcher’s responsibilities both within and outside the lab. Service roles are for the duration of one academic year (from September to August).
+>
+>What are some of the roles we are referring to?
+>- • Organization of the Journal Club
+>- Chairing the AI or SL club
+>- Lab Retreat Organization
+>- Group Meeting Organization
+>- Social Activities (e.g., drinks, dinners, excursions, meetings with other groups)
+>- Annual Lab Evaluation
+>- Website, Wiki, and Lab Handbook Maintenance
+>- Organization of Lab Rotation
+>- Treasurer
+>
+>To see who is currently responsible for each role, click here. Some of these roles will involve more effort, so multiple researchers will be assigned to them. The wiki contains more information on how to fulfill each of these roles. If you would like to take on a specific service role, please let Floris know. If at any point during the academic year, you feel that your responsibilities are putting a disproportionate strain on your main line of research, please discuss this with Floris.
+
 >_[TreurLab_2025](https://psychiatryamsterdam.nl/personen/jorien-treur/)_:
 >
 >Currently, the Comorbidity & Causality research group consists of 1 Associate Professor, 1 Assistant Professor, 7 PhD students, and 1 research assistant. As a baseline, we follow the job description and specific responsibilities as described in the Dutch academic job profile ('functieprofielen') from the 'CAO Nederlandse Universiteiten', which can be found [here](https://www.universiteitenvannederland.nl/cao-nederlandse-universiteiten).

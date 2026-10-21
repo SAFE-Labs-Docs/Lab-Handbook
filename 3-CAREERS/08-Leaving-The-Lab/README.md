@@ -59,7 +59,9 @@ I understand that people decide to leave the lab for different reasons, and may 
 >_[BHKLab_2026](https://github.com/bhklab/handbook/blob/main/docs/onboarding_offboarding/Offboarding/index.md)_:
 >
 >Members leaving the lab will prepare a single digital parent folder containing all ongoing and completed project work.
+>
 >This prepared folder will be shared by the outgoing lab member with the assigned lab staff member, in addition to at least one (1) topic expert (e.g. their mentor/supervisor) involved in each project included in the prepared folder.
+>
 >If you have any open pull requests or working branches on any BHKLab project repositories, push the latest local commit you have. If the branch does not already have an open pull request, create a new pull request. Leave a comment on the PR describing what stage the branch is at and what next steps need to be taken. Assign the PR to the repo owner, whoever is taking over the project, or your mentor.
 
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
@@ -93,7 +95,8 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >After leaving regular hours in the lab, it can be very difficult to find time to put the finishing touches and making major revisions after reviewer feedback. In light of this, before students leave the lab, we will arrange a personalized paper writing plan that works best for the student. A general approach is listed under the lab 'publishing-policy.md' document, which is subject to personalization depending on the student and scope of the project.
 >
->### Exit Interview
+>**Exit Interview**
+>
 >Prior to leaving the lab, I will ask to have a final debrief meeting with you to review your experience working with the group.
 
 ### France
@@ -174,12 +177,9 @@ I understand that people decide to leave the lab for different reasons, and may 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
 >
->- [ ] You have discussed with the PI, well before your last day, how each of
->      your projects will be handed over.
->- [ ] Every project, `data/` included, has a final complete backup in the
->      agreed place, and its README says where.
->- [ ] Each README and lab notebook is up to date enough for someone else to
->      continue the work without you.
+>- [ ] You have discussed with the PI, well before your last day, how each of your projects will be handed over.
+>- [ ] Every project, `data/` included, has a final complete backup in the agreed place, and its README says where.
+>- [ ] Each README and lab notebook is up to date enough for someone else to continue the work without you.
 
 ### Switzerland
 
@@ -221,7 +221,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >---
 >
->### Handover Criteria
+>**Handover Criteria**
 >
 >A handover is considered complete only if:
 >
@@ -231,7 +231,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >---
 >
->### Notes
+>**Notes**
 >
 >- Graduation requirements must be completed in sequence
 >- Students are expected to allocate sufficient time (1–2 weeks) for final organization and handover
@@ -251,7 +251,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member). While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!
 >
->#### Offboarding Checklist
+>**Offboarding Checklist**
 >
 >- Go over personal folders for data/code: cleanup, comment, and commit
 >    - Document workflows, protocols, or specific responsibilities
@@ -266,7 +266,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >    - Notion
 >    - Website
 >
->#### Exit Interviews
+>**Exit Interviews**
 >
 >*The content of exit interviews will not be shared with other lab members*
 >
@@ -279,11 +279,11 @@ I understand that people decide to leave the lab for different reasons, and may 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
->Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
->	- Teaching any skills unique to you to other lab members
->	- Leaving your records and data organized
->	- Storing, transferring, or discarding your remaining samples, supplies, and desk items
->	- Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
+>- Let Emily know as far in advance as possible about your departure plans. She will help you arrange the following:
+>    - Teaching any skills unique to you to other lab members
+>    - Leaving your records and data organized
+>    - Storing, transferring, or discarding your remaining samples, supplies, and desk items
+>    - Arranging a realistic timeline for remaining papers, or transfer those projects to other lab members
 >- Please keep Emily updated on your life, your accomplishments, and your contact info. She loves seeing her trainees succeed in whatever their chosen career path is. Her door is always open to you as your mentor.
 
 >_[BahlaiLab_2026](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)_:
@@ -303,7 +303,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >When you graduate or move on, the goal is simple: leave your work findable, reproducible, and easy for the next person to pick up. Start about a month before you go. Everyone follows the core steps below; graduate students have a few extra around the thesis.
 >
->## Archive your data
+>**Archive your data**
 >
 >- **Create a folder with your name** in the BIRD Lab Box folder, under the People folder for your role, and upload everything you created or gathered for the projects you worked on.
 >- **Organize it clearly.** If you worked on more than one project, give each its own folder under your name.
@@ -322,16 +322,12 @@ I understand that people decide to leave the lab for different reasons, and may 
 >- Ensure all code and data are properly documented and stored on GitHub.
 >
 >- Back up and document all collected data:
->
->- Use GitHub if data is under 1 GB total and under 100 MB per file.
->
->- Use Discovery for larger files.
+>    - Use GitHub if data is under 1 GB total and under 100 MB per file.
+>    - Use Discovery for larger files.
 >
 >- Write a brief summary of work done for project continuity and future letters of recommendation:
->
->- Include GitHub links and file paths to your work.
->
->- Include your contact information for future questions.
+>    - Include GitHub links and file paths to your work.
+>    - Include your contact information for future questions.
 >
 >- Optional: Share any feedback, comments, questions, concerns, or reflections about your time in the lab.
 >
@@ -357,7 +353,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Offboarding)_:
 >
->Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI
+>* Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI
 >    * PI reviews and approves or suggests revisions
 >* Code handed off to another RA, this code must be re-run by the receiving RA
 >* Admin tasks handed off to another RA
@@ -370,7 +366,8 @@ I understand that people decide to leave the lab for different reasons, and may 
 
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
 >
->### Offboarding checklist
+>**Offboarding checklist**
+>
 >- [ ] Experimental samples
 >	- Check what you have in the 4C, -20C, -80C, and also room temperature. Organize and prune as necessary. If unsure to discard a sample, keep but label it clearly.
 >	- For -20C and -80C, you must create a list of items and add this file to your folder in the Ishihara lab NAS.
@@ -431,20 +428,39 @@ I understand that people decide to leave the lab for different reasons, and may 
 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
->All lab members should write papers before leaving the lab (Barker, 2010) If a paper is submitted before a lab member leaves and it comes back requiring revisions, the first author or someone previously designated should make those changes and resubmit. If a paper is submitted before a lab member leaves but is then rejected, the person who rewrites the paper will become the first author (ideally this
->
->18 of 24 is the original first author). If a paper is left unfinished when a lab member leaves, the person who writes the paper and submits it becomes the first author.
+>All lab members should write papers before leaving the lab (Barker, 2010) If a paper is submitted before a lab member leaves and it comes back requiring revisions, the first author or someone previously designated should make those changes and resubmit. If a paper is submitted before a lab member leaves but is then rejected, the person who rewrites the paper will become the first author (ideally this is the original first author). If a paper is left unfinished when a lab member leaves, the person who writes the paper and submits it becomes the first author.
 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
->In general, please ask me for permission to share anything from our group that has not been published. This includes things that the group has produced, like fabrication recipes or tricks, special measure code, etc. This excludes things that only you have produced, like your private code folder, presentations, etc. (i.e., you can use or share these things as you see fit).  If you are going to work at a company, I do not expect that you would make such a request. I would also be hesitant to grant such a request for students moving on to big companies.  I will disable your software accounts (box, slack, OneNote, etc.) shortly after your last day.  Please delete all nicholgroupur and urqdots chrome profiles on your personal computers, and do not log in to any of the shared google accounts after you leave.  Make sure all lab notebooks (especially fab notebooks) and fab tools are in the lab before you leave.  Turn in your keys to the keys drawer before you leave.  If possible, please provide an email address that we can use to contact you in case questions arise.
+>In general, please ask me for permission to share anything from our group that has not been published. This includes things that the group has produced, like fabrication recipes or tricks, special measure code, etc. This excludes things that only you have produced, like your private code folder, presentations, etc. (i.e., you can use or share these things as you see fit).
+>
+>- If you are going to work at a company, I do not expect that you would make such a request. I would also be hesitant to grant such a request for students moving on to big companies.
+>- I will disable your software accounts (box, slack, OneNote, etc.) shortly after your last day.
+>- Please delete all nicholgroupur and urqdots chrome profiles on your personal computers, and do not log in to any of the shared google accounts after you leave.
+>- Make sure all lab notebooks (especially fab notebooks) and fab tools are in the lab before you leave.
+>- Turn in your keys to the keys drawer before you leave.
+>- If possible, please provide an email address that we can use to contact you in case questions arise.
 
 >_[RobertsLab_2026](https://robertslab.github.io/resources/Offboarding/)_:
 >
 >When you leave the [Roberts Lab](https://faculty.washington.edu/sr320) — graduating, finishing a postdoc or appointment, wrapping up an undergraduate position, or moving on for any reason — the goal is simple: **your work stays usable by the lab, and you leave with copies of everything that is yours to keep.**
 >
 >Use this page as a checklist. Start **2–4 weeks before your last day** so nothing depends on access you no longer have. Work through it with Steven, and check items off as you go.
+>
+>**Final checklist (the short version)**
+>
+>| Area | Done when… |
+>|----|----|
+>| **Data** | Raw + processed data and metadata are on lab storage/archives; samples are logged; you have your personal copies |
+>| **GitHub** | All project repos are under [RobertsLab](https://github.com/RobertsLab) with current READMEs; nothing unpushed |
+>| **Notebooks/code** | Notebooks run end-to-end; environments captured; lab notebook complete |
+>| **Keys & access** | Shared keys flagged for rotation; server/UW/personal accounts handled; physical keys returned |
+>| **Knowledge transfer** | Active projects + manuscripts handed off in writing; authorship confirmed |
+>| **Stay connected** | Forwarding email shared; ORCID updated; references arranged |
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
->When a group member graduates, as a PhD or as a Master, the group member’s contributions should be celebrated in a group event. The group social chair should take the initiative in organizing this event. The group event may be a shared meal, a potluck, a board games party or any other appropriate activity. Regardless of how a group member exits the group, steps should be taken with cooperation from the departing group member to ensure that any useful skills or knowledge developed by said group member will remain available to the group. ❖ Before the group member physically leaves (ideally as soon as an exit is planned), the supervisor, the departing group member and any in house collaborator (e.g. co-authors on papers) should meet and agree on what needs to be documented in writing and what needs to be passed on in training. ❖ To ensure completeness, the written documents should be read and understood by the professor and continuing group members.
+>When a group member graduates, as a PhD or as a Master, the group member’s contributions should be celebrated in a group event. The group social chair should take the initiative in organizing this event. The group event may be a shared meal, a potluck, a board games party or any other appropriate activity. Regardless of how a group member exits the group, steps should be taken with cooperation from the departing group member to ensure that any useful skills or knowledge developed by said group member will remain available to the group.
+>
+>- Before the group member physically leaves (ideally as soon as an exit is planned), the supervisor, the departing group member and any in house collaborator (e.g. co-authors on papers) should meet and agree on what needs to be documented in writing and what needs to be passed on in training.
+>- To ensure completeness, the written documents should be read and understood by the professor and continuing group members.

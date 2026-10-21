@@ -45,6 +45,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[LTeDResearchLabTUWien_2026](https://lted.se.tuwien.ac.at/index.php/teaching/thesis-guide/)_:
 >
 >The bachelor thesis is designed as 10 ECTS which approximately consists of 250 hours of work, while a Master thesis is designed as 30 ECTS (approx. 750 hours of work). Nobody will count hours and there is no need to track them. However, we want to have a weekly commitment from students, so that we can approximately plan a submission date. Many students who have successfully finished a bachelor thesis in our lab plan for ~2 days/week (16 hours), which translates roughly into 15-16 weeks (four months or roughly one semester). For master thesis projects the expectations are higher, as we expected you to work ~4-5 days/week (32-40 hours) over one semester.
+>
 >Since we know many students work part-time or have care responsibilities, we are open to discussing individual solutions providing more flexibility and adjusted timelines. However, we do not accept thesis projects without reasonable planning and agreed deadlines. Note, your research project might be outdated and irrelevant if your prolong the work extensively.
 
 ### Belgium
@@ -126,7 +127,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >_English translation:_
 >
->- Keep work and life separate. To keep going in research for the long term, you need to enjoy both research and personal life. No overtime and no late nights presupposes respecting normal working hours. - Respect others' private time. Unless there is an emergency, do not disturb group members' weekends, holidays and evenings. - Research needs free space. Everyone works differently. Working times, places and ways differ between people, and each should choose what suits them best.
+>- Keep work and life separate. To keep going in research for the long term, you need to enjoy both research and personal life. No overtime and no late nights presupposes respecting normal working hours.
+>- Respect others' private time. Unless there is an emergency, do not disturb group members' weekends, holidays and evenings.
+>- Research needs free space. Everyone works differently. Working times, places and ways differ between people, and each should choose what suits them best.
 
 ### Denmark
 >_[LNN-UCPH_2026](https://lnn-ucph.github.io/LNN-UCPH-Handbook/lab_philosophy.html)_:
@@ -135,8 +138,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >
->What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly
->09:00 to 15:00) to facilitate mentorship, meetings and discussions. Please put it on the whiteboard and let Peter and Mie know if you plan to work from home or take time off for a full day or more so we can plan around it. Importantly, while you will need to work hard to be competitive for whatever you chose to do for your future career, you also need to find a consistent balance that goes well with not only your ambitions, but also your health and sanity – it’s a marathon, not a sprint.
+>What really matters here is not the specific hours or everyone else’s schedule and habits, but your own productivity. While maintaining this freedom (and the accompanying responsibility), please be in the lab at least during core work hours (roughly 09:00 to 15:00) to facilitate mentorship, meetings and discussions. Please put it on the whiteboard and let Peter and Mie know if you plan to work from home or take time off for a full day or more so we can plan around it. Importantly, while you will need to work hard to be competitive for whatever you chose to do for your future career, you also need to find a consistent balance that goes well with not only your ambitions, but also your health and sanity – it’s a marathon, not a sprint.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -271,7 +273,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >**🕌 Cultural and Religious Observances**
 >While the lab follows the **national holiday calendar**, members are welcome to adapt their time off to accommodate **cultural or religious festivities** specific to their background.  
 >Such flexibility should be managed in coordination with the PI to ensure proper planning and fairness across the team.
->
+
 >_[RossiLab_2025](https://rossilab.iit.it/home)_:
 >
 >I am committed to creating a healthy work environment for all lab members that prioritizes mental health and wellbeing together with productivity. Neuroscience research should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. Let aside the requirement of different contracts, everyone has a different daily schedule, times when they are more productive, and approaches to scientific work. Not all of them will be suited to our lab. With the goal of minimising expectation mismatch, and to increase collegiality and cooperativity within lab member, I try to outline clear policies for working hours, remote working and vacation below.
@@ -305,6 +307,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_English translation:_
 >
 >I place importance on everyone gathering in the morning at the start of the week, also in order to keep a regular lifestyle. People who want to live a night-owl lifestyle are not suited to the Matsunaga lab. Please try to live by getting up in the morning, getting sunlight, and sleeping properly at night.
+>
 >Once the Monday meeting is over, the week's research starts right away. Some people who live nearby finish the morning meeting at home and then come to ISSP, while people who live far away come to ISSP in time for the start of the Monday meeting. This is left to each person's judgment. We do not set any particular core time either, but the members' rough schedules are shared on a web calendar. Unless told otherwise, we assume you are at ISSP during weekday daytime, so please always let us know when you take time off.
 
 >_[SpinLabKyushu_2026](https://cmp.ed.kyushu-u.ac.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%85%8D%E5%B1%9E%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E6%96%B9%E3%81%B8)_:
@@ -427,10 +430,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
->As a general rule of thumb, all lab members should be available1 during normal European business hours, say from 10∶00–16∶00. This makes it possible for other groups to interact with us and greatly simplifies any collaborations. I will not blindly enforce this rule, but I
->expect you to notify me if you are not available during a certain period of time. Moreover, as a token of respect to all other lab members, everyone should usually be present for the lab meetings.
+>As a general rule of thumb, all lab members should be available during normal European business hours, say from 10∶00–16∶00. This makes it possible for other groups to interact with us and greatly simplifies any collaborations. I will not blindly enforce this rule, but I expect you to notify me if you are not available during a certain period of time. Moreover, as a token of respect to all other lab members, everyone should usually be present for the lab meetings.
 >
->1 This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.
+>This means either being present in your office or being responsive to messages or calls when you are working from home. It does not mean that you are glued to your screen at all times.
 
 >_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_05)_:
 >
@@ -470,15 +472,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_:
 >
->The exact hours that members of the lab choose to work is up to them, but each lab member should be on campus
-> between the hours of 10am and 4pm most days to facilitate collaborative working. Meetings and events will not be
-> arranged outside these hours. Exceptions for these core hours can be arranged in line with University and Departmental policy.
+>The exact hours that members of the lab choose to work is up to them, but each lab member should be on campus between the hours of 10am and 4pm most days to facilitate collaborative working. Meetings and events will not be arranged outside these hours. Exceptions for these core hours can be arranged in line with University and Departmental policy.
 >
->Avoid sending work-related email outside of 08:00 and 18:00. The University Google Mail comes with "scheduled emails"
-> to facilitate this and most email clients have the same capability (in-built or via add-ons)
-> or simply write the email and save as a draft, then send later. Please give consideration to the
-> timing of the email with respect to what the recipient needs
-> to do, i.e. don't send an email at 17:59 which is needed for a 10:00 meeting the next day.
+>Avoid sending work-related email outside of 08:00 and 18:00. The University Google Mail comes with "scheduled emails" to facilitate this and most email clients have the same capability (in-built or via add-ons) or simply write the email and save as a draft, then send later. Please give consideration to the timing of the email with respect to what the recipient needs to do, i.e. don't send an email at 17:59 which is needed for a 10:00 meeting the next day.
 
 >_[GallianoLab_2026](https://gallianolab.org/how-we-operate/)_:
 >
@@ -636,51 +632,40 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/how-we-work.html)_:
 >
->I will not judge your progress based on the hours you keep in the lab: what matters most is that you make substantive progress on the lab's goals.
->I encourage you to figure out how you work best.
->You thus have broad freedom to choose how you work, provided you communicate your plans to others and see the projects through.
->But because we're human, and it's nice to see other, non-digitized human faces regularly, aim to spend at least three days a week (for most of the workday) in lab.
->You don't have to communicate your schedule with me in advance, as long as you're around roughly this much and show up for meetings.
->Undergrads and out-of-state lab members will have different arrangements, of course.
+>I will not judge your progress based on the hours you keep in the lab: what matters most is that you make substantive progress on the lab's goals. I encourage you to figure out how you work best. You thus have broad freedom to choose how you work, provided you communicate your plans to others and see the projects through. But because we're human, and it's nice to see other, non-digitized human faces regularly, aim to spend at least three days a week (for most of the workday) in lab. You don't have to communicate your schedule with me in advance, as long as you're around roughly this much and show up for meetings. Undergrads and out-of-state lab members will have different arrangements, of course.
 
 >_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
 >
->Lab members should notify Ivry of extended (minimum of 1 week) vacation plans, preferably providing one month’s notice. This is not required for vacations/personal leaves of less than a week. C. When relevant, lab members are required to log their vacation/personal leave time on their timecards and are expected to use all of their official vacation/personal leave each calendar year. They should inform Ivry if they anticipate any carryforward since this may impact lab budgeting. D. Ivry will be responsible for reaching out to any lab member if there are concerns about absenteeism. E. Ivry will keep the lab informed of his vacation plans and what availability he will be able to provide when on vacation.
+>Lab members should notify Ivry of extended (minimum of 1 week) vacation plans, preferably providing one month’s notice. This is not required for vacations/personal leaves of less than a week.
+>
+>C. When relevant, lab members are required to log their vacation/personal leave time on their timecards and are expected to use all of their official vacation/personal leave each calendar year. They should inform Ivry if they anticipate any carryforward since this may impact lab budgeting.
+>
+>D. Ivry will be responsible for reaching out to any lab member if there are concerns about absenteeism.
+>
+>E. Ivry will keep the lab informed of his vacation plans and what availability he will be able to provide when on vacation.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
->We generally expect full-time employees to be in the lab
-> during “standard” working hours—roughly 9 AM to 5 PM.
-> The precise hours you work are less important than
-> helping form a cohesive lab culture where lab
-> members interact in person to share ideas, leverage expertise,
-> and solve problems. Even if you shift
-> your hours, we'd like you to be physically
-> present in the lab between 1 and 4 PM (prior arrangements
-> notwithstanding; e.g., if you have a long commute and we've agreed
-> you won't come in every day, or if you occasionally need to
-> schedule an appointment during the 1–4 PM window). Similarly, if
-> you are a part-time employee, try to put in your
-> in-lab hours during the 1–4 PM window when possible.
+>We generally expect full-time employees to be in the lab during “standard” working hours—roughly 9 AM to 5 PM. The precise hours you work are less important than helping form a cohesive lab culture where lab members interact in person to share ideas, leverage expertise, and solve problems. Even if you shift your hours, we'd like you to be physically present in the lab between 1 and 4 PM (prior arrangements notwithstanding; e.g., if you have a long commute and we've agreed you won't come in every day, or if you occasionally need to schedule an appointment during the 1–4 PM window). Similarly, if you are a part-time employee, try to put in your in-lab hours during the 1–4 PM window when possible.
 
 >_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
 >
 >The lab does not have hours. Science does not sleep. But you, lab member, do need to sleep.
 >
 >You are also encouraged and expected to take time away from the lab - vacation, personal, mental health days. The reasons for a short (one day) absence need not be made public, but any absence should be on the Denman Lab shared calendar as soon as it is scheduled. Planned longer absences should be discussed with Dan at least two weeks beforehand, and again added to the shared calendar.
-
-_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
->In general, we expect you to be working Monday through Friday for 9 hours per day (including a lunch break).
->    * Usually we do a daily stand-up at 8:40AM where everyone discusses what they are working on and asks questions.
->    * We typically have three in-person days per week. Arrive by standup (or 9am if standup is late) and stay until 4PM.
->    * There is some flexibility in work hours based on your needs or work needs (e.g. nursing a build). Please let us know in advance if you need to adjust your schedule.
->    * Occasionally, we will ask you to work longer than normal hours (evenings and weekends). However, longer hours are the exception rather than the norm in our lab and we will try to communicate clearly ahead of time when extra effort will be useful. We won't expect you to be on-site outside of normal business hours.
->    * You are welcome to attend a seminar once or twice a week or audit a class, and usually can take a class for credit as well.
->* Dates
->    * Everyone working in our lab follows the Booth leave policy, which gives four weeks of vacation/personal leave per year (in addition to the [13 university holidays](https://humanresources.uchicago.edu/benefits/timeoff/vacationholidays/universityholidays.shtml)), regardless of whether you are employed through Booth or BFI. We encourage you to use this leave. You also have two weeks of sick leave.
+>- In general, we expect you to be working Monday through Friday for 9 hours per day (including a lunch break).
+>    - Usually we do a daily stand-up at 8:40AM where everyone discusses what they are working on and asks questions.
+>    - We typically have three in-person days per week. Arrive by standup (or 9am if standup is late) and stay until 4PM.
+>    - There is some flexibility in work hours based on your needs or work needs (e.g. nursing a build). Please let us know in advance if you need to adjust your schedule.
+>    - Occasionally, we will ask you to work longer than normal hours (evenings and weekends). However, longer hours are the exception rather than the norm in our lab and we will try to communicate clearly ahead of time when extra effort will be useful. We won't expect you to be on-site outside of normal business hours.
+>    - You are welcome to attend a seminar once or twice a week or audit a class, and usually can take a class for credit as well.
+>- Dates
+>    - Everyone working in our lab follows the Booth leave policy, which gives four weeks of vacation/personal leave per year (in addition to the [13 university holidays](https://humanresources.uchicago.edu/benefits/timeoff/vacationholidays/universityholidays.shtml)), regardless of whether you are employed through Booth or BFI. We encourage you to use this leave. You also have two weeks of sick leave.
 
 >_[HollandGroup_2026](https://holland.chem.yale.edu/)_:
 >
@@ -766,6 +751,7 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >Our policy: It is flexible, but in the absence of extraordinary situations, it is 15 business day, in addition to major university holidays (Good Friday; Memorial Day; Independence Day; Labor Day; Thanksgiving Break; and Winter Break). Regadless, anytime that you plan to take an extended time, please tell me in advance, specially in the Summer and the Winter when there are no classes, and add it to the Calendar of Freedom.
+>
 >Important: even if you let me know verbally, it is critical to add the time away to the Calendar of Freedom for various reasons, including that I will forget, but also to make sure there is always somebody present to keep the liquid nitrogen tank filled and receive deliveries.
 
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
@@ -790,6 +776,7 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >_[UofSCExerciseOncologyLab_2026](https://witty-reaction-9ff.notion.site/Taking-time-off-Planned-and-Unplanned-5126e7346f684f2fb23c14f012f7b3e3)_:
 >
 >At minimum, we need a 10-day notice for planned trips. This is so a) we can get coverage if necessary and b) we know when team members are out, so we don’t plan important meetings in their absence.
+>
 >Considering a last minute trip? These are the BEST. The only thing I ask is that you chat to me and we can decide together if/how we can make this work.
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
@@ -798,8 +785,4 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 
 >_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
 >
->A reasonable baseline number might be averaging ~50 hours/week; this requires pretty consistent effort throughout the week but also affords quality time for other activities.
->Ideally, this is not a slog for you because you like what you are working on! If it is, then we may want to discuss what we can do about that situation.
->Some people can work more; some can manage with less.
->It is important to have some time for rest/leisure/extracurricular activities/hobbies/relationships, and so, generally, it is not advisable to work significantly more than 60 hours/week.
->You should also be cognizant of burnout and whether you are really being productive during the time that you are investing.
+>A reasonable baseline number might be averaging ~50 hours/week; this requires pretty consistent effort throughout the week but also affords quality time for other activities. Ideally, this is not a slog for you because you like what you are working on! If it is, then we may want to discuss what we can do about that situation. Some people can work more; some can manage with less. It is important to have some time for rest/leisure/extracurricular activities/hobbies/relationships, and so, generally, it is not advisable to work significantly more than 60 hours/week. You should also be cognizant of burnout and whether you are really being productive during the time that you are investing.

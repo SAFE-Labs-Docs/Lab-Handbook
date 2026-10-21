@@ -137,79 +137,41 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 
 >_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
 >
->If the concern is about something the PI has done, said, or failed to do, and
->you feel comfortable raising it with Cameron directly, you should always feel
->free to do this. He would rather hear about it directly, and raising it will
->not affect how you are treated in the lab or what is written about you afterwards.
->- However, it is often difficult to do this in practice. If you have an issue
->that you don’t feel comfortable raising with the PI, there are several other ways
->to report issues. You are entitled to use any of them without telling Cameron
->first and without explaining your reasons.
+>If the concern is about something the PI has done, said, or failed to do, and you feel comfortable raising it with Cameron directly, you should always feel free to do this. He would rather hear about it directly, and raising it will not affect how you are treated in the lab or what is written about you afterwards.
+>
+>- However, it is often difficult to do this in practice. If you have an issue that you don’t feel comfortable raising with the PI, there are several other ways to report issues. You are entitled to use any of them without telling Cameron first and without explaining your reasons.
 >- Within the Psychology Department:
->- The Undergraduate Program Director (currently Dr. Hoi-Chung Leung,
->psy_ugpd@stonybrook.edu) is the appropriate first point of contact for
->concerns about an undergraduate research placement.
->- The Department Chair (currently Dr. Joanne Davila) is the next step
->if that isn’t the right route, or if it doesn’t resolve things. Contact
->details are on the department page linked above.
+>    - The Undergraduate Program Director (currently Dr. Hoi-Chung Leung, psy_ugpd@stonybrook.edu) is the appropriate first point of contact for concerns about an undergraduate research placement.
+>    - The Department Chair (currently Dr. Joanne Davila) is the next step if that isn’t the right route, or if it doesn’t resolve things. Contact details are on the department page linked above.
 >- Outside the department:
->- The Ombuds Office
->(ombuds@stonybrook.edu, 631-632-9200, Psychology B Room 137) is independent,
->informal, and impartial. It is not an office of record, so speaking to them
->does not begin a formal process and does not commit you to anything.
->Conversations are confidential, with narrow exceptions where disclosure is
->required by law.
->- The Office of Equity and Access
->(reportit@stonybrook.edu, 631-632-6282) handles discrimination and
->discriminatory harassment. Reports can be submitted, including anonymously,
->through ReportIt.
+>    - The Ombuds Office (ombuds@stonybrook.edu, 631-632-9200, Psychology B Room 137) is independent, informal, and impartial. It is not an office of record, so speaking to them does not begin a formal process and does not commit you to anything. Conversations are confidential, with narrow exceptions where disclosure is required by law.
+>    - The Office of Equity and Access (reportit@stonybrook.edu, 631-632-6282) handles discrimination and discriminatory harassment. Reports can be submitted, including anonymously, through ReportIt.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
 >All lab members, regardless of position or status, are protected by (and must abide by) Dartmouth's human resources policies. This means behaving professionally and respectfully towards others (including your fellow lab members). Clear, direct communication is often the best way to address interpersonal issues. On rare occasions, despite your best efforts, you may find yourself in an interpersonal situation you cannot resolve on your own. You have many resources at your disposal to help:
 >
->- Senior lab members (e.g. your immediate supervisor, Project
-> Owner, or Project Coordinator)
+>- Senior lab members (e.g. your immediate supervisor, Project Owner, or Project Coordinator)
 >
 >- Jeremy
 >
 >- The PBS department chair
 >
->- The
-> Undergraduate
-> Deans Office or the
-> Graduate
-> and Professional Schools Deans Office
+>- The Undergraduate Deans Office or the Graduate and Professional Schools Deans Office
 >
->- Dartmouth's Office of
-> Human Resources, which provides assistance and resources to all
-> faculty, staff, retirees, and prospective employees
+>- Dartmouth's Office of Human Resources, which provides assistance and resources to all faculty, staff, retirees, and prospective employees
 >
->- Dartmouth's
-> Student
-> Employment Office, which provides a similar suite of services to
-> student employees
+>- Dartmouth's Student Employment Office, which provides a similar suite of services to student employees
 >
->- The Dartmouth Ombuds
-> Office, which provides confidential and informal assistance in
-> resolving concerns related to interpersonal issues
+>- The Dartmouth Ombuds Office, which provides confidential and informal assistance in resolving concerns related to interpersonal issues
 >
->- Dartmouth's
-> Faculty/Employee Assistance
-> Program
+>- Dartmouth's Faculty/Employee Assistance Program
 >
->- Dartmouth's
-> Title
-> IX office (for issues related to sex or gender-based
-> discrimination, or concerns about sexual misconduct, harassment, or
-> assault)
+>- Dartmouth's Title IX office (for issues related to sex or gender-based discrimination, or concerns about sexual misconduct, harassment, or assault)
 >
->- Hanover
-> Police (if criminal activity is involved)
+>- Hanover Police (if criminal activity is involved)
 >
->- WISE, a 24-hour crisis hotline for free and confidential
-> services to address domestic and sexual violence and stalking
-> (866-348-9473)
+>- WISE, a 24-hour crisis hotline for free and confidential services to address domestic and sexual violence and stalking (866-348-9473)
 
 >_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
 >
@@ -222,7 +184,7 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 
 >_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/lab-values.md)_:
 >
->*Use constructive language in conflict.* Facilitate fruitful conversation by using phrases that focus on your experience, *not* assumptions about the other person. Phrases like "What I heard was..." and "When you said X, I felt Y..." provide new information to the other person (your experience) and invite conversation and clarification. In contrast, phrases like "You always say/do..." and "You are X" are assumptions and generalizations about the other person. This is unfair, shuts down conversation, and exacerbates conflict.
+>+ *Use constructive language in conflict.* Facilitate fruitful conversation by using phrases that focus on your experience, *not* assumptions about the other person. Phrases like "What I heard was..." and "When you said X, I felt Y..." provide new information to the other person (your experience) and invite conversation and clarification. In contrast, phrases like "You always say/do..." and "You are X" are assumptions and generalizations about the other person. This is unfair, shuts down conversation, and exacerbates conflict.
 >+ *Start one-on-one, but get help if needed.* To prevent harmful gossip, one should not bring others into the conflict unless needed. If the situation warrants, however, bringing in others can facilitate reconciliation.
 
 >_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
@@ -254,7 +216,18 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
 >
->We will all try to communicate issues promptly with respect and professionalism. Then listen actively. If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps o Observations (I see…) o Feelings (I feel…) o Needs (I need…) o Requests (Would you be willing to …) Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions If a problem persists, we will consider inviting a mediator
+>We will all try to communicate issues promptly with respect and professionalism. Then listen actively.
+>
+>If a problem arises, we will set a face-to-face meeting time for expressing and hearing without blame or criticism. We will prepare and use the four Non-violent Communication Steps
+>
+>- Observations (I see…)
+>- Feelings (I feel…)
+>- Needs (I need…)
+>- Requests (Would you be willing to …)
+>
+>Remember there are multiple valid solutions to any issue; we will brainstorm creative solutions
+>
+>If a problem persists, we will consider inviting a mediator
 
 >_[MemoLab_2026](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit)_:
 >
@@ -272,11 +245,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
 >
 >Lab listener
->    - A volunteer group member each quarter who observes and promotes healthy lab dynamics
->    - An unofficial contact for concerns within the research group
->    - Will schedule meetings with Malin as needed for issues and updates
-
-_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>- A volunteer group member each quarter who observes and promotes healthy lab dynamics
+>- An unofficial contact for concerns within the research group
+>- Will schedule meetings with Malin as needed for issues and updates
+>
+>_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Expectations.html)_:
 >
@@ -288,4 +262,8 @@ _Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
->In case of interpersonal conflict within the group, you are expected to: ➢ First try to resolve the issue between yourselves. Be direct: what did the person do that harmed you, and how would you like them to act in the future? In general we assume that everyone’s intentions are good but that we all make mistakes. ➢ If the first point does not resolve your problem, you are expected to talk to a colleague you are comfortable with who can act as a mediator. ➢ If student to student, student to mediator does not resolve the conflict, you are expected to talk to Josh. If you are not comfortable talking to Josh (or have a problem with Josh), Tepora Su’a has agreed to be a neutral third party.
+>In case of interpersonal conflict within the group, you are expected to:
+>
+>- First try to resolve the issue between yourselves. Be direct: what did the person do that harmed you, and how would you like them to act in the future? In general we assume that everyone’s intentions are good but that we all make mistakes.
+>- If the first point does not resolve your problem, you are expected to talk to a colleague you are comfortable with who can act as a mediator.
+>- If student to student, student to mediator does not resolve the conflict, you are expected to talk to Josh. If you are not comfortable talking to Josh (or have a problem with Josh), Tepora Su’a has agreed to be a neutral third party.

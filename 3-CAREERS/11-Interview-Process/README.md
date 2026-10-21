@@ -192,19 +192,21 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >If you are seriously interested in applying, please contact Prof. Isao H. Inoue preferably at least two months before the formal application deadline.  
 >International applicants must undergo separate security export-control and administrative reviews by both the University of Tsukuba and AIST before applying. These procedures take time. Enquiries received shortly before the application deadline may not be processed in time, even if the applicant otherwise satisfies the admission requirements.  
->When contacting me, please include:  
->your CV  
->complete academic transcripts  
->a concise description of your previous research  
->your specific research interests and the project you would like to pursue  
->whether you are applying to the Master’s or Doctoral Programme  
->whether you intend to take the July or October examination  
->your preferred enrolment date  
->whether you wish to apply for a MEXT Scholarship  
->your intended application route: ordinary admission, MEXT Embassy Recommendation, or MEXT University Recommendation  
->whether you would still be able to enrol if you were not awarded the MEXT Scholarship  
->your expected graduation date  
->the date on which your bachelor’s or master’s degree will officially be awarded  
+>When contacting me, please include:
+>
+>- your CV
+>- complete academic transcripts
+>- a concise description of your previous research
+>- your specific research interests and the project you would like to pursue
+>- whether you are applying to the Master’s or Doctoral Programme
+>- whether you intend to take the July or October examination
+>- your preferred enrolment date
+>- whether you wish to apply for a MEXT Scholarship
+>- your intended application route: ordinary admission, MEXT Embassy Recommendation, or MEXT University Recommendation
+>- whether you would still be able to enrol if you were not awarded the MEXT Scholarship
+>- your expected graduation date
+>- the date on which your bachelor’s or master’s degree will officially be awarded
+>
 >Please do not submit a formal application before receiving explicit consent from your prospective supervisor.  
 
 >_[MitsumeLab_2026](https://www.kz.tsukuba.ac.jp/~mitsume/info/for-students)_:
@@ -421,7 +423,7 @@ The decision to recruit an applicant should depend on clear selection criteria t
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
->People As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised., and in accordance with guidelines from UCL.
+>As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised, and in accordance with guidelines from UCL.
 >
 >In brief, the entire process lasts ~2 months and consists of:
 >
@@ -480,12 +482,13 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >Candidates are solicited from public job postings. After screening CVs, I invite a subset to 1-on-1 Zoom interviews, then speak over Zoom with references of a further subset. I use the same set of Zoom interview questions for all candidates and share them with the candidate in advance. For technicians, we have a final round of interviews with select current lab members before making an offer. For postdocs, we invite them to a full-day onsite interview including a seminar, meeting 1-on-1 with lab members and other relevant people, and a meal with lab members before making an offer.
 >
 >I decide to invite candidates to join the lab based on the following criteria:
->	- Do I have sufficient funding for them and their project?
->	- Do their research interests mesh well with the lab’s direction?
->	- Do other lab members approve of them joining the lab?
->	- Is there a lab member who would be a good fit as their paired mentor and is able to do so?
->	- Do I think they would mesh well with our lab’s culture and dynamics?
->	- Have them demonstrated growth and resilience in their prior work, showing a potential for growth and future scientific excellence?
+>
+>- Do I have sufficient funding for them and their project?
+>- Do their research interests mesh well with the lab’s direction?
+>- Do other lab members approve of them joining the lab?
+>- Is there a lab member who would be a good fit as their paired mentor and is able to do so?
+>- Do I think they would mesh well with our lab’s culture and dynamics?
+>- Have them demonstrated growth and resilience in their prior work, showing a potential for growth and future scientific excellence?
 
 >_[CarolinaAffectiveScienceLab_2026](https://affectivesciencelab.com/join)_:
 >
@@ -499,10 +502,7 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
 >
->It's vitally important to decide *before* we meet a potential hire what criteria we should use to judge them: studies show that we often subconsciously rationalize biases by identifying criteria post hoc.
->I think academics in particular are prone to discrimination because their self-identity is so predicated on objectivity.
->It is useful to have a core, fixed set of questions or topics to discuss with different candidates.
->This doesn't mean the conversation can't wander, but it promotes fair comparisons.
+>It's vitally important to decide *before* we meet a potential hire what criteria we should use to judge them: studies show that we often subconsciously rationalize biases by identifying criteria post hoc. I think academics in particular are prone to discrimination because their self-identity is so predicated on objectivity. It is useful to have a core, fixed set of questions or topics to discuss with different candidates. This doesn't mean the conversation can't wander, but it promotes fair comparisons.
 
 >_[DossGollinLab_2026](https://dossgollin-lab.github.io/joinus/phd.html)_:
 >

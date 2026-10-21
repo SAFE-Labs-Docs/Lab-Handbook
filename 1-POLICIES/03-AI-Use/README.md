@@ -84,13 +84,14 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >
 >_English translation:_
 >
->- AI use restrictions: no public AI tool (such as Claude, ChatGPT, DALL-E, GLM, DOUBAO) may be used to process or analyse sensitive data. When using AI, do not give it any confidential data. - Do not use AI (Cursor, TRAE, KIRO, CODEX, Claude Code) to work in a parent directory that contains confidential data. Do not grant AI tools trust permission on the parent folder. (See note for details)
+>- AI use restrictions: no public AI tool (such as Claude, ChatGPT, DALL-E, GLM, DOUBAO) may be used to process or analyse sensitive data. When using AI, do not give it any confidential data.
+>- Do not use AI (Cursor, TRAE, KIRO, CODEX, Claude Code) to work in a parent directory that contains confidential data. Do not grant AI tools trust permission on the parent folder. (See note for details)
 
 ### Denmark
 
 >_[EmbodiedComputationGroup_2026](https://www.the-ecg.org/lab-book/pages/13-data-and-ethics/)_:
 >
->## Record AI assistance accurately
+>**Record AI assistance accurately**
 >
 >Keep a note of the tools used, the tasks they assisted with, the data they could access and the verification you performed. Use that record when preparing the manuscript's disclosure, following the journal's instructions.
 >
@@ -168,9 +169,10 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >
 >- AI is a supportive tool and should not be used to replace your academic judgement. AI outputs will include a mixture of good and bad, relevant and irrelevant, suggestions. Anything that you share where AI assisted its creation is fully your responsibility and you should verify all contents. This obviously includes cited research!
 >- Places where AI can be particularly helpful include:
->- Brainstorming and planning o Help debugging and writing code
->- Checking grammar, and giving suggestions on making text more concise (e.g., to meet a word limit, but obviously check the suggestions)
->- Summarising a paper (to help decide whether it’s worth reading in detail)
+>    - Brainstorming and planning
+>    - Help debugging and writing code
+>    - Checking grammar, and giving suggestions on making text more concise (e.g., to meet a word limit, but obviously check the suggestions)
+>    - Summarising a paper (to help decide whether it’s worth reading in detail)
 >- If you are unsure, take advice from a supervisor/line manager/senior colleague. You should also be transparent about when and how AI tools have been used.
 
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
@@ -193,6 +195,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[AllisonAdolescentResearchLab_2026](https://www.med.unc.edu/pediatrics/adolresearch/wp-content/uploads/sites/1448/2025/10/Allison-Adolescent_Research_Lab_Manual.docx)_:
 >
 >In general, I prefer that you develop initial versions of all study documents and obtain input from the study team, and then am comfortable with you using generative AI to refine protocol documents, interview guides, participant or eligibility surveys, recruitment materials, clean deidentified transcripts, or consent language for the IRB. I fully expect that you do your due diligence and take the time to carefully review any content generated from AI, and then edit it to accurately reflect the work we do. You should never put any identifiable information into generative AI.
+>
 >When it comes to scholarly products and dissemination of our research (e.g., manuscripts, presentations), I am more cautious about if and how AI can be used due to difficulties maintaining research integrity and recognizing infringements on others’ intellectual property. We do not want to inadvertently propagate misinformation, or worse – engage in any research misconduct. Do not use AI in the preparation of scholarly products for dissemination (e.g., editing text for grammatical correctness or clarity) without discussing it with me first. Be aware that publications, medical organizations, and conference organizers have different norms and policies on if/how AI can be used to prepare scholarly contributions. Unacknowledged or inappropriate use of AI in manuscripts, grant applications, or presentations is considered plagiarism/ misconduct.
 
 >_[AneGroup_2026](https://github.com/cecileane/ane-group-guidelines-expectations/blob/main/generativeAI.md)_:
@@ -248,9 +251,13 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[GureckisLab_2026](https://todd.gureckislab.org/2026/03/06/genaipolicy)_:
 >
 >The following checks are mandatory before any manuscript submission.
+>
 >Citations. Verify that every DOI resolves, every URL is live, and a human has read at least the abstract of every paper cited to confirm it is being accurately characterized.
+>
 >Statistical code. Any analysis generated or substantially assisted by an AI tool must be independently verified on simulated data with known ground-truth properties before application to real data. The verification script must be preserved and submitted with the code repository.
+>
 >Model implementations. Cognitive model code must include unit tests covering known closed-form cases, boundary conditions, and, when possible, an end-to-end test reproducing a result from a prior published paper. Tests must pass before any data is published with the model.
+>
 >AI-generated prose. Every factual claim in AI-assisted text must be traceable to a primary source. "The AI wrote it" is not a source.
 
 >_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/CommunityGuidelines.md)_:
@@ -281,11 +288,10 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Kirby-lab-AI-policy.pdf)_:
 >
 >1) First, apply the "Other Person" rule. Ask yourself: Would it be ok to pay another person to do what you are trying to use the LLM or AI program for? If so, it is possibly ok. If not, then it is probably not OK. Some examples:
->• Would it be ok to pay another person to re-write your thesis in better prose? Nope. That's obviously plagiarism, even if the other person is just paraphrasing your writing. So, it's not ok to ask any LLM to do that for you.
->• Would it be ok to pay another person to design your experiments for you or to come up with your next experiment? Nope. Everyone here is in training and part of what you are training to do is design experiments. Paying another person to design or conceptualize your experiments would be side stepping your actual training (and
 >
->probably violating authorship policies if the other person is not credited). Plus, this one would be hard to execute without feeding our unpublished data into the LLM.
->• Would it be ok to use AI or an LLM to summarize primary literature for you? Hard no. Learning to read and interpret primary literature is central to training in research. Paying someone else to do that would be unacceptable, and so would using an LLM to do it.
+>- Would it be ok to pay another person to re-write your thesis in better prose? Nope. That's obviously plagiarism, even if the other person is just paraphrasing your writing. So, it's not ok to ask any LLM to do that for you.
+>- Would it be ok to pay another person to design your experiments for you or to come up with your next experiment? Nope. Everyone here is in training and part of what you are training to do is design experiments. Paying another person to design or conceptualize your experiments would be side stepping your actual training (and probably violating authorship policies if the other person is not credited). Plus, this one would be hard to execute without feeding our unpublished data into the LLM.
+>- Would it be ok to use AI or an LLM to summarize primary literature for you? Hard no. Learning to read and interpret primary literature is central to training in research. Paying someone else to do that would be unacceptable, and so would using an LLM to do it.
 
 >_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
 >
@@ -317,7 +323,15 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
->APS, NSF, and NIH all have guidelines about appropriate use of AI. The primary concerns are the following.  An AI cannot be held responsible for any errors. As such, it cannot be credited with authorship. This means that any errors introduced through the use of AI, such as plagiarism or incorrect calculations or citations, are the responsibility of the human authors.  Any information you upload to an AI is effectively in the public domain. At a minimum, it means you cannot upload confidential documents like papers or proposals that you are reviewing, for example. However, it also means that the draft of the paper you just uploaded for editing is no longer confidential. My current guidance is the following:  Substantial parts of papers should not be uploaded to an AI before publication.  If you use an AI for any part of the writing process, please let me know.
+>APS, NSF, and NIH all have guidelines about appropriate use of AI. The primary concerns are the following.
+>
+>- An AI cannot be held responsible for any errors. As such, it cannot be credited with authorship. This means that any errors introduced through the use of AI, such as plagiarism or incorrect calculations or citations, are the responsibility of the human authors.
+>- Any information you upload to an AI is effectively in the public domain. At a minimum, it means you cannot upload confidential documents like papers or proposals that you are reviewing, for example. However, it also means that the draft of the paper you just uploaded for editing is no longer confidential.
+>
+>My current guidance is the following:
+>
+>- Substantial parts of papers should not be uploaded to an AI before publication.
+>- If you use an AI for any part of the writing process, please let me know.
 
 >_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
 >
@@ -397,10 +411,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 
 >_[ZETAResearchGroup_2026](https://github.com/pzivich/LabGroupMaterials/blob/main/ai_policy.md)_:
 >
->For us to have a successful advisor-advisee or mentor-mentee relationship, we need to be able to trust each other. As
->part of that, I expect for you to disclose any use of a LLM to me. Failure to do so, jeopardizes that collaborative
->relationship and may mean we are not able to trust each other. For disclosing LLM use, please complete the following
->table (or a modified version we agree upon). This table *must be completed prior to using an LLM*.
+>For us to have a successful advisor-advisee or mentor-mentee relationship, we need to be able to trust each other. As part of that, I expect for you to disclose any use of a LLM to me. Failure to do so, jeopardizes that collaborative relationship and may mean we are not able to trust each other. For disclosing LLM use, please complete the following table (or a modified version we agree upon). This table *must be completed prior to using an LLM*.
 >
 >| Task | Rationale | Description of Use |
 >|---------------------------|-----------|--------------------|
@@ -413,10 +424,9 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >| Literature review | ... | ... |
 >| Other | ... | ... |
 >
->I also recognize that the mentor-mentee relationship is a two-way street. So, I also make the following promises
->in terms of conduct and disclosure to you:
->- I will review your work that you send to me. I will not use an LLM or other related technology for reviewing your
->work.
+>I also recognize that the mentor-mentee relationship is a two-way street. So, I also make the following promises in terms of conduct and disclosure to you:
+>
+>- I will review your work that you send to me. I will not use an LLM or other related technology for reviewing your work.
 >- I will respond to your emails or questions myself. I will not use an LLM to do so.
 >- I will draft requested recommendations letters myself and will not use an LLM.
 >- If we are working together on a project, I will disclose my use of an LLM in accordance with the disclosure table.

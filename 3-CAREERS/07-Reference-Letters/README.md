@@ -64,10 +64,11 @@ Reference letters will be provided to lab members at request, but these requests
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Reference letters are important for job applications and for some summer school and travel grant applications. Lab members will receive a reference letter from the PI, unless the PI feels that it isn’t possible to write a positive letter (this will be openly communicated). Especially the first letter for a new lab member requires a lot of time to write. Hence, these are the general rules for requesting reference letters:
->At least 4 weeks in advance for first letter, at least 2 weeks in advance for any subsequent letters.
->Requests need to be made in writing and contain the following information: (a) type of position or event, (b) link to website, (c) deadline for reference letter, (d) any information about format of the letter, (e) how the letter has to be uploaded/sent, (f) any specific qualities or achievements you want me to highlight.
->Send a reminder 4-6 days before the deadline.
->A short notice from the PI can be expected when the letter has been submitted. If such a confirmation has not been received by the day before the deadline, it is the lab member’s duty to check in with the PI.
+>
+>- At least 4 weeks in advance for first letter, at least 2 weeks in advance for any subsequent letters.
+>- Requests need to be made in writing and contain the following information: (a) type of position or event, (b) link to website, (c) deadline for reference letter, (d) any information about format of the letter, (e) how the letter has to be uploaded/sent, (f) any specific qualities or achievements you want me to highlight.
+>- Send a reminder 4-6 days before the deadline.
+>- A short notice from the PI can be expected when the letter has been submitted. If such a confirmation has not been received by the day before the deadline, it is the lab member’s duty to check in with the PI.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
@@ -138,10 +139,10 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >1. **Reach out 1–2 months ahead** of the due date if possible. Last-minute requests can sometimes be accommodated, but Christina schedules work monthly, so give as much notice as you can.
 >2. **Send an email** that includes:
->  - What the letter is for, including links.
->  - The criteria that matter for the opportunity, so the letter can be framed around them to strengthen your package.
->  - Any specific formatting requests (font size, page length, etc.).
->  - *Undergraduates only:* attach your current transcript and résumé.
+>    - What the letter is for, including links.
+>    - The criteria that matter for the opportunity, so the letter can be framed around them to strengthen your package.
+>    - Any specific formatting requests (font size, page length, etc.).
+>    - *Undergraduates only:* attach your current transcript and résumé.
 
 >_[BurnsLab_2026](https://burnslab.umbc.edu/mentorship/)_:
 >
@@ -243,7 +244,17 @@ Reference letters will be provided to lab members at request, but these requests
 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
->At some point, you will likely ask me to write a letter of recommendation as you transition to your next position. I am happy to do this, because it is essential for your career development, and it is part of my job. Please follow the guidelines below. (If you do not, I will probably still write you a letter, but I will be grumpy about it, which is not something you want in your letter writer.)  Required o Ask me for the letter at least one month before the due date. o Provide me with a list of places and deadlines in a document. A checklist is very helpful. The emails I receive from the schools you are applying to get lost instantly in my inbox. o If you want me to read some of your application material, please send me your material at least two weeks before the deadline.  Optional, but helpful o Provide reminders 2 weeks, 1 week, and 1 day before the deadline.
+>At some point, you will likely ask me to write a letter of recommendation as you transition to your next position. I am happy to do this, because it is essential for your career development, and it is part of my job. Please follow the guidelines below. (If you do not, I will probably still write you a letter, but I will be grumpy about it, which is not something you want in your letter writer.)
+>
+>Required
+>
+>- Ask me for the letter at least one month before the due date.
+>- Provide me with a list of places and deadlines in a document. A checklist is very helpful. The emails I receive from the schools you are applying to get lost instantly in my inbox.
+>- If you want me to read some of your application material, please send me your material at least two weeks before the deadline.
+>
+>Optional, but helpful
+>
+>- Provide reminders 2 weeks, 1 week, and 1 day before the deadline.
 
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b680a2b16ad37da3366760)_:
 >

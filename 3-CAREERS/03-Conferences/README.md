@@ -61,14 +61,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Jason will support each (master’s) student in attending one conference per their degree. Funding is NOT available from UBCO (temporarily on hold, 2024/25), and you must apply for conference/travel funding and receive approval PRIOR TO the event:
 >
->* Irving K. Barber Faculty of Science Graduate Student Travel Grant.
->* $500 for master’s students
->* $1000 for PhD students
->* note: you must be presenting your work in order to be eligible for this grant
+>- Irving K. Barber Faculty of Science Graduate Student Travel Grant.
+>    - $500 for master’s students
+>    - $1000 for PhD students
+>    - note: you must be presenting your work in order to be eligible for this grant
 >- UBC Tuum Est Fund:
->- $500
->- Maximum of one conference per academic year can be funded through the Tuum Est Fund
->- Rolling deadline, approximately once per month but the due dates are not consistent (Ex: June 19th, 2023, July 31st, 2023)
+>    - $500
+>    - Maximum of one conference per academic year can be funded through the Tuum Est Fund
+>    - Rolling deadline, approximately once per month but the due dates are not consistent (Ex: June 19th, 2023, July 31st, 2023)
 
 >_[BlohmLab_2026](http://compneurosci.com/wiki/index.php?title=Lab_Info)_:
 >
@@ -89,8 +89,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Apply to be a student volunteer at a conference and get free registration.
 >- Use public transportation or shuttles instead of expensive taxis, or share taxis. Obviously there are exceptions here (such as late at night or very awkward destinations).
 >- UVic allows per diems, but if you can find cheaper options for food that is still nutritious please submit the lower amount. In fancy hotels, look around for cheaper breakfast options. However, sometimes there are none, I know!
->- Avail of the free food at the conferences, check if there is breakfast and other meals provided. If there are meals provided, I won’t be able to reimburse you. Yes you can go to the banquet for the conference if one is offered (networking at banquets is important :) ). Some conferences don’t
->include the banquet with student rates, so add it!
+>- Avail of the free food at the conferences, check if there is breakfast and other meals provided. If there are meals provided, I won’t be able to reimburse you. Yes you can go to the banquet for the conference if one is offered (networking at banquets is important :) ). Some conferences don’t include the banquet with student rates, so add it!
 >- In general keep costs low in a reasonable way as it adds up quickly as a group! If you do this, I can send more of you to more conferences! If in doubt though, ask!
 >
 >**Note: Do not assume that your travel can be funded—please ask me before committing to anything!**
@@ -124,8 +123,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >7.1 Conference Funding A local conference might cost several hundred dollars to attend and a national or international conference might cost over one thousand dollars. I can subsidize at least one conference per year, and the Psychology Department also oﬀers $250 per presenting student, per year. There are also travel scholarships available for many of the conferences. Information about these scholarships is usually available from conference websites.
+>
 >To maximize the experience and minimize expenses, please share a room with other graduate students.
+>
 >Please save every receipt: hotel, taxi, ﬂight, meal, etc. These are needed to complete a travel reimbursement.
+>
 >It is your responsibility to complete the reimbursement form. I’ll be notiﬁed when it’s complete and can approve it. Please discuss reimbursement prior to attending in order to ensure that I have budgeted for the trip.
 
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
@@ -145,15 +147,20 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[SHUDGroup_2026](https://www.shud.xyz/book_lab/)_:
 >
 >- 参加学术会议（5分/次）
->- 参加国内正式学术会议，并在会议上做口头报告；
->- 会议汇报内容为在本组的研究内容；
->- 汇报 PPT 至少在会议前 14 天完成，并通过 PI 审核；
->- 全程参会，参会时做笔记，会后做总结；
->- 材料齐全，会议费用可全额报销。
+>    - 参加国内正式学术会议，并在会议上做口头报告；
+>    - 会议汇报内容为在本组的研究内容；
+>    - 汇报 PPT 至少在会议前 14 天完成，并通过 PI 审核；
+>    - 全程参会，参会时做笔记，会后做总结；
+>    - 材料齐全，会议费用可全额报销。
 >
 >_English translation:_
 >
->- Attending academic conferences (5 points each) - Attend a formal domestic academic conference and give an oral presentation there; - The talk presents your research in this group; - Slides finished at least 14 days before the conference and approved by the PI; - Attend the whole conference, take notes during it and write a summary afterwards; - With complete paperwork, conference costs are fully reimbursed.
+>- Attending academic conferences (5 points each)
+>    - Attend a formal domestic academic conference and give an oral presentation there;
+>    - The talk presents your research in this group;
+>    - Slides finished at least 14 days before the conference and approved by the PI;
+>    - Attend the whole conference, take notes during it and write a summary afterwards;
+>    - With complete paperwork, conference costs are fully reimbursed.
 
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
@@ -441,6 +448,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >**Summer schools and courses:**
 >Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs for at least one such opportunity. Some courses that can help to develop the experimental and computational skills we use in the lab include:
+>
+>- Transylvanian Experimental Neuroscience Summer School
+>- CAJAL Advanced Neuroscience Training Programme
+>- OIST Computational Neuroscience Course
+>- Intro to Neuropixels training course
+>- Neuropixels and Open Scope Workshop
+>- Simons Computational Neuroscience Imbizo
 
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
@@ -472,33 +486,19 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
 >
->All members are entitled to attend one conference/workshop per year. While it is anticipated that the person will present at the conference, it is not essential. However, when no presentation is made, or for workshops, the lab member should first obtain approval from Ivry. Conference/workshop expenses covered include travel, lodging, registration, poster production costs, and a reasonable per diem. Lab members are responsible for procuring travel tickets in timely manner to be economical and act responsibly on expenses. C. Lab members can request support to attend additional conferences/workshops. These require approval in advance from Ivry who will take into consideration value for professional development as well as the lab member’s overall annual budget request for the academic year. In some cases, expenses related to additional travel may result in a hybrid model (partial coverage), depending on priority/expense of conference. D. Lab members who contribute to their own funding (e.g., extramural fellowship) will receive priority to attend additional conferences/workshops. This is one “perk” of obtaining fellowships.
+>All members are entitled to attend one conference/workshop per year. While it is anticipated that the person will present at the conference, it is not essential. However, when no presentation is made, or for workshops, the lab member should first obtain approval from Ivry. Conference/workshop expenses covered include travel, lodging, registration, poster production costs, and a reasonable per diem. Lab members are responsible for procuring travel tickets in timely manner to be economical and act responsibly on expenses.
+>
+>C. Lab members can request support to attend additional conferences/workshops. These require approval in advance from Ivry who will take into consideration value for professional development as well as the lab member’s overall annual budget request for the academic year. In some cases, expenses related to additional travel may result in a hybrid model (partial coverage), depending on priority/expense of conference.
+>
+>D. Lab members who contribute to their own funding (e.g., extramural fellowship) will receive priority to attend additional conferences/workshops. This is one “perk” of obtaining fellowships.
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
->If you are presenting your work from the lab (i.e., you
-> are the presenting author for a talk or poster), then your travel
-> expenses and conference registration fees will be guaranteed by the
-> lab, under the assumption that you will also make reasonable
-> efforts to seek out alternative sources of travel funding (e.g. through PBS, other internal Dartmouth sources, applying for travel
-> awards, using personal grants like NRSAs or NSF fellowships, etc.).
-> You are also expected to keep costs low (e.g. fly economy class,
-> seek out cheaper tickets, stay in reasonably priced hotels, share a
-> room with other lab members, etc.). By the same token, we also want
-> to be cognizant of your comfort and time, and it is not always
-> necessary to use the cheapest option. More specific travel
-> guidelines will be given on a per-conference or per-trip basis.
+>If you are presenting your work from the lab (i.e., you are the presenting author for a talk or poster), then your travel expenses and conference registration fees will be guaranteed by the lab, under the assumption that you will also make reasonable efforts to seek out alternative sources of travel funding (e.g. through PBS, other internal Dartmouth sources, applying for travel awards, using personal grants like NRSAs or NSF fellowships, etc.). You are also expected to keep costs low (e.g. fly economy class, seek out cheaper tickets, stay in reasonably priced hotels, share a room with other lab members, etc.). By the same token, we also want to be cognizant of your comfort and time, and it is not always necessary to use the cheapest option. More specific travel guidelines will be given on a per-conference or per-trip basis.
 >
->If you are not presenting your work (or if you're presenting non-lab
-> work), but you are a senior lab member, then the lab may cover your
-> travel expenses to a limited number of conferences each year. These
-> should be discussed on a case-by-case basis with Jeremy.
+>If you are not presenting your work (or if you're presenting non-lab work), but you are a senior lab member, then the lab may cover your travel expenses to a limited number of conferences each year. These should be discussed on a case-by-case basis with Jeremy.
 >
->If you are a junior lab member not presenting your work, the lab will
-> generally not pay for you to attend conferences. However, if you are
-> interested in attending a conference, and you aren't able to secure
-> funding through non-lab sources, you should discuss your options with
-> Jeremy.
+>If you are a junior lab member not presenting your work, the lab will generally not pay for you to attend conferences. However, if you are interested in attending a conference, and you aren't able to secure funding through non-lab sources, you should discuss your options with Jeremy.
 
 >_[DiffenbaughClimateLab_2026](https://climatelab.stanford.edu/sites/g/files/sbiybj25861/files/media/file/responses_to_vpge_guiding_questions_diffenbaugh_2019_0.pdf)_:
 >
@@ -591,6 +591,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[OlanrewajuLab_2026](https://ayokunle.notion.site/Olanrewaju-Lab-Manual-cdf5d841306e44009fbdc752cf4724f6)_:
 >
 >Prior to presenting a poster or talk, you should use the group meetings prior to the event to show your poster draft and/or walk through your presentation slides. When you present your work, it is expected that you will take notes on the questions asked, and identify who is asking the question (name, title) and where they are located (University/Industry, email address).  If someone is asking questions, it shows that they have an appreciation for the work—they are likely someone who should be contacted in the future!  You will be expected to include the questions asked and the people who asked questions in your post-conference debrief.
+>
 >In your group meeting presentation following a conference/research travel, you will be expected to present a debrief.  This must include a thorough discussion of at least 3, preferably 5 talks and/or posters you attended.  You are encouraged to ask for copies of the talk, papers (if published), or take photos (if allowed/with author permission) to share in your debrief.
 
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
@@ -625,7 +626,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
->As a student you should strive to attend at least one conference every other year, while postdocs should aim to attend one conference per year. But, conferences are not boondoggles2 and I expect you to present your work, either in an oral or poster presentation, if you are going to attend. Keep in mind that the cost for a “big” conference like AGU or ESA is pretty high (up to $3000 per attendee, once meals and lodging, registration, abstract submission, and airfare are taken into account) but there are also much lower-cost venues like NAU’s Biennial Conference which can be just as rewarding and productive. I will work with you to identify funding to support registration and travel expenses, but this does not mean that funding will always be available.
+>As a student you should strive to attend at least one conference every other year, while postdocs should aim to attend one conference per year. But, conferences are not boondoggles and I expect you to present your work, either in an oral or poster presentation, if you are going to attend. Keep in mind that the cost for a “big” conference like AGU or ESA is pretty high (up to $3000 per attendee, once meals and lodging, registration, abstract submission, and airfare are taken into account) but there are also much lower-cost venues like NAU’s Biennial Conference which can be just as rewarding and productive. I will work with you to identify funding to support registration and travel expenses, but this does not mean that funding will always be available.
 
 >_[RossIbarraLab_2026](https://rilab.ucdavis.edu/expectations.html)_:
 >
@@ -655,4 +656,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
->Students should consult with Josh before applying to a conference. ❖ We aim to have students attend at least one conference by the end of their 3rd year, subject to having enough solid results to present. ❖ All conference funding will be provided. Students should apply for external conference funding (ex. WCC or department awards).
+>- Students should consult with Josh before applying to a conference.
+>- We aim to have students attend at least one conference by the end of their 3rd year, subject to having enough solid results to present.
+>- All conference funding will be provided. Students should apply for external conference funding (ex. WCC or department awards).

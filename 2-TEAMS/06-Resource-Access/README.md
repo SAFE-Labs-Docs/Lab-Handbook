@@ -114,7 +114,7 @@ The above policies pertain to communal lab resources. Individuals with their own
 
 >_[AIMELab_2026](https://ailab.bio/group-guide)_:
 >
->Compute and storage: Be mindful of shared compute resources. Don’t monopolize GPUs or run jobs that could be run on smaller machines. Clean up old experiments and datasets you no longer need regularly. If you’re unsure whether a job or set of jobs you are planning to run is too resource-intensive, ask. Use the #programming channel in Slack for this type of questions.
+>- Compute and storage: Be mindful of shared compute resources. Don’t monopolize GPUs or run jobs that could be run on smaller machines. Clean up old experiments and datasets you no longer need regularly. If you’re unsure whether a job or set of jobs you are planning to run is too resource-intensive, ask. Use the #programming channel in Slack for this type of questions.
 >
 >- File permissions: All files stored on our shared compute and storage allocations must have read access enabled for other team members. This practice ensures reproducibility and continuity when projects are handed off or when colleagues need to build on your work, and also makes it easier to manage our group resources. It is not permitted to store private files in our shared resources.
 
@@ -123,16 +123,17 @@ The above policies pertain to communal lab resources. Individuals with their own
 >
 >In our lab “resources” comprise two main areas: financial resources (e.g. ordering the equipment you need for your project) and access resources (e.g. access to experimental rigs). If you feel that either of these are not being distributed fairly, please raise the issue in your 1-on-1 meeting with Pip, or use the button below.
 >
->#### Financial resources
+>**Financial resources**
+>
 >Pip makes every effort to maximise the financial resources available to the lab, and discusses these at regular [Lab Updates link]. However, irrespective of lab finances, we strive to run the lab responsibly and spend money in accordance with the needs of each project. For more details: [Ordering Link]
 >
->#### Internal Rig Access
+>**Internal Rig Access**
 >
 >Each experimental rig has a dedicated lab outlook calendar, where you can book time on that rig by creating an event. All lab members have access to all calendars. ***Only book rigs if you intend to use them*,** and please alert the lab (via Slack) if you're unable to use a previously booked slot.
 >
 >Rig use varies with experimental need, and sometimes slots need to be booked well in advance. However, it's important that these resources aren't monopolized by any individual for extended periods. At the time of writing, this hasn't been an issue, but please discuss conflicts with Pip as soon as they arise*—ideally before they arise!* When someone has invested significant time building a new rig, they'll receive some priority in using it, but as a collaborative lab, no rig should be used exclusively by one person (if others have an interest in using it).
 >
->#### Shared-Rig Access
+>**Shared-Rig Access**
 >
 >We share communal surgical and histology equipment with other labs in our immediate vicinity (at the time of writing, the O'Keefe, Barry, Linden, Wills, and Burgess Labs). These resources have their own dedicated calendar booking system. With two full surgical suites, there should be sufficient equipment to comfortably support everyone's needs. However, if you believe a group is unfairly monopolizing equipment or facilities, please raise the issue with Pip, who will discuss it with the head of the respective group. Please also do this if someone is not treating the equipment or facilities appropriately and it is impacting your work.
 
@@ -146,7 +147,11 @@ The above policies pertain to communal lab resources. Individuals with their own
 
 >_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
 >
->All research expenses should be covered by lab funds; lab members should not cover any research expenses out of their own pocket. When appropriate, keep Ivry informed of significant research expenses (e.g., high participant payments). B. Each graduate student and post-doc is entitled to one computer purchase during their time at Berkeley. C. Publication costs are covered by the lab.
+>All research expenses should be covered by lab funds; lab members should not cover any research expenses out of their own pocket. When appropriate, keep Ivry informed of significant research expenses (e.g., high participant payments).
+>
+>B. Each graduate student and post-doc is entitled to one computer purchase during their time at Berkeley.
+>
+>C. Publication costs are covered by the lab.
 
 >_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
 >

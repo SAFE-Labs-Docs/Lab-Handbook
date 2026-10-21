@@ -122,13 +122,13 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >- 完成参数优化/校准。
 >- 日尺度径流结果需满足 NSE > 0.36，PBIAS &lt; 10%。
 >- 提交一份 PDF 格式的报告，包含以下内容：
->- 流域位置图
->- 流域基本信息分析
->- SHUD 建模结果（输入文件）的基本信息。
->- SHUD 模型径流输出结果
->- 流域出口径流过程线图
->- SHUD 模型参数优化/校准的详细流程描述和结果分析
->- 代码和数据的 GitHub 链接
+>    - 流域位置图
+>    - 流域基本信息分析
+>    - SHUD 建模结果（输入文件）的基本信息。
+>    - SHUD 模型径流输出结果
+>    - 流域出口径流过程线图
+>    - SHUD 模型参数优化/校准的详细流程描述和结果分析
+>    - 代码和数据的 GitHub 链接
 >
 >_English translation:_
 >
@@ -143,13 +143,13 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >- Complete parameter optimisation/calibration.
 >- The daily runoff results must satisfy NSE > 0.36 and PBIAS &lt; 10%.
 >- Submit a report in PDF format containing the following:
->- Map of the watershed location
->- Analysis of the basic information of the watershed
->- Basic information on the SHUD modelling results (input files).
->- SHUD model runoff output
->- Hydrograph at the watershed outlet
->- Detailed description of the process and analysis of the results of the SHUD parameter optimisation/calibration
->- GitHub link to the code and data
+>    - Map of the watershed location
+>    - Analysis of the basic information of the watershed
+>    - Basic information on the SHUD modelling results (input files).
+>    - SHUD model runoff output
+>    - Hydrograph at the watershed outlet
+>    - Detailed description of the process and analysis of the results of the SHUD parameter optimisation/calibration
+>    - GitHub link to the code and data
 
 ### Denmark
 >_[NERDS-ITU_2026](https://github.com/NERDSITU/research-resources/blob/main/phdreading.md)_:
@@ -173,7 +173,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 ### Germany
 >_[AppliedMediaSystemsTUIlmenau_2026](https://github.com/TUIlmenauAMS/AppliedMediaSystems_Onboarding/blob/main/Applied%20Media%20Systems%20Group%20%E2%80%93%20Onboarding%20Guide%20for%20New%20Teaching%20and%20Research%20Assistants.md)_:
 >
->## Week 1 – Infrastructure and Orientation
+>**Week 1 – Infrastructure and Orientation**
 >
 >- TU Ilmenau login
 >- e-mail
@@ -190,7 +190,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >
 >---
 >
->## Week 2 – Course Preparation
+>**Week 2 – Course Preparation**
 >
 >For each assigned course:
 >
@@ -207,7 +207,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >
 >---
 >
->## Week 3 – Research Orientation
+>**Week 3 – Research Orientation**
 >
 >Read selected papers from the group:
 >
@@ -224,7 +224,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >
 >---
 >
->## Week 4 – Teaching Rehearsal
+>**Week 4 – Teaching Rehearsal**
 >
 >Prepare a short mock seminar.
 >
@@ -323,7 +323,9 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >
 >_English translation:_
 >
->Once you have decided to enrol at our university, you will take lessons with a Japanese student before you begin as a research student (a non-degree pre-enrolment status common at Japanese universities). The lessons use a Japanese sociology textbook that I assign, and they are free of charge. First, you will summarise in Japanese the key terms that appear in the textbook, explaining what each term means and giving examples you have thought of yourself. Each time you complete a chapter, you will send your summary to me by email. I will point out anything inaccurate in the content or in your Japanese, and you will revise and resubmit it. If some points still need correcting after that, I will show you a model answer. After you arrive in Japan as a research student, you will attend a range of sociology lectures and seminars in the faculty, and you will work on further assignments using the textbook you read before enrolling. During this period, you can also receive guidance and advice from a Japanese student tutor for up to 40 hours.
+>Once you have decided to enrol at our university, you will take lessons with a Japanese student before you begin as a research student (a non-degree pre-enrolment status common at Japanese universities). The lessons use a Japanese sociology textbook that I assign, and they are free of charge. First, you will summarise in Japanese the key terms that appear in the textbook, explaining what each term means and giving examples you have thought of yourself. Each time you complete a chapter, you will send your summary to me by email. I will point out anything inaccurate in the content or in your Japanese, and you will revise and resubmit it. If some points still need correcting after that, I will show you a model answer.
+>
+>After you arrive in Japan as a research student, you will attend a range of sociology lectures and seminars in the faculty, and you will work on further assignments using the textbook you read before enrolling. During this period, you can also receive guidance and advice from a Japanese student tutor for up to 40 hours.
 
 >_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
 >
@@ -403,7 +405,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 
 >_[ComputationalLightLaboratory_2026](https://complightlab.com/documentation/getting_started/)_:
 >
->Make sure to meet other members. Send emails! They are listed on this website. Ask about their experiences and thoughts. Explore what they are conducting in their research.
+>- Make sure to meet other members. Send emails! They are listed on this website. Ask about their experiences and thoughts. Explore what they are conducting in their research.
 >- Make sure to discuss with Kaan Akşit to see how you can contribute to Odak in the near future.
 >- Do you know what you will be focusing on? Do you know what projects are carried out in the team? Are you up-to-date with what the team has achieved recently?
 >- Are you listed as a member in the GitHub organization? In that organization which team do you belong to? Reach out to Kaan and ask, kaanaksit@kaanaksit.com.
@@ -436,7 +438,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >- Sign a contract/enroll
 >- Get added to payroll
 >- Schedule weekly One-on-One meeting with Pip
- >   - Make sure you have your own notion page
+>    - Make sure you have your own notion page
 >- Create your own lab notebook in the lab repo
 >- Get your UCL ID, email and access card
 >- Add you information to the Lab Members database
@@ -445,13 +447,13 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >    - Get an induction to the BSU and complete schedule 1 training
 >- Fire and health and safety inductions
 >- Get added to:
- >   - The Lab Calendar
- >   - Mailing list (which gives access to OneDrive, order sheets, etc.)
- >   - The lab Splitwise
- >   - Lab slack (and change your image from the default!)
- >   - Anat4 slack (and change your image from the default!)
- >   - Lab notion—if you can see this, you are added already ;)
- >  - Lab Fusion 360 workspace for CAD modelling.
+>    - The Lab Calendar
+>    - Mailing list (which gives access to OneDrive, order sheets, etc.)
+>    - The lab Splitwise
+>    - Lab slack (and change your image from the default!)
+>    - Anat4 slack (and change your image from the default!)
+>    - Lab notion—if you can see this, you are added already ;)
+>    - Lab Fusion 360 workspace for CAD modelling.
 >- Set up a health test with occupational-health-services (required for access to BSU)
 >- Get an account on the Lab Server and make sure you can login.
 >- Complete all online mandatory courses
@@ -524,7 +526,8 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
->(Mentor) Train the student on relevant skills needed. This is the upfront time cost from the mentor. Do a good and thorough job here, and you’ll be saving time later.  (Mentor) Introduce the student to everyone in the lab as soon as possible. Have each person give a brief overview of what they are working on. Even better, set up scheduled meetings (they can be as short as 10 minutes) between the student and everyone in the lab so they can introduce themselves and explain what they work on. By the end of the second week, they should know everyone.
+>- (Mentor) Train the student on relevant skills needed. This is the upfront time cost from the mentor. Do a good and thorough job here, and you’ll be saving time later.
+>- (Mentor) Introduce the student to everyone in the lab as soon as possible. Have each person give a brief overview of what they are working on. Even better, set up scheduled meetings (they can be as short as 10 minutes) between the student and everyone in the lab so they can introduce themselves and explain what they work on. By the end of the second week, they should know everyone.
 
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd)_:
 >
@@ -538,8 +541,8 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >1. Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
 >1. Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have webpage, they can help you make a page on our website.
 >1. Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
-
-_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/onboarding.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[RIPLRT_2026](https://doi.org/10.5281/zenodo.23146333)_:
 >

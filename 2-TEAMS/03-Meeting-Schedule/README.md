@@ -211,14 +211,21 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >_English translation:_
 >
->How group meetings are organised: - Held regularly: once a week, to keep the activity continuous and regular. - Rotating chair: members take turns chairing the meeting, responsible for setting the agenda, inviting speakers and running the discussion. - Attendance: all team members, including teachers, students and research assistants, need to attend. Each week one member gives the main talk, and next week's speaker chairs this week's meeting. - Reports and discussion: meetings can include reports and discussion of research results, or invited talks by internal or external experts, to deepen understanding of the field and give members a platform to share research ideas and methods. - Problems and solutions: meetings can have members share problems they met and how they solved them, to encourage exchange and cooperation and to solve difficulties in projects.
+>How group meetings are organised:
+>
+>- Held regularly: once a week, to keep the activity continuous and regular.
+>- Rotating chair: members take turns chairing the meeting, responsible for setting the agenda, inviting speakers and running the discussion.
+>- Attendance: all team members, including teachers, students and research assistants, need to attend. Each week one member gives the main talk, and next week's speaker chairs this week's meeting.
+>- Reports and discussion: meetings can include reports and discussion of research results, or invited talks by internal or external experts, to deepen understanding of the field and give members a platform to share research ideas and methods.
+>- Problems and solutions: meetings can have members share problems they met and how they solved them, to encourage exchange and cooperation and to solve difficulties in projects.
 
 ### Denmark
 >_[PANLab_2026](https://mbg.au.dk/fileadmin/site_files/mb/gruppeledere/peter_refsing_andersen/PAN_Lab_manual_2022_Nov.pdf)_:
 >
 >Weekly 1-on-1 meetings of 15-60 minutes as needed. This is for in-depth feedback and discuss results and future plans. If you send me a brief meeting agenda ahead the meeting, I will do my best to prepare accordingly.
->• If my door is open (which it mostly is), feel free to come discuss/ask whatever needed. It is often much better to get the quick input in the moment than waiting for the weekly meeting.
->• Half-year meetings: every half year we have a meeting of whatever length needed, where we step back and talk about the bigger picture of your PhD. Not about data and experiments, but about your career track/wellbeing/plans/etc. This is a chance to identify/make needed corrections to the track of your education and our work together.
+>
+>- If my door is open (which it mostly is), feel free to come discuss/ask whatever needed. It is often much better to get the quick input in the moment than waiting for the weekly meeting.
+>- Half-year meetings: every half year we have a meeting of whatever length needed, where we step back and talk about the bigger picture of your PhD. Not about data and experiments, but about your career track/wellbeing/plans/etc. This is a chance to identify/make needed corrections to the track of your education and our work together.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -307,13 +314,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >We have three types of regular meetings:
 >
 >Lab Meetings (Tuesdays, 9:30 – 11:30):
->These meetings are mandatory and must be attended in person unless otherwise arranged with the PI. Meetings typically last up to two hours. >The format alternates weekly: every two weeks we hold a data/journal club with a designated main presenter, and on alternate weeks we >conduct general lab meetings and data clubs. To promote broad engagement, scientific discussion, and collaborative opportunities, the lab meeting is jointly organized with another research group working on related topics.
+>These meetings are mandatory and must be attended in person unless otherwise arranged with the PI. Meetings typically last up to two hours. The format alternates weekly: every two weeks we hold a data/journal club with a designated main presenter, and on alternate weeks we conduct general lab meetings and data clubs. To promote broad engagement, scientific discussion, and collaborative opportunities, the lab meeting is jointly organized with another research group working on related topics.
 >
 >1-on-1 Meetings:
->The PI holds regular one-on-one meetings with each lab member. PhD students, postdocs, and research assistants typically meet weekly (or as >needed, depending on project progress). Master's students and interns generally meet biweekly, with the frequency adjusted based on the >level of supervision provided by PhD students or postdocs.
+>The PI holds regular one-on-one meetings with each lab member. PhD students, postdocs, and research assistants typically meet weekly (or as needed, depending on project progress). Master's students and interns generally meet biweekly, with the frequency adjusted based on the level of supervision provided by PhD students or postdocs.
 >
 >Topic Meetings (Fridays, 10:00 – 11:00):
->Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing >on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
+>Every Friday, we meet for breakfast while each lab member, including the PI, presents a scientific paper in a 10-minute summary, focusing on key findings and techniques. All presented papers are collected and archived along with brief summaries for future reference.
 
 >_[RossiLab_2025](https://rossilab.iit.it/home)_:
 >
@@ -528,16 +535,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >The whole group meets once a week. Each meeting has two parts:
 >
->1. **A short update from every member**, about five minutes each: what you did
->   this week, what worked, what didn't, what you are doing next.
->2. **One longer presentation** by a single member on the status of their
->   project. The long slot follows a rota, so everyone knows well in advance when
->   their turn is. It is sometimes replaced by a journal club.
+>1. **A short update from every member**, about five minutes each: what you did this week, what worked, what didn't, what you are doing next.
+>2. **One longer presentation** by a single member on the status of their project. The long slot follows a rota, so everyone knows well in advance when their turn is. It is sometimes replaced by a journal club.
 >
->**What the group meeting is for:** visibility. Everyone should have a rough idea
->of what everyone else is doing, so that you know who to ask when you hit a
->problem someone else has already solved, and so that the group spots overlaps
->and connections between projects.
+>**What the group meeting is for:** visibility. Everyone should have a rough idea of what everyone else is doing, so that you know who to ask when you hit a problem someone else has already solved, and so that the group spots overlaps and connections between projects.
 
 ### Sweden
 
@@ -556,10 +557,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
->Notice that there are different kinds
->of meetings with different modalities and goals. For instance, if we are collaborating closely, we will have regular one-on-one meetings. These meetings are time that belongs to you, and you can fill it with anything that comes to your mind. I might have some
->direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to
->help you get unstuck.
+>Notice that there are different kinds of meetings with different modalities and goals. For instance, if we are collaborating closely, we will have regular one-on-one meetings. These meetings are time that belongs to you, and you can fill it with anything that comes to your mind. I might have some direct questions about checking in with you, but apart from that, you fully control the flow of these meetings; indeed, you can and should feel free to ask me anything. The primary purpose of these meetings, next to being able to see each other on a regular basis, is for me to help you get unstuck.
 
 ### Taiwan
 >_[LienLab_2026](https://lien.lab.nycu.edu.tw:8081/index.files/Page9931.htm)_:
@@ -638,7 +636,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Outside of this, Steve's door is always open and he is keen for people to drop by to chat.
 >
->### Other meetings
+>**Other meetings**
 >
 >The ICN hosts weekly seminars during term time at 315pm on Mondays in B01. These speakers cover the full range of cognitive neuroscience and ICN GLs rotate responsibility for inviting and hosting the speakers. If there are speakers you would be keen to invite, please let Steve know.
 >
@@ -747,10 +745,15 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[AllisonAdolescentResearchLab_2026](https://www.med.unc.edu/pediatrics/adolresearch/wp-content/uploads/sites/1448/2025/10/Allison-Adolescent_Research_Lab_Manual.docx)_:
 >
 >3.3.1. Lab or Team Meetings
+>
 >One hour weekly virtual lab meetings provide space for 1) sharing progress, 2) getting feedback on lab procedures, data collection or analysis, presentations, or manuscripts, and 3) any other lab business. These will be scheduled with a recurring calendar hold and Zoom link at the beginning of each semester to account for changing schedules with courses and other responsibilities. Punctuality is expected for meetings and lab activities. Please notify me if you will be late or unable to attend. Our research coordinator or I will send an agenda 24 hours in advance using a live link with responsibility assigned to the team member leading that portion of the meeting. We expect that lab members will add additional items that need to be discussed during the meeting. We will also have one in-person gathering, at the end of the Fall semester and at the end of the Spring semester at a time that works best for the majority of team members. Because these are unique opportunities to meet and spend time in person, I expect lab members to make an effort to be there.
+>
 >3.3.2. One-on-One Individual Meetings
+>
 >I will meet with each lab member regularly (weekly to biweekly) for at least 30 minutes. When we begin working together, let’s set up a time for a scheduled recurring meeting. These meetings are to discuss your personal progress and any challenges you’re having with the research or in the lab, your professional development and goals, and any personal factors that might be impeding your progress.
+>
 >3.3.3. As-Needed Meetings
+>
 >Though we try to limit additional meetings, sometimes they may be necessary if we are in certain phases of projects (e.g., launching a new project, or discussing data interpretation).
 
 >_[AlyLab_2026](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)_:
@@ -785,10 +788,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/how-we-work.html)_:
 >
->Every sixth or seventh week, if not presenting some nascent or ancillary project myself, I will suggest some papers to read critically or discuss as a lab.
->I'll pick those papers at least a week in advance.
->Everyone is expected to show up having read and critically thought about the papers.
->Additionally, you might want to request people read a particularly important paper for a project-focused lab meeting.
+>Every sixth or seventh week, if not presenting some nascent or ancillary project myself, I will suggest some papers to read critically or discuss as a lab. I'll pick those papers at least a week in advance. Everyone is expected to show up having read and critically thought about the papers. Additionally, you might want to request people read a particularly important paper for a project-focused lab meeting.
 >
 >You're welcome to schedule additional meetings to discuss papers, give practice talks, etc., at any time yourself.
 
@@ -798,33 +798,19 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >During lab meetings we typically focus on things that project teams want input on beyond their immediate group. We also use lab meetings to discuss logistics, give feedback on upcoming talks or poster presentations, and/or share project updates that might be of interest beyond one project team. Generally we spend most of the time going around the room and having each person give a brief informal update about something they are working on, planning to work on, or thinking about.
 >
->- Project meetings. Many of our collaborative
-> projects involve regular coordination within the lab and/or with external collaborators.
-> Attendees: all project team members and any other interested active
-> lab members.
+>- Project meetings. Many of our collaborative projects involve regular coordination within the lab and/or with external collaborators. Attendees: all project team members and any other interested active lab members.
 >
->- One-on-one meetings. Jeremy holds regular
-> one-on-one meetings with lab members who request them. These
-> are scheduled as part of the term scheduling process (below)
-> and typically take place in Moore 349 or on Zoom.
+>- One-on-one meetings. Jeremy holds regular one-on-one meetings with lab members who request them. These are scheduled as part of the term scheduling process (below) and typically take place in Moore 349 or on Zoom.
 >
->- Term scheduling process. Prior to the start of
-> each term, Jeremy will post a scheduling survey on Slack.
-> All active lab members are expected to:
+>- Term scheduling process. Prior to the start of each term, Jeremy will post a scheduling survey on Slack. All active lab members are expected to:
 >
 >- Fill out their weekly availability for the upcoming term.
 >
 >- Indicate which project meetings they plan to attend.
 >
->- Indicate whether they would like to schedule regular
-> one-on-one meetings with Jeremy, and if so, specify
-> the preferred frequency (weekly or biweekly) and duration.
+>- Indicate whether they would like to schedule regular one-on-one meetings with Jeremy, and if so, specify the preferred frequency (weekly or biweekly) and duration.
 >
->Based on the collected responses, Jeremy will run a scheduling
-> algorithm to find optimal meeting times for lab meetings, project
-> meetings, and one-on-one meetings. The finalized schedule is posted
-> and pinned to the #general Slack channel and added to the
-> CDL Google Calendar.
+>Based on the collected responses, Jeremy will run a scheduling algorithm to find optimal meeting times for lab meetings, project meetings, and one-on-one meetings. The finalized schedule is posted and pinned to the #general Slack channel and added to the CDL Google Calendar.
 
 >_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/resources/recurring-activities)_:
 >
@@ -842,33 +828,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[DevPsyLab_2026](https://devpsylab.github.io/LabWiki/expectations-gradStudent.html)_:
 >
->One-on-one meetings are 45-min, weekly meetings between each trainee and me.
->You can also schedule one-off one-on-one meetings with me.
->When scheduling your one-on-one and other meetings, send all of your available times (between 9am and 5pm), not just your preferred times!
->You may indicate which of your available times are preferred or less preferred.
->One-on-one meetings are designed for us to discuss any training and research-related issues in detail and to form plans for the near future, in addition to any challenges.
->Make sure that you also use this time to communicate new ideas that you have about your work and challenges that you are facing.
->Remember: I cannot address or advise about issues that you do not bring to my attention.
->I expect trainees to attend all their one-on-one meetings.
->I understand that sometimes there is nothing to report, so occasional cancellation is fine.
->That said, note that even if you have nothing to report, sometimes having the meeting can still be advantageous and it may be worth our time to still check in.
->Do not cancel meetings with me if you feel that you have not made adequate progress on your research; these might be the most critical times to meet with a mentor.
+>One-on-one meetings are 45-min, weekly meetings between each trainee and me. You can also schedule one-off one-on-one meetings with me. When scheduling your one-on-one and other meetings, send all of your available times (between 9am and 5pm), not just your preferred times! You may indicate which of your available times are preferred or less preferred. One-on-one meetings are designed for us to discuss any training and research-related issues in detail and to form plans for the near future, in addition to any challenges. Make sure that you also use this time to communicate new ideas that you have about your work and challenges that you are facing. Remember: I cannot address or advise about issues that you do not bring to my attention. I expect trainees to attend all their one-on-one meetings. I understand that sometimes there is nothing to report, so occasional cancellation is fine. That said, note that even if you have nothing to report, sometimes having the meeting can still be advantageous and it may be worth our time to still check in. Do not cancel meetings with me if you feel that you have not made adequate progress on your research; these might be the most critical times to meet with a mentor.
 
 >_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
 >
->I meet with postdocs and graduate students individually once every two weeks
-> for check-ins (if this is not sufficient, additional meetings are scheduled on an
-> as-needed basis). I meet with full-time
-> RAs/post-bacs as
-> a group
-> every
-> two weeks. I meet with undergraduates on an as-needed basis. In addition to these
-> check-in meetings, I meet with different sets of labbies regularly about various
-> ongoing projects. In general, in spite of the many
-> demands
-> on my time,
-> I
-> will always make time to meet with you.
+>I meet with postdocs and graduate students individually once every two weeks for check-ins (if this is not sufficient, additional meetings are scheduled on an as-needed basis). I meet with full-time RAs/post-bacs as a group every two weeks. I meet with undergraduates on an as-needed basis. In addition to these check-in meetings, I meet with different sets of labbies regularly about various ongoing projects. In general, in spite of the many demands on my time, I will always make time to meet with you.
 
 >_[HealthPolicyDataScienceLab_2026](https://stanfordhpds.github.io/lab_manual/chapters/02-policies.html)_:
 >
@@ -902,16 +866,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/J-Group_Meeting)_:
 >
->Science Meeting
->- 2 people, 1 hr each (40 min + questions), every 2 weeks
->- Every person in the group will present ~5-6 times per year
->- Scheduling of the next meeting decided at the start of each meeting, by looking at the group calendar.
->- The research meeting is devoted 100% to group research presentations
->- Attendance is Mandatory. Notify Jose in advance if you can't make it or have to arrive late or leave early.
+>- Science Meeting
+>    - 2 people, 1 hr each (40 min + questions), every 2 weeks
+>        - Every person in the group will present ~5-6 times per year
+>    - Scheduling of the next meeting decided at the start of each meeting, by looking at the group calendar.
+>    - The research meeting is devoted 100% to group research presentations
+>    - Attendance is Mandatory. Notify Jose in advance if you can't make it or have to arrive late or leave early.
 >- Business Meeting
->- 1 hr brown bag lunch in a meeting room, every 3 weeks
->- Business items, Journal Club
->- Attendance is Mandatory. Notify Jose in advance if you can't make it or have to arrive late or leave early.
+>    - 1 hr brown bag lunch in a meeting room, every 3 weeks
+>    - Business items, Journal Club
+>    - Attendance is Mandatory. Notify Jose in advance if you can't make it or have to arrive late or leave early.
 >- Grp Lunch every Thu @ 1pm in Atrium (optional)
 >- Student + Jose lunch, every 3 weeks
 >- Postdocs + Research Scientists + Jose lunch, every 3 weeks
@@ -943,7 +907,8 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[LowePowerLab_2026](https://github.com/lowepowerlab/lab_handbook/blob/master/README.md)_:
 >
->### **Regular lab meetings**
+>**Regular lab meetings**
+>
 >1 hr - 90 min. [Link to Schedule](https://docs.google.com/document/d/1r4dQMmJVQT0ifgr75uaU7AIduoW6Vhva2ubeLwG4OtY/edit#)
 >
 >**Attendance** *Please show up by the start of the meeting*. If you are running behind, tell a labmate or post on Slack so we know that we can start without you. Attendance and participation is expected of full-time personnel and encouraged for undergraduates. (Obviously illnesses, doctor appointment, family issues, travel are valid reasons for missing a meeting). We will try to have lab meetings on Tues, Weds, or Thurs to provide flexibility for occasional long weekends. However, teaching/class schedules may coerce us onto M/F for some quarters, so try not to travel during lab meetings.
@@ -981,7 +946,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
 >
->Undergraduates and high school students will meet with Dr. Kat for 15 minutes every other week. This can be increased as needed, or you can schedule an appointment for a longer discussion as needed. You are highly encouraged to meet more frequently with your direct mentor in the lab
+>- Undergraduates and high school students will meet with Dr. Kat for 15 minutes every other week. This can be increased as needed, or you can schedule an appointment for a longer discussion as needed. You are highly encouraged to meet more frequently with your direct mentor in the lab
 >- Graduate students, postdoctoral fellows, and technicians will meet with Dr. Kat for 30 minutes every week. This can be increased as needed, or you can schedule an appointment for a longer discussion as needed
 >- Available for drop-ins and appointments for other discussions.
 
@@ -1009,8 +974,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b680639ce4eaa7e6939670)_:
 >
 >Lab meetings (~1 hour) are scheduled at the same time every week during the semester and are held in person in Lutz 440. Lab meetings are usually the only time all of us are gathered in person, so it’s our weekly chance to connect with and learn from each other—and grow as a lab community.
->    Any lab member can set the agenda, but every meeting needs an agenda. Typically, the person who sets the agenda will run the meeting, but they can also invite a guest speaker based on a topic of their choosing. Leading is like being the moderator in a conference talk. You don’t have to create content, but you’re in charge of making sure the meeting is instructive. Meeting agendas should be posted on Notion at least 5 days ahead of the meeting time so lab members can prepare appropriately.
->    Lab meetings follow a rotating list of topics based on a monthly schedule, starting from the first week of the month: Journal Club, Didactics, Project Discussion, and remaining weeks are “Wild Cards.” Lab members take turns to choose topics so that everyone has a chance to lead a meeting.
+>
+>Any lab member can set the agenda, but every meeting needs an agenda. Typically, the person who sets the agenda will run the meeting, but they can also invite a guest speaker based on a topic of their choosing. Leading is like being the moderator in a conference talk. You don’t have to create content, but you’re in charge of making sure the meeting is instructive. Meeting agendas should be posted on Notion at least 5 days ahead of the meeting time so lab members can prepare appropriately.
+>
+>Lab meetings follow a rotating list of topics based on a monthly schedule, starting from the first week of the month: Journal Club, Didactics, Project Discussion, and remaining weeks are “Wild Cards.” Lab members take turns to choose topics so that everyone has a chance to lead a meeting.
 
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/environment/expectations.html)_:
 >
@@ -1103,8 +1070,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
->Typically each week, there will be a one-on-one meeting with Josh that is scheduled to run for
->30 minutes (though usually takes less time). This is an opportunity to regularly update Josh on your research outside of group presentations (more to follow on that!), address any questions or concerns you have regarding your research, and keep track of your own progress as you are going along in your PhD. To prepare for this meeting, upload a word document (in your folder in the Box folder for weekly updates) listing your goals for the past week, what you’ve actually done (goals accomplished, in progress, what went wrong, etc), and what your new goals are for the next week. You are strongly encouraged to include items like data figures, synthetic schemes, and other visual aids. Remember that Josh is trying to keep track of ~10 student projects, so it is your responsibility to frame your work for the week in the context of your long- and short-term goals. Don’t assume that he remembers the details of a plot you showed him two weeks ago – repeat data if necessary to give the proper context. You should upload this document even if Josh is traveling/out sick/etc so that he can still keep up with what you’re doing.
+>Typically each week, there will be a one-on-one meeting with Josh that is scheduled to run for 30 minutes (though usually takes less time). This is an opportunity to regularly update Josh on your research outside of group presentations (more to follow on that!), address any questions or concerns you have regarding your research, and keep track of your own progress as you are going along in your PhD. To prepare for this meeting, upload a word document (in your folder in the Box folder for weekly updates) listing your goals for the past week, what you’ve actually done (goals accomplished, in progress, what went wrong, etc), and what your new goals are for the next week. You are strongly encouraged to include items like data figures, synthetic schemes, and other visual aids. Remember that Josh is trying to keep track of ~10 student projects, so it is your responsibility to frame your work for the week in the context of your long- and short-term goals. Don’t assume that he remembers the details of a plot you showed him two weeks ago – repeat data if necessary to give the proper context. You should upload this document even if Josh is traveling/out sick/etc so that he can still keep up with what you’re doing.
 
 >_[WebbGroup_2026](https://github.com/webbtheosim/group-manual/blob/main/docs/source/GROUP/content.ipynb)_:
 >
@@ -1114,7 +1080,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/lab-meetings/)_:
 >
->### Problem-Solving Sessions
+>**Problem-Solving Sessions**
 >
 >* Purpose: To get feedback from the lab to address issues that are limiting progress. This could be getting feedback on statistical approaches, data collection issues, interpretation of results, computational challenges, or other activities. This is your chance to leverage the lab's collective knowledge to address challenges you are facing.
 >* Format: A presentation that presents a single focal issue that the leader needs feedback on. The presentation should be focused and no longer than 15 minutes (5 minutes of background, 5 minutes explaining the problem, 1-3 explicit questions - i.e., not 'what do you think?' - that you are asking the group).
@@ -1125,20 +1091,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[ZETAResearchGroup_2026](https://github.com/pzivich/LabGroupMaterials/blob/main/README.md)_:
 >
->The main way we will meet is through a weekly research group meetings. Group meetings are a 2-hour meeting. All
->students under my direct supervision are expected to attend that occurs weekly during the Fall and Spring semesters.
->The general structure of these meetings is:
+>The main way we will meet is through a weekly research group meetings. Group meetings are a 2-hour meeting. All students under my direct supervision are expected to attend that occurs weekly during the Fall and Spring semesters. The general structure of these meetings is:
+>
 >- Good new updates
 >- 5 minutes for continuing education piece (relevant slides live in `presentations/`)
 >- 5 minutes for each attendee to briefly state what they would like to discuss that week (to help me triage)
 >- The remaining times is for individual-specific discussion
 >
->You may need additional time for an individual meeting beyond the research group meeting. If you need additional time,
->I expect you to reach out to me. *Please email me to schedule an individual meeting time as needed*.
+>You may need additional time for an individual meeting beyond the research group meeting. If you need additional time, I expect you to reach out to me. *Please email me to schedule an individual meeting time as needed*.
 >
->Occasionally we might modify the structure to discuss a paper we have collectively read or allot for time from a guest
->attendee. These lab meetings can also be used to talk about methods, statistical analyses, new papers, and career
->development. If you would like to suggest a reading, please email me or bring up the suggested reading during a meeting.
+>Occasionally we might modify the structure to discuss a paper we have collectively read or allot for time from a guest attendee. These lab meetings can also be used to talk about methods, statistical analyses, new papers, and career development. If you would like to suggest a reading, please email me or bring up the suggested reading during a meeting.
 >
 >An idea behind the choice of group meetings is to provide opportunities for peer-mentorship and feedback.
 
@@ -1149,10 +1111,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Everyone will iteratively present their reserach project progresses at lab meeting.
 >- Please contact Prof. Zhang in advance if someone is not able to attend due to research business like attending conference or training, etc.
 >
->#### Journal club
->Fan will select a paper that is relevant to our lab's interests and cutting-edge.
->Each lab member will select 1 or 2 figures to present, and lead the discussions.
->Let's focus on 5 aspects of this paper through discussions:
+>**Journal club**
+>
+>Fan will select a paper that is relevant to our lab's interests and cutting-edge. Each lab member will select 1 or 2 figures to present, and lead the discussions. Let's focus on 5 aspects of this paper through discussions:
+>
 >- Motivation: why? a needed tool, a knowledge gap, etc?
 >- Novelty of methodology: computational biology and machine learning
 >- Significant scientific results: systems biology interpretation

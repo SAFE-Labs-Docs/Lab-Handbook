@@ -31,11 +31,12 @@ Lab members are often considering academia as a potential career. It informs tha
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Several mechanisms are in place to update all team members on lab management issues (responsibilities of lab managers, funding situation, costs etc.):
->Biweekly lab meetings: The PI presents at the biweekly lab meetings. Often, these presentations will be about lab management related aspects.
->Lab costs and funding are documented in detail and accessible to all lab members. Like this, everyone can get an idea of what “stuff costs” and what the funding situation of the lab is.
->Grant applications are shared and, if adequate, lab members contribute to writing, budgeting etc. 
->Postdocs who aim to leave soon will have dedicated meetings with the PI to discuss relevant aspects to lab management.
->The PI participates often in informal lunches, coffee breaks or other opportunities to ask and discuss about lab management topics.
+>
+>- Biweekly lab meetings: The PI presents at the biweekly lab meetings. Often, these presentations will be about lab management related aspects.
+>- Lab costs and funding are documented in detail and accessible to all lab members. Like this, everyone can get an idea of what “stuff costs” and what the funding situation of the lab is.
+>- Grant applications are shared and, if adequate, lab members contribute to writing, budgeting etc. 
+>- Postdocs who aim to leave soon will have dedicated meetings with the PI to discuss relevant aspects to lab management.
+>- The PI participates often in informal lunches, coffee breaks or other opportunities to ask and discuss about lab management topics.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
@@ -83,9 +84,7 @@ Lab members are often considering academia as a potential career. It informs tha
 
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/so-you-wanna.html)_:
 >
->We keep copies of funded and unfunded grants in the "Grant proposals" project on Asana.
->Assume these grants are confidential and do not share them outside the lab.
->Feel free to ask me about them if you have questions, and if you write a fellowship proposal, please add your submitted proposal (excluding the budget) to the project.
+>We keep copies of funded and unfunded grants in the "Grant proposals" project on Asana. Assume these grants are confidential and do not share them outside the lab. Feel free to ask me about them if you have questions, and if you write a fellowship proposal, please add your submitted proposal (excluding the budget) to the project.
 
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/05/Whats-the-point-of-lab-meeting.pdf)_:
 >

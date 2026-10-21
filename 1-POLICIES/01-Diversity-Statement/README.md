@@ -59,6 +59,7 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >_[GalupaLab_2025](https://www.galupalab.org/)_:
 >
 >I am committed to equality, diversity and inclusion principles; I am afraid though that diversity statements have been so used and abused that they might end up feeling hollow. Moreover, a diversity statement on its own has limited value unless we actively work to change the structures that have systematically excluded certain groups of people from research. This is hard to do at the level of an individual or even a research team, but you can count on my commitment to do our share. We want to build and develop a lab culture in which each lab member finds in the lab a safe, motivating and inspiring place where to work on their projects and on their career development. This includes, but is not limited to, reducing as much as possible (eliminating, ideally) the obstacles and struggles that different people might face due to their different needs and backgrounds. Please do not hesitate to bring them up with me; "communication" is one of the core values of our lab. I have been part of EDI groups in previous workplaces and I am currently one of the Equality correspondents at the CBI. You can find more relevant information in our Lab Guide's mission and values. 
+>
 >To this end, we strive to cultivate a psychologically safe and inclusive research environment, where everybody can feel enabled to express their talents. To support this, we recruit in accordance with CNRS's equal opportunity policies, we discuss specific working arrangements and needs at onboarding (in accordance with institutional guidelines rules on holidays and different types of leave of absence), and we encourage lab members to share significant cultural events. International lab members receive support to navigate the settlement process.
 
 ### Germany
@@ -171,7 +172,7 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 
 >_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/lab-values.md)_:
 >
->_I will encourage my students to participate in efforts to promote equity and inclusion in the sciences._ This includes, but is not limited to, encouraging them to join UO organizations such as [UOWGS](https://blogs.uoregon.edu/uowgs/) and [CMIS](https://blogs.uoregon.edu/cmis/); supporting their participation in Departmental committees like [CBGReAT](https://blogs.uoregon.edu/cbgreat/) and the Diversity, Equity, and Inclusion Committee; funding travel to meetings and workshops devoted to improved equity and inclusion (e.g. [SACNAS](https://www.sacnas.org/conference), GRC Power Hour); and inviting students to participate in outreach activities such as [Skype a Scientist](https://www.skypeascientist.com/) and [SPICE](https://www.spicescience.org/).
+>+ _I will encourage my students to participate in efforts to promote equity and inclusion in the sciences._ This includes, but is not limited to, encouraging them to join UO organizations such as [UOWGS](https://blogs.uoregon.edu/uowgs/) and [CMIS](https://blogs.uoregon.edu/cmis/); supporting their participation in Departmental committees like [CBGReAT](https://blogs.uoregon.edu/cbgreat/) and the Diversity, Equity, and Inclusion Committee; funding travel to meetings and workshops devoted to improved equity and inclusion (e.g. [SACNAS](https://www.sacnas.org/conference), GRC Power Hour); and inviting students to participate in outreach activities such as [Skype a Scientist](https://www.skypeascientist.com/) and [SPICE](https://www.spicescience.org/).
 >+ _I will make continuing education about racial and other inequities a priority._ We will do so through a quarterly lab meeting devoted to equity and inclusion. I will also continue to educate myself. (Two excellent sets of resources are [here](https://www.nature.com/collections/qsgnpdtgbr) and [here](https://www.bhallalab.com/equity-reading-list).)
 >+ _I will continue my efforts to recruit excellent, diverse undergraduate and graduate students in my lab._
 >+ _I commit to promoting a culture of inclusivity in the lab._ This involves communicating that inclusivity is a priority, keeping my door open for conversation, and being willing to accept feedback and criticism from lab members in this area. This means being intentional about seeking out input and ideas from lab members.
@@ -188,20 +189,22 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
 >
 >To specifically amplify the work of researchers from underrepresented groups, we've committed to
->      - Discussing an article about systemic barriers or racism at least twice a year during lab meetings. Everyone is encouraged to lead a discussion
->      - Engaging in a lab discussion regarding systemic problems within the field of ecology and evolutionary biology or within graduate school (i.e., decolonizing conservation, systemic barriers and racism within the field of ecology, history of racism against BIPOC communities in genomics)
->      - Prioritize the citation of underrepresented authors in our writings
->      - Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
->       - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.
->       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
-
-_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>- Discussing an article about systemic barriers or racism at least twice a year during lab meetings. Everyone is encouraged to lead a discussion
+>- Engaging in a lab discussion regarding systemic problems within the field of ecology and evolutionary biology or within graduate school (i.e., decolonizing conservation, systemic barriers and racism within the field of ecology, history of racism against BIPOC communities in genomics)
+>- Prioritize the citation of underrepresented authors in our writings
+>- Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
+>- Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.
+>- We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
+>
+>_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[POISLab_2026](https://www.notion.so/22a9e68b69b68082a3a2d63a0e36f918)_:
 >
 >The POIS lab takes the stance that diversity, inclusion, and anti-oppression are axiomatically important and lab members are expected to demonstrate their commitment to these values through their language and behaviors. Thus, we are committed to:
->    - Respecting others and all aspects of their identity by being mindful of our language, implicit assumptions, and actions.
->    - Speaking up in response to discriminatory, inappropriate, offensive, or otherwise disparaging statements if doing so does not cause you harm (e.g., due to power differences, emotional burden). Sometimes, self-protection is necessary, and that’s OK. Speaking up does not always equate to confronting; it may entail asking the speaker to clarify their statement or speaking with them separately. Do this in a way that works for you, but doing nothing is taking a stance, and that’s not the side we want to be on if we care about human welfare.
+>
+>- Respecting others and all aspects of their identity by being mindful of our language, implicit assumptions, and actions.
+>- Speaking up in response to discriminatory, inappropriate, offensive, or otherwise disparaging statements if doing so does not cause you harm (e.g., due to power differences, emotional burden). Sometimes, self-protection is necessary, and that’s OK. Speaking up does not always equate to confronting; it may entail asking the speaker to clarify their statement or speaking with them separately. Do this in a way that works for you, but doing nothing is taking a stance, and that’s not the side we want to be on if we care about human welfare.
 
 >_[RobustRoboticsGroup_2026](https://aeroastro.mit.edu/wp-content/uploads/2021/10/AdvisingPhilosophy.Roy_.2021.pdf)_:
 >

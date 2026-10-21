@@ -66,13 +66,13 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 >_[TEE-Lab_2026](https://teelabiisc.wordpress.com/navigating-ug-masters-thesis-successfully/)_:
 >
->Ensure one meeting per week with adviser
+>- Ensure one meeting per week with adviser
 >
 >- Ensure at least one meeting per week with PhD student/postdoc mentor
 >- Record keeping: Use slack Canvas to write weekly updates and message the adviser:
->- Progress over last one week
->- Discussion points in the Meeting
->- Plan for the next week.
+>    - Progress over last one week
+>    - Discussion points in the Meeting
+>    - Plan for the next week.
 
 ### Israel
 
@@ -104,11 +104,8 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/01_arrival_and_routines)_:
 >
->- **The last five minutes produce a to-do list**: what you will do before the
->  next meeting. The PI keeps these lists as a running, dated record, newest
->  first.
->- **The next meeting opens by reading that list back**: what got done, what
->  didn't, and why.
+>- **The last five minutes produce a to-do list**: what you will do before the next meeting. The PI keeps these lists as a running, dated record, newest first.
+>- **The next meeting opens by reading that list back**: what got done, what didn't, and why.
 
 ### Sweden
 
@@ -191,13 +188,13 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >2. Weekly Goal Status: what your weekly goals were from last time, and whether they happened
 >3. Weekly Goals: Goals for the upcoming week
 >4. How Dan can help: What i can do to make weekly goals that were missed, or upcoming ones, happen.
-
-_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
->We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.
->    * By 5pm the night before a feedback session, we ask that you write a brief note describing what you think is going well, how you think you can improve, any questions you have, and any suggestions you have for us. After the session, you will write up some brief notes summarizing the conversation.
+>- We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.
+>    - By 5pm the night before a feedback session, we ask that you write a brief note describing what you think is going well, how you think you can improve, any questions you have, and any suggestions you have for us. After the session, you will write up some brief notes summarizing the conversation.
 
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
 >

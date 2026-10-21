@@ -103,13 +103,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 ### Finland
 >_[CellMigrationLab_2026](https://cellmig.org/join-us/)_:
 >
->Postdocs join us with their own fellowship. We help you choose a scheme, shape the project and write
->the application. The main options are:
+>Postdocs join us with their own fellowship. We help you choose a scheme, shape the project and write the application. The main options are:
 >- Marie Skłodowska-Curie Postdoctoral Fellowships (European Commission)
 >- EMBO Postdoctoral Fellowships
 >- Human Frontier Science Program fellowships
->- Finnish foundations, such as the Sigrid Jusélius Foundation
-> and the Finnish Cultural Foundation
+>- Finnish foundations, such as the Sigrid Jusélius Foundation and the Finnish Cultural Foundation
 
 >_[ExploratoryDataAnalysisGroup_2026](https://www.helsinki.fi/en/researchgroups/exploratory-data-analysis/joining-the-group-and-supervision)_:
 >
@@ -226,9 +224,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
 >
->If I accept you to the lab, that means I commit to funding you. I always encourage
-> students and postdocs to apply to fellowships—those help both me (by lowering the
-> financial burden) and you (by strengthening your CV).
+>If I accept you to the lab, that means I commit to funding you. I always encourage students and postdocs to apply to fellowships—those help both me (by lowering the financial burden) and you (by strengthening your CV).
 
 >_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/FAQ_Prospective)_:
 >

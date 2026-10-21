@@ -56,16 +56,16 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Progress on analyses.
 >- Logs of seminars attended, papers read, or other relevant activities.
 >
->### Digital and Physical Notes
+>**Digital and Physical Notes**
 >
 >- Use markdown-based notes in Obsidian for digital documentation.
 >- Optionally, concatenate markdown notes and print them on sticky paper for inclusion in physical lab notebooks.
 >
->## Shared OneDrive Folder
+>**Shared OneDrive Folder**
 >
 >The official platform for file sharing is the CeMM-provided OneDrive, accessible here: [Shared Documents](https://cemmat.sharepoint.com/sites/rendeirolab/Shared%20Documents).
 >
->### Best Practices
+>**Best Practices**
 >
 >- Update the folder regularly, especially when reaching milestones such as paper submissions, talk presentations, or poster creations.
 >- Organize files in a compartmentalized manner by subject (e.g., figures, presentations, documents, notes).
@@ -115,6 +115,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >Every ongoing research product should have an associated MS Word or Google Doc that is shared with lab members who are involved in that project. At the top of the document, is the internal title for the project, the names of the associated lab members, and links to important documents/folders (Manuscript drafts, data ﬁles, R-code). If you make a change in some code, collect data, edit a document, or do anything else related to a project, please record that information in the Google doc with the date and your initials.
+>
 >How much detail is required in this record? There’s no perfect answer to that question, but the document should be clear enough and detailed enough so that if we revisit the project several years later, we should be able to ﬁnd where the manuscript is, where any relevant code is, and where the data is stored.
 
 >_[SFUGlaciologyGroup_2026](https://www.sfu.ca/~gflowers/SFU_GlaciologyGroup_Expectations.pdf)_:
@@ -317,11 +318,8 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >Some things that make a notebook useful, wherever it lives:
 >
 >- Date every entry. Newest-first keeps the latest state at the top.
->- Record *decisions* and *why*: "Discarded rep3: box too small, protein
->  interacted with its periodic image at 40 ns." This is exactly the information
->  a referee asks for and a successor needs.
->- Record mistakes. A note like "the first 300K set used the wrong salt
->  concentration and was deleted" saves the next person from repeating the mistake.
+>- Record *decisions* and *why*: "Discarded rep3: box too small, protein interacted with its periodic image at 40 ns." This is exactly the information a referee asks for and a successor needs.
+>- Record mistakes. A note like "the first 300K set used the wrong salt concentration and was deleted" saves the next person from repeating the mistake.
 
 ### Sweden
 
@@ -344,7 +342,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >We ask you to record what you did, how you did it, and the outcomes. This includes experiments, analyses, scripts, and major decisions.
 >
->### Notebook structure
+>**Notebook structure**
 >
 >Each project has a dedicated notebook with a standard structure. MS has made it impossible to save notebooks as a file so you must follow the following convoluted procedure to make your own: Open [this example notebook](https://1drv.ms/o/c/698e9eed515b4cdf/Et9MW1Htno4ggGmBAAAAAAABq7g0_OBummuRChpg61eIKg?e=kdgGBx) and go to edit \> in Desktop App. Once the notebook is open there, copy all the sections to your own new OneNote notebook by right-clicking and selecting "Copy Section to…". If you feel this does not meet your needs, agree on the improvements you plan to make with Alexis and customise as needed.
 
@@ -355,20 +353,11 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 
 >_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_:
 >
->All computers should be backed up. A set of two USB hard drives should be used as a daily automated back-up,
-> rotated at regular intervals. Regular backup of important documents (e.g. model set-up files, manuscripts)
-> to the lab group's google drive, the University's google drive or the University servers, preferably
-> via a version control system, e.g. git.
+>All computers should be backed up. A set of two USB hard drives should be used as a daily automated back-up, rotated at regular intervals. Regular backup of important documents (e.g. model set-up files, manuscripts) to the lab group's google drive, the University's google drive or the University servers, preferably via a version control system, e.g. git.
 >
->All data should be placed on an appropriate repository with a DOI and published alongside the manuscript wherever possible.
-> Data includes. Suitable examples of repositories include FigShare and
-> Pangaea. Staff and PhD students must also adhere to the
-> University of
-> York's Research Data Management Policy, which means as well as above, you must add the data to PURE, via the DOI above.
+>All data should be placed on an appropriate repository with a DOI and published alongside the manuscript wherever possible. Data includes. Suitable examples of repositories include FigShare and Pangaea. Staff and PhD students must also adhere to the University of York's Research Data Management Policy, which means as well as above, you must add the data to PURE, via the DOI above.
 >
->All software and scripts should be developed using Git or other suitable code versioning system, ideally in
-> an open online environment, such as GitHub. Group members are free to add repositories to this group's or
-> start their own. Code should be released under a suitable, permissive licence, such as LGPL whenever possible.
+>All software and scripts should be developed using Git or other suitable code versioning system, ideally in an open online environment, such as GitHub. Group members are free to add repositories to this group's or start their own. Code should be released under a suitable, permissive licence, such as LGPL whenever possible.
 
 >_[GrangeLab_2026](https://bookdown.org/JimGrange/lab_manual/science.html)_:
 >
@@ -452,7 +441,8 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- [ ] In a public archive, or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
 >- [ ] Linked and briefly described in the project README
 >
->## Code
+>**Code**
+>
 >Code used or developed in support of the project must be:
 >- [ ] Well commented and complete
 >- [ ] On Github, in the public project repository
@@ -489,10 +479,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
->You should treat GitHub as a digital version of a “lab notebook”
-> that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions,
-> determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your
-> ideas and maintain a continuous traceable log for your project.
+>You should treat GitHub as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project.
 
 >_[DeAngelisLab_2026](https://kristendeangelis.net/expectations/)_:
 >
@@ -522,7 +509,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >If you didn’t document it, it didn’t happen.
 >- In two years, you’ll wish you had written more down.
 >
->#### Guidelines:
+>**Guidelines:**
 >
 >- Legible, in pen. You can either use a normal lab notebook or build a loose-leaf notebook in a binder.
 >- Enter information **directly** into the notebook [no paper towels :)].
@@ -566,11 +553,11 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
->• Lab book entries should be titled using the lab member’s initials followed by a number, e.g., JLP637: Alpha vs Omicron growth curve in PLSCR1 KO Huh-7.5 cells.
->• All related files (e.g., datasets, graphs, images) should begin with the same index (e.g., JLP637_cell_count.xlsx) and be organized in a dedicated directory (e.g., '/Work/Experiments/JLP637').
->• Each lab member’s main Work directory should be automatically backed up to a cloud platform (e.g., Microsoft OneDrive, iCloud, or Dropbox). The department recommends using Microsoft OneDrive and provides all members with a free account.
->• The lab also maintains a Microsoft SharePoint account, which serves as a central cloudbased drive for general shared lab documents. It is accessible through OneDrive and used for materials such as shared scientific resources, meeting slides, onboarding documents, and more. Every new lab member will be shown how to connect to the lab SharePoint during onboarding.
->• Large files (e.g., sequencing or imaging data) should be stored in S-drive as cold storage at '/Volumes/shared/IID-Le Pen Lab/cold_storage' and properly indexed in the lab’s SharePoint at: ' /General/Data archive/Metadata table.xlsx'.
+>- Lab book entries should be titled using the lab member’s initials followed by a number, e.g., JLP637: Alpha vs Omicron growth curve in PLSCR1 KO Huh-7.5 cells.
+>- All related files (e.g., datasets, graphs, images) should begin with the same index (e.g., JLP637_cell_count.xlsx) and be organized in a dedicated directory (e.g., '/Work/Experiments/JLP637').
+>- Each lab member’s main Work directory should be automatically backed up to a cloud platform (e.g., Microsoft OneDrive, iCloud, or Dropbox). The department recommends using Microsoft OneDrive and provides all members with a free account.
+>- The lab also maintains a Microsoft SharePoint account, which serves as a central cloudbased drive for general shared lab documents. It is accessible through OneDrive and used for materials such as shared scientific resources, meeting slides, onboarding documents, and more. Every new lab member will be shown how to connect to the lab SharePoint during onboarding.
+>- Large files (e.g., sequencing or imaging data) should be stored in S-drive as cold storage at '/Volumes/shared/IID-Le Pen Lab/cold_storage' and properly indexed in the lab’s SharePoint at: ' /General/Data archive/Metadata table.xlsx'.
 
 >_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
 >
@@ -618,10 +605,11 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[OlanrewajuLab_2026](https://ayokunle.notion.site/Olanrewaju-Lab-Manual-cdf5d841306e44009fbdc752cf4724f6)_:
 >
 >All lab members are expected to maintain a lab notebook using Benchling. Each experiment should have its own unique entry in Benchling. Each experiment should be named in the following format “YYYY-MM-DD-Brief-Summary-of-Experiment-Purpose” and must have entries on two important tabs:
->Objectives: why was the experiment done?
->Methods: brief overview of key techniques and any deviations from previous experiments. You can link to previous experiments in Benchling using the “@” symbol and search for experiments by title.
->Include screenshots or images of key data here
->Also upload a copy of your raw & analyzed data for the experiment after completion so that it’s linked to the experiment.
+>
+>- Objectives: why was the experiment done?
+>- Methods: brief overview of key techniques and any deviations from previous experiments. You can link to previous experiments in Benchling using the “@” symbol and search for experiments by title.
+>- Include screenshots or images of key data here
+>- Also upload a copy of your raw & analyzed data for the experiment after completion so that it’s linked to the experiment.
 
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
 >
@@ -632,23 +620,26 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >Keep shared lab folders as organized as possible because different people will be accessing those files at different times (even after you leave the lab). For the same reason, include a README.txt in each project folder that includes information on the study, organization scheme of the folder, and links to any other information relevant to the project.
 >
 >Folder Structure
->    Use the following structure (a template folder titled newProject is in Box):
->    - /admin: for IRB-related documents, including approval letter, recruitment materials, and study protocol.
->    - /analysis: for analysis scripts.
->    - /data
->      - /output: for processed data files and statistical output, including visualizations.
->      - /raw: for raw (i.e., unprocessed) data. This is the dataset downloaded directly from the data collection platform and should never be modified directly. Create code for data cleaning for reproducibility.
->    - /materials
->      - /assessment: for self-report measures, diagnostic interviews, and other assessments.
->      - /stimuli: for anything related to conducting (or replicating) the study, including qualitative interview questions, treatment materials, and experimental manipulation.
->    - /refs: for any references or resources related to the project (e.g., articles from literature review).
->    - /writing
->      - /manuscript: for initial drafts of manuscript(s) related to the project.
->      - /submission: for journal submission.
->      - /conference: for conference abstracts, posters, and presentations.
+>
+>Use the following structure (a template folder titled newProject is in Box):
+>
+>- /admin: for IRB-related documents, including approval letter, recruitment materials, and study protocol.
+>- /analysis: for analysis scripts.
+>- /data
+>    - /output: for processed data files and statistical output, including visualizations.
+>    - /raw: for raw (i.e., unprocessed) data. This is the dataset downloaded directly from the data collection platform and should never be modified directly. Create code for data cleaning for reproducibility.
+>- /materials
+>    - /assessment: for self-report measures, diagnostic interviews, and other assessments.
+>    - /stimuli: for anything related to conducting (or replicating) the study, including qualitative interview questions, treatment materials, and experimental manipulation.
+>- /refs: for any references or resources related to the project (e.g., articles from literature review).
+>- /writing
+>    - /manuscript: for initial drafts of manuscript(s) related to the project.
+>    - /submission: for journal submission.
+>    - /conference: for conference abstracts, posters, and presentations.
 >
 >File Naming
->    Use CamelCase and underscores for file naming. Avoid spaces because not all systems read spaces well. In addition, generally, files should use the following format: StudyName_ParticipantID_FileType_Date. That way, we know what study the file is related to, what content it contains, and how recent it is. If you see a file that is named differently, please correct it to this format for consistency and legibility.
+>
+>Use CamelCase and underscores for file naming. Avoid spaces because not all systems read spaces well. In addition, generally, files should use the following format: StudyName_ParticipantID_FileType_Date. That way, we know what study the file is related to, what content it contains, and how recent it is. If you see a file that is named differently, please correct it to this format for consistency and legibility.
 
 >_[RobertsLab_2026](https://robertslab.github.io/resources/Lab-Notebooks/)_:
 >

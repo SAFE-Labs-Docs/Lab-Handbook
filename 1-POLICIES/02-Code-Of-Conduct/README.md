@@ -38,7 +38,7 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >- Everybody makes mistakes, acknowledge them
 >- Try to respond in a constructive way
 >- First try to resolve the issue with the person you have an issue with
->- - If not working or not comfortable, find a mediator to assist (conflict resolution)
+>    - If not working or not comfortable, find a mediator to assist (conflict resolution)
 
 >_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
 >
@@ -46,7 +46,7 @@ All lab members are expected to maintain a professional attitude of integrity, a
 
 >_[McKinneyLab_2026](https://mckinneylab.weebly.com/lab-code-of-conduct.html)_:
 >
->Respect everybody’s time. Be punctual and show up prepared for lab work/office work/meetings
+>- Respect everybody’s time. Be punctual and show up prepared for lab work/office work/meetings
 >- Ensure you keep both your workspace and communal spaces (lab, offices) clean and organized
 >- Keep the environment positive as much as possible
 >- Accept responsibility for mistakes that arise and take action to correct them
@@ -107,7 +107,11 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >
 >_English translation:_
 >
->Code of conduct for the academic advisor: Advisor and student are inherently unequal; the advisor should avoid any request that, because of this inequality, the student could not refuse or would feel awkward refusing. - No discrimination against students: the advisor does not use discriminatory language or actions against students for any reason (including but not limited to gender, place of origin, illness, appearance, major, interests, family background). Respect the student's dignity and personal freedom. - No gifts from students: before graduation, accept no gifts from any student, including but not limited to fruit, flowers, local specialities, cards. Accept no meals from students or their families. - No interference in students' personal lives: the advisor is responsible only for study and research matters; students have the right to arrange their personal lives and protect their privacy.
+>Code of conduct for the academic advisor: Advisor and student are inherently unequal; the advisor should avoid any request that, because of this inequality, the student could not refuse or would feel awkward refusing.
+>
+>- No discrimination against students: the advisor does not use discriminatory language or actions against students for any reason (including but not limited to gender, place of origin, illness, appearance, major, interests, family background). Respect the student's dignity and personal freedom.
+>- No gifts from students: before graduation, accept no gifts from any student, including but not limited to fruit, flowers, local specialities, cards. Accept no meals from students or their families.
+>- No interference in students' personal lives: the advisor is responsible only for study and research matters; students have the right to arrange their personal lives and protect their privacy.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
@@ -117,7 +121,9 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
 >As a research team, we are committed to maintaining a professional, inclusive, and supportive working environment where all members can succeed and contribute meaningfully to science.
+>
 >All lab members are expected to act with integrity, accountability, and mutual respect in all scientific and interpersonal interactions, while upholding high standards of rigor, collaboration, and ethical conduct.
+>
 >We foster a lab culture based on the following principles:
 >- **Honesty**: Be transparent about your work, including insights gained, difficulties encountered, and any mistakes—errors are part of learning and development.
 >- **Respect**: Treat all individuals—colleagues, staff, and visitors—with the same courtesy and dignity. 
@@ -256,50 +262,31 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >
 >Your rights as a lab member
 >
->- You are entitled to a safe work environment free from
-> harassment, abuse, violence, and discrimination in any form.
+>- You are entitled to a safe work environment free from harassment, abuse, violence, and discrimination in any form.
 >
->- You are entitled to be supported and respected by all lab
-> members.
+>- You are entitled to be supported and respected by all lab members.
 >
->- You are entitled to openly share your scientific ideas and
-> constructive feedback with all lab members.
+>- You are entitled to openly share your scientific ideas and constructive feedback with all lab members.
 >
->- You are entitled to appropriate credit (e.g. authorship,
-> acknowledgement, letter of recommendation) for your work and
-> ideas.
+>- You are entitled to appropriate credit (e.g. authorship, acknowledgement, letter of recommendation) for your work and ideas.
 >
 >Your responsibilities as a lab member
 >
->- You agree to contribute to a safe work environment and to refrain
-> from behaviors that harass, abuse, expose to violence, or
-> discriminate.
+>- You agree to contribute to a safe work environment and to refrain from behaviors that harass, abuse, expose to violence, or discriminate.
 >
->- You agree to support and respect all lab members, including
-> yourself.
+>- You agree to support and respect all lab members, including yourself.
 >
->- You agree to openly share your scientific ideas and constructive
-> feedback with other lab members.
+>- You agree to openly share your scientific ideas and constructive feedback with other lab members.
 >
->- You agree to clearly communicate and document your
-> contributions to each research project (e.g. through GitHub
-> commits and issues, reports, updates on Slack, etc.).
+>- You agree to clearly communicate and document your contributions to each research project (e.g. through GitHub commits and issues, reports, updates on Slack, etc.).
 >
->- You agree to establish open lines of communication between
-> yourself and other lab members, and to address concerns or issues
-> promptly and directly with the relevant parties (to the extent
-> that you feel safe doing so).
+>- You agree to establish open lines of communication between yourself and other lab members, and to address concerns or issues promptly and directly with the relevant parties (to the extent that you feel safe doing so).
 >
->- You agree to carry out your work with integrity and diligence,
-> adhering to the highest possible standards of scientific
-> excellence.
+>- You agree to carry out your work with integrity and diligence, adhering to the highest possible standards of scientific excellence.
 >
->- You agree to utilize lab resources (including equipment,
-> money, time, etc.) responsibly and sustainably.
+>- You agree to utilize lab resources (including equipment, money, time, etc.) responsibly and sustainably.
 >
->- You agree to maintain a clean workspace free from clutter,
-> including both personal spaces (e.g. desks) and shared
-> areas (couch, sink, testing rooms, etc.).
+>- You agree to maintain a clean workspace free from clutter, including both personal spaces (e.g. desks) and shared areas (couch, sink, testing rooms, etc.).
 
 >_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
 >
@@ -322,8 +309,8 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >Respect must be shown to all others at all times. The lab will not tolerate hurtful or disrespectful speech or behavior of any kind. No member shall feel harassed because of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
 >
 >Research is an inherently changing process - we are *all* learning at all times. It is the duty of members of the lab of every level to create and maintain a supportive lab and learning culture. All members are expected encourage and entertain questions from anyone, no matter what prior you bring to the question or the person.
-
-_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
 >
@@ -363,7 +350,7 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 
 >_[McMahonLab_2026](https://mcmahonlab.wisc.edu/lab-mission/)_:
 >
->Be engaged and contribute to the broader mission of the lab. This includes paying attention, asking questions, and providing feedback during lab meetings; reading other lab members’ writing; assisting with big field/lab projects that require many hands; sharing (meta)data; and sharing expertise.
+>- Be engaged and contribute to the broader mission of the lab. This includes paying attention, asking questions, and providing feedback during lab meetings; reading other lab members’ writing; assisting with big field/lab projects that require many hands; sharing (meta)data; and sharing expertise.
 >- Prioritize healthy work habits and pursuits outside of your professional life. This includes setting boundaries, taking time off when you need it, developing strategies to avoid burnout, and maintaining connections with your family / community.
 >- Be respectful, welcoming, and mindful of our individualities. This includes personal identities, lived experiences, scientific interests, training backgrounds, and outside interests. We will strive to draw upon our diversity to build our community and improve our science.
 >- Be accountable to others in the group, to yourself, and to your professional network. This includes learning how to manage your time in order to meet deadlines, doing what you say you will do, maintaining organized / reproducible documentation of your work.

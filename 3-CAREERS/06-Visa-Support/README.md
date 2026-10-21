@@ -46,6 +46,7 @@ Visa costs when joining the lab from outside the UK vary by the applicant's citi
 >_[RossiLab_2025](https://rossilab.iit.it/home)_:
 >
 >If you are not Italian or EU citizen, you will likely need a visa to work or study in Italy. Visas are a complex topic, but luckily IIT has a dedicated office for visa support. If interested in applying, please get in touch with Federico, who can point to the relevant contacts. Visas may require up to 6 months, so remember to plan early. IIT can leverage agreements with the local authorities to get priority appointments, speeding up the process by a few weeks.
+>
 >Researchers moving Italy are entitled to a refund for accommodation of the first 7 nights after relocation; at the end of the contract, the travel for relocation abroad will also be covered. Typically visa expenses are not covered by IIT contracts. Depending on the source of funding being used to hire a lab member, Federico may be able to cover some of the expenses. If not described in the call, please discuss this possibility with Federico directly.
 
 ### Netherlands
@@ -77,26 +78,17 @@ Visa costs when joining the lab from outside the UK vary by the applicant's citi
 >
 >Visa requirements vary widely depending on your country of origin, visa category, and other factors. These requirements also change frequently, so it is important to stay informed about the latest policies and how they may affect your work in the lab. Some areas that may be affected include:
 >
->- Ability to volunteer: Some visa categories prohibit unpaid
-> work, which may affect your ability to volunteer in the lab.
+>- Ability to volunteer: Some visa categories prohibit unpaid work, which may affect your ability to volunteer in the lab.
 >
->- In-person vs. remote work requirements: Some visas may
-> require you to be physically present at Dartmouth College, while others may
-> allow remote work.
+>- In-person vs. remote work requirements: Some visas may require you to be physically present at Dartmouth College, while others may allow remote work.
 >
->- Payment or course credit eligibility: Your visa category may
-> affect whether you can receive payment for your work or whether you need
-> to receive course credit instead.
+>- Payment or course credit eligibility: Your visa category may affect whether you can receive payment for your work or whether you need to receive course credit instead.
 >
->- Eligibility for certain funded projects: Some projects (e.g.,
-> those funded by the Department of Defense) may require US citizenship or
-> security clearance, which may limit your ability to work on those
-> projects.
+>- Eligibility for certain funded projects: Some projects (e.g., those funded by the Department of Defense) may require US citizenship or security clearance, which may limit your ability to work on those projects.
 >
 >Some workarounds that have been successful for international students in the past include:
 >
->- Course credit: Enrolling in independent studies or thesis
-> projects to receive course credit for your work in the lab.
+>- Course credit: Enrolling in independent studies or thesis projects to receive course credit for your work in the lab.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >

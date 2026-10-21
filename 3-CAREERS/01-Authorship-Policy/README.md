@@ -124,17 +124,19 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[MindaLab_2026](https://osf.io/download/arywg/)_:
 >
 >Authors of journal articles and chapters are expected to have made a concrete contribution to the project, and/or paper. For example, the following are all justifications for inclusion as an author.
->• You designed one or more experiments in the paper.
->• You wrote the initial draft for a major section.
->• You wrote the entire paper.
->• You designed and carried out the analyses.
->In many cases, you might help with projects, but the contribution is not quite enough to warrant inclusion as an author. The following are several examples.
->• You helped to carry out data collection.
->• You created the reference section, table, or figure.
->15
 >
->• You scored a test or created a data set.
->• You helped to proofread or edit.
+>- You designed one or more experiments in the paper.
+>- You wrote the initial draft for a major section.
+>- You wrote the entire paper.
+>- You designed and carried out the analyses.
+>
+>In many cases, you might help with projects, but the contribution is not quite enough to warrant inclusion as an author. The following are several examples.
+>
+>- You helped to carry out data collection.
+>- You created the reference section, table, or figure.
+>- You scored a test or created a data set.
+>- You helped to proofread or edit.
+>
 >In these cases, you will be acknowledged by name in the paper.
 
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/05-publishing-policy.md)_:
@@ -279,15 +281,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 ### Switzerland
 >_[AIDOSLab_2026](https://aidos.group/guide)_:
 >
->When submitting a paper to a machine learning venue, the order of authors should reflect their contribution and relevance for the project. Typically, this will mean that junior members, such as Ph.D. and graduate students, will be placed before more senior members. To
->assess whether a person is qualified to be an author on a manuscript, we will follow a set of rules. Anyone listed on a paper as an author has to satisfy all of the following criteria:2
+>When submitting a paper to a machine learning venue, the order of authors should reflect their contribution and relevance for the project. Typically, this will mean that junior members, such as Ph.D. and graduate students, will be placed before more senior members. To assess whether a person is qualified to be an author on a manuscript, we will follow a set of rules. Anyone listed on a paper as an author has to satisfy all of the following criteria:
+>
 >- 1. They have made substantial intellectual contributions to at least a subset of the work described in the manuscript.
 >- 2. They have participated in writing or revising the manuscript.
 >- 3. They are aware of the existence of the manuscript and of the intent to submit the manuscript to a certain venue.
 >- 4. They agree with the content of the manuscript and are willing to vouch for the correctness of the work.
 >
->In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of
->us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
+>In particular, there will not be any ‘courtesy authorships.’ Unless you raise this an issue with me, I will typically assume that there are no conflicts with these guidelines. Let me know well before the submission if this is not the case! Following these rules is a way for all of us to demonstrate scientific integrity. The main idea behind this rule is that everyone listed as an author should be comfortable with giving a talk on the work. If this is not the case, something is wrong.
 
 >_[Neurolinguistics-UZH_2026](https://gitlab.uzh.ch/alexis.hervais-adelman/dynoball.org/-/wikis/Lab_Manual/Lab_Manual_08)_:
 >
@@ -302,9 +303,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 
 >_[EnvironmentalModellingResearchGroup_2026](https://envmodellinggroup.github.io/coc.html)_:
 >
->Authorship on any work will be openly discussed in lab meetings and should include everyone who
-> contributed significantly to the work being presented. Where conflict arises, Jon Hill will facilitate
-> discussion to resolve the conflict.
+>Authorship on any work will be openly discussed in lab meetings and should include everyone who contributed significantly to the work being presented. Where conflict arises, Jon Hill will facilitate discussion to resolve the conflict.
 
 >_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:
 >
@@ -407,35 +406,25 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 
 >_[ContextualDynamicsLab_2026](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf)_:
 >
->The Contextual Dynamics Lab follows the NIH
-> Guidelines for Authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgements section of the paper. In general, you likely meet the requirements for authorship if you contributed in any of the following ways:
+>The Contextual Dynamics Lab follows the NIH Guidelines for Authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgements section of the paper. In general, you likely meet the requirements for authorship if you contributed in any of the following ways:
 >
 >- Drafted the manuscript (this warrants first authorship)
 >
->- Came up with the idea or made other substantial intellectual
-> contributions that meaningfully shaped the trajectory of the project
+>- Came up with the idea or made other substantial intellectual contributions that meaningfully shaped the trajectory of the project
 >
->- Carried out an original experimental study (e.g. that you
-> designed or implemented)
+>- Carried out an original experimental study (e.g. that you designed or implemented)
 >
->- Carried out non-trivial data analyses (e.g. more complicated
-> than t-tests)
+>- Carried out non-trivial data analyses (e.g. more complicated than t-tests)
 >
->- Contributed novel tools or resources to the project that haven't
-> been published yet
+>- Contributed novel tools or resources to the project that haven't been published yet
 >
->NOTE: Conference posters and abstracts generally
-> have substantially less stringent authorship requirements than
-> formal papers. The general rule of thumb for posters is that all
-> project team members should be co-authors. You are unlikely to meet the requirements for authorship if your contributions were limited to the following:
+>NOTE: Conference posters and abstracts generally have substantially less stringent authorship requirements than formal papers. The general rule of thumb for posters is that all project team members should be co-authors. You are unlikely to meet the requirements for authorship if your contributions were limited to the following:
 >
->- Running experimental participants for an already-designed and
-> coded-up study
+>- Running experimental participants for an already-designed and coded-up study
 >
 >- Running trivial data analyses (e.g. t-tests or similar)
 >
->- Getting trained by one of the other project members on a
-> project-related task
+>- Getting trained by one of the other project members on a project-related task
 >
 >- Training another project member on a project-related task
 >
@@ -447,10 +436,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 
 >_[CTML_2026](https://jumbled-phone-c2e.notion.site/Expectations-cf248dabec7e45a987ae6840c70b3267)_:
 >
->All authors need a chance to comment on the work before manuscript submission.
->Determine authorship early in the research project to avoid conflict or misunderstandings.
->In general, the first author does most of the writing, but consult with your supervisor on a case-by-case basis.
->Co-first authorship should be determined by who led the drafting and submission process, not necessarily the original intellectual contribution.
+>- All authors need a chance to comment on the work before manuscript submission.
+>- Determine authorship early in the research project to avoid conflict or misunderstandings.
+>- In general, the first author does most of the writing, but consult with your supervisor on a case-by-case basis.
+>- Co-first authorship should be determined by who led the drafting and submission process, not necessarily the original intellectual contribution.
 
 >_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/policies/paper-writing)_:
 >
@@ -480,7 +469,9 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:
 >1) contributed whole figures or panels independently, OR
 >2) substantially contributed to many figures or panels while working with someone else (typically the first author), OR
->3) taken charge of revisions for a paper begun by a first author who is unwilling or unable to complete them. a. Depending on the nature and extent of the revisions, this may also be a case that warrants co-first authorship, or assumption of first author position.
+>3) taken charge of revisions for a paper begun by a first author who is unwilling or unable to complete them.
+>
+>    a. Depending on the nature and extent of the revisions, this may also be a case that warrants co-first authorship, or assumption of first author position.
 
 >_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
 >
@@ -497,9 +488,9 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
->• The PI will make every effort to clarify co–first contributions in reference letters, emphasizing that co–first authors are full first authors and highlighting the lab member’s leadership and hard work in collaborative projects.
->• A scientist who has performed a substantial amount of work toward a project—even if the specific data do not appear in the final version of the paper—should be included as an author. Effort matters as much as outcome.
->• Giving credit is essential to maintaining a collaborative and productive environment. Lab members are expected to acknowledge meaningful contributions from others in the lab.
+>- The PI will make every effort to clarify co–first contributions in reference letters, emphasizing that co–first authors are full first authors and highlighting the lab member’s leadership and hard work in collaborative projects.
+>- A scientist who has performed a substantial amount of work toward a project—even if the specific data do not appear in the final version of the paper—should be included as an author. Effort matters as much as outcome.
+>- Giving credit is essential to maintaining a collaborative and productive environment. Lab members are expected to acknowledge meaningful contributions from others in the lab.
 
 >_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
 >
@@ -573,7 +564,8 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
 >
 >Generally, contributing to study design, running statistical analyses, and writing sections of the manuscript warrant authorship—running participants usually does not. Other lab members who help with a project in some meaningful way may be added to the author list as well. Although not required by APA, I expect students to contribute to some writing in a manuscript as part of authorship, so they develop their writing skills and learn about the publication process.
->    Order of authorship will be discussed with everyone as soon as is reasonable (e.g., once roles have been outlined), but this may change depending on how responsibilities shift throughout the project. Either way, initial and subsequent discussions of authorship should include all named co-authors. If you have concerns about authorship, please bring it up with your project lead or me at any point.
+>
+>Order of authorship will be discussed with everyone as soon as is reasonable (e.g., once roles have been outlined), but this may change depending on how responsibilities shift throughout the project. Either way, initial and subsequent discussions of authorship should include all named co-authors. If you have concerns about authorship, please bring it up with your project lead or me at any point.
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
@@ -605,15 +597,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
->Before starting a collaborative scientific project, it is recommended to have a conversation with Josh to decide authorship and acknowledgements to avoid future conflicts. ❖ All of the projects in our lab involve multiple people, which means all papers have multiple authors. Sometimes on a particular paper, the 2nd/3rd authors may have done a significant amount of work, so there is a potential for conflict in the authorship order. Josh’s goal is for this to integrate to fairness over the entire Ph.D., and he will discuss the decision process openly with all students.
+>- Before starting a collaborative scientific project, it is recommended to have a conversation with Josh to decide authorship and acknowledgements to avoid future conflicts.
+>- All of the projects in our lab involve multiple people, which means all papers have multiple authors. Sometimes on a particular paper, the 2nd/3rd authors may have done a significant amount of work, so there is a potential for conflict in the authorship order. Josh’s goal is for this to integrate to fairness over the entire Ph.D., and he will discuss the decision process openly with all students.
 
 >_[ZETAResearchGroup_2026](https://github.com/pzivich/LabGroupMaterials/blob/main/authorship.md)_:
 >
->The role of second author tends to be more variable across fields and groups. Within my group, the second author is
->expected to play a more substantial role in ensuring reproducibility of the scientific results than most other
->research groups. In particular, these are recommended expectations for the second author:
->- Contribute to the analysis. This role can involve double-coding (recommended), developing code in a secondary
->programming language, code review, or algorithm review.
+>The role of second author tends to be more variable across fields and groups. Within my group, the second author is expected to play a more substantial role in ensuring reproducibility of the scientific results than most other research groups. In particular, these are recommended expectations for the second author:
+>
+>- Contribute to the analysis. This role can involve double-coding (recommended), developing code in a secondary programming language, code review, or algorithm review.
 >- Preliminary review of the manuscript before other authors.
 >- Close communication with the first author in revisions based on co-author feedback or responding to peer-reviewers.
 >- Double check article proofs after the first author for errors.

@@ -82,6 +82,7 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 >b) CNR’s Comitato Unico di Garanzia (CUG) — The **CUG** handles issues of workplace discrimination, bullying (mobbing), and harassment. You can submit a report via their website: [https://cug.cnr.it](https://cug.cnr.it). Reports can be anonymous or named, and are treated confidentially.
 >
 >c) Commissione per l’Etica e l’Integrità nella Ricerca — For cases affecting **research conduct** or involving scientific collaborators. Contact: **cnr.ethics@cnr.it**. Review the *”Linee guida per l’integrità nella ricerca”* for guidance on ethical violations.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
@@ -148,7 +149,17 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 
 >_[IvesLab_2026](https://ives.labs.wisc.edu/pdf/Ives_Lab_guidelines.pdf)_:
 >
->Reporting unacceptable behavior. There are several options for reporting unacceptable behavior, and you should select the course of action that you feel is best. Retaliatory behavior is not accepted in the lab or on campus, so you should feel safe against retaliation. Nonetheless, the victim of any type of harassment should have the freedom to weigh the different types of reporting available to them. If you witness harassment of somebody else, recognize that your first responsibility is to support the victim and accordingly defer to their wishes about possible courses of action. Here is a partial list of contacts for different types of reporting. Remember, being comfortable in your working environment is important, and so please take steps and enlist help to ensure this is the case. i. Tony has a legal and ethical obligation to stop unacceptable behavior in the lab. He realizes, though, that he sometimes might not be the most comfortable person to contact for personal issues. ii. Lauren Riters, as Chair of iBio, is both legally bound to address unacceptable behavior and can be a good source of information about reporting mechanisms. iii. Sexual misconduct can be reported through the UW Sexual Misconduct Resource and Response Program. iv. The overarching place on campus for climate issues is the Office of Compliance. There are a lot of resources on the website. v. For staff (including postdocs) a good place to start is the Ombuds Office.
+>Reporting unacceptable behavior. There are several options for reporting unacceptable behavior, and you should select the course of action that you feel is best. Retaliatory behavior is not accepted in the lab or on campus, so you should feel safe against retaliation. Nonetheless, the victim of any type of harassment should have the freedom to weigh the different types of reporting available to them. If you witness harassment of somebody else, recognize that your first responsibility is to support the victim and accordingly defer to their wishes about possible courses of action. Here is a partial list of contacts for different types of reporting. Remember, being comfortable in your working environment is important, and so please take steps and enlist help to ensure this is the case.
+>
+>i. Tony has a legal and ethical obligation to stop unacceptable behavior in the lab. He realizes, though, that he sometimes might not be the most comfortable person to contact for personal issues.
+>
+>ii. Lauren Riters, as Chair of iBio, is both legally bound to address unacceptable behavior and can be a good source of information about reporting mechanisms.
+>
+>iii. Sexual misconduct can be reported through the UW Sexual Misconduct Resource and Response Program.
+>
+>iv. The overarching place on campus for climate issues is the Office of Compliance. There are a lot of resources on the website.
+>
+>v. For staff (including postdocs) a good place to start is the Ombuds Office.
 
 >_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
 >
@@ -173,8 +184,9 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 >_[PinskyLab_2026](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd)_:
 >
 >To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://titleix.ucsc.edu/reporting-to-title-ix-hacer-un-informe/)
->    - If you aren't comfortable speaking to Malin:
->      - contact the Lab Listener
->      - contact the graduate program coordinator: Judy Straub (UCSC) or Shaneika Nelson (Rutgers)
-
-_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>- If you aren't comfortable speaking to Malin:
+>    - contact the Lab Listener
+>    - contact the graduate program coordinator: Judy Straub (UCSC) or Shaneika Nelson (Rutgers)
+>
+>_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._

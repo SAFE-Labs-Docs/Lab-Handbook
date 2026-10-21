@@ -625,14 +625,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
 >
 >- Training:
->- Our primary goal is to provide you with the training you need in order to
->become a great scientist!
->- We will have check-ins at the beginning, middle, and end of each semester
->where we discuss your goals for the RAship, and whether you think you are
->getting the training you need.
->- If there are any specific things you would like to learn more about (coding,
->writing, psychological theories), we can make these explicit goals and try to
->orient your time here around them.
+>    - Our primary goal is to provide you with the training you need in order to become a great scientist!
+>    - We will have check-ins at the beginning, middle, and end of each semester where we discuss your goals for the RAship, and whether you think you are getting the training you need.
+>    - If there are any specific things you would like to learn more about (coding, writing, psychological theories), we can make these explicit goals and try to orient your time here around them.
 
 >_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
 >
@@ -660,10 +655,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Therefore, prospective Advanced RAs should be **self-motivated** and have consistently shown that they are **reliable** and **capable of additional responsibility**.
 >
->## I meet the criteria, what should I do next?
+>**I meet the criteria, what should I do next?**
 >
->After you have met all the criteria and feel that you are ready to pursue this opportunity, <u>it is your responsibility to set up a meeting with the Lab Coordinator and Dr. Petersen</u>, and to determine what types of responsibilities and projects you would like to lead.
->You should be prepared to come to this meeting with a thought-out idea of what projects and roles you are interested in given these new responsibilities and privileges.
+>After you have met all the criteria and feel that you are ready to pursue this opportunity, <u>it is your responsibility to set up a meeting with the Lab Coordinator and Dr. Petersen</u>, and to determine what types of responsibilities and projects you would like to lead. You should be prepared to come to this meeting with a thought-out idea of what projects and roles you are interested in given these new responsibilities and privileges.
 
 >_[HenryLab_2026](https://thehenrylab.squarespace.com/lab-compact/undergraduatelabcompactdetail)_:
 >
@@ -673,7 +667,8 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/LabManagerResponsibilities.md)_:
 >
->## 1. Lab Management (40% effort)
+>**1. Lab Management (40% effort)**
+>
 >1. Purchasing and ordering
 >2. Shipping and receiving
 >3. Inventory management of chemicals, plasmids, and mammalian cell lines
@@ -681,7 +676,8 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >5. Instructing and assigning common lab duties among group members
 >6. Instructing lab safety and regulation compliance for group members
 >
->## 2. Scientific projects (40% effort)
+>**2. Scientific projects (40% effort)**
+>
 >1. Building and testing new reagents
 >	1. cloning
 >		- PCR, restriction cloning, Gateway cloning
@@ -695,7 +691,8 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >2. Experimental assays and analysis
 >	- Spheroids, neural organoids, cardiac organoids, etc.
 >
->## 3. Training new lab members (10% effort)
+>**3. Training new lab members (10% effort)**
+>
 >1. Sterile techniques and cell culture
 >2. Molecular biology and cloning
 >3. Immunofluorescence procedures and microscopy
@@ -706,7 +703,8 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >	- Glass wash and autoclaving
 >	- Chemical and bio-waste disposal
 >
->## 4. Professional development (10% effort)
+>**4. Professional development (10% effort)**
+>
 >1. Learning new technical skills (e.g. programming)
 >2. Other career development opportunities
 
@@ -777,9 +775,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[POISLab_2026](https://www.notion.so/22a9e68b69b680a9bfacdfdb4adc3bdd)_:
 >
 >Generally, you’ll start with simpler tasks (e.g., testing surveys, putting up flyers), then progress to more involved tasks (e.g., meeting participants, managing data) as you demonstrate competence. I’m hesitant to risk a poor study experience for a participant or mismanaged data, hence the task scaffolding.
->    - You’ll be directly supervised by a graduate student or me. If you find yourself without a lab member you regularly check in with, please let me know. Part of this is for quality control, but the other part is making sure you’re developing the skills you need/want for the next step of your career.
->    - Related to the point above, you should be receiving regular feedback from your lab supervisor. If you don’t know how you’re performing, please talk to your lab supervisor or me about it. It’s totally reasonable to expect your lab supervisor to give you regular feedback on what you’re doing well and what to work on.
->    - Let your lab supervisor know what you want to get out of your RA experience. That will help them figure out what kinds of tasks and support to give you. For example, you might want to learn more about how to apply to a clinical psychology Ph.D. program or get feedback on your CV—great. Tell them that.
+>
+>- You’ll be directly supervised by a graduate student or me. If you find yourself without a lab member you regularly check in with, please let me know. Part of this is for quality control, but the other part is making sure you’re developing the skills you need/want for the next step of your career.
+>- Related to the point above, you should be receiving regular feedback from your lab supervisor. If you don’t know how you’re performing, please talk to your lab supervisor or me about it. It’s totally reasonable to expect your lab supervisor to give you regular feedback on what you’re doing well and what to work on.
+>- Let your lab supervisor know what you want to get out of your RA experience. That will help them figure out what kinds of tasks and support to give you. For example, you might want to learn more about how to apply to a clinical psychology Ph.D. program or get feedback on your CV—great. Tell them that.
 
 >_[SteinschneiderLab_2026](https://github.com/SteinschneiderLab/lab-manual/blob/main/professional-development.md)_:
 >
@@ -803,11 +802,21 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
->Constant Roles (rotating every 6 months excluding LSOs): ➢ Laser maintenance: keeping track of issues or updates needed for the laser (using box note and/or white board), cleaning the laser lab, advocating for laser maintenance at planning meetings ➢ Laser planner: runs laser planning meeting and scheduling laser plans, updating group laser and group meeting calendar ➢ General maintenance: updates and acquires general lab supplies as needed (eg sticky pads, silicon nitride membranes, etc). Does NOT acquire specific chemicals ➢ TED Maintenance: keeps track of TED, advocates for cleaning/fixes, acquires supplies ➢ Lab safety officer(s): ■ General/chemical LSO: maintains and updates safety standards in the lab space (outside laser lab), checks eye washes/fire extinguishers/etc, attends monthly LSO meetings, proctors annual safety review, resource for safe lab practices in the group ■ Laser LSO: maintains and updates laser glasses, keeps track of laser safety training and logs, resource for safe laser practices in the group ➢ Social chair: solicits ideas for group activities, coordinates group activities ❖ Temporary Roles: ➢ Conference coordinator: when the majority of the group is attending the same conference, one of the attendees will be elected to serve as the point person. They will coordinate with the attendees (and the IMP office as necessary) on registering for the conference, hotel reservations, and travel plans.
+>- Constant Roles (rotating every 6 months excluding LSOs):
+>    - Laser maintenance: keeping track of issues or updates needed for the laser (using box note and/or white board), cleaning the laser lab, advocating for laser maintenance at planning meetings
+>    - Laser planner: runs laser planning meeting and scheduling laser plans, updating group laser and group meeting calendar
+>    - General maintenance: updates and acquires general lab supplies as needed (eg sticky pads, silicon nitride membranes, etc). Does NOT acquire specific chemicals
+>    - TED Maintenance: keeps track of TED, advocates for cleaning/fixes, acquires supplies
+>    - Lab safety officer(s):
+>        - General/chemical LSO: maintains and updates safety standards in the lab space (outside laser lab), checks eye washes/fire extinguishers/etc, attends monthly LSO meetings, proctors annual safety review, resource for safe lab practices in the group
+>        - Laser LSO: maintains and updates laser glasses, keeps track of laser safety training and logs, resource for safe laser practices in the group
+>    - Social chair: solicits ideas for group activities, coordinates group activities
+>- Temporary Roles:
+>    - Conference coordinator: when the majority of the group is attending the same conference, one of the attendees will be elected to serve as the point person. They will coordinate with the attendees (and the IMP office as necessary) on registering for the conference, hotel reservations, and travel plans.
 
 >_[WexlerGroup_2026](https://github.com/wexlergroup/wexlergroup-handbook/blob/main/group-administration/group-gigs.md)_:
 >
->## Documentation Scribe
+>**Documentation Scribe**
 >
 >**Mission:** Grow and curate the Wexler Group knowledge base.
 >
@@ -820,7 +829,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >***
 >
->## Expectations & Rotation
+>**Expectations & Rotation**
 >
 >* Roles are assigned at the start of each summer and can be swapped by mutual agreement.
 >* Each gig should require no more than 1–2 hours per week on average.

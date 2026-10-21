@@ -72,8 +72,11 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+>
 >Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.
+>
 >Recycling: To minimize the environmental impact of lab waste, we avoid mixing lab waste and regular waste. We recycle regular waste according to local regulations.
+>
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment and lighting.
 
 >_[TSCNLab_2026](https://tscnlab.github.io/LabHandbook/background/MissionStatement_2024.09.02_v1.4.html)_:
@@ -87,8 +90,7 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
->Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided
->for experimental or safety reasons, we have rules in place to minimize our footprint as much as possible:
+>Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided for experimental or safety reasons, we have rules in place to minimize our footprint as much as possible:
 >
 >Travels: Team members are required to travel by train or similar public transport means for trips <8h. Exceptions need to be discussed with the PI. SISSA employees can get a 10%discount on all Freccia travels, including private ones.
 >
@@ -164,9 +166,9 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
->-**Transit**: I encourage you to take public transportation or share taxis between airports and conference venues whenever possible.
->-**Electricity**: Turn off room lights when not in use and shut down computers between experiments.
->-**Composting**: Put coffee grounds, tea bags, and other compostable food scraps into the lab compost bin on the coffee cart.
+>- **Transit**: I encourage you to take public transportation or share taxis between airports and conference venues whenever possible.
+>- **Electricity**: Turn off room lights when not in use and shut down computers between experiments.
+>- **Composting**: Put coffee grounds, tea bags, and other compostable food scraps into the lab compost bin on the coffee cart.
 
 >_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/CommunityGuidelines.md)_:
 >

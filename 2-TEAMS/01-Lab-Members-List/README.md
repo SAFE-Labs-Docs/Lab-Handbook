@@ -43,7 +43,7 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 >_[TakiLabUEC_2026](https://tkl.pc.uec.ac.jp/program-english.html)_:
 >
->The mindset I gained in the Taki Lab—always extracting a new insight even from a so-called ‘failed’ experiment—is still my guiding principle, and I now pass that attitude on to my graduate students.”
+>・“The mindset I gained in the Taki Lab—always extracting a new insight even from a so-called ‘failed’ experiment—is still my guiding principle, and I now pass that attitude on to my graduate students.”
 >
 >—Assist. Prof. Dr. Y. Azetsu
 >
@@ -84,13 +84,7 @@ A clear and current list of lab members allows prospective applicants to gauge t
 
 >_[EvLab_2026](https://web.mit.edu/evlab/mentorship)_:
 >
->There are a number of lab alumni
-> who have kindly agreed to be contacted
-> (see
-> the Alumni
-> section here: Family): feel free to write to
-> them (or reach out to current lab members) to ask more about my mentoring style and the
-> lab culture / climate in general.
+>There are a number of lab alumni who have kindly agreed to be contacted (see the Alumni section here: Family): feel free to write to them (or reach out to current lab members) to ask more about my mentoring style and the lab culture / climate in general.
 
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >

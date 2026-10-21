@@ -119,29 +119,27 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
->Who Does Them: All members of the lab will provide progress reports, irrespective of career stage. Additionally, undergraduate students will also write up a report every 6 months (1-page), or at the end of their time in the lab. For undergraduate students and master students, a written progress report and 1:1 meeting is required for a research letter of recommendation from Dr. Chory.
+>- Who Does Them: All members of the lab will provide progress reports, irrespective of career stage. Additionally, undergraduate students will also write up a report every 6 months (1-page), or at the end of their time in the lab. For undergraduate students and master students, a written progress report and 1:1 meeting is required for a research letter of recommendation from Dr. Chory.
 >- When We Do Them: To ensure you get the most out of this process, we will schedule a meeting once every six months to review your progress report together. These meetings will offer an opportunity for personalized feedback, questions, and guidance moving forward.
 >- How long should you spend on this?: Though it's important to make these reports comprehensive and well-structured, they shouldn't consume too much of your time. Ideally, spend no more than 1-2 day MAX on these reports every six months. They should be detailed but succinct, professional but not overly time-consuming. The first one will probably take the most time.
 
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/performance.html)_:
 >
->There should be informal reviews at every weekly meeting.
->The point is mutual feedback, i.e., we can discuss your progress and develop achievable goals for the next few days to years, and you can tell me if there are areas in which I can provide better help.
->If you would like more formal progress reviews, let me know.
->Please also let me know if you are ever worried about your progress.
->Postdocs and salaried researchers will get formal annual reviews as required by the Biological Sciences Division, but they are really secondary to the regular meetings (i.e., there should be no surprises).
+>There should be informal reviews at every weekly meeting. The point is mutual feedback, i.e., we can discuss your progress and develop achievable goals for the next few days to years, and you can tell me if there are areas in which I can provide better help. If you would like more formal progress reviews, let me know. Please also let me know if you are ever worried about your progress. Postdocs and salaried researchers will get formal annual reviews as required by the Biological Sciences Division, but they are really secondary to the regular meetings (i.e., there should be no surprises).
 
 >_[CTML_2026](https://jumbled-phone-c2e.notion.site/GSR-expectations-and-review-process-74c9feb4405a412797a8a7af286ab5b0)_:
 >
 >Each CTML GSR will be assigned one Project Leader (PL) in addition to their Faculty Supervisor (FS). Depending on the project, a GSR’s FS will also be their PL.
+>
 >The PL and GSR are responsible for the GSR’s  goal & milestone setting for the year and monthly check-ins. If the PL has any concerns regarding the GSRs progress, the PL will conduct a  mid-year evaluation and/or schedule a conversation with the FS before the end of the semester.
+>
 >Each Spring, the GSR will submit a self-evaluation that will be utilized during their annual evaluation with their FS. The purpose of the annual evaluation is to showcase growth as well as to create goals for next year. Afterwards, the GSR will be invite to submit an anonymous program evaluation to help improve CTML’s GSR program.
 
 >_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
 >
 >All members are expected, on joining, to develop an individual development plan (IDP) with Dan. Even if this exercise feels silly or foreign, please consider it seriously, as it will be a useful tool for setting expectations in the mentor-mentee relationship. IDPs will be reviewed and revised at least annually.
-
-_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
@@ -227,8 +225,8 @@ _Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbo
 >  - How can I support you in that?
 >- Also let me know if you want me to think about answers to any questions.
 >- Funding plan during each end-of-year checkin
-
-_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
+>
+>_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/phd_guide.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >

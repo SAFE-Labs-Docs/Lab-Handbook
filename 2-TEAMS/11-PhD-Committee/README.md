@@ -115,5 +115,6 @@ NOTE: Some institutions already implement this process (e.g. "PhD Committee"), o
 
 >_[UIGlacierDynamics_2026](https://github.com/tbartholomaus/uiglaciology/blob/master/content/4-UIdaho.md)_:
 >
->## Before the end of each year in graduate school
+>**Before the end of each year in graduate school**
+>
 >- Hold a committee meeting, to update your committee on your progress, seek feedback on your work to date, and engage your committee in your entire professional development/trajectory.

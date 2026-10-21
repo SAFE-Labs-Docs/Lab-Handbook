@@ -79,18 +79,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >本组成员需每年完成以下任务：
 >
 >- 文献阅读（1分/篇）
->- 有价值的英文文献；
->- 写成阅读文章发表于本组公众号，审核通过后可得分；
->- 使用标准 PPT，在组会汇报（30 分钟）；
+>    - 有价值的英文文献；
+>    - 写成阅读文章发表于本组公众号，审核通过后可得分；
+>    - 使用标准 PPT，在组会汇报（30 分钟）；
 >- 参加学术会议（5分/次）
->- 参加国内正式学术会议，并在会议上做口头报告；
->- 会议汇报内容为在本组的研究内容；
->- 汇报 PPT 至少在会议前 14 天完成，并通过 PI 审核；
->- 全程参会，参会时做笔记，会后做总结；
->- 材料齐全，会议费用可全额报销。
+>    - 参加国内正式学术会议，并在会议上做口头报告；
+>    - 会议汇报内容为在本组的研究内容；
+>    - 汇报 PPT 至少在会议前 14 天完成，并通过 PI 审核；
+>    - 全程参会，参会时做笔记，会后做总结；
+>    - 材料齐全，会议费用可全额报销。
 >- 发表学术论文（10分/1篇）
->- 在核心及以上期刊发表学术论文。
->- 本研究所为第一署名单位，本组PI为通讯作者，本组项目为第一资助。
+>    - 在核心及以上期刊发表学术论文。
+>    - 本研究所为第一署名单位，本组PI为通讯作者，本组项目为第一资助。
 >
 >年底考核中，每个积分可获得 100 元奖金；若年底考核超过 20 分，额外奖励 5 个积分。完成任务过程中，凡涉嫌“抄袭”等学术不端行为，请直接退学或离开本研究组。
 >
@@ -99,18 +99,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Members of the group must complete the following tasks every year:
 >
 >- Literature reading (1 point per paper)
->- Valuable English-language literature;
->- Write it up as a reading article published on the group's official account; points are awarded after the review is passed;
->- Present it at the group meeting using the standard PPT (30 minutes);
+>    - Valuable English-language literature;
+>    - Write it up as a reading article published on the group's official account; points are awarded after the review is passed;
+>    - Present it at the group meeting using the standard PPT (30 minutes);
 >- Attending an academic conference (5 points each time)
->- Attend a formal domestic academic conference and give an oral presentation there;
->- The content presented at the conference must be the research done in this group;
->- The presentation PPT must be finished at least 14 days before the conference and approved by the PI;
->- Attend the whole conference, take notes during it, and write a summary afterwards;
->- With complete materials, the conference costs can be reimbursed in full.
+>    - Attend a formal domestic academic conference and give an oral presentation there;
+>    - The content presented at the conference must be the research done in this group;
+>    - The presentation PPT must be finished at least 14 days before the conference and approved by the PI;
+>    - Attend the whole conference, take notes during it, and write a summary afterwards;
+>    - With complete materials, the conference costs can be reimbursed in full.
 >- Publishing an academic paper (10 points per paper)
->- Publish the paper in a core journal or higher.
->- This institute is the first affiliation, the group's PI is the corresponding author, and the group's project is the first funder.
+>    - Publish the paper in a core journal or higher.
+>    - This institute is the first affiliation, the group's PI is the corresponding author, and the group's project is the first funder.
 >
 >In the year-end assessment, each point earns a bonus of 100 yuan; if the year-end assessment exceeds 20 points, an extra 5 points are awarded. If anyone is suspected of academic misconduct such as plagiarism while completing the tasks, they should simply withdraw from their studies or leave the group.
 
@@ -325,7 +325,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >- At least **three** chapters must be based on **M-type** papers.
 >
->**One** chapter may be based on an **X-type** contribution, provided it is extended appropriately for the thesis.
+>- **One** chapter may be based on an **X-type** contribution, provided it is extended appropriately for the thesis.
 
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
 >
@@ -425,7 +425,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[CobeyLab_2026](https://cobeylab.github.io/lab_handbook/performance.html)_:
 >
 >Publish at least two papers on which you're first author.
->	These papers should be submitted by the time you defend. Note, this is not the requirement of relevant UChicago doctoral programs, but I think it is an important minimal target.
+>These papers should be submitted by the time you defend. Note, this is not the requirement of relevant UChicago doctoral programs, but I think it is an important minimal target.
 
 >_[DaviesLab_2026](https://sites.bu.edu/davieslab/files/2026/10/Davies_Lab_Mentoring_Compact_2026.pdf)_:
 >
@@ -482,6 +482,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Excerpts from the [lab mentorship philosophy statement](https://mseelab.org/mentorship.html) accompanying the lab handbook:
+>
 >The most important goal of all lab members is to develop as scientists (except for the PI and any long-term research scientist, see below). The ways in which this scientific and career development happens differ by role:
 >
 >- *PhD students:* PhD students aim to gain enough expertise in a field to be able to teach themselves and others about new knowledge they contribute to it.
@@ -548,7 +549,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
->A PhD dissertation is expected to be 3 first author published papers. A postdoc should aim to be publishing at least one first author paper a year, but this can be variable depending on the nature of the project(s). If you plan to seek a highly-competitive academic position at an R1 school, you will need to be both highly productive and publishing in the top journals, and so you should think of these guidelines as an absolute minimum (I can help you set appropriate goals and targets). Students who average more than 1 paper a year, and postdocs who average more than 2 papers a year, are doing well—especially if these are in good journals1.
+>A PhD dissertation is expected to be 3 first author published papers. A postdoc should aim to be publishing at least one first author paper a year, but this can be variable depending on the nature of the project(s). If you plan to seek a highly-competitive academic position at an R1 school, you will need to be both highly productive and publishing in the top journals, and so you should think of these guidelines as an absolute minimum (I can help you set appropriate goals and targets). Students who average more than 1 paper a year, and postdocs who average more than 2 papers a year, are doing well—especially if these are in good journals.
 
 >_[RobustRoboticsGroup_2026](https://aeroastro.mit.edu/wp-content/uploads/2021/10/AdvisingPhilosophy.Roy_.2021.pdf)_:
 >

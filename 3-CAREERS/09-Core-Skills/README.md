@@ -35,12 +35,13 @@ Researchers often focus on scientific progress and neglect the development of co
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Core skills such as team/time management, feedback, writing, and presentations are crucial to a scientific career. Many of these are addressed during daily interactions. For instance, the PI commits to giving extensive and comprehensive feedback on writing tasks, giving presentations is practiced during regular lab meetings and specifically when a public presentation is coming up, and lab members are encouraged to attend courses on management, writing and communication. 
+>
 >We currently do not have an annual meeting that focuses on these skills in place. If this format is deemed useful by the lab members, it’ll be implemented in the future.
 
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
->People Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations, etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process but also alerts other lab members to potential opportunities.
+>Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations, etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process but also alerts other lab members to potential opportunities.
 >
 >To this end, we have an annual meeting focused on Core Skills each year—typically in September/October when the academic calendar is beginning, providing potential opportunities to improve core skills. The precise nature of this meeting will vary. Usually, Pip will present on a particular topic for ~20-30 minutes, and then other lab members will speak about core skills opportunities they have developed in the past year, or are hoping to develop in the coming year. For more specifics of the agenda and process, please look at the corresponding entry in the _Lab Meetings Database_.
 

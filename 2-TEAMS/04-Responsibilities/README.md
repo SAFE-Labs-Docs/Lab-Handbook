@@ -262,6 +262,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
 >
 >It is expected that during your time in the VORTEX Lab, you will have to learn some coding basics to push forward your research and run your statistics. Expectations vary depending on the level of the trainee. For instance, at minimum:
+>
 >* Undergraduate students will be expected to be able to run standard code already written and manipulate some variables to explore data;
 >* MSc students will be expected to create new scripts to run custom analysis, or edit existing scripts to deal with data in new formats specific to their thesis studies. MSc students are also expected to be able to code their statistics and graphs using RStudio.
 >* PhD students will be expected to do all of the above and act as primary mentors to junior students learning the basic steps. Depending on career aspirations and learning objectives, I trust that PhD students will decide at what level of coding they want to push themselves.
@@ -324,6 +325,17 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >2.5. By “properly supervising” PhD students, we mean that at the end of the PhD, the students should be able to (non-exhaustively): formulate hypotheses based on the thorough observation of a natural phenomenon, propose experimental approaches to test such hypotheses, reflect on the impact of obtained results, identify and not hide flaws, accept them, not be afraid to make mistakes, enjoy and participate in scientific debates, in general acquire scientific self-esteem, acquire a structured way of thinking, write a scientific article, present and teach scientific concepts in a clear way. By all means possible, one should help the student reach these skills and if the student fails to do so, one should be aware that the fault may lie equally or even more in the quality of the supervision provided, than in the student’s behavior or abilities.
 
+### Denmark
+>_[NERDS-ITU_2026](https://nerds.itu.dk/students/)_:
+>
+>- We provide dedicated supervision with regular meetings
+>- We care about wellbeing
+>- We guide you as best as we can but expect you to be proactive and communicate issues early
+>- We provide a social space happy to facilitate connecting all our students. Socialize with your peers – they are an important resource!
+>- We can provide work/meeting space: Slack, and physical space/tables
+>- We encourage you to take part in our regular seminars with guest speakers
+>- If we see the potential and dedication for it from your side, we are happy to develop projects together into scientific papers
+
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
@@ -354,10 +366,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MerenLab_2026](https://merenlab.org/culture/)_:
 >
 >- My main role and responsibility in this group is to keep everyone **happy**,  **productive**, and **funded**. I promise to work with everyone to deliver this. If a member is systematically lacking either of them despite our best efforts, I also promise to do my best to help them find a better place. Throughout my career in science I saw many PhD students and post-docs lost years before they realized they were at the wrong place, and I am determined to not let that happen to anyone in our group.
->
->- Besides the group meetings, every member will at least have a 1-hour slot per week to have a private meeting with me. Unless I am traveling or sick. During the times of travel, I will do my best to meet you through Zoom, but most likely I will fail.
->
->- You will be free to walk into my office anytime if you have a question. If I am coding or writing something that takes lots of concentration and should not be interrupted, I will close my door or will not come in to work at all. If my door is open, you are welcome to come in and ask me anything.
 
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
@@ -526,6 +534,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:
 >
 >Support group members scientifically, emotionally and financially.
+>
 >- Be available both in person and via electronic communication, including regular meetings to discuss work and anything else group members would like to discuss.
 >- Provide a broad perspective on work within the context of the group and the general direction of science.
 >- Provide timely feedback on drafts of manuscripts, talks, grant proposals, etc.
@@ -557,8 +566,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
->We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.
->
 >We have several general lab support duties distributed among all the group members. The up-to-date responsibility list can be found here: link not public. It is important that you let the responsible person know about something running low or equipment broken well in advance.
 >
 >In addition, we have a weekly rota for cleaning the lab and restocking and a monthly rota for hood cleaning. These rotas are sent via Outlook Calendar.
@@ -572,6 +579,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >Reshanne promises to…
+>
 >- Support you scientifically
 >- Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grant proposals
 >- Be available in person and via email / Teams on a regular basis, including regular meetings to discuss your research
@@ -580,6 +588,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Help you prepare for the next step of your career, whether it's a postdoc, a faculty job, or a job outside of academia
 >
 >As a PhD student, you are expected to…
+>
 >- Develop your PhD thesis research. Your dissertation should have at least 3 substantial research projects that answer a big-picture question that you have
 >- Know the literature related to your topic inside out by the end of your PhD
 >- Enjoy challenging yourself continuously - and keep learning (Python, data analysis, writing and presentation skills, …)
@@ -621,6 +630,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
 >
 >Provide support for your development. Provide training in scientific project planning and execution, specific techniques and methods. Lab members usually attend at least one scientific course, conference, tutorial, or workshop per year and have membership in a society that benefits their work.
+
+>_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
+>
+>- You can expect regular one-on-one meetings with me to update on research progress and plan the next steps. Generally you can plan for a one-hour weekly meeting, and can always email or slack me to request additional meetings.
+>- You can expect that I will assist with brainstorming, writing, and improving postdoc or graduate fellowship applications, travel grants, or other grant applications.
+>- You can expect that I will proofread and contribute significantly to the writing of any abstracts and manuscripts stemming from your research in the lab.
+>- You can expect an opportunity to practice, possibly more than once, any talk you will be presenting at conferences or other venues. I will also be happy to provide feedback on the structure and content of the slides prior to the practice talk.
+>- You can expect to discuss with me your future career goals or other issues you may have. We can tailor the training plans according to these career goals. You can expect these conversations to take place in a safe space and in a confidential manner if you would like.
 
 >_[CLICLab_2026](https://clic.labs.stonybrook.edu/handbook/expectations)_:
 >
@@ -718,6 +735,15 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Established standard operating procedures (SOPs) to maintain continuity within the lab. SOPs are updated on a regular basis with input from multiple people in the team.
 
+>_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
+>
+>- Provide a clear vision of the overall goals of the lab.
+>- Apply for and secure funding to support all members.
+>- Develop independent research projects for lab members that align with their goals and interests.
+>- Meet regularly with lab members to discuss goals, projects, progress and wellbeing. Regularly is at least twice a year and can be as often as once a week if needed.
+>- Support your career development by facilitating collaborations/introductions, conference travel, providing the necessary resources and writing letters of recommendation.
+>- Support your wellbeing as a whole person.
+
 >_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
 >
 >I expect you to uphold the values above and to take responsibility for your progress through the PhD program. I expect you to work hard, to meet your commitments, and to manage your time responsibly. I find that I work best with students who are intrinsically driven, who challenge and push themselves to learn, to grow, and to attain ambitious goals, who self-set and meet a high standard of excellence and work quality, who work towards making consistent progress from week-to-week (failures are expected, of course, and essential to progress!), and who are organized and strong communicators.
@@ -764,13 +790,27 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >MsEE lab maintains [a lab mentorship philosophy statement](https://mseelab.org/mentorship.html) outlining more details on proposed structures, purposes, and expectations (including role duration and publication output) of MsEE Lab members.
 
+>_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
+>
+>- Respect work/life boundaries and not expect responses outside of regular working hours (except under agreed-upon deadlines).
+>- Provide opportunities for regular one-to-one meetings with each trainee, including regular in-depth discussion about career goals and strategies for achieving them.
+>- Encourage trainees to apply for funding and train them on grantsmanship.
+>- Be timely and constructive in providing feedback.
+>
+>Trainees will
+>
+>- Be curious and motivated about their research project.
+>- Strive to cultivate their own creative ideas about research approaches and directions, beyond what their PI recommends.
+>- Develop a thorough understanding of the background literature related to their project and how their own work fits in with it.
+>- Be responsible for their own schedule and setting their goals.
+>- Devote at least as much effort to their work as a student or postdoc as they would to any other full-time job.
+>- Apply for their own funding in cases where they are eligible.
+>- Be proactive about asking for the help they need to succeed.
+>- Do the very best work they can and be aware and communicative of what they need to be happy, fulfilled, and successful.
+
 >_[PeelleLab_2026](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)_:
 >
 >By the time you're done, you will have to know how to do statistics and plots in R, share your work with me using Rmarkdown, use Matlab scripts for data analyses, know enough Python to navigate presentation in PsychoPy, and make figures and posters using Adobe Illustrator or a similar graphics program. You will also preregister your experiments when appropriate (which it almost certainly will be) and share your data and analysis scripts publicly. The learning curve can be a little steep on these but it's well worth it. (If these aren't compatible with your goals or interests, my lab is probably not a good fit for you!)
-
->_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
->
->Laboratory managers / research assistants must keep more regular hours and are expected to be in laboratory 5 days a week (excluding vacations, doctor appointments, family issues, etc.) as other lab members often depend on them. For students, I understand having to be away for classes, but show up to the laboratory on a regular basis when you don’t have those obligations. To encourage laboratory interaction, try to be in most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 10am and 3pm. Everyone must attend weekly lab meetings and weekly 1-1 meetings unless they are canceled for unforeseen circumstances.
 
 >_[POISLab_2026](https://www.notion.so/22a9e68b69b680a9bfacdfdb4adc3bdd)_:
 >
@@ -779,6 +819,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- You’ll be directly supervised by a graduate student or me. If you find yourself without a lab member you regularly check in with, please let me know. Part of this is for quality control, but the other part is making sure you’re developing the skills you need/want for the next step of your career.
 >- Related to the point above, you should be receiving regular feedback from your lab supervisor. If you don’t know how you’re performing, please talk to your lab supervisor or me about it. It’s totally reasonable to expect your lab supervisor to give you regular feedback on what you’re doing well and what to work on.
 >- Let your lab supervisor know what you want to get out of your RA experience. That will help them figure out what kinds of tasks and support to give you. For example, you might want to learn more about how to apply to a clinical psychology Ph.D. program or get feedback on your CV—great. Tell them that.
+
+>_[ShireyLab_2026](https://www.floridamuseum.ufl.edu/shirey-lab/lab-culture-conduct)_:
+>
+>**Expectations of the PI**
+>
+>My primary responsibility is to support you in achieving your desired professional goals. I will do so by meeting with you regularly (typically bi-weekly for postdocs and graduate students), by introducing you to potential collaborators, and by helping you troubleshoot technical or other issues that might arise during your research.
+>
+>My job requires me to issue constructive criticism of your work. While direct at times, my interest is in ensuring that you are producing the best quality work during your time in the lab.
 
 >_[SteinschneiderLab_2026](https://github.com/SteinschneiderLab/lab-manual/blob/main/professional-development.md)_:
 >

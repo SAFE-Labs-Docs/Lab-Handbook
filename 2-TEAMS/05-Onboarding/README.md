@@ -92,6 +92,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/09-onboarding.md)_:
 >
 >At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:
+>
 >* Expected response times for communications;
 >* Best ways to keep on top of drafts, applications, and meetings;
 >* Mentorship meeting frequency and structure;
@@ -366,6 +367,7 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
 >When joining the lab:
+>
 >- Read this Lab Manual
 >- Read the Code of Conduct
 >- Talk to the MTO Secretariat (Anne-Marie van der Heijden) about your room, your IT equipment, your IT account
@@ -385,10 +387,6 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >    - Access: Lab spaces, equipment, data repositories, HPC (if applicable).
 >    - Policies: Read lab manual; finish required training by NUS; IRB/ethics training.
 >    - Project alignment: Agree scope, deliverables, timelines with PI/mentor.
->- Offboarding checklist:
->    - Archive datasets and code; ensure documentation and READMEs are complete.
->    - Transfer ownership/access to lab repositories and Drive.
->    - Outline publication plan for any outstanding work; authorship agreed.
 
 ### Sweden
 

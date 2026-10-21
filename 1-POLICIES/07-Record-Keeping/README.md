@@ -437,6 +437,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[BahlaiLab_2026](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md)_:
 >
 >Data used in support of the project must be:
+>
 >- [ ] Saved in an appropriate, non-proprietary format with accompanying metadata
 >- [ ] In a public archive, or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
 >- [ ] Linked and briefly described in the project README
@@ -444,6 +445,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >**Code**
 >
 >Code used or developed in support of the project must be:
+>
 >- [ ] Well commented and complete
 >- [ ] On Github, in the public project repository
 >- [ ] Described in the README- what does each file do, what language was used, etc
@@ -507,6 +509,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[HarmsLab_2026](https://github.com/harmslab/website/blob/master/source/records.md)_:
 >
 >If you didn’t document it, it didn’t happen.
+>
 >- In two years, you’ll wish you had written more down.
 >
 >**Guidelines:**
@@ -578,6 +581,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[MilliganMcClellanLab_2026](https://milligan-mcclellan-lab.mcb.uconn.edu/370-2/)_:
 >
 >Maintain a legible and thorough lab notebook. For each experiment, please write:
+>
 >- Objective
 >- Background
 >- Methods, including deviations from established methods
@@ -648,6 +652,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >There is no standard as whether it is a bound notebook, loose-sheet binders, or electronic files. You can use any, but please incorporate the following:
+>
 >- Table of contents – based on numbers or dates – specially important if using a bound book!
 >- Group experiments on folders, and give each folder an identifier – useful if using a binder and/or electronic files.
 >- Please upload protocols, presentations, or other important data to the Lab drive where it would be available to other members.
@@ -664,6 +669,7 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >Because lab notebooks are not only important for record keeping but also for patent applications (in the future), you are expected to follow following lab notebook organization guidelines in the lab:
+>
 >1. Laser notebook : For laser alignment and laser maintenance
 >2. Data collection notebook (XUV and tUV/Vis separate notebooks): Data collected from the laser lab
 >3. Synthesis notebook : You are expected to thoroughly note down your experiments in your lab notebook and leave it when graduating.

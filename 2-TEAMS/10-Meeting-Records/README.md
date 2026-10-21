@@ -23,6 +23,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >_Anonymous lab_:
 >
 >Each lab member will have a designated Google Doc (visible only to you and [the PI]) for agendas and notes for our weekly meetings. (Following templates posted on Twitter by Susana Wadgymar and Michael Hoffman.) By 11am on the day of our weekly meeting, update this file with the following information (don’t spend any more than 15 minutes on this, and don’t feel the need to use complete sentences):
+>
 >- Make a short agenda of any things you’d like to discuss in our meeting, in addition to your research plans and progress (if you have anything else to discuss, which may not be the case). I may add to these as well.
 >- Annotate the plans from the previous week using the ‘Comment’ feature or by adding text in a different color. We’ll use these notes as a tool for assessing whether we are developing SMART (Specific, Measurable, Achievable, Relevant, Time-Bound) plans
 >- Write a brief self-reflection on the previous week. This reflection is open-ended, but I suggest discussing what went well, what you found to be the most challenging, what you did to try to overcome those challenges, lessons learned, things that I/others can help with, and notes to yourself on what you would do differently in the upcoming weeks.
@@ -46,16 +47,6 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >Before each meeting, every trainee should prepare a brief bullet-point summary of work completed since the last meeting and enter it into the shared SharePoint document. Trainees should also ensure that experiments are time-stamped in eLab and that the corresponding PDFs have been uploaded to the dedicated SharePoint folder. One new set of results or experiments can be presented in details but other new results should be presented during the bi-weekly progress meetings or during unscheduled check-ins (see below). After each meeting, Thibault will summarize the key priorities discussed.
 >
 >At least once a year, one monthly meeting should be dedicated entirely to publication planning — ideally following a research lab meeting presentation. For that session, trainees are expected to prepare a story outline indicating which results will be presented in each figure.
-
-### Colombia
-
->_[BCEMLab_2026](https://github.com/BCEM-UniAndes/Guia_BCEM/blob/main/chapters/reglamento.qmd)_:
->
->Participar activamente de las reuniones grupales (Lab meeting; Journal club; y proyectos) y de las reuniones individuales, donde cada 15 días se deben mostrar avances en el proyecto. En esas reuniones individuales se programaran metas y fechas en conjunto que servirán de indicadores de avance para los proyectos.
->
->_English translation:_
->
->Take an active part in group meetings (lab meeting, journal club and projects) and in individual meetings, where progress on the project must be shown every 15 days. In those individual meetings, goals and dates will be scheduled jointly and will serve as progress indicators for the projects.
 
 ### Germany
 >_[OttLab_2025](https://torbenottlab.org/)_:
@@ -181,20 +172,14 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 
 >_[DenmanLab_2026](https://github.com/denmanlab/lab-handbook)_:
 >
->Mentor and mentee are to write down timelines for expected development together and trade versions. Progress (scientific and professional) is evaluated on fixed schedules, as written by the mentee; both provide constructive feedback in writing so it can be referenced. We have regular meetings, with formal meeting agendas, and shared documentation of meeting notes.
->
 >Bi-weekly Meeting agendas have the following four sections:
+>
 >1. Overall goal: this is a goal that is unlikely to change on a week to week basis, but seeing it is a reminder of what the mid-range goal is
 >2. Weekly Goal Status: what your weekly goals were from last time, and whether they happened
 >3. Weekly Goals: Goals for the upcoming week
 >4. How Dan can help: What i can do to make weekly goals that were missed, or upcoming ones, happen.
 >
 >_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
-
->_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
->
->- We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.
->    - By 5pm the night before a feedback session, we ask that you write a brief note describing what you think is going well, how you think you can improve, any questions you have, and any suggestions you have for us. After the session, you will write up some brief notes summarizing the conversation.
 
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
 >
@@ -233,6 +218,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >_[MolecularEcologyLab_2026](https://molecularecology.russell.wisc.edu/mentoring-philosophy)_:
 >
 >I ask that my mentees meet with me regularly during the semester, and in advance of the meeting I recommend that you:
+>
 >- Develop and share your agenda
 >- Summarize progress or pitfalls since our last meeting
 >- Create a shared record of our meeting notes so that we both know what was discussed.
@@ -241,8 +227,13 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >All meetings start with a brief overview of the meeting agenda. Pablo will take notes of meetings and share them with participants through Google Docs. Other participants are encouraged to take notes of their own and/or complement the Google Doc to clear any misunderstandings. If a participant would like to record the meeting or use a note-taking app, they may do so with the consent of all other participants. Meetings (and notes) include agreed-upon action items to prioritize before the next meeting. These action items are set by participants through backwards design by reviewing the goals of the participants or group present and setting a course of action towards them.
 
+>_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
+>
+>Typically each week, there will be a one-on-one meeting with Josh that is scheduled to run for 30 minutes (though usually takes less time). This is an opportunity to regularly update Josh on your research outside of group presentations (more to follow on that!), address any questions or concerns you have regarding your research, and keep track of your own progress as you are going along in your PhD. To prepare for this meeting, upload a word document (in your folder in the Box folder for weekly updates) listing your goals for the past week, what you’ve actually done (goals accomplished, in progress, what went wrong, etc), and what your new goals are for the next week. You are strongly encouraged to include items like data figures, synthetic schemes, and other visual aids. Remember that Josh is trying to keep track of ~10 student projects, so it is your responsibility to frame your work for the week in the context of your long- and short-term goals. Don’t assume that he remembers the details of a plot you showed him two weeks ago – repeat data if necessary to give the proper context. You should upload this document even if Josh is traveling/out sick/etc so that he can still keep up with what you’re doing.
+
 >_[ZhangLab_2026](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/lab_activity.md)_:
 >
 >Weekly one-on-one meetings will be held for each member when they join the lab. We have Thursdays as our 1-1 meeting day!
+>
 >- Every member will be assigned one or two major projects.
 >- We track everyone's progressed on specific tasks using Trello. So we can generate "TODO" list on everyone's Trello project board after each one-on-one meeting, and we mark the tasks as "Done" by examing it on our next one-on-one meeting. We will break down a "big task" into multiple measureable "small tasks".

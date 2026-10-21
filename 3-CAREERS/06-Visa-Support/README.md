@@ -102,6 +102,7 @@ Visa costs when joining the lab from outside the UK vary by the applicant's citi
 >- Begin your pre-arrival checklist on [iVandal](https://www.ivandal.uidaho.edu/istart/controllers/start/StartEngine.cfm). You can submit your passport, visa, emergency contact info, address, etc. before arriving in the US.
 >
 >*If you are Canadian, you do not complete the following steps:*
+>
 >- At the end of the DS-160 process, you can go straight to scheduling an appointment for a visa interview at your country’s US consulate. Once again, do this as soon as possible (depending on the consulate, there can be long [waiting times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html).
 >- Before your appointment, print out all your documents in color. Your consulate will most likely send you a checklist; your passport, I-20, DS-160 confirmation page and 901-sevis fee receipt will definitely be needed. You will probably also need to bring printed ID-photos in a specific US format. Make sure to visit a photographer well in advance and tell them to use the US template.
 >- Make sure you get to your appointment well before the scheduled time, and be prepared to spend the rest of the day there. Most consulates won’t let you bring in electronics: they usually have a safe there for your phone but they don’t accept laptops, so leave it at home.

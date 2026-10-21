@@ -57,6 +57,7 @@ NOTE: Some institutions already implement this process (e.g. "PhD Committee"), o
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Two types of feedback and steering measures are in place:
+>
 >- Annual progress reports: Every PhD student presents their research and answers questions during a public presentation that includes at least all Neurobiology faculty. These progress report meetings are annual at the end of the 1st, 2nd and 3rd year. They are followed by a discussion among the faculty (without the student) and by an official written report that will be shared with the student. A discussion between the student and the committee, but without the supervisor, is not part of this format. However, PhD students have yearly meetings with the PhD coordinator to raise general issues and can request a meeting with the coordinator at any point during their PhD to discuss issues with their supervisor.
 >- External mentorship program: In addition to the school-intern reports, our lab has established an external mentorship program. For every student, we identify an external scientist who meets with the student at least twice a year for 2h (online), starting at the end of their first year. These meetings exclude the supervisor and can be used by the student as they wish, to discuss data, methods, career etc.
 
@@ -104,6 +105,7 @@ NOTE: Some institutions already implement this process (e.g. "PhD Committee"), o
 >_[McDermottLab_2026](https://mcdermottlab.mit.edu/McDermott_lab_manual.pdf)_:
 >
 >PhD students have yearly committee meetings with a group of 3-5 faculty, including the advisor. These are an opportunity to get outside feedback on your research, and you will generally give a presentation of your work. Advice on what to do to get the most out of these meetings:
+>
 >1. Try to schedule at least a 90-minute block for the meeting. One hour is usually not enough time.
 >2. Prepare at most 30 minutes of material. You will typically be interrupted with questions and suggestions, and so you probably won’t make it through more than this.
 >3. Send me slides in advance to get some feedback, and practice your presentation at least once ahead of time.

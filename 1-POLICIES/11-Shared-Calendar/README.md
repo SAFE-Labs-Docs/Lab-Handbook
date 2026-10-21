@@ -29,14 +29,13 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >- The Lab Calendar is used to coordinate the scheduling of studies and meetings for the lab. It is important to check the lab calendar prior to scheduling participants to avoid double-booking two studies using the same technology at the same time.
 >
 >**Basic Rules for Using the Lab Calendar:**
+>
 >- **Updating the Calendar:** Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
 >- **Event Details:** Label the event with the study name and ensure you have allotted the correct amount of time for the study. Add relevant notes if necessary.
 >- **Collaborative Editing:** All lab members have access to edit the calendar; do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
 
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
->
->These one-on-one meetings are organized in a proactive way : you will find open slots for one-on-one meetings every week on the lab common calendar that you can book. This allows for flexibility both in the frequency of meetings and time of the meeting in the week.
 >
 >I also encourage you to indicate your annual leave in the share calendar so that other lab members know about your holidays.
 
@@ -53,6 +52,7 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >_[PHASELab_2026](https://masonphaselab.com/2023/09/17/general-onboarding-document/)_:
 >
 >We have a group mailing list, a Slack workspace (phase-lab.slack.com), a group TimeTree calendar, and a shared server.
+>
 >- Emails will be sent about important updates or information (in German and English), please also use email as a default to send me documents or requests that require more than a quick response
 >- Slack is for contacting other people in the lab with short questions etc. (to replace needing to use Whatsapp or texting)
 >- The server is for accessing and storing documents, data and information for our research projects
@@ -66,12 +66,6 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >* The members are expected to share their Google Calendar, which should be shared with everyone in the lab.
 >* The members are expected to have non-work related programs that overlap with working hours displayed as ‘Busy’.
 
-### Israel
-
->_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
->
->How to schedule meetings: You have access to my calendar where you can see when I am free. You can send an invite for a meeting in free slots. I prefer, when possible, to hold meetings after lunch, 12:30-16:00. There is no need to email me in advance to ask if it’s ok to schedule a meeting, it’s always ok. In the meeting invite please add your name to the title. If you need to cancel a meeting, please let me know sufficiently in advance when possible.
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
@@ -82,6 +76,7 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >IIT workflows are based on Microsoft Office 365. Thus, we use the Outlook Calendar to coordinate activities in the lab. To facilitate readability, please be succint when creating new entries. Here are some ground rules on how to use the shared lab calendar:
 >
 > ABSENCES:Every lab member (PI, post-doc, PhD student, trainee) must write their absences in the lab calendar. There are 4 kinds of absences:
+>
 > - XX away (if on holiday)
 > - XX on Mars (if on Mars for work)
 > - XX remote (if working remotely, I don't need to know where from)
@@ -90,6 +85,7 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 > All of these are for full-day absences. For less than a full day, please don't tell Federico where you are, just go. However, if you are off for a substantial part of the core hours, please send Federico an email – don't worry about clogging his inbox. If you have suggestions on how to improve these rules, let me know and I would be happy to discuss.
 >
 > MEETINGS: The following entries should be included in the lab Calendar: 
+>
 >- Attend in Person (AIP) Events: Lab meetings, Journal Clubs etc.
 >- For your information (FYI) Events: Talks, deadlines, meetings etc.
 >  
@@ -100,11 +96,13 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >CNR workflows are based on Microsoft Office 365. However not all the lab members have access to this tool. Therefore, we use the Google Calendar to coordinate activities in the lab as follow:
 >
 >ABSENCES: Every lab member (PI, post-doc, PhD student, trainee) must write their absences in the lab calendar. There are 3 kinds of absences:
+>
 >- On annual leave
 >- Smart working (working remotely)
 >- Sick absence/medical visit
 >
 >MEETINGS: The following entries should be included in the lab Calendar:
+>
 >- Conference attendance (name of the conference)
 >- Common Events: Lab meetings, Journal Clubs etc.
 >- Other Events: Talks, deadlines, meetings etc.
@@ -127,10 +125,6 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >
 >- **Rapid communications**: we use *Discord* ([join here](https://discord.gg/MHS3fb6fa6)).
 >- **Planning and scheduling**: we use a shared calendar on Outlook. Add your holidays there (specifying your name), as well as events that may be of interest to the lab. Supervisors also specify their meetings.
->- **Vacation**:
->  - In order for accidents while on holiday to be covered by insurance, holidays must be declared. To declare your holidays, simply email Marion CCing Eva with the dates of your holidays.
->  - Taking all your vacation days is mandatory; it is your responsability to make sure you do.
->  - Add your vacations to the lab calendar.
 >- **Lab meeting minutes**: kept in the [LabMeetings](https://gitlab.unige.ch/affect-learning-decisions-lab/LabMeetings) repository (private).
 
 
@@ -138,6 +132,7 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
 >UCL is Microsoft-based. Unfortunately, we are tied into this system. Therefore, the lab calendar is “outlook” and please only access/change it via outlook. Using Google or other third-party software can cause issues (e.g. you think you edited an event, but you didn’t). The following entries should be included in the lab Calendar: 
+>
 >- Attend in Person (AIP) Events: Lab meetings, Journal Clubs etc.
 >- For your information (FYI) Events: Talks, deadlines, meetings etc.
 >
@@ -150,6 +145,10 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >_[OPTIMlab_2026](https://www.georgesdgordon.com/?p=584)_:
 >
 >Please arrange annual leave or holiday in accordance with University and Departmental requirements, and with regard to key deadlines and group commitments. Postgraduate research students should agree holiday dates with their supervisor. As a courtesy, please note any holidays in the ‘Where are we’ shared calendar so others know when you will be away.
+
+>_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
+>
+>We have a shared Outlook lab calendar that can be used for equipment booking, indicating vacations and joint events.
 
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >

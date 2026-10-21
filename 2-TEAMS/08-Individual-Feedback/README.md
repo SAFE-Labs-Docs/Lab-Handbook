@@ -34,17 +34,6 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >We will meet formally once a year to touch base on your progress and plans. My objective with these meetings is to make sure you are effectively working towards your career goals. When the time comes for you to start looking for another position, we can discuss how to put together your application and how to best highight your strengths. We will take notes during those meeting to keep me accountable.
 
-### Canada
->_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
->
->Personal ambition: Ambitious labs need ambitious people. To encourage this we set concrete goals that are challenging but not impossible to obtain (e.g. publish a first author paper, win a poster award, learn a new technique, get a faculty position) and support one another as we work towards them. We encourage one another to ‘dream big’ and to make the transition from calling oneself a student to calling oneself a scientist, colleague and mentor. We acknowledge that a PhD is not a ticket to a faculty position or a life in academia but rather a degree in leadership that can be used in government, industry, teaching, law, medicine, and on occasion, academia. As such everyone in the lab must reflect on what they want from their career and actively work to obtain the skills they need to get there.
-
->_[McMasterBabyLab_2026](https://github.com/McMaster-Baby-Lab/handbook/blob/main/pages/Basics/labActivities.md)_:
->
->Office hours are times where students can drop in and talk to Dr. Xiao about their progress on their study, any challenges they may be having, share successes, or discuss career and research topics.
->
->Office hours are in place of lab meetings. There will be multiple times available to accommodate student schedules. Office hours will be available the last week of each month, with several drop-in times available.
-
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
@@ -65,19 +54,6 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >All lab members have 1o1 meetings with the PI as illustrated in the section "Regular meetings". In addition, at the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
-
-### Japan
->_[MatsunagaLab_2026](https://matsunaga.issp.u-tokyo.ac.jp/admissionpolicy.html)_:
->
->月曜ミーティングの欄で書いた通り、研究の中身や進め方に関する具体的な議論のために個別ミーティングを頻繁に行います。研究以外のことでもどんどん相談に来てください。メールでもOKです。松永はメールの返信はかなり速い方だと思います。他の様々な仕事よりも研究室内のやりとりをできる限り優先していますので、遠慮なく個別に相談や議論を持ちかけてください。
->
->研究で詰まっていることへの解決策がすぐ松永から得られるとは限りません。特に博士課程学生やスタッフの場合、自身の研究については松永よりも詳しくなっているはずなので、議論の際に松永はむしろ質問する側に回ることの方が多いです。それに答えながら、どう課題をクリアするか、研究をどう進めてどうまとめていけばよいのかを考えていってください。
->
->_English translation:_
->
->As written in the Monday meeting section, we hold individual meetings frequently for concrete discussion of the content and conduct of research. Please come to consult us about things other than research too. Email is fine as well. I think Matsunaga is rather quick at replying to email. Because I prioritise exchanges within the lab over my various other tasks as far as possible, please do not hesitate to bring individual consultations or discussions to me.
->
->You will not necessarily get a solution from Matsunaga straight away for what you are stuck on in your research. Especially for doctoral students and staff, who should know more about their own research than Matsunaga, in discussions Matsunaga is more often the one asking the questions. While answering them, please think about how to overcome the problem and how to proceed with and wrap up the research.
 
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
@@ -109,14 +85,6 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >During our annual meetings, we will plan your goals, align them with your career path, and discuss what you can realistically achieve during the next year. 
 
->_[ChiangLab_2026](https://chianglab.usc.edu/resources.html)_:
->
->- You can expect regular one-on-one meetings with me to update on research progress and plan the next steps. Generally you can plan for a one-hour weekly meeting, and can always email or slack me to request additional meetings.
->- You can expect that I will assist with brainstorming, writing, and improving postdoc or graduate fellowship applications, travel grants, or other grant applications.
->- You can expect that I will proofread and contribute significantly to the writing of any abstracts and manuscripts stemming from your research in the lab.
->- You can expect an opportunity to practice, possibly more than once, any talk you will be presenting at conferences or other venues. I will also be happy to provide feedback on the structure and content of the slides prior to the practice talk.
->- You can expect to discuss with me your future career goals or other issues you may have. We can tailor the training plans according to these career goals. You can expect these conversations to take place in a safe space and in a confidential manner if you would like.
-
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >- Who Does Them: All members of the lab will provide progress reports, irrespective of career stage. Additionally, undergraduate students will also write up a report every 6 months (1-page), or at the end of their time in the lab. For undergraduate students and master students, a written progress report and 1:1 meeting is required for a research letter of recommendation from Dr. Chory.
@@ -139,11 +107,18 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >All members are expected, on joining, to develop an individual development plan (IDP) with Dan. Even if this exercise feels silly or foreign, please consider it seriously, as it will be a useful tool for setting expectations in the mentor-mentee relationship. IDPs will be reviewed and revised at least annually.
 >
+>Mentor and mentee are to write down timelines for expected development together and trade versions. Progress (scientific and professional) is evaluated on fixed schedules, as written by the mentee; both provide constructive feedback in writing so it can be referenced. We have regular meetings, with formal meeting agendas, and shared documentation of meeting notes.
+>
 >_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
 >_[DolbowGroup_2026](https://dolbow.pratt.duke.edu/expectations-duke-computational-mechanics-laboratory-dolbow-research-group)_:
 >
 >Professor Dolbow will meet with all students and post-docs in the lab at least once a year to discuss progress on research and progress towards degree, expected timelines to completion, and etc. During these meetings, the members will discuss career aspirations, options, and goals and additional steps (as needed) to help meet them. These meetings will be held every May after classes end.
+
+>_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
+>
+>- We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.
+>    - By 5pm the night before a feedback session, we ask that you write a brief note describing what you think is going well, how you think you can improve, any questions you have, and any suggestions you have for us. After the session, you will write up some brief notes summarizing the conversation.
 
 >_[HealthPolicyDataScienceLab_2026](https://stanfordhpds.github.io/lab_manual/chapters/02-policies.html)_:
 >
@@ -160,15 +135,6 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
 >
 >At the beginning of each term and prior to each field season, we will meet to discuss your longer-term research goals. These meetings should be fun! I love hearing about your ideas and thinking about how each project fits into your broader research plan. Please come to these meetings prepared, having done background reading to identify a knowledge gap with specific questions you want to address, methods that may be appropriate, and ideas of expected results and analysis methods you will use for each project. We will discuss these and come up with a general plan of action, including a timeline for the experiments. These meetings will provide the scaffold for each semester and are really important to ensure we are on the same page.
-
->_[LaBellaLab_2026](https://github.com/The-Lab-LaBella/LaBellaLabHandbook)_:
->
->- Provide a clear vision of the overall goals of the lab.
->- Apply for and secure funding to support all members.
->- Develop independent research projects for lab members that align with their goals and interests.
->- Meet regularly with lab members to discuss goals, projects, progress and wellbeing. Regularly is at least twice a year and can be as often as once a week if needed.
->- Support your career development by facilitating collaborations/introductions, conference travel, providing the necessary resources and writing letters of recommendation.
->- Support your wellbeing as a whole person.
 
 >_[LePenLab_2026](https://hsph.harvard.edu/wp-content/uploads/2026/06/Le-Pen-Lab-Compact-2026-06-05.pdf)_:
 >
@@ -195,13 +161,6 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >At the start of every academic term, a one-on-one meeting with every lab member will be dedicated specifically to evaluating the state of the mentorship relationship. Both participants will discuss answers on [the last online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog)  and reevaluate the worksheets on Mentoring Expectation Scales, Mentee Needs and Wants, and the Mentorship Agreement included in the Cornell [FAIM Practical Toolkit for Mentoring](https://faculty-inclusive-mentoring.cornell.edu/practical-toolkit-for-mentoring/) within the Effective Mentorship Plan folder, making whatever adjustments may be necessary.
-
->_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
->
->- Respect work/life boundaries and not expect responses outside of regular working hours (except under agreed-upon deadlines).
->- Provide opportunities for regular one-to-one meetings with each trainee, including regular in-depth discussion about career goals and strategies for achieving them.
->- Encourage trainees to apply for funding and train them on grantsmanship.
->- Be timely and constructive in providing feedback.
 
 >_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
 >

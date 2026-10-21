@@ -53,6 +53,7 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 >_[GalupaLab_2025](https://www.galupalab.org/)_:
 >
 >This aspect should deserve more of our attention in a near future, as a lab/team. At the institute level, some measures for energy-saving have been implemented (e.g., reduced lights outside of working hours, freezers at -70°C instead of -80°C) and we have an active working group dedicated to green initiatives, called "CBI 1.5", based on the initiative ["Labos 1.5"](https://labos1point5.org/le-gdr). We should strive to minimise energy consumption and waste production; any ideas are welcome.
+>
 >- When traveling for work, we prioritise more sustainable options (e.g. train over plane) when possible, especially when traveling time remains below 8 hours
 >- We recycle as much as possible, in the office and in the lab
 >- We place orders in bulk to reduce shipments
@@ -122,6 +123,7 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 >_[DonaLab_2025](https://github.com/eridona/DonaLab-Handbook)_:
 >
 >Research inevitably consumes energy and generates waste, but we can—and should—strive to minimize our environmental footprint. All lab members are expected to act responsibly and adopt sustainable practices whenever possible.
+>
 >- **Waste Management**: Ensure proper disposal of hazardous materials. If you’re unsure about how to discard a substance, consult safety data sheets or ask for guidance. Always recycle when appropriate.
 >- **Energy Use**: Be mindful of electricity consumption. Turn off lights, equipment, and appliances when they are not in use.
 >- **Sustainable Purchasing**: Whenever feasible, choose products from companies that offer environmentally friendly options or use minimal packaging. Share surplus consumables with others to avoid unnecessary waste.

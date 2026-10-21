@@ -21,6 +21,7 @@ Reference letters will be provided to lab members at request, but these requests
 >I am always happy to serve as reference for past and present members of the lab. When asking for a letter of reference, please reach out at least three weeks before the reference is due. Writing a letter under a shorter timeline may be possible, but the quality may not be as high.
 >
 >To help me write the strongest possible letter, please provide the following when you reach out:
+>
 >- A current CV.
 >- A description of the position or opportunity you are applying for, including any specific criteria or competencies that will be evaluated.
 >- Any aspects of your time in the lab or your broader experience that you would like me to emphasise.
@@ -184,6 +185,7 @@ Reference letters will be provided to lab members at request, but these requests
 >Create google folder titled "Last name, first name YYYY -- Letter of Recommendation".
 >
 >In that folder please include
+>
 >* a google sheet where each row is a school/job. Columns you upload: school name, application deadline. Be sure to provide edit privileges to Crystall. After Crystall uploads the letter she will capture this in the spreadsheet.
 >* up-to-date transcript
 >* up-to-date CV
@@ -295,6 +297,7 @@ Reference letters will be provided to lab members at request, but these requests
 >_[Weecology_2026](https://wiki.weecology.org/docs/lab-policy-procedures/letters-of-recommendation/)_:
 >
 >Provide us plenty of time, ideally at least two weeks (but don't not ask for a letter if it has to happen at the last minute, we'll figure out how to get it done). This is particularly important if it is the first time that we are writing this type of letter for you.
+>
 >* Send a message that includes:
 >    * A link to the job/fellowship/award description
 >    * The date the letter is due

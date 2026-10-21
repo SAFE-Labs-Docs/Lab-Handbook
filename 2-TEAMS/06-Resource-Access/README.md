@@ -22,6 +22,12 @@ The above policies pertain to communal lab resources. Individuals with their own
 ## Examples
 
 ### Canada
+>_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
+>
+>Most general funding issues (e.g., graduate student fellowships, payment rates for research assistantships and work-study postings) will have been discussed and negotiated prior to your arrival in the lab.
+>
+>My capacity to fund travel expenses for conferences or workshops, purchase equipment and software to make your research easier or enable new projects, and cover registration fees for societies, courses, or certificates relevant to your research or professional development will vary depending on the expense and current grant funding. I cannot guarantee funding for these things beyond what was negotiated prior to your arrival, but if there is something that would be helpful for you to have or attend I encourage you to ask. You will never be expected to fund expenses necessary for your research out of your own pocket. If you must make a research- or lab-related purchase yourself, you should fill out a Business Expense Reimbursement Claim and send it to myself or your supervising graduate student. I will always cover expenses related to printing or copying necessary paperwork, paid room rentals (if required), etc.
+
 >_[MayorLab_2026](https://mayor51.wixsite.com/mayorlab/lab-policy)_:
 >
 >Bench space and common space: Each lab member will have a designated lab space consisting of a bench and desk spaces. The location of the designated space may occasionally be re-assigned if the lab is re-configurated. Lab seniority may determine priority for new free space after somebody leave (based on the date a lab member joined the lab).
@@ -141,6 +147,7 @@ The above policies pertain to communal lab resources. Individuals with their own
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
 >Everyone contributes equally to keeping the lab running.
+>
 >- All tools, equipment, consumables, and lab spaces are shared, except for desks. Sign up for shared rooms and equipment in timely manner on the “rooms and equipment” calendar. Reset the space when you’re done or label as a work in progress.
 >- We collectively keep the inventory up-to-date to prevent duplicates. Order replacement inventory at least before we reach 2 week’s supply, to allow for shipping time.
 >- We have an annual lab clean-up in December that everyone is expected to participate in. We use this time to reorganize shared inventory, toss or rehome items no longer in use, and agree on where things should live.
@@ -222,6 +229,7 @@ The above policies pertain to communal lab resources. Individuals with their own
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Misc.html)_:
 >
 >Here's laptop policy for my students:
+>
 >- After I've been your primary graduate advisor for two years (and we expect that state of affairs to continue), you can ask for a laptop as soon as you'd like one. If you have a workable laptop of your own, it's probably a good idea to wait (see #2).
 >- I'll pay for one laptop during your grad school career.
 >- If you've received and still have the use of another university laptop in the last 3 years, you'll need to wait until the laptop is at least 3 years old.

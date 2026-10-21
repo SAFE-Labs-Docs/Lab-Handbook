@@ -51,6 +51,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >_Anonymous lab_:
 >
 >Leaving the lab is an important transition and a little planning goes a long way toward ensuring your work can be continued and that you leave with everything you need. The formal offboarding process is still under development. Nonetheless, before your last day, please make sure you have done the following:
+>
 >- Discussed timelines with [the PI]. If you have papers, analyses, or other projects that are not yet complete at the time of your departure, make a clear plan with [the PI] for how and when these will be finished. This conversation should happen well before your last day, not on it.
 >- Ensure access to your files. Make sure that all of your project files, data, and code are up to date in the lab GitHub organisation before you leave. You will retain access to your personal GitHub account and any repositories you have contributed to, but confirm with [the PI] that you have copies of everything you need for ongoing work after your departure.
 >- Flag any barriers to project completion. If there are factors that may prevent you from completing outstanding work after you leave (e.g., loss of software access, data access restrictions, time constraints) raise these with [the PI] as early as possible so we can work around them together.
@@ -67,8 +68,6 @@ I understand that people decide to leave the lab for different reasons, and may 
 >_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >I expect postdocs will be lead author on anything they produce in the lab. However, I will enforce a policy where they are expected to continue working on writing up and publishing research results after leaving the lab. If, six months after the end of data collection and leaving our lab, you are unable to continue working on publishing research projects, I or another lab member may step in and complete the write-up process. This might involve including new authors or changing order of authorship to reflect the contribution of people involved in completing the write-up process.
-
->_[LRCNLab_2026](https://lrcn.uwo.ca/lab_manual/index.html)_:
 >
 >I review the Slack channels each year to remove users who are no longer with the lab. Honours students and RAs will typically be converted to a guest account for one year after they leave the lab and are deactivated two years later. Any trainee who wishes to stay on as a guest for longer is more than welcome, just let me know.
 
@@ -87,6 +86,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 >_[VORTEXLab_2026](https://github.com/uw-vortex/VORTEX-handbook/blob/master/04-policies.md)_:
 >
 >Another difficult situation commonly encountered by students is how to manage the publishing process after you have completed your degree and have moved onto new jobs or opportunities outside the academic environment. Most importantly, every opportunity will be given to lead graduate students to get first author publications resulting from their thesis work. The following guidelines are to help move this process forward and outlines contingency plans in the event this process does not become feasible:
+>
 >* Prior to leaving the lab, a 'lingering publication plan' will be discussed in the exit interview;
 >* If a paper draft is not adequately prepared up to 3 years after the end of data collection, a conversation will be initiated to re-assign the project to a different student lead to expedite the publication;
 >* If a student willingly relinquishes responsibility to finish a paper, Jason will re-assign the project to a different student lead.
@@ -143,15 +143,18 @@ I understand that people decide to leave the lab for different reasons, and may 
 >It is normal that people will leave the lab, either because they have finished their project, or because they’ve found a new opportunity or for personal reasons. Lab members are encouraged to talk to the PI as soon as they consider leaving the lab. It will not be held against anyone if they want to leave, instead, the PI is dedicated to providing support in planning the next steps or to finding solutions in case the leave is due to health/personal reasons. Once someone has decided to leave, the following steps need to be taken:
 >
 >As early as possible:
+>
 >- Make sure knowledge is transferred and at least one current lab member is trained in relevant techniques.
 >- Discuss how ongoing projects will be continued, how authorship might change etc.
 >
 >In the week(s) before leaving:
+>
 >- Make sure that all documentation (lab book, meta data files) is up to date.
 >- Make sure that all work-related documents are saved in an accessible place.
 >- Clean out personal reagents etc. from fridges. 
 >
 >In the last week:
+>
 >- 1o1 meeting with the PI to go together through the update documentation, discuss and give mutual feedback on the lab member’s time in the lab, and to discuss next steps concerning ongoing projects if adequate.
 
 ### Netherlands
@@ -168,11 +171,20 @@ I understand that people decide to leave the lab for different reasons, and may 
 >People leave the lab for all kinds of reasons, whether after several PhD years, or after a summer project. Hopefully, they are leaving for exciting new opportunities. Regardless of the reason for leaving, please give Anne as much notice as possible so that this transition can take place as smoothly.
 >
 >Offboarding checklist:
+>
 >- Inform the CogPsy secretariat of formal end to your contract, and indicate if your account should be extended as a guest
 >- Go over personal folders for data/code: cleanup, comment, and commit. Share with Anne all remaining data/code that has not yet been published.
 >- Document workflows, protocols, or specific responsibilities.
 >- Return any physical keys to CogPsy secretariat.
 >- Schedule [exit interview](https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab) to review time in the lab, give mutual feedback, and discuss future plans.
+
+### Singapore
+>_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
+>
+>- Offboarding checklist:
+>    - Archive datasets and code; ensure documentation and READMEs are complete.
+>    - Transfer ownership/access to lab repositories and Drive.
+>    - Outline publication plan for any outstanding work; authorship agreed.
 
 ### Spain
 >_[BioKTGroup_2026](https://biokt.github.io/lab-handbook/02_project_organisation)_:
@@ -237,6 +249,10 @@ I understand that people decide to leave the lab for different reasons, and may 
 >- Students are expected to allocate sufficient time (1–2 weeks) for final organization and handover
 
 ### United Kingdom
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/vision_values)_:
+>
+>One caveat to the above is that if a substantial time period passes without a paper being completed after someone leaves the lab (after 2-3 years of finishing data collection), then we may need to reassign the project to a new first author. The policy here is to prevent rare and useful data from remaining unpublished, while giving a healthy window for writing the paper to the person who initially led the project.
+
 >_[RadzisheuskayaLab_2025](https://www.radzisheuskayalab.com/)_:
 >
 >I will be transparent with the employees about the available funding for their positions when they join the lab. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab or a plan for securing the next position. 
@@ -275,6 +291,15 @@ I understand that people decide to leave the lab for different reasons, and may 
 >Of course, the Coen Lab, and my style of supervision, is not the right fit for every scientist: the purpose of rotations and probations is to (hopefully) figure that out before committing to a long-term project together. That is to be expected and is an important part of the process.
 >
 >However, if someone is leaving the lab because they have been made to feel uncomfortable or unwelcome, *that is not to be expected and is not okay*. If you experienced something like this during your time in the lab, please raise it during your exit interview so Pip can take steps to prevent it happening again. Naturally, Pip hopes lab members feel able to raise these concerns as soon as they arise so he can take immediate action: you can submit concerns at any time in regular meetings, or anonymously [here]).
+
+>_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
+>
+>When people abandon projects that are subsequently re-opened, or when people come up with ideas during their time in the Superlab, but don't carry those ideas to fruition until after they've left the lab, there is some inherent ambiguity about how to deal with authorship and collaboration.
+>
+>Here are a few general guidelines about these situations:
+>
+>- If someone takes on a project but subsequently hands it off to someone else, they will usually also give first authorship to that person, but can stay on the paper as a middle author (if they want to).
+>- If someone comes up with an idea for a research project while working in the lab and that idea benefits from lab resources, discussions with labmates and with Reshanne, etc, these constitute bona fide contributions to research. That means they must invite Reshanne and anyone else who contributed to collaborate on the project. Remember that ideas are the lifeblood of science: if someone contributed to the development of your idea, then you are ethically obligated to give that person credit when your idea comes to fruition (in many cases, this means authorship).
 
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
@@ -429,8 +454,6 @@ I understand that people decide to leave the lab for different reasons, and may 
 >_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >All lab members should write papers before leaving the lab (Barker, 2010) If a paper is submitted before a lab member leaves and it comes back requiring revisions, the first author or someone previously designated should make those changes and resubmit. If a paper is submitted before a lab member leaves but is then rejected, the person who rewrites the paper will become the first author (ideally this is the original first author). If a paper is left unfinished when a lab member leaves, the person who writes the paper and submits it becomes the first author.
-
->_[NicholGroup_2026](https://sites.rochester.edu/nichol/wp-content/uploads/2024/05/lab_manual.pdf)_:
 >
 >In general, please ask me for permission to share anything from our group that has not been published. This includes things that the group has produced, like fabrication recipes or tricks, special measure code, etc. This excludes things that only you have produced, like your private code folder, presentations, etc. (i.e., you can use or share these things as you see fit).
 >

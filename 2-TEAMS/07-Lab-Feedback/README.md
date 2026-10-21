@@ -42,14 +42,9 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >
 >These records can be found below:
 
->_[LaDeDALab_2026](https://www.oxcin.ox.ac.uk/about/training/decisiondynamicslab.pdf)_:
->
->Make your feedback open, honest, and kind. You should also feel free to challenge the PI whenever you think he is wrong or your opinion is different. This may feel easier as you become more experienced, but you should never assume that the PI ‘knows best’, as he often doesn’t. By having open debates (especially about science, but also about how the lab should be run) more progress is typically made than by simply agreeing with the status quo.
-
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
->- Every January, I give a “state of the lab” talk to be transparent about how and why I make decisions and to give a primer on managing a lab. In this talk, I’ll share the past and future years’ strategies for spending, grants, hiring, publishing, and other activities. We’ll celebrate our lab’s accomplishments and set our sights on the next chapter.
 >- Every December, we assess the state of the lab through an anonymous culture survey to be completed by every lab member. This is an opportunity for you to give me feedback and to shape the lab culture. I present the results, solicit ideas for improvement next year, and follow-up on what suggestions are implemented and by whom.
 
 >_[CognAcLab_2026](https://ivrylab.berkeley.edu/files/CognAc%20LAB%20POLICIES%20July2025.pdf)_:
@@ -71,22 +66,6 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 >I was also grateful for more constructive feedback on how I could improve, including working with each individual student to define milestones and success together, delegating more project management responsibilities to the lead PhD (greater sense of autonomy), ensuring that all students feel “safe to fail”, and ensuring that feedback is delivered constructively.
 >
 >For consistency, I would like to request this letter during the Spring quarter.
-
->_[MsEELab_2026](https://mseelab.org/handbook.html)_:
->
->At the start of every academic term, MsEE Lab holds a "State of the Lab" meeting. The purpose of this meeting is to assess how the lab's actions align with its goals and how its goals align with its guiding principles, and to adjust actions and/or goals accordingly. 
->
->In preparation for this meeting, Pablo discusses the state of each research project with all lab members involved. The lab members involved in a paper then create one slide summarizing its status. Additionally, members of the lab fill out [an online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog) providing feedback on the lab's management and Pablo's mentorship.
->
->A number of things happen during the meeting itself: 
->1. Pablo presents the lab's guiding principles, five-year goals, and general one-year goals (~5 min). 
->2. Lab members present a quick overview of research projects ongoing in the lab with their goals for the upcoming year. Plans for changes in current projects or potential new lines of work are presented (~10 min).
->3. Pablo presents the lab's current funding status, expenses, and potential changes in personnel for the upcoming term (~5 min). Feedback received in the survey that pertains to this topic is included.
->4. The lab discusses alignment between guiding principles, goals, projects, funding, and other activities (~15 min).
->5. Pablo reviews any action items from the previous State of the Lab meeting regarding lab management and mentorship practices, and presents the aggregated feedback received in the survey (~10 min).
->6. The lab discusses potential improvements on lab management and mentorship practices, including changes to the MsEE Lab Handbook, and defines action items to be pursued next (~15 min).
->
->Notes and results of this meeting are communicated in writing to all lab members by Pablo.
 
 >_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
 >

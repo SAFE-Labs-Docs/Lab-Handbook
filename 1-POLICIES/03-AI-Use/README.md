@@ -39,6 +39,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >In the Evenden Lab, GenAI cannot be used as a ghost writer. It should not be used to generate code for statistical analyses or original written work or images. We do not upload our data sets to GenAI tools that share files. It can be used for troubleshooting and copy editing.
 >
 >Disclosure/Transparency Policy:
+>
 >- Keep chat logs with AI tools and notes detailing when generative AI tools were used
 >- Disclose any and all use of AI tools in research development (hypotheses generation) and writing with supervisor. Maintain transparency with supervisor about involvement of AI tools in analyses. See example disclosure statements here
 >- Ensure that AI use is within guidelines for funding agencies and journal requirements and its use is communicated clearly in published manuscripts and theses
@@ -62,12 +63,14 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >6. AI-assisted writing
 >
 >AI tools can help to:
+>
 >- structure arguments;
 >- improve language and expression;
 >- check consistency of terminology;
 >- turn existing facts into abstracts, figure legends or response outlines.
 >
 >But all AI output must be checked by the author, who is responsible for:
+>
 >- numbers, units and sample IDs;
 >- facts and citations;
 >- the strength of conclusions;
@@ -106,6 +109,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
 >
 >People are getting more and more creative with finding applications for AI tools, therefore, rather than specifying what people can use it for, I find it easier to list the unacceptable uses.
+>
 >- plagiarizing writing or art
 >- directly copying AI output with no verification or validation (facts, citations, code, logic)
 >- substituting reading of full journal articles with AI summaries (in the context of journal clubs or reading vital literature for the research)
@@ -131,6 +135,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >When such tools are used to support research activities, their role must be transparent, appropriate to the task, and aligned with open science and reproducibility standards. Clear distinctions between studying algorithms, applying algorithms, and using generative tools are essential to maintaining conceptual clarity and methodological integrity.
 >
 >While there is no blanket ban on the use of AI tools in our lab, consider the following:
+>
 >- Is it clear and transparent how the tool works? In order to justify using the tool for scientific work, we must know _how_ it operates.
 >- What is the goal of the work you're doing? In many cases, the goal is not to get the work done - the goal is learning how to do the work. For example, a PhD is expected to graduate with an academic level of competence in writing, coding, data analysis, and research skills. Outsourcing these tasks to an algorithm does not serve the purpose of learning those skills.
 >- Is the AI tool ethically trained? Just like we would not resort to sweat shop labor or copyright infringement to obtain research data, we should not use tools that use these methods to train an algorithm.
@@ -152,6 +157,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[BartomeusLab_2026](https://bartomeuslab.com/2026/06/15/genai-lab-guidelines/)_:
 >
 >We do not prioritize speed. Earning a PhD is learning how to do science. How to write code, how to write an introduction. This implies doing it yourself and not delegating your tasks.
+>
 >- When the benefits of AI for a particular task are clear, we select the right tool (e.g. Google Scholar Labs for references) and use it with care. This often implies cautious prompts that are as specific as possible, and not broad task delegation. e.g., explain to me why this fails > fix this line of code > write me code that does X.
 >- Be upfront. Discuss early the expected genAI usage for a given project with all co-authors, and ensure everyone is comfortable with the plan. Disclose substantial AI use in all our outputs. If we use it, we explain it. This is transparency. Exceptions can be small grammatical edits by e.g., Grammarly, and small technical questions, but any paragraph, code, or image generated should be credited.
 >- We take responsibility for checking all AI outputs. It is our duty to fact-check AI work, from ensuring the code is functional, the references exist and say what the AI claims, or the suggested text corrections do not change the intended meaning. In a nutshell, we take full responsabiliyty of the tools we use.
@@ -201,12 +207,14 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[AneGroup_2026](https://github.com/cecileane/ane-group-guidelines-expectations/blob/main/generativeAI.md)_:
 >
 >Generative AI is incredibly useful. Overarching guidelines:
+>
 >1. use it to be more productive
 >2. question everything, check accuracy, take full 100% responsibility for the outcome
 >3. don't use it to skip learning
 >4. never input confidential information, such as data or unpublished manuscripts
 >
 >For #2 specifically:
+>
 >* check any code produced by generative AI: accuracy is paramount
 >* review all writing produced by genAI: you will be the author in the end
 >* as everything, *document*: before you start using AI, document the tool version, document how & why you use it, save your prompts. You will need this information.
@@ -263,6 +271,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/CommunityGuidelines.md)_:
 >
 >**Use of generative AI/large language models:** LLMs are a rapidly evolving tool that can be helpful but can lead to serious environmental, ethical and legal violations. Most importantly, LLM use can disrupt the learning process. As we are all learning, shortcutting this process robs us of opportunities for growth. We are scholars and the purpose of scholarship is to help more people better understand the world not to generate text. **As such, our default position is that AI use for scholarship (in the lab) is not acceptable, with exceptions only as approved by Sarah.**
+>
 >- **Never** upload data into an LLM/online AI tool. The data is owned by the lab and doing so violates our intellectual property rights. LLMs are not good at data analysis and will often find patterns in data that aren't there.
 >- **Never** upload an unpublished manuscript or grant proposal into an LLM/online AI tool.
 >- AI for any sort of scientific writing is not acceptable. The act of writing is the act of thinking; using AI to write is bypassing thinking.
@@ -338,6 +347,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >When it comes to scientific writing, below are not acceptable and acceptable uses of generative AI tools in the lab:
 >
 >Not-acceptable uses:
+>
 >- First draft of a scientific manuscript
 >- First draft of a grant proposal
 >- First draft of an abstract or summary.
@@ -345,6 +355,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >- Anything that involves uploading identifying information. WSU Executive Policy 8 prohibits the inclusion of legally protected or regulated data (e.g., proprietary, personally identifiable information, HIPAA, FERPA) in queries provided to generative AI platforms.
 >
 >Acceptable uses:
+>
 >- Brainstorming/outlining
 >- Summarization (e.g., shortening length of an abstract)
 >- Enhanced writing and editing (e.g., grammar checks)
@@ -391,6 +402,7 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >General Best Practices
 >
 >These principles apply to everyone in the lab, regardless of experience level:
+>
 >- Always check AI output before relying on it.
 >- Ask for sources and verify them.
 >- Accountability — independently validate what the AI produces.

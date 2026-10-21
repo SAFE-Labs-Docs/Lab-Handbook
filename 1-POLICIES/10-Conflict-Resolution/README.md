@@ -41,16 +41,8 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 
 
 ### Germany
->_[MerenLab_2026](https://merenlab.org/culture/)_:
->
->- I expect you to reach out to me when you need help. Please remember that it is not your job to try to protect my time.
->
->- In addition to technical and intellectual difficulties, science life can have steep ups and downs. Even when you are excellent at what you are doing and on the right right track, doubts can be quite challenging to overcome. I wish you to let me know if you are going through a rough patch.
-
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
->Lab members are encouraged to report any bullying, harassment or discriminatory behavior without fear of retaliation to the PI, to [confidential parties](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text) for conflict mediation and consultation, or contact the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html). For academic misconduct allegations, report to your PI or contact [HU’s Ombudspersonen](https://gremien.hu-berlin.de/de/en/gremien/commissions/fehlverhalten/index.html).
->   
 >Steps for raising lab or inter-personal issues
 >  
 >1. If comfortable doing so, request a meeting to raise the issue with the PI. The PI commits to treat such meetings confidential and without personal consequences for the person raising any issue. 
@@ -62,8 +54,6 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
 >
 >If you feel something isn’t working (in the project, in how we work together, with a co-worker, in the lab) - my door is always open. I may not always be able to solve or change the issues you raise, but will do my best to try. And sometimes just discussing them is important.
->
->There may be times where you work less than usual due to illness, personal issues or any other reason. This is fine, science is not a 9-17 job, and typically there will be other periods of time when you find yourself working extra hours. But if you see this goes on for a while, talk to me and we can think of ways to improve matters.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
@@ -104,13 +94,10 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >3.  If external involvement would be beneficial, contact your mentor (if a post doc) or your secondary advisor (if a PhD student).
 >4. If none of the above steps feel appropriate, raise the issue with [UCL Report & Support](https://report-support.ucl.ac.uk/).
 
->_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/vision_values)_:
->
->If you notice someone being harassed, or are harassed yourself, tell Steve immediately. If Steve is the cause of your concern, then have a word with your Head of Department or another trusted faculty member.
-
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >If you are comfortable doing so, please raise the issue with me during our 1-to-1 meetings. I encourage you to bring the problem up as early as possible to ensure we can resolve this in a timely manner. If you don't feel like you can bring it up with me, you can informally:
+>
 >- speak with one of your co-supervisors
 >- speak with a trusted colleague
 >
@@ -176,6 +163,7 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >_[CTCNLab_2026](https://sites.bu.edu/ctcnlab/people/our-lab-culture/)_:
 >
 >When we are in conflict, we follow the following, we follow this protocol:
+>
 >- Go directly to the person you have a conflict with whenever that is possible.
 >- If that isn’t possible, the senior postdoc is the point person (including via the anonymous feedback form).
 >- If the conflict involves the senior postdoc, or you are not comfortable going to the senior postdoc, go to your respective PI; if that isn’t possible, go to another PI in the lab.
@@ -190,15 +178,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >_[LawrenceLab_2026](https://www.urmc.rochester.edu/labs/lawrence/expectations.aspx)_:
 >
 >Disagreements, misunderstandings, and conflicts within a group sometimes happen. Early and authentic communication are key to resolving issues and minimizing conflicts. If you have concerns about your interaction with me or with anyone else, please don’t hesitate to come talk with me.
+>
 >- If you wish a conversation to remain confidential, please be sure to indicate that at the start of the conversation. I will endeavor to respect this request, and if I am unable to do so I will let you know.
 
 >_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
 >
 >I appreciate you raising any concerns directly with me as soon as they arise. Some issues may be difficult to discuss. For this reason, we have a mechanism by which you can submit feedback to me anonymously. Click here to access the anonymous feedback survey. Understand that responses to this survey will go directly to me (Talia), but I won’t know who submitted them unless you leave identifying details in the response itself. That said, please do try to give as much detail as you are comfortable with about your concern or suggestion. The more detail I have, the more able I will be to act to remedy the issue. Be aware that I am a Title IX mandatory reporter and MUST report any allegations of sexual harassment, misconduct, or discrimination. If you aren’t comfortable talking to me about an issue, you may wish to speak instead with the University ombudsperson https://www.northwestern.edu/ombuds/
-
->_[LohmannLab_2026](https://web.uri.edu/gso/wp-content/uploads/sites/916/Code-of-Conduct_Lohmann-Lab2.pdf)_:
->
->Members of the community who violate these rules - no matter how much they have contributed to the Lohmann lab, or how specialized their skill set - will be approached by Dr. Lohmann. If inappropriate behavior persists after a discussion with Dr. Lohmann, the contributor will be asked to discontinue their participation in Lohmann lab projects.
 
 >_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
 >

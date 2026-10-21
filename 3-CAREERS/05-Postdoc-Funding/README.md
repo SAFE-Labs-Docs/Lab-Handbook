@@ -58,12 +58,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc) when you are eligible to do so. Typically an initial contract is for one or two years of support from my research grants. In some cases this may be extended but this is highly dependent on circumstance, budget, etc.
 
->_[LindsayLab_2026](https://e-y-m.github.io/lindsay-lab-manual/)_:
->
->Most general funding issues (e.g., graduate student fellowships, payment rates for research assistantships and work-study postings) will have been discussed and negotiated prior to your arrival in the lab.
->
->My capacity to fund travel expenses for conferences or workshops, purchase equipment and software to make your research easier or enable new projects, and cover registration fees for societies, courses, or certificates relevant to your research or professional development will vary depending on the expense and current grant funding. I cannot guarantee funding for these things beyond what was negotiated prior to your arrival, but if there is something that would be helpful for you to have or attend I encourage you to ask. You will never be expected to fund expenses necessary for your research out of your own pocket. If you must make a research- or lab-related purchase yourself, you should fill out a Business Expense Reimbursement Claim and send it to myself or your supervising graduate student. I will always cover expenses related to printing or copying necessary paperwork, paid room rentals (if required), etc.
-
 >_[RollinsonLab_2026](https://rollinson.eeb.utoronto.ca/wp-content/blogs.dir/42/files/sites/20/2025/09/Lab-agreement.pdf)_:
 >
 >Agreed upon research programs of graduate students and post-docs will be funded by Njal to the level required to complete them, barring unforeseen circumstances including loss of grant funding and substantial increases in costs.
@@ -94,16 +88,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Excellent research assistants can receive 50,000 yuan a year in independent research funding to support their personal research interests.
 
-### Czech Republic
-
->_[LabAllience_2026](https://lab-allience.natur.cuni.cz/charter19)_:
->
->2.6. As a PhD is a full-time job, one must provide enough money for the student to live decently, as it is unfruitful and unacceptable that the student may need to have a job on the side in order to survive. Giving a PhD student a salary may make some group leaders think of PhD students as employees, but we must remind ourselves that despite this in-between student/employee situation, PhD students ARE, first of all, students and therefore have the right to receive a proper education as mentioned above. The fact that PhD students are paid on one’s grant does not mean they are paid on one’s own money. Getting a grant is indeed not being given money, but instead, being given the right by a government to manage tax money to put to good use. In case of PhD students, putting tax money to good use means bringing the best possible education. Therefore, a PhD student spending time this way (such as attending courses) rather than working on a PI’s research program cannot be in any way a waste of the PI’s money, as it is not the PI’s money and PhD education is what a government subsidizes for. Certainly, PhD students in return have the duty to conduct their PhD program as well as they can, but as we shall mention, they are aware of it most of the time.
-
 ### Finland
 >_[CellMigrationLab_2026](https://cellmig.org/join-us/)_:
 >
 >Postdocs join us with their own fellowship. We help you choose a scheme, shape the project and write the application. The main options are:
+>
 >- Marie Skłodowska-Curie Postdoctoral Fellowships (European Commission)
 >- EMBO Postdoctoral Fellowships
 >- Human Frontier Science Program fellowships
@@ -139,19 +128,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Available funding depends on current grants and project goals and will be discussed with each researcher during hiring and onboarding. In general, funding for graduate students and postdoctoral researchers is available for at least 3 years. Typically, I will ask postdocs and graduate students, where appropriate, to apply for funding. I guide and support the grant writing process. This helps to crystalise their project approach and hypotheses, are valuable additions to a researcher's CV, and can provide additional funding for professional activities (e.g. travel).
 
-### India
-
->_[PopulationBiologyLab_2026](https://pbl.acads.iiserpune.ac.in/join-us)_:
->
->IISER-P does not pay for salaries of project assistants. Hence there are two options:
->
->- Students with fellowships (NET, ICMR, etc.) : Many students have their own fellowships but do not wish to join for PhD straightaway. They tend to spend a year or so gathering work experience, before making up their mind about doing a PhD. Please note that the Biology division of IISER-Pune does not encourage the admission of such students.
->- Students without fellowships : Such students can only be taken under various projects. Thus the number of such posts would wax and wane with the number of projects in the lab. Please keep checking our FB page for latest announcements.
-
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >There are no (very few) Italian personal grants for postdocs. Hence, funding can come from one out of three sources: (1) Lab grant, (2) EU fellowship (MSCA etc.), (3) School funds. Since 2025, postdoc contracts are work contracts that include taxes, contributions to pension schemes etc. The details of these contracts will be communicated by HR. Postdocs can likely expect the following salaries and contract durations:
+>
 >1. Lab grants: Initial contracts are for 12 months, but there will be clear communication about the duration of the current funding and the anticipated duration of the postdoc (typically at least 3 years). If funds allow, we aim to pay more than Italian standard postdoc contracts, currently we pay around 27’000-30’000 Euro net per year from which only a small health care contribution needs to be subtracted. 
 >2. EU fellowships: Typical fellowship durations are 2-3 years. Salaries can vary widely and are determined by the agency; they cannot be “topped-up” by other funding sources. An MSCA currently pays more than double of a typical Italian postdoc salary.
 >3. School funds: Depending on school budgets, there are certain numbers of “postdoc months” that can be paid from school money. Durations are variable but will be max. 12 months. How these fellowships will look like exactly under the new law is not clear yet.
@@ -191,6 +172,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >
 >Any advertised postdoctoral position is fully funded for the duration specified on the job advertisement. However, all postdocs are required to apply for funding and fellowships when accepting a position in the lab. This is for three reasons:
+>
 >1. It helps to crystalise their project approach and hypotheses
 >2. Fellowships are valuable additions to a researcher’s CV
 >3. It can provide additional funding for professional activities (e.g. travel)
@@ -229,6 +211,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[JimenezGroup_2026](http://cires1.colorado.edu/jimenez-group/wiki/index.php/FAQ_Prospective)_:
 >
 >The two sources of funding are our research grants and postdoctoral fellowships. In the US postdoctoral fellowships are more scarce than PhD student fellowships.
+>
 >- As of January 2012, the fraction of postdoc-months for all past and current postdocs in our group supported by each source was: research grants 83%, fellowships 17%.
 >- Teaching is not a viable funding source for postdocs, as you would need to teach an extremely heavy schedule to have a reasonable salary, but then you would have no time for research at all.
 
@@ -243,6 +226,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/funding/funding.html)_:
 >
 >Most postdocs in the lab are funded through postdoctoral fellowships or grants that they write themselves.
+>
 >- Some postdocs are funded through existing grants. In this case, the postdoc must spend a significant portion of their time working on that project. However, the lab also provides postdocs the room to develop their own ideas.
 >
 >Postdocs should pay close attention to the details of their funding arrangement. For example, F32 NIH funding to the university comes with a financial account where the institutional allowance is included. Stanford taps this allowance for 'university insurance', so one should be aware that funds will deplete faster than may be presumed.
@@ -250,6 +234,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >Talk with me about pursuing funding opportunities
+>
 >- Work with me to find a project
 >- Own and drive your project
 >- Look to me more for suggests than direction
@@ -271,6 +256,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >If current/prospective students or postdocs are interested in applying for external funding opportunities, such as fellowships, I highly encourage you let me know, and I will do what I can to help you craft a competitive application. If I think that you are a good candidate for a specific opportunity, I will share that with you as well. Some specific relevant opportunities are listed below:
 >
 >***Graduate Students***
+>
 >* [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) (usually due in mid-late October)
 >* [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) (usually due in the first half of January)
 >* [National Defense Science and Engineering Graduate Fellowship](https://ndseg.org/) (usually due end of October)
@@ -278,6 +264,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >* [National Institute of Health F31 Predoctoral Fellowships](https://researchtraining.nih.gov/programs/fellowships) (standard NIH due dates)
 >
 >***Postdotoral Researchers***
+>
 >* [Presidential Postdoral Research Fellowship](https://dof.princeton.edu/Presidential-Postdoctoral-Fellows) (requires nomination by November)
 >* [Princeton Center for Theoretical Science Postdoctoral Fellowship](https://pcts.princeton.edu/nominations) (requires nomination, usually in October)
 >* [Andlinger Center Distinguished Postdoctoral Fellowship](https://acee.princeton.edu/postdoc-program/) (usually due in December with interviews in Spring; competitive applicants usually work with multiple advisors)

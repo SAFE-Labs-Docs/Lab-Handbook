@@ -42,12 +42,6 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >Lab members are encouraged to report any bullying, harassment or discriminatory behavior without fear of retaliation to the PI, to [confidential parties](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text) for conflict mediation and consultation, or contact the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html). For academic misconduct allegations, report to your PI or contact [HU’s Ombudspersonen](https://gremien.hu-berlin.de/de/en/gremien/commissions/fehlverhalten/index.html).
->   
->Steps for raising lab or inter-personal issues
->  
->1. If comfortable doing so, request a meeting to raise the issue with the PI. The PI commits to treat such meetings confidential and without personal consequences for the person raising any issue. 
->2. If this is not possible, please raise the issue by consulting HGS Conflict Consultation [here](https://www.humboldt-graduate-school.de/en/services-en/konflikte/kss-text).
->3. If none of the above steps fare appropriate, raise the issue with the [‘Personalrat’ (employee representatives)](https://vertretungen.hu-berlin.de/de/personalrat/map1_html).
 
 ### India
 
@@ -63,6 +57,7 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Under no circumstances do we support any form of bullying or harassment, whether verbal or physical. SISSA has multiple measures in place to report bullying and harassment, and to receive psychological support as well as help with possible actions and consequences. The following four routes can be taken if someone experiences bullying and harassment:
+>
 >- Talk to the PI and/or the PhD coordinator: For less severe cases or if one wants to first have an informal chat about incidences, the PI as well as the PhD coordinator can be contacted. 
 >- The CUG representative: The CUG (Comitato Unico di Garanzia – Committee for equal opportunities) representative is the official contact person to report bullying and harassment.  
 >- Talk to the ombuds person: The ombuds person, like the PI, do not have legal knowledge and are not entitled to take any actions, but they are an independent and confidential resource with more extensive knowledge of possible actions and consequences.
@@ -95,6 +90,7 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 >Bullying, harassment and misconduct are [unacceptable](https://www.staff.universiteitleiden.nl/vr/social-and-behavioural-sciences/teacher-platform-fsw/teaching--supporting-the-learning-process/diversity-and-inclusion/fsw-code-of-conduct?cf=social-and-behavioural-sciences&cd=psychology). If you witness or are subjected to anything that may fit their description, then tell [someone who can do something](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology).
 >
 >The following four routes can be taken if someone experiences bullying and harassment:
+>
 >1. Talk to your PI and/or lab members: for less severe cases or if one wants to first have an informal chat about incidences, please bring up issues and questions with the lab. Often, an open and honest conversation early on can clarify much more than waiting until things get worse.
 >2. If you'd rather talk with someone outside the lab, contact the Unit chair (Guido Band) or the unit's PhD/postdoc representative.
 >3. For PhD students, the [FSW graduate school](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences) has mentors and people you can connect with.
@@ -113,6 +109,10 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 >If you feel uncomfortable in any situation, or you see potentially uncomfortable situations for other people, speak up directly (we cultivate a culture of open honest feedback) or report it if you don’t feel secure to speak up in public. For reporting abusive behaviors, or any other doubt related to this issue, please write to Virginia Dominguez or Ignasi Bartomeus. Only these persons will have access to the information, and it will never be shared in any form without the explicit consent of the denouncer. We understand that some situations might be not easy, especially when one is in an unstable position or is starting to work in a certain field. Therefore, our commitment is to help the denouncers and maintain their anonymity.
 
 ### United Kingdom
+>_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/vision_values)_:
+>
+>If you notice someone being harassed, or are harassed yourself, tell Steve immediately. If Steve is the cause of your concern, then have a word with your Head of Department or another trusted faculty member.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >Bullying and harassment are entirely unacceptable behavior in any work environment. Please be familiar with the University of Liverpool [Bullying and Harassment Policy](https://www.liverpool.ac.uk/media/intranet/humanresources/content/headers/policies/Bullying,and,Harassment,Policy,(2022),v1.docx), including steps staff and students can take if they wish to formally or informally report, or receive confidential advice about, any concerning behavior that they have witnessed or been subjected to.

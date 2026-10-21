@@ -35,6 +35,7 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >_[EvendenLab_2026](https://grad.biology.ualberta.ca/evenden/lab-code-of-conduct/)_:
 >
 >If you see something inappropriate happening, a gentle reminder about the Code of Conduct is a productive response:
+>
 >- Everybody makes mistakes, acknowledge them
 >- Try to respond in a constructive way
 >- First try to resolve the issue with the person you have an issue with
@@ -125,6 +126,7 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >All lab members are expected to act with integrity, accountability, and mutual respect in all scientific and interpersonal interactions, while upholding high standards of rigor, collaboration, and ethical conduct.
 >
 >We foster a lab culture based on the following principles:
+>
 >- **Honesty**: Be transparent about your work, including insights gained, difficulties encountered, and any mistakes—errors are part of learning and development.
 >- **Respect**: Treat all individuals—colleagues, staff, and visitors—with the same courtesy and dignity. 
 >- **Communication**: Share progress, ask questions, raise concerns, and don't hesitate to ask for help or offer it when needed.
@@ -169,6 +171,7 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >What I expect from my lab members: 
+>
 >- HONESTY - I expect everyone to be honest about the insights they gained, about mistakes that happened, and about their plans and intentions as far as they concern their work and the lab. Importantly, making mistakes is part of the learning and skill development process! 
 >- FEEDBACK - Give me feedback – both if you find something I do helpful, but also if I do or say something you think is wrong or not in the best interest of everyone. 
 >-  COMMUNICATION - Communicate frequently, clearly and concisely. Tell us about your successes, ask questions, and ask for help to solve problems. 
@@ -204,6 +207,8 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >We pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, social and economic status, nationality, personal appearance, race, religion, neurodiversity, or sexual identity and orientation.
 >
 >We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+>
+>We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is important to apologize to those affected by our mistakes. By listening carefully and respectfully, and doing our best to right the wrong, one is expected to learn from the experience.
 
 >_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
 >
@@ -339,6 +344,8 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >- Welcoming of differences. Tolerance means recognizing that our diversity is a strength — a wellspring of creativity and renewal for all members.
 >
 >Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, language, and culture, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+>
+>Members of the community who violate these rules - no matter how much they have contributed to the Lohmann lab, or how specialized their skill set - will be approached by Dr. Lohmann. If inappropriate behavior persists after a discussion with Dr. Lohmann, the contributor will be asked to discontinue their participation in Lohmann lab projects.
 
 >_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
 >

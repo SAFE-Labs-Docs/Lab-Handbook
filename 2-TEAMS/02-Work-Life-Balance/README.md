@@ -71,6 +71,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
 >
 >The Baron Lab supports a healthy work-life balance.
+>
 >- Trainees are requested to be present on-site during the “core hours” of 10 am to 3 pm as much as they can manage because face-to-face time with their peers is essential for creating a positive work atmosphere, improving mental health, building professional relationships, mentorship, and forming collaborations.
 >    - If this is difficult for you, alternative arrangements are completely acceptable. Please discuss alternative arrangements with Dr. Baron.
 >- Dr. Baron does not require trainees to ask for permission to take time off for single or partial days off. For longer vacations please notify Dr. Baron.
@@ -162,6 +163,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[GalupaLab_2025](https://www.galupalab.org/)_:
 >
 >A full list of expectations is listed in the Lab Guide: [Galupa_lab_guide_shared](https://docs.google.com/document/d/1KEXuseDZXm56bzOORaU3rUEO9Ireo_YXG48DKU90H9Y/edit?usp=sharing)
+>
 >- The number of working hours is defined in our contracts – this does not mean we cannot be flexible (and sometimes we do have to be flexible, due to experiments). In order to encourage interactions within the lab, please try to be in the lab most weekdays between 10am and 4pm or so
 >- Our type of work and experiments will sometimes involve working late or in the weekends; in such cases, feel free to take the corresponding time off during the week
 >- Let me know when you are planning not to come to the lab – whether on holidays, or working from home, or because you have "external" appointments (in most of these cases, you will have to make an official request)
@@ -202,7 +204,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- **Project Requirements:** Occasionally, projects require longer work hours such as for completing an experiment. Lab members commit to accommodate these work hours to successfully implement their projects.
 >- **Flexibility:** Science’s inherent flexibility allows for personal scheduling outside core work hours (Mon-Fri 10am-4pm). The PI respects work preferences and encourages the full use of vacation days.
 >- **Meetings and events:** Meetings will typically be during coure hours only. The PI avoids communication outside these hours unless urgent, respecting personal time. Lab members are not expected to be responsive outside core hours, in particular when using asynchronous media such as slack or email. Participation at social or networking events is encouraged but not mandatory.
->- **Additional Support Structures:** Lab members are referred to  [HGS mentoring](https://www.humboldt-graduate-school.de/en/services-en/Career-Development), the institute’s [mental health resources](https://www.humboldt-graduate-school.de/de/services/mental_health/mental_health), and [information](https://www.familienbuero.hu-berlin.de/de/en/familienbuero/information-for-families/phd-and-family/phd-and-family) on [supporting families](https://www.humboldt-graduate-school.de/en/services-en/doctorate-and-family-life).
 
 >_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_:
 >
@@ -241,11 +242,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[ABYHumanMemoryLab_2026](https://www.abymemlab.com/copy-of-resources-1)_:
 >
 >The working hours are quite flexible, but I do expect lab members to work in the lab during core hours (10-15), so that there will be overlap between people. Nothing beats turning to the person sitting next to you when you need advice. Working remotely should be limited to at most once a week, but let me know if you have specific circumstances that require working remotely a larger proportion of the time. The number of weekly hours can naturally vary from week to week, especially for students taking courses. This is fine, but please aim on average for the number of pre-agreed weekly hours. Students for advanced degrees and postdoctoral fellows are expected to devote full time to the lab (aside from courses), unless there are special circumstances which do not allow you to do so, in which case please reach out to me to let me know.
+>
+>There may be times where you work less than usual due to illness, personal issues or any other reason. This is fine, science is not a 9-17 job, and typically there will be other periods of time when you find yourself working extra hours. But if you see this goes on for a while, talk to me and we can think of ways to improve matters.
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Experimental science rarely fits into a 9-5 schedule. Experiments might take longer, trouble shooting may cause delays, or urgent deadlines require longer working hours. 
+>
 >- Work hours: While individual working days may not follow a standard schedule, the average work week should be 40h and everyone is entitled to 20 days of vacation (if on a fellowship) or to the time and days detailed in their contract (if on a work contract). In practice, this means that there might be days or even weeks where lab members work more than 8h/day or 40h/week, but this should be compensated by lighter schedules in subsequent weeks, days off or longer vacations to ensure well-being. Conference attendance etc. counts as working hours!
 >- Core work hours: To enable flexibility, we have short core work hours. Team members are expected to be present or available online from 11am to 3pm every workday as well as during scheduled meetings such as lab meetings. This ensures at least a minimal possibility for interactions between lab members. You can expect that, with as few exceptions as possible, seminars and mandatory meetings will be scheduled between 9am and 4pm. 
 >- Working from home: During experimental phases, team members are expected to be at the institute 4 days per week. Changes to this, e.g. during data analysis and writing times, are possible but should be discussed with the PI. Lab meetings are to be attended in person. Exceptions will be granted only for specific situations.
@@ -320,35 +324,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[TakiLabUEC_2026](https://tkl.pc.uec.ac.jp/program-english.html)_:
 >
->Typical Weekly Routine
->
->Mon | (Standard research day)
->
->Tue | Journal Club (PM only)
->
->Wed | (Standard research day)
->
->Thu | (Standard research day)
->
->Fri | Research report meeting (AM only) & occasional TGIF socials
->
 >Core collective hours are kept minimal, and schedules are adjusted each term to accommodate coursework. Sustained experimental progress, research quality, responsible documentation, and effective communication matter more than fixed attendance hours.
-
->_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/)_:
->
->研究に取り組むうえでの基本姿勢  
->研究成果を上げるためには、授業や就職活動などと両立しながら、継続的に十分な時間を確保して研究に取り組む必要があります。  
->特に大学院では、自ら課題を設定し、試行錯誤を重ねながら、成果を論文や学会発表としてまとめる姿勢が求められます。  
->研究への取り組みが著しく不足する場合には、十分な研究成果を得ることが難しくなり、結果として標準修業年限での修了が困難になることがあります。
->
->_English translation:_
->
->Basic attitude towards research  
->To produce research results, you need to secure sufficient time continuously for research while balancing it with classes, job hunting and so on.  
->In graduate school in particular, you are expected to set your own problems, repeat trial and error, and compile the results into papers and conference presentations.  
->If your commitment to research is markedly lacking, it becomes difficult to obtain sufficient research results, and as a result it may become difficult to complete the programme within the standard period.
->
->_Note from the lab: this passage describes expectations for time devoted to research; it does not set specific policies on working hours, remote working or vacation._
 
 ### Netherlands
 >_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
@@ -483,6 +459,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[GrangeLab_2026](https://bookdown.org/JimGrange/lab_manual/communication.html)_:
 >
 >I do not respond to (and I try not to read) emails or Teams messages out of office hours (9am to 5pm Monday–Friday). Please factor this in if you are wanting me to do something (e.g., don’t send me a draft report to read for our Monday meeting at 4pm on a Friday!).
+>
 >- I would encourage you to keep a work–life balance and switch your emails/Teams off over the weekend too if you are able.
 >- Sometimes I might deviate from this advice.
 >- I do sometimes work odd hours, so if on the rare occasion you receive a message from me outside of your normal working hours, PLEASE NOTE that I do not expect you to respond immediately. Just get to it when you are next in work mode.
@@ -700,6 +677,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Lab holidays will be a superset of federal and NYU holidays.
 >
 >What does it mean for the lab to be on holiday?
+>
 >  1. All lab events are cancelled.
 >  2. All individual meetings are cancelled.
 >  3. I do not have any expectations that you will do work. Work includes replying to emails or Slack messages. Of course, you are not forbidden to do work.
@@ -735,6 +713,8 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Work the hours you need to work to get stuff done. However, remember that if you are a state employee you are expected to clock in the weekly hours stipulated by your contract and turn in your timesheets through workday.
 >
 >Hours: Being in the laboratory is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home (e.g., your bed or Netflix). That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (at least, but not restricted to, 40 hours/week) and show up to the laboratory. My primary concern is that you get your work done, so if you find that you are more productive at home, feel free to work at home occasionally, especially if you are writing grants or manuscripts. If you have no meetings, and no other obligations that day, it might be a good day to work at home – you can attend meetings virtually sometimes as well. But you can’t do this all the time, and I expect to see everyone in the laboratory on a regular basis, especially for lab meetings and 1-1 meetings (unless a situation prevents this from happening).
+>
+>Laboratory managers / research assistants must keep more regular hours and are expected to be in laboratory 5 days a week (excluding vacations, doctor appointments, family issues, etc.) as other lab members often depend on them. For students, I understand having to be away for classes, but show up to the laboratory on a regular basis when you don’t have those obligations. To encourage laboratory interaction, try to be in most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 10am and 3pm. Everyone must attend weekly lab meetings and weekly 1-1 meetings unless they are canceled for unforeseen circumstances.
 
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
 >
@@ -757,6 +737,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >Eligible for 22 days of paid vacation per year in addition to holidays and season days
+>
 >- Please let me know in advance, I’d rather not find out that you are in some exotic destination from a colleague or via social media. I have some responsibility for your safety and that’s hard to do if I don’t know where you are
 >- Don’t tell me you are going on vacation, ask me if it’s ok. Invariably, I will say, “yes”. But if vacations become too frequent given your work commitments and progress, we may need to have a longer discussion
 >- Please put when you will be away on the lab Google calendar

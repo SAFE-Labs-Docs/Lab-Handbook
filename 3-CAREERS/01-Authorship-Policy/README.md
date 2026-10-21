@@ -176,8 +176,6 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >
 >Authorships : The lab member(s) taking on the lead role in a project is expected to be first author on future publications related to that project (talk to me if you are unsure). I will typically be the last author, although specific cases can be discussed. Other lab members and collaborators helping during the course of the project will be added to the author list, and their placement will be discussed with all parties involved in the paper. As revisions can be intense at times and we are a small lab, we tend to involve all lab members in experiments to be performed during revisions. All roles will be defined and clearly stated in publications using the CRediT taxonomy (see : https://credit.niso.org/).
->
->Open science policies : Along with submission to a scientific journal, our manuscripts will be submitted to biorXiV, the open repository for manuscripts in the life sciences. We will always choose to publish open-access (i.e published papers are distributed online, free of access charges or other barriers), unless the costs for such become prohibitive, as unfortunately is already happening. If we do not publish open-access, we will find other ways to make our publications free of access charges.
 
 >_[GalupaLab_2025](https://www.galupalab.org/)_:
 >
@@ -187,6 +185,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[CzarkwianiLab_2026](https://czarkwianilab.github.io/files/Czarkwiani_Lab_Handbook.pdf)_:
 >
 >As a guide the following are typically accepted as “acknowledgement” level contributions rather than constituting authorship (though exceptions can be made)
+>
 >- contributing a commonly available reagent/piece of equipment/animal material: we often ask the community for sharing a reagent or piece of equipment and that is considered collegial behaviour and there should not be an expectation of authorship-level contribution to a project. IF the reagent/animal material is difficult to obtain, has been made by the person themselves at their cost and time expense and effort, then it might be deemed an authorship-level contribution. If the person also helped you use the equipment in a way which requires scientific idea generation or analysis then it may also be deemed an authorship-level contribution.
 >- facility usage - there are clear guidelines at CMCB for paid facility usage and acknowledgement
 >- reading and commenting on a manuscript draft with no prior significant intellectual contribution to the project
@@ -336,6 +335,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >According to the criteria recommended by the International Committee of Medical Journal Editors (ICMJE), to qualify for authorship, individuals must meet all the following conditions:
+>
 >- Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data;
 >- Drafting the work or revising it critically for important intellectual content;
 >- Final approval of the version to be published; and
@@ -369,6 +369,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/authorship-policy/)_:
 >
 >We use the four [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) criteria as a helpful guide for expectations. In general, authors complete/agree to all four of the below items:
+>
 >- substantial contributions to conception/design or data;
 >- drafting or critical revision;
 >- final approval; and
@@ -444,6 +445,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/policies/paper-writing)_:
 >
 >As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.
+>
 >  * What is considered a contribution?
 >    * Discussions should not be counted as contributions; implementation/theoretically sound ideas could be.
 >    * Same for writing - proof-reading should not be counted as contributions; actual writing could be.
@@ -467,6 +469,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/02/authorship-guidelines.pdf)_:
 >
 >Second author is the person who, aside from the first author, participated most completely in design, experimental execution, data analysis, and manuscript preparation for the project as a whole. Toward this end, this person may have:
+>
 >1) contributed whole figures or panels independently, OR
 >2) substantially contributed to many figures or panels while working with someone else (typically the first author), OR
 >3) taken charge of revisions for a paper begun by a first author who is unwilling or unable to complete them.
@@ -476,6 +479,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[KleinerLab_2026](https://kleinerlab.cals.ncsu.edu/lab-culture)_:
 >
 >Papers. In our lab, the person who writes the manuscript is the first author. First authorship may be shared with a co-author who plays a major role in experimental design, data collection, or analysis. Our PI is the corresponding author on all published papers, but may share corresponding authorship with the relevant first author trainee. The following contributions may qualify for authorship and should be discussed throughout project development:
+>
 >- Experimental design
 >- Data collection
 >- Data processing and analysis
@@ -517,6 +521,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >_[MaLab_2026](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4)_:
 >
 >Authorship on papers is usually obvious, but the grey area is when smaller contributions warrant authorship. I expect that all authors contribute to the ideas in a project. As a concrete proxy for such contributions, I expect that for a lab member to be an author, they attend (and speak in) the project meetings from the moment they are brought onto the project. Sometimes, you ask someone (in or outside of the lab) for help several times and they are interested in the project; then, they can be brought on board as an author. If someone “only” assists with data collection without a broader intellectual input, then that is usually an acknowledgement in the paper, not authorship.
+>
 >  * CRediT is a system for recognizing contributions to a paper, and we can use it as a guide to discuss authorship. For lab members, some combination of conceptualization, formal analysis, methodology, and writing is usually required to be an author.
 
 >_[McCainLab_2026](https://spot.colorado.edu/~mccainc/PDFs/McCainLab_MentoringAgreement_EBIO.pdf)_:
@@ -561,6 +566,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >I assume that, unless we have talked about it, I will be an author on papers coming out of the lab. This does not mean that you should add me on to papers as a courtesy; it means that I expect you to include me in the process of discussion and writing in a way that merits authorship. In other words, the same approach I take with you.
 
+>_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
+>
+>If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, I will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, I will also re-assign the project to another individual. Authorship will be re-assigned accordingly. This policy is here to prevent data from remaining unpublished but is meant to give priority to the person who collected the data initially.
+
 >_[POISLab_2026](https://www.notion.so/22b9e68b69b6809b95a2c1e5d87f6c3e)_:
 >
 >Generally, contributing to study design, running statistical analyses, and writing sections of the manuscript warrant authorship—running participants usually does not. Other lab members who help with a project in some meaningful way may be added to the author list as well. Although not required by APA, I expect students to contribute to some writing in a manuscript as part of authorship, so they develop their writing skills and learn about the publication process.
@@ -580,6 +589,7 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >Our Lab’s authorship policy is opt-out, meaning that individuals who have made significant contributions to the work have the option to remove themselves from authorship at any point in time. Those who have made significant contributions to the work are automatically included in the co-authorship line.
 >
 >Significant contributions can include any of the following:
+>
 >- Significant curatorial or digitization work directly supporting the project.
 >- Wet lab or field work directly supporting the project.
 >- Development of analytical or data processing pipelines and workflows.

@@ -22,19 +22,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 ## Examples
 
-### Australia
->_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
->
->**Pathways to RAship**
->
->- Major and research interest
->- Time commitment: 10 hours per week
->- Must be able to work after-hours and weekends
->- Interested in a long-term commitment (12 months minimum)
->- Second/third-year undergraduate (preferred)
->- Relevant skill and experience
->- Special consideration for: (1) transfer/articulation students, (2) students with fewer opportunities
-
 ### Austria
 
 >_[DienerLab_2026](https://www.dienerlab.com/guide/)_:
@@ -54,11 +41,9 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >[the PI] and other lab members will support you in navigating the peer-review process, including journal selection, responses to reviewers, and payment of publication costs.
 
->_[BowdishLab_2026](https://www.bowdish.ca/lab/faq/)_:
+>_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
 >
->Criteria are as follows: 1) Thesis students must have applied lab experience. This may take the form of applied courses (e.g. Biochem 2L06, Inquiry in Biochemical Techniques) or in prior lab experience. Unfortunately the pace in my lab is not suitable for students who do not have basic lab experience (i.e. pipetting, making molar solutions, DNA & protein electrophoresis). 2) You must take 3rd & 4th year immunology courses either prior to or concurrent with your thesis project. I expect that undergraduate students will be a productive member of my team and an integrated member of our department. As such, they are expected to participate at lab meetings, attend departmental seminars and think critically about their research.
->
->I do not accept volunteers in the lab. My philosophy is that if you are doing valuable work for me then you deserve to get paid/get academic credit for that work and if you are not doing valuable work, then you should not be in the lab. Undergraduate volunteers can’t contribute enough time to do anything other than washing up or filling tip boxes, which is not a valuable contribution to my research or your c.v.. Because I have a large lab and am actively involved in mentoring my own and other trainees, I do not have the time to effectively supervise volunteers and I would rather students have a good experience in another lab. Under rare circumstances I will host individuals who want to learn a specialized skill or technique on a volunteer/collaborative basis.
+>Personal ambition: Ambitious labs need ambitious people. To encourage this we set concrete goals that are challenging but not impossible to obtain (e.g. publish a first author paper, win a poster award, learn a new technique, get a faculty position) and support one another as we work towards them. We encourage one another to ‘dream big’ and to make the transition from calling oneself a student to calling oneself a scientist, colleague and mentor. We acknowledge that a PhD is not a ticket to a faculty position or a life in academia but rather a degree in leadership that can be used in government, industry, teaching, law, medicine, and on occasion, academia. As such everyone in the lab must reflect on what they want from their career and actively work to obtain the skills they need to get there.
 
 >_[ErnstGroup_2026](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)_:
 >
@@ -114,17 +99,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >In the year-end assessment, each point earns a bonus of 100 yuan; if the year-end assessment exceeds 20 points, an extra 5 points are awarded. If anyone is suspected of academic misconduct such as plagiarism while completing the tasks, they should simply withdraw from their studies or leave the group.
 
-### Denmark
->_[NERDS-ITU_2026](https://nerds.itu.dk/students/)_:
->
->- We provide dedicated supervision with regular meetings
->- We care about wellbeing
->- We guide you as best as we can but expect you to be proactive and communicate issues early
->- We provide a social space happy to facilitate connecting all our students. Socialize with your peers – they are an important resource!
->- We can provide work/meeting space: Slack, and physical space/tables
->- We encourage you to take part in our regular seminars with guest speakers
->- If we see the potential and dedication for it from your side, we are happy to develop projects together into scientific papers
-
 ### France
 >_[CNIDevoLab_2025](https://cnidevolab.com/)_:
 >
@@ -147,10 +121,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Importantly, it is impossible to predict the outcome of any project, so no guarantees can be made with respect to timelines or publications.
 
 ### Germany
->_[OttLab_2025](https://torbenottlab.org/)_:
->
->Our team is composed by researchers with different roles: postdoctoral researchers, graduate students, undergraduate (Master or Bachelor) students and research assistants. These roles, which may correspond to different career stages and seniority, typically come with different duties, responsibilities and expectations. These will be discussed at hiring and onboarding. Typically, postdocs and graduate students are expected to independently carry out research projects ranging from experimental work to data analysis and paper writing, as well as take part at the lab’s and institute’s regular meetings (see below). Postdocs are additionally expected to assist the PI in writing grants and reviewing papers. Graduate students will receive a larger degree of training and supervision, for example, via the Humboldt Graduate School (see below). Undergraduates and research assistants are not expected to independently carry out projects and will be supervised by a graduate student or postdoc. All full-time lab members are expected in helping to maintain the lab’s infrastructure and animal colonies. 
-
 >_[PHASELab_2026](https://masonphaselab.com/2023/09/16/expectations-and-guidelines-for-academic-work-in-the-phd/)_:
 >
 >You should aim to finish your PhD within three years with three first-author experimental research papers (experiments) written up into complete manuscripts. There is nothing magical about the number three, this is just one major experiment per year of the project, and is widely considered internationally as the gold standard for research productivity for PhDs: if you complete with three experimental papers in reputable journals (see other material on the topic of journals and what is a “good” journal) this is usually considered to be a good to excellent PhD thesis. The more the better, if everything goes well, but plan for three!
@@ -159,6 +129,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Researchers in different roles will spend different amounts of time in the lab. Furthermore, technical challenges and other unknown or unforeseen aspects may delay projects. It is hence difficult to predict how many papers each team member will publish. As a rule of thumb, the following applies:
+>
 >- PhD students: PhD candidates need to finish their PhD within 4 years. Projects are selected and adjusted so that it should be possible to have at least a paper draft by the end of these 4 years. While this is the minimum, the aim is to have a first-author manuscript on biorxiv and likely submitted by the end of the PhD. Due to the collaborative nature of our work, students can expect to be contributing author on at least a second paper.
 >- Postdocs: While postdoc contracts will usually be for 12 months, the PI clearly communicates funding availability and expected total duration of the postdoc (generally to be anticipated to be at least 3 years). The aim is to have at least one first-author paper in that time-frame and to likely contribute to multiple projects in the lab. Changes to funding or anticipated duration and publications will be communicated openly and timely. Conversely, postdocs may decide to move on to new positions and challenges before a publication has been achieved. 
 >- Master students / interns: Master theses last for at least 9, ideally 12 months. The main purpose of a thesis is for the student to learn one or more practical techniques, to understand all steps of a scientific project, to get insights into analysis of data, and to practice scientific writing and figure making, as well as scientific communication. The actual content and output are less important. However, if a student contributes a relevant data set which is included in a publication, they will certainly be granted authorship as detailed in the CRediT Taxonomy guidelines. 
@@ -306,6 +277,22 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >At this point it is fine if you are not winning at all
 
+>_[WMPLab_2026](https://www.wmp.cs.tsukuba.ac.jp/)_:
+>
+>研究に取り組むうえでの基本姿勢  
+>研究成果を上げるためには、授業や就職活動などと両立しながら、継続的に十分な時間を確保して研究に取り組む必要があります。  
+>特に大学院では、自ら課題を設定し、試行錯誤を重ねながら、成果を論文や学会発表としてまとめる姿勢が求められます。  
+>研究への取り組みが著しく不足する場合には、十分な研究成果を得ることが難しくなり、結果として標準修業年限での修了が困難になることがあります。
+>
+>_English translation:_
+>
+>Basic attitude towards research  
+>To produce research results, you need to secure sufficient time continuously for research while balancing it with classes, job hunting and so on.  
+>In graduate school in particular, you are expected to set your own problems, repeat trial and error, and compile the results into papers and conference presentations.  
+>If your commitment to research is markedly lacking, it becomes difficult to obtain sufficient research results, and as a result it may become difficult to complete the programme within the standard period.
+>
+>_Note from the lab: this passage describes expectations for time devoted to research; it does not set specific policies on working hours, remote working or vacation._
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
@@ -443,6 +430,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[GWLab_2026](https://github.com/GWLab-UML/Lab-manual/blob/main/Expectations-PhD.md)_:
 >
 >Requirements for graduation:
+>
 >- First chapter submitted to a journal (ideally published)
 >- Second chapter ready to submit (ideally submitted)
 >- Third chapter written (does not have to be final form)
@@ -513,19 +501,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Cornell PhD students in the Graduate Field (program) of Chemical and Biomolecular Engineering typically graduate after completing five years in the PhD program, and although students at MsEE Lab may come from a variety of different Graduate Fields, we hold the same expectations for graduate students regardless of the Field they belong to. Students are advised to consult their Graduate Field Student Handbook ([e.g. the Chemical Engineering Graduate Student Handbook; Cornell login required](https://cornell.box.com/s/ov6vdetui7j64o7wz4zhff8xhics9khb)) to make sure they fulfill any Field-specific requirements. Regardless of Field, it is our aim for each student to contribute to at least three projects during their time in the lab ([explained in more detail here](https://mseelab.substack.com/p/what-is-a-phd)), with the expectation that one of them leads to a first (or co-first) authored publication. PhD projects are selected in discussion with the student with this aim in mind. We aim to at least have this publication published as a preprint by the time the student leaves the lab.
 
->_[NeuroAICenter-UOregon_2026](https://murraylab.uoregon.edu/philosophy/)_:
->
->Trainees will
->
->- Be curious and motivated about their research project.
->- Strive to cultivate their own creative ideas about research approaches and directions, beyond what their PI recommends.
->- Develop a thorough understanding of the background literature related to their project and how their own work fits in with it.
->- Be responsible for their own schedule and setting their goals.
->- Devote at least as much effort to their work as a student or postdoc as they would to any other full-time job.
->- Apply for their own funding in cases where they are eligible.
->- Be proactive about asking for the help they need to succeed.
->- Do the very best work they can and be aware and communicative of what they need to be happy, fulfilled, and successful.
-
 >_[OldhamLab_2026](https://me.engin.umich.edu/people/faculty/kenn-oldham/mentoring-plan/)_:
 >
 >Do you have general expectations for graduation?
@@ -569,12 +544,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 >_[ShireyLab_2026](https://www.floridamuseum.ufl.edu/shirey-lab/lab-culture-conduct)_:
 >
->**Expectations of the PI**
->
->My primary responsibility is to support you in achieving your desired professional goals. I will do so by meeting with you regularly (typically bi-weekly for postdocs and graduate students), by introducing you to potential collaborators, and by helping you troubleshoot technical or other issues that might arise during your research.
->
->My job requires me to issue constructive criticism of your work. While direct at times, my interest is in ensuring that you are producing the best quality work during your time in the lab.
->
 >**Expectations of Postdoctoral Researchers**
 >
 >Postdoctoral researchers occupy the unique role of being both mentors and mentees in the lab. My expectation of postdoctoral researchers is that you are producing high-quality and impactful research outputs that set you up to land a permanent position in the career of your choosing. At this career stage, you should feel comfortable leading independent work and coordinating research objectives in a timely manner.
@@ -606,6 +575,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[ZhangLab_2026](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/for_trainee.md)_:
 >
 >It usually takes one or two years to publish your first first-authored paper and send your second first/co-first authored paper for review on the second or third year.
+>
 >- Once you submit your first first-authored paper, please seek out opportunities to present your work to the national and/or international community to communicate with more folks in simiar fields.
 >- We highly encourage postdoc fellows to write grant proposals and apply for external fundings, like K grants, PhRMA grants, CCTSI and local pilot grants.
 >- As a postdoc fellow, demonstrating your independence, leadership, and mentoring capability is important to move on to your next career stage in either academia or industry. I will introduce you to other collaboration projects if you have the bandwith (if you can make good progress on your independent projects) in order to enhance your expertise of leading a multi-site project if available.

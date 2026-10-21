@@ -75,6 +75,12 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 >We welcome everyone: expats and Czechs, students and staff of Charles University. Some of us speak Czech, but many do not. For this reason, the social evenings will be in English, but you can choose a Czech-speaking Loneliness Fighter for the one-on-one meetings! :)
 
 ### Germany
+>_[MerenLab_2026](https://merenlab.org/culture/)_:
+>
+>- I expect you to reach out to me when you need help. Please remember that it is not your job to try to protect my time.
+>
+>- In addition to technical and intellectual difficulties, science life can have steep ups and downs. Even when you are excellent at what you are doing and on the right right track, doubts can be quite challenging to overcome. I wish you to let me know if you are going through a rough patch.
+
 >_[OttLab_2025](https://torbenottlab.org/)_:
 >
 >We strive to foster a psychologically safe environment to promote mental health at work. Good mental health at work requires many factors to play together laid out in this handbook. Please refer to other sections such as work-life balance, diversity statement, code of conduct, incidence reporting, lab and individual feedback, and others, for details. 

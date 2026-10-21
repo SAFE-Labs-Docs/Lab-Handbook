@@ -70,18 +70,6 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >It is completely normal for researchers, particularly postdoctoral researchers, to join the lab while still having outstanding work from their previous position, and I support lab members taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last more than 6 months. If finishing previous work is expected to last longer than this, it may be more sensible to delay the start of their position in the lab if possible. In general, time spent on previous work should not exceed 25% (although this will naturally vary over time).
 
->_[MetaLab_2026](https://metacoglab.github.io/lab_wiki/vision_values)_:
->
->One caveat to the above is that if a substantial time period passes without a paper being completed after someone leaves the lab (after 2-3 years of finishing data collection), then we may need to reassign the project to a new first author. The policy here is to prevent rare and useful data from remaining unpublished, while giving a healthy window for writing the paper to the person who initially led the project.
-
->_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
->
->When people abandon projects that are subsequently re-opened, or when people come up with ideas during their time in the Superlab, but don't carry those ideas to fruition until after they've left the lab, there is some inherent ambiguity about how to deal with authorship and collaboration.
->
->Here are a few general guidelines about these situations:
->- If someone takes on a project but subsequently hands it off to someone else, they will usually also give first authorship to that person, but can stay on the paper as a middle author (if they want to).
->- If someone comes up with an idea for a research project while working in the lab and that idea benefits from lab resources, discussions with labmates and with Reshanne, etc, these constitute bona fide contributions to research. That means they must invite Reshanne and anyone else who contributed to collaborate on the project. Remember that ideas are the lifeblood of science: if someone contributed to the development of your idea, then you are ethically obligated to give that person credit when your idea comes to fruition (in many cases, this means authorship).
-
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >
@@ -96,7 +84,5 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Allow you to spend some of your work time finishing up revisions of papers from your prior lab experience; however, unless you are funded by a fellowship, remember that you also have a full-time obligation to the funding source paying for your time so this should be kept reasonable; ask Anne for boundaries.
 
 >_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
->
->If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, I will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, I will also re-assign the project to another individual. Authorship will be re-assigned accordingly. This policy is here to prevent data from remaining unpublished but is meant to give priority to the person who collected the data initially.
 >
 >You are not allowed to work on data you collected in previous laboratories in the time you are being paid to work in this lab. Publication of results from other PIs cannot take priority over your results from this lab, they are not paying your salary, I am.

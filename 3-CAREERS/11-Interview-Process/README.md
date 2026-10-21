@@ -59,6 +59,18 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ### Australia
 
+>_[BABLab_2026](https://github.com/BaBLab-UNSW/Lab_Manual/blob/main/02-expectations-and-responsibilities.md)_:
+>
+>**Pathways to RAship**
+>
+>- Major and research interest
+>- Time commitment: 10 hours per week
+>- Must be able to work after-hours and weekends
+>- Interested in a long-term commitment (12 months minimum)
+>- Second/third-year undergraduate (preferred)
+>- Relevant skill and experience
+>- Special consideration for: (1) transfer/articulation students, (2) students with fewer opportunities
+
 >_[SMCCLab_2026](https://smcclab.github.io/join/)_:
 >
 >We’re only able to accept students who have excellent results in a computing or creative technology degree at the Master or Honours level and who have existing experience in computing for a creative field. Interest in music or art is not enough — experience needs to be clearly demonstrated through projects and (hopefully) publications or a thesis.
@@ -83,6 +95,10 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/faq/)_:
 >
 >In general I will have very few “ready-funded” positions for post-docs. All interested post-docs will be required to find their own funding in the foreseeable future; however, if you are interested in working in my lab, you are welcome to contact me. You will be asked to present your current work to my group, meet with both me and my lab and I will require a c.v., statement of research interests, plan for obtaining external funding and references.
+>
+>Criteria are as follows: 1) Thesis students must have applied lab experience. This may take the form of applied courses (e.g. Biochem 2L06, Inquiry in Biochemical Techniques) or in prior lab experience. Unfortunately the pace in my lab is not suitable for students who do not have basic lab experience (i.e. pipetting, making molar solutions, DNA & protein electrophoresis). 2) You must take 3rd & 4th year immunology courses either prior to or concurrent with your thesis project. I expect that undergraduate students will be a productive member of my team and an integrated member of our department. As such, they are expected to participate at lab meetings, attend departmental seminars and think critically about their research.
+>
+>I do not accept volunteers in the lab. My philosophy is that if you are doing valuable work for me then you deserve to get paid/get academic credit for that work and if you are not doing valuable work, then you should not be in the lab. Undergraduate volunteers can’t contribute enough time to do anything other than washing up or filling tip boxes, which is not a valuable contribution to my research or your c.v.. Because I have a large lab and am actively involved in mentoring my own and other trainees, I do not have the time to effectively supervise volunteers and I would rather students have a good experience in another lab. Under rare circumstances I will host individuals who want to learn a specialized skill or technique on a volunteer/collaborative basis.
 
 ### Finland
 
@@ -182,6 +198,7 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy)_:
 >
 >Hiring should not depend on personal biases, applicant names or other similar aspects. On one hand, the Italian recruitment system restricts to some degree the possibility for e.g. blind screening; on the other hand, academic work is based on often long hours in very close collaboration and hence, to some degree, personality and “fit” are important criteria to make sure that the new team member is happy but also that the existing team dynamics aren’t interrupted. In summary, to hire fairly and equitably is not easy. Given those considerations, the steps that are taken by the PI to make hiring as fair as possible are the following:
+>
 >- All CVs are read and evaluated with the same interest and dedication, independently of applicants’ names or affiliations.
 >- Reasons for or against candidates are documented (although not publicly).
 >- Postdoc candidates are informed about the types of questions that will be asked during the interview.
@@ -220,6 +237,19 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >その他、研究室体験・相談のためのコンテンツ
 >
 >slack 上の三目研所属学生による相談窓口: 三目研究室では slack というビジネス向けチャットツールを用いて、研究室所属メンバーとのコミュニケーションを行っています。この slack の中に、学生さん向け相談窓口のチャンネル ( #_lab_introduction ) を作成しました。このチャンネルは三目が見れない設定にしており、所属学生 (卒研生・大学院生) のみが参加していますので、学生さん視点からみた客観的な研究室の様子を知ることができると思います。気軽に質問してみてください。
+>
+>ご連絡いただく際に、これまでの研究のサマリーと、博士課程にて希望する研究の計画をプレゼン資料の形式で作成し、ご送付いただけると助かります。その上で、面談にてそれをご発表いただきつつ、その上で相談し、具体的な研究計画を作っていければと思います。
+>
+>また、本研究室では基本的に、下記の2つの能力の双方に熟達した博士号取得者を養成したいと考えています。
+>
+>- 何らかの数値解析手法に対する非常に深い数理的理解 (新規解析手法の設計が可能なスキル)
+>- 何らかの理工学的実問題に対する深い理解 (新規の工学問題の解決方策の考案が可能なスキル)
+>
+>これまでに獲得しているスキルを考慮に入れ、テーマ設計ができればと思います。しかしながら、どちらかのスペシャリストを目指すという方向性で博士課程の研究を設計することも可能なので、希望するスキル習得の方針を考えておいていただけると嬉しいです。
+>
+>また、基本的に博士課程の学生には、リサーチアシスタントとして給与 (月額最大20万円) を支払う方針でいます。アメリカの大学よりは給与は少ないが、アメリカの大学より義務 (RA として実施しなければいけない仕事) が少なく自由に研究できる環境を目指しています。
+>
+>面談等でお会いする際に、研究職キャリアの希望有無 (博士課程進学の希望有無 ) を教えてください。ただ、完全に決まっている人は少ないと思うので、ざっくりとで OK ですし、「今悩んでいます」的な感じで問題ありません。この情報は、研究室配属の可否に使用するのではなく、進学後の研究テーマを考える際に参考にします。
 >
 >_English translation:_
 >
@@ -524,6 +554,7 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >To ensure equality and fairness, most lab members will participate in the recruitment and hiring process of new lab members. At least two members of the lab will participate in the hiring process with our PI, but all members of the lab will get the opportunity to share feedback about prospective members.
 >
 >For prospective members, we use the following guiding principles:
+>
 >- Postdocs and employees. Employee hiring will follow relevant university guidelines, but will generally include application screening, screening interviews, and formal interviews. Postdocs are generally hired as employees and should contact our PI to express interest.
 >- Graduate students. We welcome graduate students from a variety of graduate programs across NC State. Prospective graduate students will participate in a formal rotation working with lab members. Rotating students are included in group activities and day to day functions such as group meetings and journal clubs. Rotations typically conclude with a final presentation to the lab.
 

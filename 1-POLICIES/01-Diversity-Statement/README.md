@@ -104,8 +104,6 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
->We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is important to apologize to those affected by our mistakes. By listening carefully and respectfully, and doing our best to right the wrong, one is expected to learn from the experience.
->
 >Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, neurodiversity, national origin, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
 >_[UraiLab_2026](https://anne-urai.github.io/lab_wiki/)_:
@@ -151,11 +149,13 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >_[CarolinaAffectiveScienceLab_2026](https://affectivesciencelab.com/core-values)_:
 >
 >In our lab: We actively recruit and support the retention of all scientists. We recognize that doing research can take away time from other means of financial support and sponsor RA’s involvement in research through Federal Work Study, graduate students’ study via fellowships such as the National Science Foundation Graduate Research Fellowship or NIH F31 NRSA, and postdoc’s continued training through fellowships such as the National Science Foundation Postdoctoral Fellowship, NIH F32 NRSA, NIH F99/K00, or OSU President’s Postdoctoral Scholars Program. Please reach out to Dr. Lindquist if you would like to apply for one of these sources of support or if you have come across another that you are eligible for!
+>
 >- We actively educate ourselves and update our practices to reflect the best practices for rigorous, replicable, transparent, and inclusive science and SAFE mentoring and training practices.
 
 >_[ChoryLab_2026](https://www.chorylab.com/handbook-internal)_:
 >
 >Our lab, and Duke University at large, follows the university policies on equal opportunity and nondiscrimination, and we take them seriously. Everyone here is entitled to the same respect and the same opportunities. We're committed to ensuring everyone can succeed in their pursuit of the advancement of biomedical knowledge. Here's how we're putting that into practice:
+>
 >- Holistic Recruitment and Retention: We evaluate prospective lab members on the whole picture (Young et al., 2021) of their experiences, drive, and potential. As a mentor, Dr. Chory strives to support and promote trainees at all levels based on their promise and enthusiasm.
 >- Access to Mentorship and Resources: We're committed to providing equal access to mentorship, resources, and opportunities for all lab members, regardless of their background or prior experiences. Good mentorship is often the difference between a student who finishes and one who does not, and we take that seriously for everyone in the group.
 >- Open Environment and Dialogue: We’re striving to create an environment where everyone feels welcome and can openly discuss their experiences and challenges. As such, Dr. Chory will be setting up regular check-ins and one-on-one meetings to stay connected.
@@ -163,6 +163,7 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >_[GlobalCommunityWellnessLab_2026](https://bookdown.org/jordandanielsnyder/LabManual/code-of-conduct-and-policies.html)_:
 >
 >This lab is committed to an environment that is supportive, educational, and empowering for everyone. Thus, this lab is committed to diversity, inclusion, and equity for everyone regardless of group membership. This means the lab actively does the following (but this is a non-exhaustive list):
+>
 >- Jordan seeks out ongoing education on how to work with students who belong to traditionally underrepresented groups in clinical psychology. He welcomes feedback from students, but he does not expect them to teach him how to teach them.
 >- Jordan is committed to the ideas of cultural humility, and he will talk about this in lab quite a bit.
 >- Jordan will seek out funding for students and scholars from traditionally underrepresented backgrounds in the lab’s research.

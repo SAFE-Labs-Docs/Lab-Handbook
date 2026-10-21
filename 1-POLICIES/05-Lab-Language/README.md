@@ -143,6 +143,7 @@ The institutional language at the Italian Institute of Technology is English; no
 >\*TOEFL and IETLS are compulsory for non-native English speakers
 >
 >Requirements for PhD positions in neuroAI:
+>
 >- Language (proficient in English reading/writing; all one-to-one meetings/group meetings are conducted in English)
 
 ### United Kingdom

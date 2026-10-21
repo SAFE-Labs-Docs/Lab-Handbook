@@ -97,6 +97,7 @@ Lab members are often considering academia as a potential career. It informs tha
 >In preparation for this meeting, Pablo discusses the state of each research project with all lab members involved. The lab members involved in a paper then create one slide summarizing its status. Additionally, members of the lab fill out [an online survey](https://docs.google.com/forms/d/e/1FAIpQLSdJmjqK0iMg2VlUaPD8vN50GA_P6EFrkU7qIWGN4R0MzO9rDQ/viewform?usp=dialog) providing feedback on the lab's management and Pablo's mentorship.
 >
 >A number of things happen during the meeting itself: 
+>
 >1. Pablo presents the lab's guiding principles, five-year goals, and general one-year goals (~5 min). 
 >2. Lab members present a quick overview of research projects ongoing in the lab with their goals for the upcoming year. Plans for changes in current projects or potential new lines of work are presented (~10 min).
 >3. Pablo presents the lab's current funding status, expenses, and potential changes in personnel for the upcoming term (~5 min). Feedback received in the survey that pertains to this topic is included.

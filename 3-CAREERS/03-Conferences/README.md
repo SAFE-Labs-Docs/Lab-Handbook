@@ -411,6 +411,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[ForseGroup_2026](https://forse.group.ch.cam.ac.uk/node/60)_:
 >
 >Conference travel is restricted based on your research stage, due to limited benefit at early stages. In usual circumstances, students attend a maximum of one international conference a year:
+>
 >- Masters Students – not expected to attend any conference
 >- First-Year PhD Students – UK conferences only
 >- Second-Year PhD Student – UK & European conferences only
@@ -418,6 +419,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >
 >It is up to you to decide what training you need and what conferences you would like to go on. I can recommend various courses and conferences depending on your interests. You will have a certain budget as part of your PhD specifically for this, it is for you to manage as you see fit. However, I can help you apply for society funding to cover as much as possible, enabling you to save your PhD travel money for a ‘big conference’ – with travel, accommodation, registration etc. these can be about £2000-£2500. One suggested idea if you’re planning a career in academia:
+>
 >- Year 1: training course in a key skill you need
 >- Year 2: one national conference and one smaller training course or extra conference
 >- Year 3: one big international conference (Europe, USA, Australia etc.) – this is best saved until the end of your PhD as they’re a good place to network for jobs and there will likely only be enough budget to do one of these
@@ -507,6 +509,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[EcometeorologyLab_2026](https://flux.aos.wisc.edu/mentormentee-compact)_:
 >
 >Build independent external collaborations to help advance your scholarship goals, through networking, conference attendance, and regular attendance at department and campus seminars, colloquia, collaborator visits (talks, group meetings, dinners), and events, and learn from those to support building our scholarship.
+>
 >- In return, I will provide to researchers, including students, funding for you to attend at least one national conference per year, help defray cost of any meals or transportation for events, and be sure to include you in opportunities to meet collaborators.
 
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Graduate-Student-Expectations-in-the-Kirby-Lab.pdf)_:
@@ -619,6 +622,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[PoldrackLab_2026](https://poldracklab.github.io/labguide/publication/conferences.html)_:
 >
 >The laboratory will generally fund the attendance of members to at least one conference per year, pending funding availability.
+>
 >- While funding is usually tied to presenting at the meeting, in some cases the lab will fund members to attend who are not presenting, depending on the meeting location and funding availability.
 >- We regularly fund the attendance of research assistants to conferences as we think this is an essential aspect of their training experience.
 >- Conference abstract submissions must be completed at least one week before the final deadline, to allow coauthors sufficient time to review the submission.
@@ -645,6 +649,7 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Misc.html)_:
 >
 >Typically, if you are paper author I'll send you to the conference if it's in the US. If you are presenting the paper (usually the first author), you will go regardless of where it is. Subject to the availability of funding and university policy, I'll cover your flight, your hotel during the conference, conference registration, ground transportation, and food. In making your travel arrangements I expect you to book travel frugally and as if you are spending your own money (The one exception to this is that you should stay in the conference hotel, even though it's usually expensive). For instance, you should
+>
 >- Make travel arrangements well in advance.
 >- Share a hotel room with another student of the same gender, when possible.
 >- Share cabs, etc. when possible.

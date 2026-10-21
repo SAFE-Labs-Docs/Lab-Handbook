@@ -882,6 +882,25 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Based on the collected responses, Jeremy will run a scheduling algorithm to find optimal meeting times for lab meetings, project meetings, and one-on-one meetings. The finalized schedule is posted and pinned to the #general Slack channel and added to the CDL Google Calendar.
 
+>_[DadaLab_2026](https://nsadada.github.io/dada-lab-handbook/04-weekly-lab-meeting.html)_:
+>
+>We reserve 90-120 minutes each week for the full team to maintain shared awareness of lab activities, discuss progress and barriers, engage deeply with scientific questions, and develop the intellectual and professional skills needed for successful scientific careers.
+>
+>This meeting is not simply a venue for updates. It is a recurring space for coordination, accountability, critical thinking, scientific exchange, and professional formation.
+>
+>**Purpose of our weekly lab meetings**
+>
+>The weekly meeting is intended to:
+>
+>- maintain awareness of relevant institutional and lab-level developments
+>- coordinate shared work, timelines, resources, and responsibilities
+>- create a regular opportunity to identify barriers and troubleshoot before problems become more difficult to address
+>- help lab members communicate their work clearly and receive constructive feedback
+>- build the habit of engaging critically with scientific evidence, reasoning, and interpretation
+>- provide an intentional, cumulative professional-development curriculum aligned with the lab’s annual strategic goals
+>
+>All lab members are expected to prioritize attendance and active participation. Unavoidable conflicts should be communicated in advance whenever possible.
+
 >_[DaRLLab_2026](https://darl-lab.gitbook.io/handbook/resources/recurring-activities)_:
 >
 >Lab meetings are usually held weekly or biweekly. Graduate students, lab staff, and undergraduate students taking research for credit are expected to attend all lab meetings and to arrive prepared (i.e., having read any assigned papers before the lab meeting). If you can't attend a meeting, you must let Hua know ahead of time. Lab meeting topics (including any readings) will be announced weekly in advance via Slack `#sharing` .

@@ -86,6 +86,10 @@ Lab members are often considering academia as a potential career. It informs tha
 >
 >We keep copies of funded and unfunded grants in the "Grant proposals" project on Asana. Assume these grants are confidential and do not share them outside the lab. Feel free to ask me about them if you have questions, and if you write a fellowship proposal, please add your submitted proposal (excluding the budget) to the project.
 
+>_[DadaLab_2026](https://nsadada.github.io/dada-lab-handbook/04-weekly-lab-meeting.html)_:
+>
+>**High-level updates.** Updates may include relevant institutional, funding, administrative, facility, safety, personnel, or lab-level information. This portion of the meeting helps ensure that members understand the broader environment in which the lab operates and are aware of upcoming deadlines, changes, opportunities, or shared needs.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2021/05/Whats-the-point-of-lab-meeting.pdf)_:
 >
 >First, we will open every lab meeting with a general lab business discussion. This is an excellent time to bring up issues or points of information that would be useful for the whole lab. Some examples: learning about a new bug in the ordering system, noticing something being done incorrectly in the lab such as leaving the lids off the gel electrophoresis chambers, new info from the animal facility about how our colony will be cleaned/arranged. I will sometimes use this forum to announce things of general interest to the lab, such as: new organization systems, upcoming conferences, upcoming lab cleaning days, departmental news such as staff or leadership changes.

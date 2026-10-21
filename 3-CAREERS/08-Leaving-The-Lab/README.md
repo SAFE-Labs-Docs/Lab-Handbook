@@ -376,6 +376,10 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >- Return all keys to appropriate offices or personnel.
 
+>_[EmotionSystemsNeuroscienceLab_2026](https://medicine.yale.edu/childstudy/research/clinical-innovations/ibrahim-lab/values/)_:
+>
+>Dr. Ibrahim’s goal is to facilitate each student and trainee in achieving their full potential and career goals. He guarantees students and trainees that he will be there to help, even after they have left the lab. This can include letters of recommendation, mentorship on career and professional development, or personal advice.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Offboarding)_:
 >
 >* Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI

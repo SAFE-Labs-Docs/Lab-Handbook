@@ -160,6 +160,14 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 >- Access to Mentorship and Resources: We're committed to providing equal access to mentorship, resources, and opportunities for all lab members, regardless of their background or prior experiences. Good mentorship is often the difference between a student who finishes and one who does not, and we take that seriously for everyone in the group.
 >- Open Environment and Dialogue: We’re striving to create an environment where everyone feels welcome and can openly discuss their experiences and challenges. As such, Dr. Chory will be setting up regular check-ins and one-on-one meetings to stay connected.
 
+>_[EmotionSystemsNeuroscienceLab_2026](https://medicine.yale.edu/childstudy/research/clinical-innovations/ibrahim-lab/values/)_:
+>
+>Recruiting lab members using a holistic evaluation process that prioritizes individuals’ strengths, areas of training needs, interests and availability for training, and motivation (i.e., over and beyond where and with whom they trained). We also integrate considerations for the expansion of interests, thoughts, and ideas to help us expand our lab conversations and research.
+>
+>We are committed to providing supported time for attending workshops and trainings to support critical self-reflection and life-long learning.
+>
+>In addition to trainings and workshops outside of the lab, we are committed to holding regular lab discussions centered on research articles or topics relevant to our lab members, our research participants, and the broader community.
+
 >_[GlobalCommunityWellnessLab_2026](https://bookdown.org/jordandanielsnyder/LabManual/code-of-conduct-and-policies.html)_:
 >
 >This lab is committed to an environment that is supportive, educational, and empowering for everyone. Thus, this lab is committed to diversity, inclusion, and equity for everyone regardless of group membership. This means the lab actively does the following (but this is a non-exhaustive list):

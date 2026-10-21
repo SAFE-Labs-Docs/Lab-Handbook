@@ -529,6 +529,11 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >* Each member of the lab is expected to supervise a number of master's students depending on their level of seniority.
 
 
+### Thailand
+>_[ChanaratLab_2026](https://biochemistry.sc.mahidol.ac.th/join-chanarat-lab/)_:
+>
+>As ‘education is a key to independence’, I have different levels of expectation on individual graduate students. If you are a MSc student, I expect that you can be an independent entry-level researcher, who is able to plan and conduct assigned experiments. After finishing the training with me, you should be a good part of a laboratory and well conduct research under the supervision of any scientists. But if you are a PhD student, I expect you to be an independent scientist who can hypothesize, plan, conduct experiments, interpret and discuss results, and report your findings either by writing or oral presentation. I’ll prepare you to be an independent scientist through research-based training.
+
 ### United Kingdom
 
 >_[EpiForecasts_2026](https://epiforecasts.io/group-manual.html)_:

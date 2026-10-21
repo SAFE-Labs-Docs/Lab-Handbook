@@ -450,6 +450,18 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >**The research contract** specifies the topic, the student's responsibilities, and the deadline for submitting the first version of the thesis. It must be kept up to date and re-signed if there are changes to the timeline.
 
 
+### Thailand
+>_[ChanaratLab_2026](https://biochemistry.sc.mahidol.ac.th/join-chanarat-lab/)_:
+>
+>I always look for talented, motivated, and collaborative students interested in mRNA biology to join my group. You can read about our current research projects (make sure you log-in with your mahidol.edu account; if you are non-Mahidol students, please contact &lt;&lt;Sittinan&gt;&gt;), but our lab is also expanding into new territory when excellent findings/ideas arise (often from my students). To determine if you are a good fit for my lab, I encourage you to consider the following:
+>
+>- Are you willing to spend much of your time thinking and answering fundamental questions of the birth, maturation, aging, and death of mRNA?
+>- Are you keen on learning new things and acquiring techniques to solve the fundamental science problems?
+>- After reading many textbooks, do you desire that one day your graduate research findings will be part of future biology textbooks?
+>- Do you have a desire to be an independent researcher in the future?
+>
+>If you answer yes to at least two of the questions above, you may be a good fit within my lab. To help you and me make this assessment, please send me via email the following information: 1) a statement of why you want to join my lab and why my lab seems to be a good fit for you; and 2) a brief description of your previous research experience.
+
 ### United Kingdom
 >_[CoenLab_2025](https://coen-lab.com/)_:
 >

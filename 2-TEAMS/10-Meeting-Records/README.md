@@ -181,6 +181,10 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 >
 >_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
+>_[EmotionSystemsNeuroscienceLab_2026](https://medicine.yale.edu/childstudy/research/clinical-innovations/ibrahim-lab/values/)_:
+>
+>Students and trainees in the lab are expected to keep a running document (stored on SharePoint or OneDrive) to report on regular progress including methods, findings, problems encountered, and troubleshooting.
+
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
 >
 >**1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member to follow up on any items and prepare for the next meeting.

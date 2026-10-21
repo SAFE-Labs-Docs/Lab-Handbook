@@ -220,6 +220,10 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >* as everything, *document*: before you start using AI, document the tool version, document how & why you use it, save your prompts. You will need this information.
 >* disclosure: write an AI statement to disclose your use of generative AI, to be included in any resulting publication.
 
+>_[BeltranLab_2026](https://docs.google.com/document/d/1UUcLaM4pjpf0GGsGEqfq9Qj9yiHDqKIh8WvXUxs3vM0/edit)_:
+>
+>Your training in my lab (writing a senior thesis, earning a PhD, working on a postdoc project) includes mastery of independent critical thinking, writing, and analytical skills that cannot be outsourced to AI tools. AI tools can be valuable but they must be used transparently and responsibly. Lab members may use AI for editing chunks of text for the purposes of grammar edits, flow, length/conciseness or code for figures, data wrangling, and efficiency. All AI outputs (including in your own text that you re-purpose!) must be critically reviewed, revised, and fully acknowledged when asked (e.g., in manuscript or grant submissions, and in conversations with your mentor/committee), and you should be able to explain any text/code. AI may not be used to generate original analyses, figures, or text without disclosure and approval from the PI. No confidential or unpublished data or manuscripts or proposals (including other people’s!) may be entered into AI systems. AI-assisted tools are increasingly common for efficient paper screening and data extraction (e.g., in systematic reviews), but should be appropriately verified (e.g., through human validation) in accordance with best practices and transparency. Ultimately, each researcher is responsible for the accuracy, originality, and integrity of their final work. Use of AI must also comply with institutional, funder, and publisher policies, which are rapidly changing.
+
 >_[BenjaminChungLab_2026](https://jadebc.github.io/lab-manual/using-generative-ai-to-code.html#disclosing-use-of-generative-ai-in-research)_:
 >
 >Lab members must disclose GenAI use in research at four points:

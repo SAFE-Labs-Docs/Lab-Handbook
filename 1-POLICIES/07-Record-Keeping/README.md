@@ -455,6 +455,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >You are expected to catch up on your lab notebook at least biweekly, and we may consult notebooks during individual or project group meetings. Your ELN is for documenting daily work. Each day you work in lab should have some note of what you did that day. You should plan fly crosses in your notebook, document genotyping gel results, blots, etc. If you prefer writing things out on paper, you may use your paper lab notebook and include a photo in your ELN with a short description for searchability–this is easily accomplished using the smartphone app. All raw data is stored on the Waksman Share Drive (see separate section) – only metadata, representative data and summary plots need to be in your ELN. The file path to raw data must be noted in your ELN for every experiment that generates data files, and metadata must also be stored with raw data (in addition to being in your ELN).
 
+>_[BeltranLab_2026](https://docs.google.com/document/d/1UUcLaM4pjpf0GGsGEqfq9Qj9yiHDqKIh8WvXUxs3vM0/edit)_:
+>
+>A note for elephant seal program files (deployment summaries, biologging data, scanned datasheets, morphs datasheets, start/stop datasheets): Note that the University owns all research data, but they delegate the responsibility and ownership to the PI. Google Drive files/folders are a little tricky because if the Owner’s account goes away (e.g., a PhD student moves onto a new postdoc position), all owned files are automatically deleted. This is obviously a major concern for a long-term research program. To prevent this issue, I ask that you make me the “owner” of all Google Drive files that are critical to the lab’s research (for each Google Drive document that you own, click “Share”, then make sure I have edit access, then click the arrow next to my name → “Transfer ownership” to me").
+
 >_[BenjaminChungLab_2026](https://jadebc.github.io/lab-manual/checklists.html)_:
 >
 >- Does the script run without errors?

@@ -370,6 +370,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >If you made a meaningful intellectual, analytical, methodological, writing, or data contribution to a project, I believe we should generally err on the side of inclusion and recognition rather than exclusion- collaborative works between lab members, undergrad assistants, and external collaborators are encouraged. Authorship is not pie, giving a slice to others that contributed to the work does not deplete anyone else's slices. For authors in the middle of the list, I aim to balance contribution with equity. Contributions matter, but I also recognize that opportunities, confidence, seniority, and structural barriers are not distributed equally. Following principles similar to those outlined by [Liboiron and colleagues](https://civiclaboratory.nl/2016/05/23/equity-in-author-order/), authorship discussions should be transparent, collaborative, and attentive to fairness as well as productivity.
 
+>_[BeltranLab_2026](https://docs.google.com/document/d/1UUcLaM4pjpf0GGsGEqfq9Qj9yiHDqKIh8WvXUxs3vM0/edit)_:
+>
+>Generally speaking, our lab expectation is that co-authorship requires roughly two contributions from the following list: conception of idea, project design, supervision, data collection, data analysis/modeling, methods development, figure/table creation, manuscript writing, critical reviews. Those who contribute to only one category should usually be placed in the acknowledgements section; this may be different on a project-by-project basis.
+
 >_[BIRDLab_2026](https://uc-bird-lab.github.io/bird-lab-website/lab-guide/authorship-policy/)_:
 >
 >We use the four [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) criteria as a helpful guide for expectations. In general, authors complete/agree to all four of the below items:

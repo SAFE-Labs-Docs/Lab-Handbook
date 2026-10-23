@@ -990,6 +990,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >• Regular check-ins: The PI commits to regular one-on-one meetings (biweekly with students, monthly with staff and postdocs) and expects lab members to come prepared to discuss progress and concerns. These meetings are led by the lab member and are meant to encourage strategic thinking about ongoing and future work. Even when there’s little new data to show, it’s valuable to reflect on behind-the-scenes efforts, ideas in development, or challenges encountered. Using slides to structure the discussion is encouraged. The PI also welcomes feedback from lab members during these meetings to improve the lab experience.
 
+>_[LevensteinLab_2026](https://levensteinlab.github.io/Lab-Handbook/Policies/meetings/)_:
+>
+>Lab meeting is every Wednesday at 3:30PM. We follow a rotation where each person alternates between presenting a research update and picking a paper for journal club. The schedule is posted in the #lab-meeting channel on Slack.
+>
+>**Research presentations** are a chance to get feedback, practice presenting, and keep everyone up to date on what's happening in the lab. See the [presentations guide](https://levensteinlab.github.io/Lab-Handbook/Resources/presentations/) for tips on giving a good lab meeting talk.
+>
+>**Journal club** works a bit differently from the standard format: one person picks the paper, but everyone reads it, and each lab member is assigned a figure or two to walk the group through. You should come prepared to explain your assigned figure (no slides needed), answer questions about it, and ask the group about anything you didn't understand.
+
 >_[LiLabPDE_2023](https://pdelab.engr.wisc.edu/wp-content/uploads/sites/153/2023/12/ME_Mentor-Mentee-Expectations-Li-Group.pdf)_:
 >
 >If you initiate the meeting, then please send a calendar request to all who are expected to attend the meeting. Please include in this request, a written agenda that includes: (1) your accomplishments since the last meeting, (2) the questions/challenges would you like to discuss, and (3) your planned next steps. We have group meetings weekly during the semester and weekly/bi-weekly outside of the semester. You will be expected to present either a research update or a journal club at the group meeting periodically.

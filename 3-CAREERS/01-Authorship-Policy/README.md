@@ -508,6 +508,16 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >All those who make targeted material and intellectual contributions to a manuscript should be included as authors. However, in general, performing routine “lab jobs” or making comments in lab meeting don’t rise to the level of authorship (such contributions should be mentioned in the Acknowledgements section).
 
+>_[LevensteinLab_2026](https://levensteinlab.github.io/Lab-Handbook/Policies/authorship_guidelines/)_:
+>
+>**If you use someone else's code that has not been published, they get authorship.**
+>
+>**If you use someone else's code that has been published and shared,** they should be offered authorship if they contributed to significantly modifying or adapting the code to your project.
+>
+>We want to encourage the writing of good, reusable code. One way to do that is with the incentive that if your code is usable by others in the lab, you'll get credit for it.
+>
+>**If you've had significant discussions with someone that contributed to the conceptual development of your project,** they should be offered authorship. This is a grey area, and it's ultimately up to your discretion — but when in doubt, offer.
+
 >_[LiLabPDE_2023](https://pdelab.engr.wisc.edu/wp-content/uploads/sites/153/2023/12/ME_Mentor-Mentee-Expectations-Li-Group.pdf)_:
 >
 >Authorship implies a significant contribution to a paper such as intellectual ideas that change the research or experimental/computational contributions (just following instructions and not actively participating in the experimental/computational design/interpretation will be acknowledged, but likely would not result in an authorship). Frequently, journals require the specific contributions of each author to be listed. While the order of authors varies by the specific field, in general in the engineering field the first author is the student/post-doc who took the lead on the research and wrote the paper, the last author is the PI (principal investigator) of the lab, and the authors in between are in order of decreasing contribution. Failure to complete papers before leaving the lab may result in a junior member doing so as the 1st author in your place.

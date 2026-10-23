@@ -196,6 +196,12 @@ The above policies pertain to communal lab resources. Individuals with their own
 >
 >High-performance computing resources. The Kleiner Lab owns two high-performance standalone computers (12 cores, 96GB memory, 15 TB hard drive space including SSD drives), which are used for proteomic data processing and analyses. The Kleiner Lab also owns two servers (512 and 768 GB of memory, 56 and 128 threads) for tasks that are memory or computationally intensive such as assembly of metagenomes. These servers are available to all team members working with large genomic, metagenomic, metatranscriptomic, and (meta)proteomic datatsets.
 
+>_[LevensteinLab_2026](https://levensteinlab.github.io/Lab-Handbook/Resources/claude_teams/)_:
+>
+>Standard seats come with a usage limit. When you hit it, your account should switch over to the lab's usage credits so you can keep working (credits are capped per person per month). If it doesn't switch, and you get a message that you've hit your limit and Claude won't accept prompts, let Dan know and he'll fix it.
+>
+>If you find yourself hitting the limit regularly, ask Dan to upgrade you to a premium seat. That's usually cheaper for the lab than running through credits every month, and you shouldn't ration a tool that's helping your research. Premium seats also come with access to other models (with their own, separate quotas), so if you hit a dead end with one, try another.
+
 >_[MakeabilityLab_2026](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI)_:
 >
 >As lab PI, I want to provide you with the resources and equipment necessary to do your research, fulfill your potential, and be successful. If you need something, please ask. I will work with you on a solution.

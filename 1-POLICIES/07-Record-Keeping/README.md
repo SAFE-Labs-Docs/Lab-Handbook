@@ -670,6 +670,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >“Good Laboratory Practices” and I require notebooks to be used. For data, cross reference to the actual file locations. The notebooks are required to stay in the group (which is a requirement for most of our federal funding). Your data cannot live on the instrument it was collected on and so needs to be backed up to at least two locations. We have a current SOP on these details.
 
+>_[UCSFDecisionLab_2026](https://decisionlab.ucsf.edu/handbook/reliability-and-open-science.html)_:
+>
+>Documentation. This is something I struggle with, but is crucially important for other members of the lab and also for yourself. It’s natural to assume, when you’re totally cognitively engaged in a problem, that it will be very easy for you to recall later what you did and why. In fact we all tend to overestimate our recall for these details, once we move on to solve new problems. It’s really important to use our electronic lab notebooks in the private Github repo to document our thought processes. (This will help you in the future as well.) This is particularly crucial for recording a paper trail of analytic decisions, data cleaning, and other decisions affecting findings (e.g., leaving out outliers and why).
+
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >Because lab notebooks are not only important for record keeping but also for patent applications (in the future), you are expected to follow following lab notebook organization guidelines in the lab:

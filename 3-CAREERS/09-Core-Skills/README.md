@@ -66,3 +66,7 @@ Researchers often focus on scientific progress and neglect the development of co
 >_[MsEELab_2026](https://mseelab.org/handbook.html)_:
 >
 >Once per month, the lab will gather for a training session focused on a specific skill or topic. These will be led by one or more lab members experienced in the skill, possibly (but not necessarily) including Pablo. Topics will be chosen based on interest expressed by lab members, and can range across summaries of new discoveries (similar to a paper discussion/journal club), overviews of unfamiliar fields, workshops on new experimental or computational techniques, science communication and writing skills, and career development opportunities. These meetings are open to all members of the School of Chemical and Biomolecular Engineering (CBE) and the wider Cornell community.
+
+>_[UCSFDecisionLab_2026](https://decisionlab.ucsf.edu/handbook/intro-to-the-memory-and-aging-center.html#learning-opportunities-within-our-lab)_:
+>
+>Usually in the fall we have a series of 7-8 didactics tailored to our lab’s specific research interests, methods and practices, with the aim of establishing common understanding across different new lab members with various backgrounds and interests. After completing this series, we’ll have a journal club: lab members will prepare a brief presentation on a journal article of interest to them, connected to our lab’s current research projects. Another great use for this time is to present work in progress, such as a manuscript or poster that someone is working on.

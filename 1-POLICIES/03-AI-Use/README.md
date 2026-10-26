@@ -30,6 +30,10 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >We allow the use of AI-based services like ChatGPT or Grammarly to improve the quality of writing, however, **fully AI generated text is not acceptable**. It is also important to always verify whether the output is still correct, since large language models can give factually incorrect output.
 
 ### Canada
+>_Anonymous lab_:
+>
+>For example, using AI to generate drafts/outlines of new SOPs is an acceptable use of the tool, as long as SOPs are thoroughly edited for content. In contrast, using AI to generate outlines for writing (yes, even outlines- not just drafts) for academic writing (dissertations, manuscripts, etc) is NOT acceptable because an important part of science is learning how to organize your thoughts and communicate them in a clear and concise way. The act of iteratively re-working written drafts (including outlines) is an essential part of this learning process. When you graduate/move on from the lab, it is your own decision whether you want to incorporate LLMs into your writing process, but while you are in the [PI name] lab it is my expectation that you are here to learn, and writing (from start to finish) is part of that learning process.
+
 >_[CastoriniLin_2026](https://github.com/castorini/onboarding/blob/master/ura.md)_:
 >
 >If you ask a coding agent to do everything for you (and yes, a modern coding agent can easily speedrun the entire sequence), then it's likely that you'll miss much of the intended learning. Use the agent to help you, not to do everything for you. Remember, you are solely responsible for understanding what you're doing and accountable for everything that you and your agent do.

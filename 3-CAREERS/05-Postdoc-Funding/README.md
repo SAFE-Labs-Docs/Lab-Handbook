@@ -54,6 +54,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 
 ### Canada
 
+>_Anonymous lab_:
+>
+>Postdocs can expect to receive 1-2 year appointments with an approximate wage of [Salary] / year with benefits. (See the [Institution] benefits page) All contract specifics are negotiated on a case-by-case basis, and exact salaries are dependent on the funding source they are being paid out of.
+
 >_[GribbleLab_2026](https://labmanual.gribblelab.org/08_specific-expectations.html)_:
 >
 >You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc) when you are eligible to do so. Typically an initial contract is for one or two years of support from my research grants. In some cases this may be extended but this is highly dependent on circumstance, budget, etc.

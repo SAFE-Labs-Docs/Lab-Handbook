@@ -72,6 +72,10 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.
 
 ### Canada
+>_Anonymous lab_:
+>
+>Raw data can be stored on your personal computer, but a copy of your raw data (not processed) must be stored either in a shared OneDrive folder accessible to the lab OR on the lab computer. The exception to this rule is if the data are proprietary (e.g. work was done for an industry partner under and NDA), in which case data storage will be discussed on a case-by-case basis. For your own benefit (and sanity), it is highly recommended that you store all data, scripts, and manuscripts in at least two places.
+
 >_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/essentials.html)_:
 >
 >We do most data analysis by remotely logging into servers (see Servers page). All data should be saved onto C. Baron's datashare, which is backed up regularly. This datashare is mounted on all of our servers.

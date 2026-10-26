@@ -41,6 +41,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >[the PI] and other lab members will support you in navigating the peer-review process, including journal selection, responses to reviewers, and payment of publication costs.
 
+>_Anonymous lab_:
+>
+>Postdocs are expected to publish (on average) 1 first author manuscript every 1-2 years, and should expect to be co-author on other manuscripts within the lab as a result of their contribution to other projects. Manuscripts arising from work done in association with the [PI name] Lab must be approved by the PI before submission. Typically, [PI name] (PI) will be last and corresponding author on manuscripts generated from work in the lab in order to ensure the point of contact for the paper remains available in future years. In some circumstances, postdocs may take the role of corresponding author but this must be discussed with [PI name] in advance.
+
 >_[BowdishLab_2026](https://www.bowdish.ca/lab/lab-philosophy/)_:
 >
 >Personal ambition: Ambitious labs need ambitious people. To encourage this we set concrete goals that are challenging but not impossible to obtain (e.g. publish a first author paper, win a poster award, learn a new technique, get a faculty position) and support one another as we work towards them. We encourage one another to ‘dream big’ and to make the transition from calling oneself a student to calling oneself a scientist, colleague and mentor. We acknowledge that a PhD is not a ticket to a faculty position or a life in academia but rather a degree in leadership that can be used in government, industry, teaching, law, medicine, and on occasion, academia. As such everyone in the lab must reflect on what they want from their career and actively work to obtain the skills they need to get there.

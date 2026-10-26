@@ -25,6 +25,18 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 ## Examples
 
 ### Canada
+>_Anonymous lab_:
+>
+>- Send [PI] your emergency contact information so she knows who to contact if there is ever a serious incident in the lab or in the field
+>- Send [PI] a headshot and short blurb about who you are, what you’re working on, website, etc to put on the lab website
+>- Sign up for [University] alerts (LINK) (for weather alerts, incidents, etc)
+>- Obtain new [School] ID at [pickup location]
+>- Sign up for in-person facilities tour / training session (will receive email about the timing) for [Department name]
+>- Sign up for the lab Slack (ask [PI] if you didn’t receive an invitation)
+>- Obtain access to lab OneDrive (lab meeting schedule, order logs, locker access, resources, and more). You must use your [Institutional] email to access your OneDrive account.
+>- Register for [National computing database], which provides you access to [National] remote computing cluster.
+>- Request access to Science Stores for purchasing
+
 >_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
 >
 >- add yourself to the baron-lab outlook group to receive group emails. Group meetings are also added to the calendar associated with that group.

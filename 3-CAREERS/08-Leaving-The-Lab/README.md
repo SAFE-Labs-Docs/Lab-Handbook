@@ -57,6 +57,10 @@ I understand that people decide to leave the lab for different reasons, and may 
 >- Flag any barriers to project completion. If there are factors that may prevent you from completing outstanding work after you leave (e.g., loss of software access, data access restrictions, time constraints) raise these with [the PI] as early as possible so we can work around them together.
 >- Ensure you have collected any personal belongings from the lab, and that all equipment that you have used is cleaned, in working order, clearly labeled, and stored in the proper location.
 
+>_Anonymous lab_:
+>
+>If there are unfinished projects (of any stage) when students leave the lab, it is expected that students will prepare and submit "information packages" to [PI name], which outline what work has been done, where to find the data, how to read/interpret the data, and what work still needs to be completed. You should provide your name and long-term contact information with this package. Students who have made significant contributions to any publication will be invited to be a co-author, and providing a well documented data package is a convenient way to demonstrate your contributions to a paper that uses your work.
+
 >_[BHKLab_2026](https://github.com/bhklab/handbook/blob/main/docs/onboarding_offboarding/Offboarding/index.md)_:
 >
 >Members leaving the lab will prepare a single digital parent folder containing all ongoing and completed project work.

@@ -68,6 +68,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >There is no formal system for tracking vacation, but you should let [the PI] know when you will be out of the office for longer than 1 day, and record these absences in the lab Days Away spreadsheet.
 
+>_Anonymous lab_:
+>
+>You do not need to track vacation or days off. Please let [PI name] know when/if you plan on taking vacation so she knows you are okay (and haven’t just disappeared), and to re-schedule any meetings/events. It is your responsibility to ensure your research, teaching, and trainees are not impacted while you are away. A "typical" amount of vacation would be 1-2 weeks per semester, or approximately 4-5 weeks per year.
+
 >_[BaronLab_2026](https://baron-lab.github.io/wiki/docs/onboarding.html)_:
 >
 >The Baron Lab supports a healthy work-life balance.

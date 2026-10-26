@@ -34,6 +34,12 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >We will meet formally once a year to touch base on your progress and plans. My objective with these meetings is to make sure you are effectively working towards your career goals. When the time comes for you to start looking for another position, we can discuss how to put together your application and how to best highight your strengths. We will take notes during those meeting to keep me accountable.
 
+### Canada
+
+>_Anonymous lab_:
+>
+>I ([PI name]) will actively support your career transition. All postdocs should expect to have (at least) annual meetings to discuss your career goals, which include whether you are targeting an academic, industry, government, or non-profit career track. During these meetings, we will also discuss what specific skills and experiences you would like to gain during your postdoc.
+
 ### France
 >_[BoumendilLab_2026](https://igh.cnrs.fr/research-teams/team-charlene-boumendil/)_:
 >

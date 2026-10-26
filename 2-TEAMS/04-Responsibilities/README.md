@@ -704,6 +704,28 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Students are paired with a graduate student or postdoctoral mentor who will provide day-to-day guidance, while the PI ensures that each student’s experience contributes meaningfully to their academic and professional development.
 
+>_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/rights_and_responsibilities/project_roles.qmd)_:
+>
+>**Project owner**
+>
+>The Project Owner is the **visionary**—the one who ensures the project is moving in the right direction and achieving results:
+>
+>* **The Visionary**: Keeps the project’s big picture in mind and sets the research goals.
+>* **The Prioritizer**: Constantly adjusts the research priorities and long-term goals, including publication plans.
+>* **The Decision-Maker**: Makes final calls on project requirements, whether to publish, and whether to keep pushing forward with development.
+>* **The Guardian of Interests**: Considers funding bodies and the scientific community’s needs in every decision.
+>* **The Leader**: Guides the team but might still roll up their sleeves and contribute as a team member.
+>
+>**Team member**
+>
+>Team Members are the **engine** that powers the project. They do the hands-on work and collaborate closely:
+>
+>* **Cross-functional All-Stars**: Write code, collect data, test software, proofread papers—whatever the project needs!
+>* **Self-Managing**: Organize and manage themselves, without needing a boss to tell them what to do.
+>* **Collaborative**: Work intensely with others in the team (think: constant communication, shared problem-solving).
+>* **Commitment**: Ideally, they focus on one project at a time and stay with the lab for the long haul.
+>* **Leadership**: Even as contributors, Team Members have a leadership role in driving their area of the project.
+
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/LabManagerResponsibilities.md)_:
 >
 >**1. Lab Management (40% effort)**

@@ -83,6 +83,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Allow you to spend some of your work time finishing up revisions of papers from your prior lab experience; however, unless you are funded by a fellowship, remember that you also have a full-time obligation to the funding source paying for your time so this should be kept reasonable; ask Anne for boundaries.
 
+>_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/authorship_guidlines.qmd)_:
+>
+>For projects that required significant lab resources (e.g., EEG studies or any other study requiring a great deal of time, money, or lab effort): Project "ownership" expires 3 years after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, I reserve the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time while still giving publication priority to the original primary lead.
+
 >_[PeixotoLab_2026](https://wpcdn.web.wsu.edu/wp-labs/uploads/sites/3474/2025/09/Peixoto-Lab-Manual-v2025.pdf)_:
 >
 >You are not allowed to work on data you collected in previous laboratories in the time you are being paid to work in this lab. Publication of results from other PIs cannot take priority over your results from this lab, they are not paying your salary, I am.

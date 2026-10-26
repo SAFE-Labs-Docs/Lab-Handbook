@@ -522,6 +522,24 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >- In return, I will provide to researchers, including students, funding for you to attend at least one national conference per year, help defray cost of any meals or transportation for events, and be sure to include you in opportunities to meet collaborators.
 
+>_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/travel_policy.qmd)_:
+>
+>**If you’re presenting your work**
+>
+>* **Travel Expenses & Conference Fees**: If you’re the presenting author (talk or poster), the lab will **cover your travel expenses** and **conference registration fees**.
+>* **Seek Other Funding**: We encourage you to seek additional travel funding through other channels (e.g., the MAE department, CEAT [matching travel funds](https://ceat.okstate.edu/research/funding_opportunities) for domestic conferences, the OSU [Graduate and Professional Student Government Association (GPSGA)](https://gpsga.okstate.edu) travel awards, conference travel awards, personal grants like NSF fellowships).
+>* **Keep It Reasonable**: While we want to be mindful of your comfort and time, **keep costs low**. This might mean flying economy, finding affordable hotels, and sharing rooms with lab members when possible. We'll still ensure you’re comfortable!
+>
+>**If you’re a senior lab member (not presenting)**
+>
+>* **Limited Support**: If you’re not presenting but are a senior member (e.g., postdoc), the lab may cover your travel expenses to **a limited number of conferences each year**.
+>* **Discuss with Hemanth**: Please talk to Hemanth about which conferences you’re interested in attending and whether funding is possible.
+>
+>**If you’re a junior lab member (not presenting)**
+>
+>* **Funding Not Typically Provided**: If you’re not presenting and you’re a junior member (e.g., undergrad or early-stage grad student), the lab typically does not cover travel expenses.
+>* **Explore Funding Options**: If you really want to attend a conference, try to find external funding. If you can’t secure any, **talk to Hemanth** to explore your options.
+
 >_[KirbyLab_2026](https://u.osu.edu/kirbylab/files/2026/08/Graduate-Student-Expectations-in-the-Kirby-Lab.pdf)_:
 >
 >Assuming funding allows, I will financially support attendance at one conference per year where you present your first author work from this lab. If there are more conferences in a particular year that you think warrant your presence and presentation, we can discuss that on a case-by-case basis. I will also attend conferences regularly and present your work with proper credit to you as the scientist who spearheaded it.

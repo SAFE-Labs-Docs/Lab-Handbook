@@ -654,6 +654,13 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Policies on vacation days are set by Yale (up to 30 days/year including University holidays). I ask that you be clear to me (and your labmates) when you will be away, by telling me ahead of time, by leaving an easy-to-interpret note on your desk, and by making sure that your group jobs will be covered in your absence.
 
+>_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/communication.qmd)_:
+>
+>**Work hours & communication**
+>
+>* **Weekends/after hours**: I **don’t** expect responses outside of normal hours (unless there's a clear, urgent deadline or event). I may send messages, but **don’t feel pressured** to reply until you're back in work mode.
+>* **Urgency**: If something critical comes up (e.g., paper submission, conference presentation), we’ll discuss strategies in advance, so you’re not left guessing.
+
 >_[JiangLab_2026](https://jianglab.psychology.uiowa.edu/Expectations.html)_:
 >
 >It is okay to take a day off to decompress from time to time. However, if you will be out of town or take a longer break, please let me know so I won’t be worried about not having seen you in a while. Each lab member can usually take up to 3 weeks of vacation time each year. In addition, I don’t expect lab members to work between 12/15 and the first week of January. Please inform me your vacation plans before booking your trip.

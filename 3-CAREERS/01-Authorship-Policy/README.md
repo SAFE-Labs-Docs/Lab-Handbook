@@ -474,6 +474,20 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >What does first authorship mean in our Lab? Being the first author typically means that you are: (1) an intellectual lead on the project, (2) making major contributions conducting the scientific work (e.g., developing methodology, analyzing data), and (3) a main writer on the manuscript, usually crafting the first draft. For some projects, a first authorship role may also involve project management with collaborators and partners. All of these activities are done under the mentorship of Dr. Rose as the PI with substantial feedback in an apprenticeship model.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>Authorship will be assigned based on contributions to the research project. For our lab, we determine the project lead or leads -- first author or co-first authors -- at the start of every project. Every three months, authorship will be adjusted based on contributions. For formal evaluation, this will be cross-referenced with the project's GitHub repository activity and the anonymous quarterly project progression survey.
+>
+>Guidelines:
+>
+>1. All persons designated as authors should qualify for authorship, and all those who qualify should be listed.
+>2. Authorship credit for original, research-based works (in any medium) may be based on:
+>    1. substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;
+>    2. drafting the article or revising it critically for important intellectual content;
+>    3. sufficient participation in the work to take public responsibility for appropriate portions of the content;
+>    4. final approval of the version to be published.
+>3. Acquisition of funding, collection of data (for example, from a fee-for-service core facility), or general supervision of the research group (e.g., by former or current mentors not directly involved in the conception or execution of the publication), alone, does not justify authorship.
+
 >_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
 >
 >We will follow Contributor Role Taxonomy (CRediT) to describe the contribution of each author on a manuscript, so it is important to be clear about what each group member will do and has done. This will also help clarify the most appropriate ordering of authors. These conversations are not always easy to have, but they are important. Ordering of authors will be determined by a discussion among all authors, but the final list is under my discretion. As a general rule, the person leading the project will be first author assuming they also write the majority of the manuscript, make the final figures, and handle the submission and revisions process.

@@ -522,6 +522,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >- In return, I will provide to researchers, including students, funding for you to attend at least one national conference per year, help defray cost of any meals or transportation for events, and be sure to include you in opportunities to meet collaborators.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>Attending conferences may be an essential component of a team member's professional development. Depending on the location, national conferences can be expensive to attend. All team members can expect Dr. Benjamin to seek funding for them to attend one national conference every two years. This may include leveraging university or departmental resources. Therefore, it is important that team members identify conferences at their annual performance review to plan accordingly. Dr. Benjamin encourages attending local conferences annually as part of scientific communication training.
+
 >_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/travel_policy.qmd)_:
 >
 >**If you’re presenting your work**

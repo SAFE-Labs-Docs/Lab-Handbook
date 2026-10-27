@@ -405,6 +405,16 @@ I understand that people decide to leave the lab for different reasons, and may 
 >* Fill out [this](https://docs.google.com/forms/d/1Cb3j-KGDGEKvK1VePjgtmMa2X8YJbVX75n0uXov_L5w/viewform?pli=1&pli=1&edit_requested=true) form with information on classes you took as an RP (if any), which will serve as a resource for future RPs.
 >* Add to [staff ids](https://docs.google.com/spreadsheets/d/1zKA0T7gz4h91qdSG_kZL3izV0iBqBeWl0gfcowp705Q/edit?gid=1851494083#gid=1851494083) a good email address to reach out at after you leave. Put this in the "past" tab.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>In the rare event that a team member needs to be asked to leave the lab involuntarily, it will be done with careful consideration and in accordance with established procedures. This could be due to:
+>
+>**Performance or Behavior Issues:** Performance or behavioral concerns will be addressed directly with the team member by Dr. Benjamin. A corrective action plan will be developed, and if concerns are not addressed, involuntary departure may be necessary. This decision will be based on documented instances of performance or behavior issues that have been discussed with the member and have not been resolved.
+>
+>**Project Funding:** Research funding can sometimes end unexpectedly. In such circumstances, Dr. Benjamin will make every effort to place you in another research opportunity within the lab or connect you with alternative research positions. However, if no suitable options are available, involuntary lab departure due to funding limitations may be necessary. Dr. Benjamin will give four months' notice if possible in this situation.
+>
+>**Publications:** Prepare to continue collaborating with Dr. Benjamin and your co-authors to complete submissions of any manuscripts in progress. The goal for all trainees is to have first-author manuscripts submitted before departure.
+
 >_[IshiharaLab_2026](https://github.com/Ishihara-SynthMorph/lab-handbook/blob/main/README.md)_:
 >
 >**Offboarding checklist**

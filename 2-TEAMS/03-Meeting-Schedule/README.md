@@ -933,6 +933,18 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >If there are repeated meeting cancellations, we should discuss the underlying reasons.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>This weekly team meeting is an opportunity to discuss research underway in the lab. Every team member is expected to attend. We alternate between Journal Club and Research Updates. These meetings will be scheduled at the beginning of each quarter to maximize in-person attendance of all team members. Food will be provided, funding permitting. Meetings are expected to last one hour and will not exceed 75 minutes. All team meetings are hybrid by default.
+>
+>During Research Updates meetings, every scientific team member should be prepared to give an update unless otherwise indicated. For timing, a **three-slide outline is recommended**: (1) previous work, (2) current work, (3) next steps. The first slide will give an overview of the progress the team member made during the previous week. The second slide will discuss what the team member plans to do during the current week. The last slide will discuss future plans and any problems they have encountered.
+>
+>Administrative staff may give updates on any administrative tasks or goals that the lab should know about, including outreach efforts and any budgetary concerns.
+>
+>**One-on-One Individual Meetings**
+>
+>One-on-one meetings with Dr. Benjamin will be scheduled weekly for trainees and staff (research and administrative). For trainees, these meetings will be to discuss research progress and professional development. Trainees should expect to spend **at least 15 minutes** discussing professional development activities and goals.
+
 >_[iHuman_2026](https://github.com/iHuman-Lab/lab-manual/blob/master/lab_practices/lab_meetings.qmd)_:
 >
 >* **Present once per term**: As an active member, you’ll present at least one lab meeting each term. It can be anything related to your work or something cool you’ve discovered!

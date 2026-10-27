@@ -286,6 +286,14 @@ AI language models may be used for grammar, spelling, and style checks; for writ
 >- AI tools such as grammarly to help with wording/grammar is only acceptable in certain situations and after conversations with and approval from Sarah.
 >- AI for help with coding is acceptable in certain situations after approval from sarah: the output of the LLM must always be verified and tested, and use of an LLM must be acknowledged in the code comments. You must do the work to be able to explain and stand behind any code you put out into the world.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>- **PI guidance supersedes:** Dr. Benjamin's instructions about AI/LLM use for a project or role **override** general guidance in this manual.
+>- **Training/learning (no AI):** When you are learning core skills (coding fundamentals, statistics, pipelines, tooling, or lab workflows), do not use AI/LLMs. Learning in this lab must be done through documentation, course material, mentors/peers, and your own problem-solving. If you are unsure what counts as “learning,” assume AI is not permitted and ask Dr. Benjamin.
+>- **Project use:** AI/LLM use is not the default in research projects. If AI is permitted for a project, it must be pre-scoped to a narrow, specific task approved by Dr. Benjamin (e.g., clarifying an error message or pointing to documentation). Broad or open-ended use (e.g., “help me write this,” “debug my pipeline,” “improve this code,” “make a figure”) is not allowed without explicit approval.
+>- **Coding assistance:** Unless explicitly approved by Dr. Benjamin, AI/LLMs may not be used for coding, except for debugging. Debugging means: diagnosing and correcting errors in code you already wrote and understand, limited to small, isolated snippets tied to a specific error message. Debugging does not include generating new code, rewriting/refactoring, optimization, designing workflows, feature implementation, or translation between languages.
+>- **Manuscripts and figures:** Do not use AI/LLMs for manuscript or grant writing, or for generating figures/visualizations, unless Dr. Benjamin explicitly authorizes a specific narrow use, such as copy editing or brainstorming.
+
 >_[HewittLab_2026](https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html)_:
 >
 >Writing and verbal communication are core research skills we need to practice. All paper first drafts must be written without AI. Lab communication must follow the first-follow-up rule: lab members should know enough details about the code, experiments, and presentations they give to answer a reasonable first follow-up question from a labmate without checking with their AI assistant.

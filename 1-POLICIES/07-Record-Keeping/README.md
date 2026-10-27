@@ -532,6 +532,15 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Keep up with the table of contents.
 >- Date and number each page.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>- **Dry-lab Work:** Git and GitHub serve as our primary electronic lab notebook (ELN) system for dry-lab work. Documentation, code, workflows, and project notes must live in GitHub repositories. Version control is not optional; it is required for code and analysis history.
+>- **Wet-lab Work:** LabArchives is the primary ELN for tracking wet-lab experiments. It is also an optional secondary dry-lab notebook.
+>
+>**Standardized Format**
+>
+>In our group, all notebooks include standard sections: background, goal (objective and hypotheses), study design, methods, results (including negative or inconclusive), and interpretation. For computational projects, methods will include the general approach and associated code blocks.
+
 >_[JonesLabUKY_2026](https://joneslab.ca.uky.edu/sites/joneslab.ca.uky.edu/files/joneslablivingdocument.pdf)_:
 >
 >We work with a variety of data types, including field observations, behavioral observations, molecular and genomic. It is imperative that you have multiple copies of your data in different locations. Imagine that the worst-case scenario is going to happen, because it very well might- your laptop will break, your external hard drive will fail, the building with your lab notebook will flood. You must back up your data to the cloud and ensure your data will not be lost due to an accident. This means taking pictures of handwritten data sheets, uploading these photos to the cloud and placing them in the lab shared drive. This means uploading raw sequencing data to NCBI (set the release date to the future so as not to release unpublished data) and having data on both an external hard drive and a UK/lab server. If you are collecting data in real time that at first exists in only one location, have a plan for how you will quickly back up those data on a regular (daily, if possible) basis. If you aren’t sure how to back up your data, ask!

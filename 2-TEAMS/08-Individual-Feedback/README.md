@@ -138,6 +138,16 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >If Dr. Rose is your primary advisor, students and postdoctoral scholars should complete the Stanford Individual Development Plan (IDP) when joining the Lab and then annually thereafter ([student forms](https://oge.stanford.edu/academics/idp/forms/), [initial form for postdocs](https://postdocs.stanford.edu/sites/default/files/opa_idp-initial_0.pdf), [annual form for postdocs](https://postdocs.stanford.edu/sites/default/files/opa_idp-annual_0.pdf)). This applies regardless of home department. Trainees should plan to check in on progress made toward IDP goals once a quarter. Dr. Rose expects that trainees will be responsible for scheduling the annual IDP meetings and adding the IDP check-ins once a quarter to the agenda for an existing recurring meeting.
 
+>_[HEART-GeNLab_2026](https://krotosbenjamin.github.io/heart-gen-manual/)_:
+>
+>**Frequency:** We conduct formal reviews at least annually, often coinciding with a trainee's thesis committee meeting or annual *Individual Development Plan* review. This is adjusted for each trainee based on their Mentoring Agreement.
+>
+>**Format:** Reviews will involve a discussion based on your IDP goals, progress made, and any areas requiring further development. We may also include program-specific review forms, depending on departmental requirements. Prior to scheduling committee meetings, all trainees will have a one-on-one meeting dedicated to reviewing progress and professional development.
+>
+>**Criteria:** Reviews will focus on research progress, publication record, scientific communication skills, laboratory skills, scientific writing skills, and trainee-specific professional development goals.
+>
+>**Who Conducts Reviews:** Dr. Benjamin will conduct initial reviews alone. Other committee members will conduct a separate review during thesis committee meetings.
+
 >_[HollandGroup_2026](https://holland.chem.yale.edu/)_:
 >
 >I put a high value on feedback. For example, I have one-on-one meetings with students both before and after they present group meetings to go over presentation style, effective communication, research progress, and long-term goals; in addition, I encourage all students to discuss their Individual Development Plan and career goals with me at least once per year. Each New Year's, I have a discussion with each student where we discuss various areas for growth such as Lab Skills, Responsiveness, Curiosity, Presentations, Writing, Participation, Work Ethic, Teaching/Mentoring, Taking Charge of Project, Following Through on Plans, and Safety.

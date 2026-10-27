@@ -189,6 +189,10 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 >
 >- We use the https://calendar.google.com/calendar/embed?src=h1j06dohcg7v1g2o5tkb7ijhvs calendar to keep track of known absences (e.g. illness, travel, holidays, etc.). All full-time lab members should request write access.
 
+>_[FDTLab_2026](https://personal.utdallas.edu/~kyousefi/docs/lab-expectations.pdf)_:
+>
+>There is one main calendar for the lab (runs from the account fdtlab@utdallas.edu) that will be used to keep track of core lab events, including lab meetings, individual meetings, deadlines, and birthdays. We also use this calendar to indicate individual availability, travel dates (out of the office), vacations, and conference travel so that other group members know when you are unavailable. It is not mandatory to put down your travel dates, but that is helpful for planning purposes; for example, not to bother with lab meetings when no one is around.
+
 >_[LernerLab_2026](https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY)_:
 >
 >Please let the lab know if you will be absent on a regular workday. I need to know the duration of and general reason for that absence (e.g., vacation, conference, etc.). Use the lab Google calendar for this purpose so that everyone can see who is available or unavailable and make plans to accommodate for absences. I will also put my absences and travel schedule on this calendar so that you are aware of my availability.

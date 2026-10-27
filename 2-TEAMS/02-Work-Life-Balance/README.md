@@ -643,6 +643,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
+>_[FDTLab_2026](https://personal.utdallas.edu/~kyousefi/docs/lab-expectations.pdf)_:
+>
+>I sometimes work at night and on weekends, meaning you may receive emails and/or Slack messages outside regular working hours. Communication beyond core working hours and over weekends is optional, barring major project deadlines (e.g., for a proposal deadline or conference due date). In those time-sensitive cases where I might urgently need something from you over the weekend, I will try to bring it up in advance so we can plan accordingly.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
 >- In general, we expect you to be working Monday through Friday for 9 hours per day (including a lunch break).

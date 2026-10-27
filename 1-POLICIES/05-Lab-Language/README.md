@@ -125,6 +125,12 @@ The institutional language at the Italian Institute of Technology is English; no
 >
 >English is the working language of the lab. To ensure an inclusive environment for all members—regardless of their native language—all scientific activities, including meetings, presentations, written communication, and lab notebooks, are expected to be conducted in English. While many institutional documents and communications are in Italian, we make a dedicated effort to translate all essential information. We also encourage non-Italian-speaking lab members to seek help from colleagues if automatic translations do not suffice to fully understand important communications.
 
+### Japan
+
+>_[ImaiLab_2026](https://www.lab.med.kyushu-u.ac.jp/dn-en/positions-available/)_:
+>
+>We are accepting international students (Graduate School of Medical Sciences, Kyushu University) and postdocs. Japanese skill is unnecessary, as we use English in all the communications within the lab. So far, our lab has accepted, Taiwanese, British, German, Chinese, Dutch, Swiss, Thai, Turkish, Iranian, Indian, Korean, Singaporean, American, and Italian.
+
 ### Netherlands
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >

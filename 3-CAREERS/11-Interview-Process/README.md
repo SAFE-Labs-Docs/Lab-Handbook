@@ -205,6 +205,12 @@ The decision to recruit an applicant should depend on clear selection criteria t
 
 ### Japan
 
+>_[ImaiLab_2026](https://www.lab.med.kyushu-u.ac.jp/dn-en/positions-available/)_:
+>
+>Please contact us by email with your CV and essay (early, before formal application). Without an essay (detailing what you have done, why you are applying to our lab, and what you want to accomplish in the future), we are unlikely to reply. We would like to know your passion, vision, and logical thinking in science.
+>
+>Admission information is posted on the official website of Graduate School of Medical Sciences, Kyushu University (Admissions for Master’s Course and Ph.D. Course). The deadlines for application are June and December for both Master’s and Ph.D. courses. Applicants do not need to come to Japan to take the exam; we can judge based on an essay (statement of purpose), a research proposal, and online interview (presentation and Q&A on Zoom). We will evaluate English skill, basic knowledge in molecular-cellular biology (textbook: Essential Cell Biology, 5th ed.) and neuroscience (textbook: Principles of Neurobiology), past achievement, and your future goal.
+
 >_[InoueGroup_2026](https://sites.google.com/view/isao/home/join-us/graduate-study)_:
 >
 >If you are seriously interested in applying, please contact Prof. Isao H. Inoue preferably at least two months before the formal application deadline.  

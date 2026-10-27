@@ -388,6 +388,10 @@ I understand that people decide to leave the lab for different reasons, and may 
 >
 >Dr. Ibrahim’s goal is to facilitate each student and trainee in achieving their full potential and career goals. He guarantees students and trainees that he will be there to help, even after they have left the lab. This can include letters of recommendation, mentorship on career and professional development, or personal advice.
 
+>_[FDTLab_2026](https://personal.utdallas.edu/~kyousefi/docs/lab-expectations.pdf)_:
+>
+>In the rare, unexpected event that a member of the lab leaves and stops making contributions to the writing of the manuscript, the project may be reassigned to another lab member to complete the paper. This may change the order of authors depending on their contributions and the status of the manuscript. Thus, I strongly recommend that you ensure the manuscripts of your work are almost in ready-for-submission status before leaving the lab.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Offboarding)_:
 >
 >* Send a handoff proposal to PIs which enumerates which work will be closed, handed off to RA, or handed off to PI

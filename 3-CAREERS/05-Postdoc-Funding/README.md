@@ -235,6 +235,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Postdocs should pay close attention to the details of their funding arrangement. For example, F32 NIH funding to the university comes with a financial account where the institutional allowance is included. Stanford taps this allowance for 'university insurance', so one should be aware that funds will deplete faster than may be presumed.
 
+>_[RennisonLab_2026](https://rennisonlab.com/lab-manual)_:
+>
+>Apply for external funding. I will only hire you if I can support you for at least one year. However, it is in your best interest to gain experience writing grants and can help to extend your contract and/or free up lab funds for other uses.
+
 >_[Schloss_2026](http://www.schlosslab.org/lab_business/social_contract.html)_:
 >
 >Talk with me about pursuing funding opportunities

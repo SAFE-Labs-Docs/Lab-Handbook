@@ -864,6 +864,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Related to the point above, you should be receiving regular feedback from your lab supervisor. If you don’t know how you’re performing, please talk to your lab supervisor or me about it. It’s totally reasonable to expect your lab supervisor to give you regular feedback on what you’re doing well and what to work on.
 >- Let your lab supervisor know what you want to get out of your RA experience. That will help them figure out what kinds of tasks and support to give you. For example, you might want to learn more about how to apply to a clinical psychology Ph.D. program or get feedback on your CV—great. Tell them that.
 
+>_[RennisonLab_2026](https://rennisonlab.com/lab-manual)_:
+>
+>Give Diana at least one weeks’ notice to do something with a hard deadline that doesn’t require a lot of time (e.g. reading a conference abstract, filling out paperwork). Give Diana at least two weeks’ notice for something that will take a moderate amount of time (e.g. letter of recommendation, award nomination). If you want feedback on something that will require multiple back-and-forth interactions between you and Diana (research statement, teaching statement, grant application) it would be best to start this process at least three weeks before the submission deadline.
+
 >_[ShireyLab_2026](https://www.floridamuseum.ufl.edu/shirey-lab/lab-culture-conduct)_:
 >
 >**Expectations of the PI**

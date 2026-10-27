@@ -598,6 +598,10 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >
 >Order of authorship will be discussed with everyone as soon as is reasonable (e.g., once roles have been outlined), but this may change depending on how responsibilities shift throughout the project. Either way, initial and subsequent discussions of authorship should include all named co-authors. If you have concerns about authorship, please bring it up with your project lead or me at any point.
 
+>_[RennisonLab_2026](https://rennisonlab.com/lab-manual)_:
+>
+>These authorship guidelines extend to me; I do not expect authorship automatically on all manuscripts coming out of my lab.
+
 >_[RichardsonLab_2026](https://richardson-lab.nau.edu/wp-content/uploads/2023/03/Andrew-Mentoring-Expectations-2022-203.pdf)_:
 >
 >Coauthorship is earned by making an important intellectual contribution to someone else’s project (helping out with field or lab work is, emphatically, not enough). Examples of intellectual contributions include: contributing to the design of an experiment or field study; analyzing or visualizing data in a way that provides new insight; sharing code or insight that changes the message of the paper; preparing graphics or writing substantial portions of text; providing critical and constructive feedback on drafts (but note: editing for language and style, which changes the words but not the message, is not sufficient for coauthorship). Each year we will devote at least one lab meeting to discussing the general criteria for coauthorship.

@@ -125,6 +125,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 >
 >Professor Dolbow will meet with all students and post-docs in the lab at least once a year to discuss progress on research and progress towards degree, expected timelines to completion, and etc. During these meetings, the members will discuss career aspirations, options, and goals and additional steps (as needed) to help meet them. These meetings will be held every May after classes end.
 
+>_[FDTLab_2026](https://personal.utdallas.edu/~kyousefi/docs/lab-expectations.pdf)_:
+>
+>In addition to the regular meetings, graduate students and postdoctoral researchers will also have a one-on-one meeting focusing on their long-term evolution every six to twelve months. These are structured meetings to explore and define your training goals, professional development needs, and career objectives so that we can focus on the required competencies and their development in the course of your training period. These are also for me to get feedback from you on my mentoring efforts. All graduate students and postdocs must complete and discuss their Individual Development Plans (IDPs) with me within six months of your start date. We will then have biannual IDP progress meetings to evaluate your overall progress, revise and modify the plan as necessary, and set goals for the next interval.
+
 >_[GNlab_2026](https://github.com/uchicago-bfi-gnlab/lab_manual/wiki/Goals%2C-Norms%2C-Rhythms%2C-and-Professional-Dev%27t)_:
 >
 >- We do scheduled feedback once a month when you first start the job and at least once a quarter during your time with us.

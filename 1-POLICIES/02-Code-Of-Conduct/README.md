@@ -317,6 +317,12 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >
 >_Adapted from [Denman Lab, lab-handbook](https://github.com/denmanlab/lab-handbook), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
+>_[FDTLab_2026](https://personal.utdallas.edu/~kyousefi/docs/lab-expectations.pdf)_:
+>
+>The FDT Lab is built upon a foundation of inclusivity and mutual respect and promotes a safe and harassment-free environment for everyone. We are dedicated to fostering a welcoming and supportive environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion (or lack thereof), or political views.
+>
+>Finally, all communications should be appropriate for a professional audience, including people of different backgrounds. Sexual language and behavior are not appropriate in any professional context, including individual/group meetings, online communications, work-related social events, lab outings, and conferences.
+
 >_[KawaharaLab_2026](https://www.floridamuseum.ufl.edu/kawahara-lab/lab-code-of-conduct)_:
 >
 >**Communication tactics**

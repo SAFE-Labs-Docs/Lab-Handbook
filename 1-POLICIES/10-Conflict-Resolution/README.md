@@ -237,6 +237,12 @@ One prominent reason that lab and interpersonal issues are not raised in a timel
 >
 >_Adapted from [Pinsky Lab, how_we_work](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.qmd), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
+>_[RennisonLab_2026](https://rennisonlab.com/lab-manual)_:
+>
+>If there is tension, conflict or hostility in the lab it needs to be resolved as soon as possible. If you don’t feel comfortable confronting the person in question or if the situation is escalating, tell Diana.
+>
+>If you have a problem with Diana and are comfortable telling her about it, please do so. If you aren’t comfortable then tell another lab member or another member of the department (for more serious issues).
+
 >_[SwansonGroup_2026](https://cseweb.ucsd.edu/~swanson/Expectations.html)_:
 >
 >If you ever feel that a member of the group (including myself) is not meeting the expectations in this document please let me know. This is especially important if you feel unwelcome in the group, are otherwise unable to perform to best of your ability, or suspect potential academic dishonesty. All the members of the lab are committed to fixing problems that arise.

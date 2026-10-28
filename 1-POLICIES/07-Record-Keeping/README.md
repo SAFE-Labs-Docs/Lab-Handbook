@@ -71,6 +71,11 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >- Organize files in a compartmentalized manner by subject (e.g., figures, presentations, documents, notes).
 >- Prefix all file names with the format `YYYY-MM-DD-` to ensure chronological order.
 
+### Belgium
+>_[Hoplab_2026](https://hoplab-lbp.github.io/hoplab-wiki/research/rdm/offboarding.html)_:
+>
+>Documentation should allow a new lab member or external researcher to understand what the data or files are, how they were created, and how they can be reused, without additional guidance from the original researcher.
+
 ### Canada
 >_Anonymous lab_:
 >

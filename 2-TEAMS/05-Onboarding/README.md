@@ -24,6 +24,11 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 
 ## Examples
 
+### Belgium
+>_[Hoplab_2026](https://hoplab-lbp.github.io/hoplab-wiki/research/rdm/onboarding.html)_:
+>
+>Hi and welcome to Hoplab! Here’s a list of things to think about if you are just starting out. It links to different Wiki pages so every step should speak for itself. If it doesn’t, do not hesitate to contact [Klara](https://www.kuleuven.be/wieiswie/nl/person/00116743) to help you set up.
+
 ### Canada
 >_Anonymous lab_:
 >

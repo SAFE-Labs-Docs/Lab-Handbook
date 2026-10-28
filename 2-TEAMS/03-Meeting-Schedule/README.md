@@ -89,6 +89,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >For at least the first two months, I’d like to meet with you once per week. After two months, meetings will likely be as needed. If you’d like a formal meeting schedule beyond this period of time, we can arrange that. My goal is not to burden you with meetings, but if you would like to meet more frequently, let me know.
 
 ### Belgium
+>_[Hoplab_2026](https://hoplab-lbp.github.io/hoplab-wiki/outreach.html)_:
+>
+>Once per month, lab members assigned to a specific batch will give a quick (1-2 slides, 15 minutes) update on the latest development in their work. This meeting is an occasion to ask for help if you are stuck on a particular step, method, analysis, or to just keep each other in the loop. If your individual meeting is scheduled for the week before or the week after your batch, you can skip the quick update for the longer one.
+
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
 >Lab meetings are held weekly on Thursdays at 10 AM, unless otherwise announced. Each meeting follows this structure:

@@ -34,6 +34,14 @@ I understand that people decide to leave the lab for different reasons, and may 
 >3. its transfer is not limited by regulations of the MedUni Graz
 
 ### Belgium
+>_[Hoplab_2026](https://hoplab-lbp.github.io/hoplab-wiki/research/rdm/offboarding.html)_:
+>
+>To ensure a smooth transition for everyone, you can find some general guidelines as well as a checklist of things to take care of before you leave below. It links to external pages so every step should speak for itself. If it doesn’t, do not hesitate to contact [Klara](https://www.kuleuven.be/wieiswie/nl/person/00116743) to help you wrap up.
+>
+>When completed, sign it and send it to your PI with [Klara](https://www.kuleuven.be/wieiswie/nl/person/00116743) in CC.
+>
+>Provide feedback on RDM, lab experience, and suggestions.
+
 >_[IRIBHMComputationalLabs_2026](https://iribhm-computational-groups.github.io/guidelines.html)_:
 >
 >Mentorship and support are provided to lab members to help secure the next career step. Job and grant applications, along with preparation for subsequent interviews, require significant time and effort, up to one year before the end of the contract. Typically, after mutual agreement during one-on-one meetings, up to 25% of work time may be dedicated to this endeavor.

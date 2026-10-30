@@ -497,6 +497,32 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >On meeting and journal club days (Mondays and Tuesdays), most lab members should come into the lab in New Radcliffe House and attend meetings in-person. Use this as an opportunity to have lunch together, interact with other research groups, and catch up with one another. Unless there is a particularly good reason to join remotely, in-person attendance is strongly encouraged. However, we also appreciate that there can be value in working remotely. On other days, working patterns are more flexible. It is generally expected that during ‘core hours’ (10am-4pm, Monday-Friday), full-time members of the lab should be available to work on projects, collect and analyse data and/or have meetings when they are required by their projects. But beyond these commitments, your time is flexible; do whatever works best for you to get your work done. If you don’t have fixed commitments or meetings on a given day, don’t feel obliged to work fixed hours. Soon after joining the lab, have an open conversation with Laurence about your planned pattern of work, and stick to this.
 
+>_[LightForm_2026](https://lightform-group.github.io/wiki/code_of_conduct/)_:
+>
+>Core campus working hours are 10am to 4.00pm Monday to Friday in order to facilitate collaborative working. Meetings and events will not be arranged outside these hours.
+>
+>Exceptions for these core hours can be arranged in line with University and Departmental policy.
+>
+>Avoid sending work-related email outside of 8.00am and 6.00pm, colleagues are not required, or should feel obliged to reply to emails outside of their typical work hours.
+>
+>On occasions when you need to send emails outside of working hours, you may consider adding the following:
+>
+>> While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
+>
+>**Working from home**
+>
+>On occasions when a work from home arrangement is necessary, please inform in advance your Line Manager/Supervisor as campus based working is encouraged for the purpose of team collaborations. Remember to set up a status update for email/SLACK if there will be a delay in you responding to colleagues.
+>
+>**Work - life balance**
+>
+>Domestic and family responsibilities have shifted over the years. LightForm working practices are supportive of work-life balance and can accommodate flexible days including work from home days to flexible hours, in order to fit real life commitments of parents, carers and the unforeseen life circumstances, which we all require space to deal with on occasion.
+>
+>If you would like to discuss flexible working arrangements, please speak with your Line Manager.
+>
+>**Booking Leave**
+>
+>Leave requests must to be forwarded to your Line Manager/Supervisor for prior approval. Please consider work schedules and commitments when planning leave.
+
 >_[MarshallLab_2026](https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0)_:
 >
 >Holidays: we all get the same amount of holiday, 27 days, plus university closure days. I don’t need advance notice of this, just make sure you fill in the holiday request form through myPGR. If you’re going on holiday, make sure you have arranged for someone to take care of any animal cultures you have running – this is your responsibility. I will try to give you advanced notice of my holidays, but I also sometimes just decide to take days off last minute, it’s fine for you to do this too.

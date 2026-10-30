@@ -378,6 +378,26 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >Use whatever works for you, but document your work. That could be a lab book, whether paper or tablet, with notes on each analysis or each simulation. Or typing notes. Or exporting key plots to Powerpoint, Google Docs etc. Or using a Jupyter notebook or RMarkdown to encapsulate what you've done, if you're comfortable with those things. Do something, so that you can give *accurate* answers to: what have you been working on? And: what have you found?
 
+>_[LightForm_2026](https://lightform-group.github.io/wiki/data_analysis/organisation-of-research-data)_:
+>
+>**What you need to save in the Writing Folder – any of the following:**
+>
+>- Experimental reports
+>- Literature reviews
+>- Transfer reports
+>- Manuscripts
+>- Any other writing: notes, snippets etc.
+>
+>**How writing should be saved**
+>
+>Each piece of writing should have its own subfolder – the subfolder should be given an appropriate descriptive title, which identifies the content – for example:
+>
+>Example subfolder title: "Year 1 transfer report"
+>
+>Example subfolder title: "Starting material characterisation report"
+>
+>The idea is that anyone can look at the titles of the folders and make a good guess about the contents. This shared folder makes it easier to write collaboratively.
+
 >_[NicholsLab_2026](https://tinyspacemagnet.wordpress.com/student-supervisor-expectations/)_:
 >
 >- You should keep detailed notes documenting all of your progress, reading and lab work. These will be essential when it comes to writing up, and will also help to guide our discussions when we meet.

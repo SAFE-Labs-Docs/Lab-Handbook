@@ -236,6 +236,14 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >
 >Lab members must maintain professional integrity, accountability, and mutual respect in all interactions while upholding high scientific standards and fostering collaboration. This includes respecting others' viewpoints during discussions, arriving on time for meetings, and engaging actively with presentations. Everyone must contribute to an inclusive environment characterized by compassionate behaviour and free from any discriminatory conduct—especially regarding gender, race, sexuality, or disability. Lab members should feel safe to express their ideas, wishes, or concerns without fear of negative consequences, ensuring a supportive environment.
 
+>_[LightForm_2026](https://lightform-group.github.io/wiki/code_of_conduct/)_:
+>
+>Our work space is one which encourages inclusive participation and does not tolerate discrimination or harassment.
+>
+>Discrimination and harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, race, religion, sexual images in public spaces, deliberate intimidation, stalking, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+>
+>We will work in an environment where challenging negative behaviour is the norm and those who challenge will be supported at a senior level.
+
 >_[SuperLab_2026](https://www.reshannereeder.com/lab-handbook)_:
 >
 >Everyone in the lab is expected to show integrity, accountability, and respect in all interactions and projects while upholding strong standards of scientific rigor and collaboration. This means things like listening to and valuing each other's perspectives, being on time for meetings, and staying engaged during presentations. We are all responsible for creating an inclusive, supportive environment—one that is free from discrimination or harmful behavior, especially related to gender, race, sexuality, or disability. Lab members should feel comfortable sharing their ideas, concerns, or feedback without fear of negative consequences. Psychological safety is a shared priority.

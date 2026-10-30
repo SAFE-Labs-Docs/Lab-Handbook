@@ -691,6 +691,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >DEAR day: We held our inaugural Drop Everything And Read (DEAR) day in Hilary Term 2022, and it has become a termly event ever since. The basic idea is to have a room where we sit together and read whatever papers we’ve been procrastinating to read. After that, we will go for a lab walk, and probably (most typically) end up in a pub.
 
+>_[LightForm_2026](https://lightform-group.github.io/wiki/handbook/theme-meetings)_:
+>
+>Progress for each individual theme is reviewed in a weekly meeting, usually occurring on a Tuesday.
+>
+>With a multisite team it is imperative that progress is shared, updated and recorded with engagement from all parties, in order to avoid working in isolation, therefore attendance at theme meetings is strongly recommended.
+>
+>Everyone is invited to the meeting, which will be chaired by a PDRA/Supervisor
+
 >_[ManchesterPredictiveHealthcareGroup_2026](https://github.com/manchester-predictive-healthcare-group/prediction_group_handbook)_:
 >
 >The group meets once a month, usually on the third Thursday at 3pm in the Congregation, Vaughan House. The format of the meeting alternates each month between meetings for the core research group and wider meetings where the invite is extended to other researchers outside of the group with an interest in prediction or causal inference. For the wider group meetings people can volunteer to talk about their research, update about training or conferences they've attended or present an interesting journal article for discussion. If you would like to present then there is a sign-up sheet on the Teams space.

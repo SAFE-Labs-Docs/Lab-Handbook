@@ -649,6 +649,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >It is your responsibility to work with Katy to identify a research topic, identify research milestones and goals, plan your timeline toward progress, plan for conference submissions, prepare for manuscript submissions, prepare for your thesis proposals and defenses, etc. Get a calendar, consider a task manager, create a GANTT chart… whatever works for you. If at some point it seems like you don’t have a plan, I will suggest all of these things.
 
+>_[CANLab_2026](https://canlab.sdsu.edu/_resources/files/can-lab-manual-2026.pdf)_:
+>
+>If you are new to lab, the protocol is that you watch someone else run a couple subjects, then they watch you run a couple subjects and ONLY once you are ready and comfortable with the procedure, should you be setting up your own time slots. It is your responsibility to become familiar with the script for that experiment, and to understand what you need to do when you have a subject scheduled, so make sure you’re paying attention to what others are doing.
+
 >_[CarpenterSinghLab_2026](https://carpenter-singh-lab.broadinstitute.org/lab_policy)_:
 >
 >Provide support for your development. Provide training in scientific project planning and execution, specific techniques and methods. Lab members usually attend at least one scientific course, conference, tutorial, or workshop per year and have membership in a society that benefits their work.

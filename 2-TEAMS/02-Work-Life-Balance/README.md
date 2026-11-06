@@ -331,6 +331,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >Core collective hours are kept minimal, and schedules are adjusted each term to accommodate coursework. Sustained experimental progress, research quality, responsible documentation, and effective communication matter more than fixed attendance hours.
 
 ### Netherlands
+>_[BicycleLab_2026](https://mechmotum.github.io/guide-employees.html)_:
+>
+>TU Delft's policy is that you can work from home 2 days per week if your supervisor approves. The other 3 days should be on campus. You have Jason's blanket permission to work from home or other locations the equivalent of 2 days per week. If you want to work from home more than this, discuss with Jason. You should, in general, complete your contracted work hours during typical working hours ~8-6 so that you can interact with the lab members. When you work from home you should be generally reachable by email, phone, or video chat, etc. during these hours. There is no expectation that you are available outside standard work hours or that you have to respond to email, calls, chats, etc. although occasionally there are emergencies and your flexibility is appreciated.
+
 >_[MarsLab_2026](https://gitlab.tudelft.nl/mars-lab/Lab-Handbook/-/blob/main/MarsLabHandbook.md)_:
 >
 >At the lab, we don't think you are paid a salary that buys science from you, but instead you get a stipend to live a carefree life that enables you to care about scientific problems.

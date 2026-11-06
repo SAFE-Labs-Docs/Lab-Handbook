@@ -302,6 +302,15 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >So "one dataset = one repository" is our basic principle.
 
+### Netherlands
+>_[BicycleLab_2026](https://mechmotum.github.io/guide-data-management.html)_:
+>
+>All researchers in the Bicycle Lab should establish and follow reasonable data management practices for their project. If your data management practices fulfill these three principles [*] then your approach is considered reasonable and sufficient:
+>
+>- If another researcher were to ask for the data and/or any related materials associated with your project, current lab members would be able to easily find it and send it to them without your assistance.
+>- If another researcher who works in the same field as us were to receive a copy of the data (and/or related materials) associated with your project, they would be able to use it without asking us too many questions.
+>- The lab PI will be able to find and use the data from this project five to ten years from now.
+
 ### Singapore
 >_[CognitionXLab_2026](https://cognition-x-lab.github.io/resources/)_:
 >

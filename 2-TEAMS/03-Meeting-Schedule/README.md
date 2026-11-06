@@ -528,6 +528,22 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >To reduce unnecessary email exchanges, both group-wide and individual communication is mainly handled through Slack. Online meetings are also used regularly.
 
 ### Netherlands
+>_[BicycleLab_2026](https://mechmotum.github.io/guide.html)_:
+>
+>We meet every two weeks as a lab, where we will have two designated people (picked in advance at random in our very own weighted raffle) take the proverbial stage and share and teach any topic that can be useful in our academic endeavors.
+>
+>The topic can be anything bicycle or research related. It may be content-related, soft-skill related, practical-skill related or harking to your personal interest in bicycles. It might be an expertise or skill you have, but also be a skill or software program you want to learn. The presentation should be be very short and informal, maximizing discussion. Co-presenting is fine (and a great way to meet your peers) provided your topics align. Options galore:
+>
+>- <10 minute presentation with Q & A
+>- tutorial
+>- have us read something (a paper) we could review (journal club)
+>- watch and discuss a video
+>- invite a speaker
+>- practice your colloquia or conference talks
+>- etc.
+>
+>Members are expected to attend and participate regularly. It's fine to miss a meeting here and there, but avoid making that regular. If the meetings are not useful to you, please be proactive about helping us make them useful for all.
+
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
 >The lab meets monthly for a round table, to discuss ongoing research, present project proposals, and read relevant literature. Lab members are expected to be present in person for events organized by other lab members, including the lab meetings.

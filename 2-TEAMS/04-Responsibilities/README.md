@@ -467,6 +467,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >- Connection to Master’s-level research
 
 ### Netherlands
+>_[BicycleLab_2026](https://mechmotum.github.io/guide-employees.html)_:
+>
+>Postdocs may use 20% of their contracted time to pursue their academic and career endeavors not related to their contracted work, e.g. finishing papers from their PhD or gaining teaching experience, given that progress on your contracted project is satisfactory. Discuss workload with Jason if you are not able to take advantage of this as you desire and we will do our best to make this possible, but this is mostly dependent on your ability to be efficient with your primary research tasks.
+
 >_[MultiXLab_2026](https://multix.io/multix-docs/)_:
 >
 >The basis for MultiX’s teaching policy is the institute level policy that each PhD, during the first three years, spends at least 10% of their employment time on education, which is set at 150 hours per year, as measured in DVM (Dutch: Docent Verdien Model, English approximation: Lecturer Earning Model). *This policy only applies to PhDs employed by the UvA.*

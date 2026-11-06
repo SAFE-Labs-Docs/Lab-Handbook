@@ -233,6 +233,14 @@ Authorship vs acknowledgement is not always clear for a publication, but typical
 >Authorship will be discussed with all involved researchers whenever a person starts contributing to a new project or a new collaboration is established.
 
 ### Netherlands
+>_[BicycleLab_2026](https://mechmotum.github.io/guide-authorship.html)_:
+>
+>- When you lead a co-authored manuscript you should discuss with each person that may make or may have made substantial contributions to see if they desire to be a co-author. There is no hard definition of what "substantial contributions" universally means, so this boils down to an interpersonal negotiation where the lead author has the responsibility to make things fair to the best of their ability.
+>- Explicitly propose the author order and get all authors agreement on it. If there is disagreement, the lead author should facilitate an agreement.
+>- Once you have negotiated the list of authors, they all must then do points 2., 3., and 4. in the ICJME criteria list to be confirmed as authors.
+>- You should never submit a manuscript to any publishing venue without the consent of all authors and agreement on points 1-4. It is the lead author's responsibility to give enough time for points 1-4 to be worked out. If reasonable time and deadlines have been given, and co-authors do not meet 1-4, they should be moved to the acknowledgements section of the paper. This should likely never be done for a journal paper due to its importance, but for less consequential things, like an abstract, it may be fine.
+>- It is perfectly fine to do projects and write papers without the involvement of Jason. Please do that! He should not be co-author on papers where he didn't meet points 1-4 even if he obtained your funding or is simply your supervisor. Of course, he loves to be invited for topics he is interested in and has time to contribute.
+
 >_[INSIGHTLab_2026](https://cjvanlissa.github.io/insight_lab/lab_manual.html)_:
 >
 >Be comprehensive and generous in crediting contributions. Nothing is lost by giving people fair credit. For published work, report each author's contribution according to the CRediT taxonomy. When planning the work, fill out a CRediT taxonomy to define intended roles at the start. If project roles and levels of contribution change, update the CRediT taxonomy accordingly. Before publishing a version of the manuscript, check that all authors recognize the CRediT taxonomy as accurate representation of the work done.

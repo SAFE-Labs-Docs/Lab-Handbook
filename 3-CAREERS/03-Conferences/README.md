@@ -478,6 +478,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >As a general rule, conference attendance requires submission of an abstract. All abstracts should be reviewed and approved by Reshanne before submission.
 
+>_[VirtualAtomsLab_2026](https://handbook.virtualatoms.org/group-policies/conferences)_:
+>
+>Conferences are a great opportunity to stay up-to-date with current research, present your latest research, and meet new collaborators from other research groups. As a PhD student or post-doc, you're expected to attend at least 3 conferences or workshops a year. If you're a first-year PhD student then you're not expected to present. More experienced students or postdocs should apply for a poster or an oral presentation. If you find a conference that looks relevant to your research, email Alex with details of why you'd like to attend.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

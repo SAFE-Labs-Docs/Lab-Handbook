@@ -583,6 +583,10 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >If you're sick, stay home and take care of yourself. Because you need it, and also because others don't need to get sick. If you have meetings scheduled at the time you are sick, let Reshanne know and reschedule your meetings as soon as you can.
 
+>_[VirtualAtomsLab_2026](https://handbook.virtualatoms.org/group-policies/holidays)_:
+>
+>For PhD students, no more than eight weeks of holiday, including public holidays, may be taken each year. The college closes on 14 or 15 days per year, which are mandatory leave dates. Depending on how the public holidays fall, the [college closures](https://www.imperial.ac.uk/human-resources/leave/college-closures/) are different each year. Check the Imperial college website for more information. Discuss your holiday arrangements with Alex in advance.
+
 >_[WallaceLab_2026](https://ewallace.github.io/manual/newstart)_:
 >
 >These are asynchronous communication channels - *you don't need to respond immediately* - it's not useful to be constantly "on call" and it's bad for your mental health.

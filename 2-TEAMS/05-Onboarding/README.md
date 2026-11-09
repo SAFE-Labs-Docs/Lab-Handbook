@@ -477,6 +477,18 @@ Unless I am travelling, we will have our first 1-on-1 meeting during your first 
 >- Get an account on the Lab Server and make sure you can login.
 >- Complete all online mandatory courses
 
+>_[VirtualAtomsLab_2026](https://handbook.virtualatoms.org/getting-started/your-first-day)_:
+>
+>Don't forget to say hello to Alex. You can find him in room 301E in the Molecular Science Research Hub. Ask Alex to add you to the Virtual Atoms Group Slack and [OneDrive](https://imperiallondon.sharepoint.com/sites/virtualatoms-CH/Shared%20Documents/Forms/AllItems.aspx?viewid=083c3a64%2D96d1%2D43b9%2Db244%2D1cc26fc0b800). The OneDrive folder contains files, videos, and codes that will be useful for your future research. Feel free to upload anything you want to share with the group.
+>
+>**How to find other group members**
+>
+>Our group sits in the far right corner of room 109 (the Computational Modeling Lab). Go straight to the last row, the three seats close to the window belong to Alex's group.
+>
+>*A small tip: make some noise when you approach the seat closest to the window, otherwise you might scare Ruiqi!*
+>
+>Now let's start finishing safety inductions. Here is a checklist to help you get started. You should have already completed the online induction outlined in the [Before you Arrive page](https://handbook.virtualatoms.org/getting-started/before-you-arrive).
+
 >_[WallaceLab_2026](https://ewallace.github.io/manual/newstart)_:
 >
 >The Health and Safety Induction and the Buildings Induction are now on [Learn](https://www.learn.ed.ac.uk/). It can be a bit difficult to find things on Learn, the H & S one can be found by searching the course catalogue for “safety induction” and choosing the relevant one (e.g. PhD) and the buildings one by searching “SBS Buildings Induction”.

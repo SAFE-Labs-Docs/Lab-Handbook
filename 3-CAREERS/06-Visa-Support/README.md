@@ -69,6 +69,14 @@ Visa costs when joining the lab from outside the UK vary by the applicant's citi
 >
 >Glasgow University will [pay visa costs for international applicants](https://www.gla.ac.uk/myglasgow/pod/recruitment/relocatingtoglasgow/glasgowwelcome/visitingglasgow/relocatingtoglasgow/relocation). In many cases they will also contribute to your [relocation expenses](https://www.gla.ac.uk/myglasgow/pod/recruitment/relocatingtoglasgow/glasgowwelcome/visitingglasgow/relocatingtoglasgow/relocation). There are [a number of different visa routes](https://www.gla.ac.uk/myglasgow/pod/recruitment/visasimmigration) open to you if you are appointed to a position. For highly-qualified applicants these include the [Global Talent Visa](https://www.gla.ac.uk/myglasgow/pod/recruitment/visasimmigration/overviewoftheglobaltalentvisa) which is particularly attractive as it is not time-limited to the project you are initially appointed on, and gives you future flexibility to work in the UK.
 
+>_[VirtualAtomsLab_2026](https://handbook.virtualatoms.org/getting-started/before-you-arrive)_:
+>
+>Remember to apply for your ATAS as soon as you get the offer! An ATAS certification is necessary for your CAS to be issued. Check [Imperial international support](https://www.imperial.ac.uk/students/international-students/visas-and-immigration/atas/) to check whether you satisfy the requirement for exemption. It may take more than one month, sometimes even longer. Fill out the [ATAS application](https://www.gov.uk/guidance/academic-technology-approval-scheme) form and several questions related to your project. The CAH code is on the first page of your unconditional offer. The three most important questions are listed below. Discuss with Alex before submission.
+>
+>- What will you be studying?
+>- Why do you want to study this?
+>- What are your goals when you complete your intended program?
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

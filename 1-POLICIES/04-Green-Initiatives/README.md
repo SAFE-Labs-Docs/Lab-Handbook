@@ -165,6 +165,18 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 >
 >Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
+>_[ComplexInterfaceTeam_2026](https://complexinterface.com/research-culture/projects/green-impact/)_:
+>
+>We participate in the Green Impact Lab Accreditation scheme, an international programme created by Students Organising for Sustainability UK (SOS-UK), which provides us with a toolkit for working towards more sustainable practices. Our laboratory spaces and management protocols are audited annually as part of this process.
+>
+>Examples of the kinds of things we do:
+>
+>- Changing the operating parameters for our most energy-consuming pieces of equipment to reduce their energy usage (for example, running freezers warmer, running the air conditioning less),
+>- Maintaining good laboratory management practices to minimise the wastage of materials,
+>- Implementing recycling protocols for our disposable plasticware and other waste, to ensure that anything that can be recycled, is.
+>
+>As a results of our efforts, our new laboratory was audited and awarded Green Impact Laboratories Accrediation (GILA) in its first year - demonstrating our committment.
+
 ### United States
 >_[AeryJonesLab_2026](https://aeryjoneslab.github.io/philosophy)_:
 >

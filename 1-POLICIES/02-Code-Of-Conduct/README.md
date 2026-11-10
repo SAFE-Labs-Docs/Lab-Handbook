@@ -236,6 +236,38 @@ All lab members are expected to maintain a professional attitude of integrity, a
 >
 >Lab members must maintain professional integrity, accountability, and mutual respect in all interactions while upholding high scientific standards and fostering collaboration. This includes respecting others' viewpoints during discussions, arriving on time for meetings, and engaging actively with presentations. Everyone must contribute to an inclusive environment characterized by compassionate behaviour and free from any discriminatory conduct—especially regarding gender, race, sexuality, or disability. Lab members should feel safe to express their ideas, wishes, or concerns without fear of negative consequences, ensuring a supportive environment.
 
+>_[ComplexInterfaceTeam_2026](https://complexinterface.com/research-culture/ethos/)_:
+>
+>Our Team believes that:
+>
+>- everyone has the right to work in a safe and secure environment
+>- happy, supported individuals are able to achieve their goals more effectively
+>- teams that combine expertise and experience from multiple backgrounds, viewpoints and disciplines deliver better science
+>
+>We strive for the highest quality science, and understand that to do that effectively, looking after ourselves and the team is critical. This means:
+>
+>- always being respectful of our colleagues and differences of opinion
+>- setting healthy work boundaries, to enjoy our life outside of study and work
+>
+>Our Lab supports and adheres to various policies and commitments, including:
+>
+>- the University of York's Dignity at Work and Study policy
+>- the Concordat to Support the Career Development of Researchers
+>- the Technician Commitment
+>- the San Francisco Declaration on Research Assessment
+>- the Contributor Role Taxonomy (CRediT)
+>
+>We consider the impact of our work on others. This means:
+>
+>- carefully considering our ideas and experimental designs, to ensure they don't inadvertently disadvantage others,
+>- committing to sharing our findings and data in a transparent manner, and providing the methodological details required to ensure full reproducibility of our finding,
+>- openly engaging with non-specialist audiences in an accessible manner, and considering how we can create dialogues and opportunities for idea co-development,
+>- acknowledging the environmental impact of our work, and seeking and adopting more sustainable practices where possible.
+>
+>By joining the Team, all members recognise, support and advocate this ethos, in order to deliver the best in research culture, integrity and methods.
+>
+>This ethos is an ever evolving document. If you have feedback, please contact us.
+
 >_[LightForm_2026](https://lightform-group.github.io/wiki/code_of_conduct/)_:
 >
 >Our work space is one which encourages inclusive participation and does not tolerate discrimination or harassment.

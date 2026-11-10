@@ -515,6 +515,13 @@ I understand that people decide to leave the lab for different reasons, and may 
 >| **Knowledge transfer** | Active projects + manuscripts handed off in writing; authorship confirmed |
 >| **Stay connected** | Forwarding email shared; ORCID updated; references arranged |
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Off-boarding-51a34b79bf6d4014866a03af175acb9d)_:
+>
+>- Decide how you want people to contact you in the future (e.g. a personal or new institution address). Add that to your e-mail signature!
+>- Optional: Export your e-mails and other Google data (e.g. your calendar, drive) and reupload to another account to ensure you have long-term access to any information you may need. Jae usually keeps your SEOE e-mail active for two years, unless you do not want it. You can e-mail him to deactivate it at anytime (help@seoe.sc.edu or help@geol.sc.edu).
+>- Clean out your desk so that a future student can use it. Let Katherine know about any files you’re leaving behind (e.g. graded labs, well organized and labeled paper copies of surveys).
+>- Return your keys to the main SEOE office (or Katherine).
+
 >_[VuraWeisLab_2026](https://xuv.scs.illinois.edu/Vura-Weis%20Group%20Policy_v7.pdf)_:
 >
 >When a group member graduates, as a PhD or as a Master, the group member’s contributions should be celebrated in a group event. The group social chair should take the initiative in organizing this event. The group event may be a shared meal, a potluck, a board games party or any other appropriate activity. Regardless of how a group member exits the group, steps should be taken with cooperation from the departing group member to ensure that any useful skills or knowledge developed by said group member will remain available to the group.

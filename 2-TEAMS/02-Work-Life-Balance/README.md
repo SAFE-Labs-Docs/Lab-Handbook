@@ -783,6 +783,14 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours (9-5pm) during the work week, since this is when most academic activities occur. There may be times when your project requires work late at night or on the weekends, but you are not expected to regularly work more than a normal 40-hour work week. It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Graduate-Expectations-3c25010312a3449998b913f6681c0c45)_:
+>
+>Within university life, we benefit from a relatively flexible schedule. I care more about you getting your work done than where/when you get it done; however, I expect that you’re working in the office for at least part of most work days, as this helps build a sense of community and provides opportunities for rapid communication and feedback.
+>
+>Around holidays, I expect you to be offline and focused on other matters (e.g. the W-F of Thanksgiving, I don’t expect you to be anywhere near work!). I acknowledge that not all holidays/celebrations are recognized by the university system. If there are other holidays that are important for you to take, I fully support that, and just ask that you communicate those days and times to me in advance.
+>
+>Longer breaks (e.g. winter break, spring break, summer) are excellent times to get work done in large blocks that aren’t always available during the school year. Summer is an especially important time to make progress on your research because you don’t have the pressure of taking/teaching courses. Though I will never track your days, a good rule of thumb to use for vacation is 2-3 weeks/year, which is consistent with what’s expected in corporate America. If you’re planning a longer vacation, please let me know when you’re not available. I am not (and never will be!) a bean counter in this regard.
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >Our policy: It is flexible, but in the absence of extraordinary situations, it is 15 business day, in addition to major university holidays (Good Friday; Memorial Day; Independence Day; Labor Day; Thanksgiving Break; and Winter Break). Regadless, anytime that you plan to take an extended time, please tell me in advance, specially in the Summer and the Winter when there are no classes, and add it to the Calendar of Freedom.

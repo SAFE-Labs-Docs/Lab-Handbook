@@ -272,6 +272,22 @@ Reference letters will be provided to lab members at request, but these requests
 >
 >I will write you the best letter of reference that I can, but it is up to you to make my job easy by being productive and conducting high-quality work; I will not say you are “exceptional” or “fantastic” unless you have earned such praise. I close all my letters of reference by saying “I certify that I am the sole and true author of this letter” and I will not ask you to draft the letter for me (though I will ask if there are specific things you think I should highlight in my letter, and I will do my best to convey those thoughts, using my own words, in my letter).
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Graduate-Expectations-3c25010312a3449998b913f6681c0c45)_:
+>
+>Writing a letter of recommendation is one of my most important jobs. It takes time to develop a letter that is personable and specific to the position to which you are applying.
+>
+>If you are asking for a letter for the first time, plan on giving me at least a two week turnaround time. If you’re asking me to re-purpose a letter, a week is usually sufficient, though more time is always appreciated.
+>
+>Note: I recognize that emergencies happen! Don’t pass on an opportunity just because you’re outside of the preferred timeframe.
+>
+>I will write my critique of your abilities and accomplishments, but you can help the process by supplying the following information in an email or electronic Word document:
+>
+>- The mailing address and email address of the letter recipient, typically a search committee chair;
+>- The exact title of the position, award or program for which you are applying; include links to any descriptions as appropriate;
+>- The names and dates of any scholarship awards you have won;
+>- Any awards for service or positions of leadership (for instance, you served as the President of a student professional society or club);
+>- Any other details that you think illustrate your abilities, skills or background. Help me describe why you are perfect for the job! Tell me what you would like me to highlight.
+
 >_[SalzmanLab_2026](https://site.caes.uga.edu/salzmanlab/files/2025/02/Salzman-Lab-Expectations.pdf)_:
 >
 >You can expect me to write letters of recommendation for you, given advance notice. If it’s a sort of letter I’ve never written before or the first time I’ve written a letter for you at all, please give me three weeks lead time because I need to find a 6-8 hour block of time to write you a good letter. After I have written you a letter for a particular type of application or scholarship, a week’s lead time is sufficient to ask me to send another (I will tailor the letter I already wrote).

@@ -1162,6 +1162,12 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >-   **Practice presentation meetings** (as needed): Before conferences or symposia, schedule extra time for a practice talk and feedback (e.g. \~1 hour for a 15-minute talk).
 >-   **Targeted topic meetings** (as needed): When a subset of the lab agrees a focused session would help.
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Graduate-Expectations-3c25010312a3449998b913f6681c0c45)_:
+>
+>The Ryker Research Lab typically has biweekly lab group meetings (1 hour) that alternate with biweekly individual meetings (30 minutes). At group meetings, one of the group’s members will present their research (at that point) to the rest of the group; alternately, they can share a research paper with questions to consider, or we can meet about other matters (e.g., conference preparation). You should present your research orally, with handouts if you like, including whatever literature review, methodology, and initial research you have conducted. Consider what would be most useful for the group to give you feedback on. This is good 1) practice for your presentation skills, 2) for the rest of the group to know what others in the group are doing, 3) for me to keep up with your progress, and 4) for you to get feedback and comments about your work.
+>
+>Full participation in these meetings is one of my expectations of you. Successful participation includes reading any necessary materials ahead of time, discussing ideas with an open mind, and being fully present.
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >We have 3 types of weekly lab meetings: business meetings, work in progress (WIP) meetings, and journal clubs.

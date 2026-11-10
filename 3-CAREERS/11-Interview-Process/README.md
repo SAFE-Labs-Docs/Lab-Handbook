@@ -592,6 +592,10 @@ The decision to recruit an applicant should depend on clear selection criteria t
 >
 >Applicants intending to join MsEE Lab will be interviewed by Pablo and all current long-term (non-undergraduate) lab members before any decisions are made. Prospective graduate students must apply to a Cornell Graduate Field, where they may be interviewed by Pablo and carry out a research rotation in the lab to consider joining. Other types of positions apply to Pablo directly. Postdoctoral candidates should expect to present their previous research in a talk, either remotely or in person, depending on lab finances and candidate location. All candidates should provide a CV and expect it to be shared with lab members. Pablo will gather feedback from all lab members individually and confidentially. Pablo will present the conclusions gained from this process and the resulting decision to the group. The timeline for this decision will be communicated to the applicant promptly.
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Graduate-Expectations-3c25010312a3449998b913f6681c0c45)_:
+>
+>If a potential graduate student is invited to interview with our lab, it is an interview with the lab - not just the PI. I ask that you meet with any potential addition to the lab and give me your honest opinions on their suitability for the group. As noted by Dr. Harmit Malik, "It is our job to look past what they’ve achieved before — because it could be a function of privilege or something else — and really focus on motivation, their interest in the lab and their curiosity for science.”
+
 >_[SouroullasLab_2026](https://sites.wustl.edu/souroullaslab/?p=297)_:
 >
 >If you are considering a rotation in my lab, here’s my approach to rotations:  

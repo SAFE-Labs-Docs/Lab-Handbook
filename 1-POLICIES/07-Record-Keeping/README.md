@@ -700,6 +700,17 @@ Shared resources (presentations, protocols, plasmid DB, reagents, freezers/LN2, 
 >
 >An online lab notebook is **required** for all lab members. Entries should be organized by date in reverse chronological order and **updated daily**. Document so that you or a stranger could reproduce the work years later.
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Data-and-Deliverables-Management-00264c42f7d2472caf4965f99ed2b0f0)_:
+>
+>Katherine needs to archive your work, so before she will sign off on your thesis/dissertation and allow you to graduate, she need to have copies of the following digital content organized appropriately within your shared folder in the Drive:
+>
+>1. A Word document of your thesis or dissertation with all figures, graphs, images and photos embedded within the document as images (i.e., .gif, .jpg, .png; not as an embedded Windows Meta Format – which means, don’t cut and paste between Excel and Word)
+>1. Excel spreadsheets of your data, especially the data used to make tables and graphs organized in such a way so that I can recreate your graphs, if need be
+>1. Literature in PDF or in an supported reference database
+>1. All of your raw data in an appropriate format
+>1. A draft of your manuscript(s) for publication, if not already submitted
+>1. Copies of all conference presentations or resources on which Katherine is a co-author
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >There is no standard as whether it is a bound notebook, loose-sheet binders, or electronic files. You can use any, but please incorporate the following:

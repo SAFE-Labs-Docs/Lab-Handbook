@@ -682,6 +682,16 @@ While we recommend this commitment is publicly documented, based on user feedbac
 >
 >Everyone is encouraged to attend at least one conference a year. Members of the lab regularly attend such meetings as the maize meeting, SMBE, Evolution, and ESA. The department and university offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks.
 
+>_[RykerResearchLab_2026](https://katherineryker.notion.site/Graduate-Expectations-3c25010312a3449998b913f6681c0c45)_:
+>
+>In general, expect me to cover fees such as…
+>
+>- Conference attendance (travel, lodging, abstract submission, registration, per diem (aka food up to the state mandated limit))
+>- Paper submission (submission, copyright, open access where possible)
+>- Some dissertation fees (copyright)
+>- Materials necessary for your research to progress (software licensees, materials)
+>- Health insurance (on RA)
+
 >_[SantiagoTiradoLab_2026](https://fungilab.nd.edu/about-us/lab-culture/)_:
 >
 >For regional conferences (such as MMPC or MNID), presenting your work is not required but recommended for attendance. We usually go to these conferences as the whole group.
